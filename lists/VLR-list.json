@@ -1,0 +1,2091 @@
+﻿[
+    {
+        "card_name": "MW01 Jeato, Wayfinder",
+        "number": 15,
+        "shape": "planeswalker",
+        "set": "VLR"
+    },
+    {
+        "card_name": "MU01 Het, False God",
+        "number": 49,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "MB01 Tesh, Incomplete",
+        "number": 83,
+        "shape": "planeswalker",
+        "set": "VLR"
+    },
+    {
+        "card_name": "MR02 Rial, the Missing Mark",
+        "number": 117,
+        "shape": "planeswalker",
+        "set": "VLR"
+    },
+    {
+        "card_name": "MG01 Towering Umberwood",
+        "number": 151,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "MW02 Siurne, Eternal Sentinel",
+        "number": 16,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "MU02",
+        "number": 50,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "MB02",
+        "number": 84,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RR02 Soya, Guild Pariah",
+        "number": 119,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "MG02",
+        "number": 152,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RW01 Sanctum Judge",
+        "number": 17,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RU01 Getaway Expert",
+        "number": 51,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RB01 Ancient Rotcaster",
+        "number": 85,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RR01 Solemn Elite",
+        "number": 118,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RG01 Leybound Summoner",
+        "number": 153,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RW03 Loresk, Ever-Curious",
+        "number": 18,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RU02 High Priestess Symi",
+        "number": 52,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RB02 Hired Elite",
+        "number": 86,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RR02 Waylen,",
+        "number": 120,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RG02 Sahra, the Benefactor",
+        "number": 154,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RW04 Spite of the Founder",
+        "number": 19,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RU03",
+        "number": 53,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RB03 Marle, Vicuro Proprietor",
+        "number": 87,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RR03 Sunset Rallier",
+        "number": 121,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RG03 Barkscale Strategist",
+        "number": 155,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RW05 Depart",
+        "number": 20,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RU04 Duplicity",
+        "number": 54,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RB04 Glimpse the Bigger Picture",
+        "number": 88,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RR04 Get Your Revenge",
+        "number": 122,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RG04 Sunset Summons",
+        "number": 156,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "Siurne's Blessing",
+        "number": 21,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RU05 Purloin",
+        "number": 55,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RB05 Coffers Altar",
+        "number": 89,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RR05 Explosive Exit",
+        "number": 123,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RG05",
+        "number": 157,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UW01 Stalwart Grovespeaker",
+        "number": 22,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "Scheming Runemage",
+        "number": 56,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UB01 Rooftop Skulker",
+        "number": 90,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UR01 Nal Hireling",
+        "number": 124,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UG01 Renegade Survivalist",
+        "number": 158,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UW02 Overseer's Chosen",
+        "number": 23,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UU01 Vicuro Informant",
+        "number": 57,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UB02 Leonin Hexblade",
+        "number": 91,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UR02 Slippery Pickpocket",
+        "number": 125,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UG02 Culvert Inspector",
+        "number": 159,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UW03 Renegade Trueheart",
+        "number": 24,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UU02 Sanctuary Sentry",
+        "number": 58,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UB03 Forsaken Shepherd",
+        "number": 92,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UR03 Wistful Runaway",
+        "number": 126,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UG03 Outskirts Sureshot",
+        "number": 160,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UW04 Druid 2",
+        "number": 25,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UU03 Heist Expert",
+        "number": 59,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UB04 Moonlit Crook",
+        "number": 93,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UR04 Assault Arsonist",
+        "number": 127,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UG04 Incursion Hero",
+        "number": 161,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UW05 East-District Peddler",
+        "number": 26,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UU04 Curious Chemist",
+        "number": 60,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UB05 Blade of Orliss",
+        "number": 94,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UR05 Frantic Escapees",
+        "number": 128,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UG05 Tainted Stalker",
+        "number": 162,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UW06 Sunset Elite",
+        "number": 27,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UU04 South-District Chaplain",
+        "number": 61,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UB06 Lumbering Corruptor",
+        "number": 95,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UR06 Killer-for-Hire",
+        "number": 129,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UG06 Lurking Veilbranch",
+        "number": 163,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UW07 Chapel Patrol",
+        "number": 28,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UU06 Overseer's Entrancer",
+        "number": 62,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UB07 Undershoot the Gap",
+        "number": 96,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UR07 Renegade's Volley",
+        "number": 130,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UG07 performer",
+        "number": 164,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UW08 Sanctum Soulguide",
+        "number": 29,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UU08 Beneath the Tide",
+        "number": 63,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UB08 Pickpocket",
+        "number": 97,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UR08 Traitor's Mark",
+        "number": 131,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UG08 Blooming Champion",
+        "number": 165,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UW09 Kindly Tavernkeep",
+        "number": 30,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UU09 Madness of Eternity",
+        "number": 64,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UB09 Evasive Flourish",
+        "number": 98,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UR09 Sunder the Cage",
+        "number": 132,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UG09",
+        "number": 166,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UW10 Overseer's Shackles",
+        "number": 31,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UU10 Perfect Plan",
+        "number": 65,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UB10 Bloodletting",
+        "number": 99,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UR10 Count the Loot",
+        "number": 133,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UG10 Defend the Woods",
+        "number": 167,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UW11 City's Memory",
+        "number": 32,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UU11 Observe the Pattern",
+        "number": 66,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UB11 Cycle of Betrayal",
+        "number": 100,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UR12 Renegade Rally",
+        "number": 135,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UG11 Life from Death",
+        "number": 168,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UW12 DESIGN",
+        "number": 33,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UU12 Sanctum Sacrament",
+        "number": 67,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UB12 Avarice",
+        "number": 101,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UR13 Siurne's Deceit",
+        "number": 136,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UG12 Rebel's Restorative",
+        "number": 169,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UW13 One Quiet Moment",
+        "number": 34,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UU13",
+        "number": 68,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UB13 Strip from Sanity",
+        "number": 102,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UR11 Flee",
+        "number": 293,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UG13 Trespass the Volwood",
+        "number": 170,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CW01 Fledgling Sycophant",
+        "number": 1,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CU01 South-District Pilferer",
+        "number": 35,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CB01 South-Street Scoundrel",
+        "number": 69,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CR01 Sunset Recruit",
+        "number": 103,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CG01 Leonin Revivalist",
+        "number": 137,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CW02 Reclaimed Convert",
+        "number": 2,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CU02 Congregation Minister",
+        "number": 36,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CB02 Volwood Proselytizer",
+        "number": 70,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CR02 Nal Newcomer",
+        "number": 104,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CG02 Sunset Scout",
+        "number": 138,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CW03 Setral Grovetender",
+        "number": 3,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CU03 Verdure Curator",
+        "number": 37,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CB03 Moonlit Runaway",
+        "number": 71,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CR03 Nimble Thief",
+        "number": 105,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CG03 Gutter Rat",
+        "number": 139,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CW04 Planar Scholar",
+        "number": 4,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CU04 Blessed Convert",
+        "number": 38,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CB04 Lurking Voidborn",
+        "number": 72,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CR04 Liberated Convert",
+        "number": 106,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CG04 Scaled Mentor",
+        "number": 140,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CW05 Renegade Rescuers",
+        "number": 5,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CU05 Vicuro Pathmaker",
+        "number": 39,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CB05 Scheming Corvid",
+        "number": 73,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CR05 Contract Killer",
+        "number": 107,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CG05 Flourishing Seedling",
+        "number": 141,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CW06 Enigmatic Apothecary",
+        "number": 6,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CU06 Tempting Recruiter",
+        "number": 40,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CB06 Skittering Swiftblade",
+        "number": 74,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CR06 Thoroughfare Busker",
+        "number": 108,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CG06 Volwood Forerunner",
+        "number": 142,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CW07 Weapon Hawker",
+        "number": 7,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CU07 Skybound Sentry",
+        "number": 41,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CB07 Sanctum Sneak",
+        "number": 75,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CR07 Serial Traitor",
+        "number": 109,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CG07 Hired Hand",
+        "number": 143,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CW08 Sanctum Enforcer",
+        "number": 8,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CU08 Intangibility",
+        "number": 42,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CB08 Crypt Caretaker",
+        "number": 76,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CR08 Streetwise Surveyor",
+        "number": 110,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CG08 Titanic Mycoid",
+        "number": 144,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CW09 Shroud Warden",
+        "number": 9,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CU09 Attuned Rebuttal",
+        "number": 43,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CB09 Beyond the Shroud",
+        "number": 77,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CR09 Dagger Toss",
+        "number": 111,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CG09 Verdant Sentry",
+        "number": 145,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CW10 Grove Sentry",
+        "number": 10,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CU10 Eavesdrop",
+        "number": 44,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CB10 Rial's Inquisition",
+        "number": 78,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CR10 Picking Prey",
+        "number": 112,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CG10 [Ancient Animus for Rebels]",
+        "number": 146,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CW11 Volwood Rites",
+        "number": 11,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CU11 Backalley Insight",
+        "number": 45,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CB11 Hymn of the Overseer",
+        "number": 79,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CR11 Yoink!",
+        "number": 113,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CG11 Spit Venom",
+        "number": 147,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CW12 Take the Mark",
+        "number": 12,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CU12 Overseer's Thrall",
+        "number": 46,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CB12 Covet",
+        "number": 80,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CR12 Due Reward",
+        "number": 114,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CG12 Poison the Blade",
+        "number": 148,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CW13 Stand as One",
+        "number": 13,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CU13 Snatch Away",
+        "number": 47,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CB13 In Cold Blood",
+        "number": 81,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CR13 Spice of Life",
+        "number": 115,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CG13 Unbridled Flourishing",
+        "number": 149,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CW14 Surround",
+        "number": 14,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CU14 Wretched Propaganda",
+        "number": 48,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CB14 Tragic Accident",
+        "number": 82,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CR14 Tear Down",
+        "number": 116,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CG14 Take in the Haul",
+        "number": 150,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "Trueblade Champion",
+        "number": 280,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "Search for the Truth",
+        "number": 281,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "Moonlit Surveyor",
+        "number": 282,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "Rista, Vagabond Warden",
+        "number": 286,
+        "shape": "planeswalker",
+        "set": "VLR"
+    },
+    {
+        "card_name": "Farehn, Defiant Liberator",
+        "number": 287,
+        "shape": "planeswalker",
+        "set": "VLR"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "RB05 Breathe Your Last",
+        "number": 283,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Outskirts Channeler",
+        "number": 288,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "RB06 Unending Hunter",
+        "number": 284,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "REDESIGN",
+        "number": 285,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "UM01 Old-Growth Mentor",
+        "number": 201,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UM03 Shrouded Profaner",
+        "number": 203,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UM05",
+        "number": 205,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UM07 Rooftop Runner",
+        "number": 207,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UM09 Sanctum Intruder",
+        "number": 209,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UM02 Chapel Attendant",
+        "number": 202,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UM04 Mischievous Thief",
+        "number": 204,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UM06 Skulking Crook",
+        "number": 206,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UM08 Patrol Veteran",
+        "number": 208,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UM10 Setral Guardian",
+        "number": 210,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "Ifaris, Eternity Scholar",
+        "number": 290,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "MM01 Arital, Grand Adjudicator",
+        "number": 171,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "MM03 Leiowen, Escape Artist",
+        "number": 173,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "MM05 Orliss of the Elite",
+        "number": 175,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "MM07 Vie, Sunset Champion",
+        "number": 177,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "MM09 Ery, Concord Archdruid",
+        "number": 179,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "MM02",
+        "number": 172,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "MM04",
+        "number": 174,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "MM06",
+        "number": 176,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "MM08",
+        "number": 178,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "MM10",
+        "number": 180,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RM06 Surola, Loyal Preacher",
+        "number": 181,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RM10 Delias, Savvy Smuggler",
+        "number": 185,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RM14 Lavis, Scion of Rot",
+        "number": 189,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RM18 Kane, Volwood Valiant",
+        "number": 193,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RM22 Evrax, the Last",
+        "number": 197,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RM07 Windborn Chaplain",
+        "number": 182,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RM11 Vicuro Dealer",
+        "number": 186,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RM15 Guild Exterminator",
+        "number": 190,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RM19",
+        "number": 194,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RM23 Volwood Renewer",
+        "number": 198,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RM08 Eerie Congregation",
+        "number": 183,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RM12",
+        "number": 187,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RM16",
+        "number": 191,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RM20",
+        "number": 195,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RM24",
+        "number": 199,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RM01",
+        "number": 226,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RM13",
+        "number": 188,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RM17",
+        "number": 192,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RM21",
+        "number": 196,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RM25 In Tune",
+        "number": 200,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RM02",
+        "number": 227,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RM03 Nimble Intruder",
+        "number": 228,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RM05",
+        "number": 230,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RM07",
+        "number": 232,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RM09",
+        "number": 234,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UM11 Sanctum Deathspeaker",
+        "number": 211,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RM04",
+        "number": 229,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RM06",
+        "number": 231,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RM08",
+        "number": 233,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RM10",
+        "number": 235,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UM12 Noncreature",
+        "number": 212,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UM13 Nimble Escapee",
+        "number": 213,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UM15 Elite Executioner",
+        "number": 215,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UM17 Renegade Inciter",
+        "number": 217,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UM19 Umber Grovewarden",
+        "number": 219,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UM21 Consult the Offerings",
+        "number": 236,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UM14 Noncreature",
+        "number": 214,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UM16 Go for the Gut",
+        "number": 216,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UM18 Liberation",
+        "number": 218,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UM20 Noncreature",
+        "number": 220,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CM01 Sanctum Purifier",
+        "number": 221,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UM23 Listen In",
+        "number": 238,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UM25 It's Just Business",
+        "number": 240,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UM27 Fight for What's Right",
+        "number": 242,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UM29 Protect the Pattern",
+        "number": 244,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RM02 Progenitor",
+        "number": 291,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UM24 Covetous Pickpocket",
+        "number": 239,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UM26 Winding Assailant",
+        "number": 241,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UM28 Volwood Rallier",
+        "number": 243,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UM30 Setral Arborist",
+        "number": 245,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CM02 Heist Lookout",
+        "number": 222,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CM03 Stalking Ashblood",
+        "number": 223,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CM04 Incursion Vanguard",
+        "number": 224,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CM05 Alliance Alchemist",
+        "number": 225,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Avidity",
+        "number": 289,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "Unanimity",
+        "number": 292,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "MC01 The Founder's Cage",
+        "number": 250,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UA05 Heart of Bedlam",
+        "number": 255,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UA01",
+        "number": 251,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UA02 Ancient Sentry",
+        "number": 252,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UA03",
+        "number": 253,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UA04",
+        "number": 254,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UA05 Rogue's Gloves",
+        "number": 256,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UA06 Skulker's Cowl",
+        "number": 257,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UA07 Mistbomb",
+        "number": 258,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CA01 Scrounging Sensor",
+        "number": 246,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CA02 Amorphous Accomplice",
+        "number": 247,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CA03 Disposable Dagger",
+        "number": 248,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CA04 Chromatic Relic",
+        "number": 249,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "CL01 Apothecary's Quarters",
+        "number": 259,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CL02 Schemer's Study",
+        "number": 260,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CL03 Sketchy Slum",
+        "number": 261,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CL04 Backalley Market",
+        "number": 262,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CL05 Concordant Sanctuary",
+        "number": 263,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "CL06 Corrupted Sanctum",
+        "number": 264,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CL07 Alchemist's Office",
+        "number": 265,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CL08 Haunting Alley",
+        "number": 266,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CL09 Humming Furnace",
+        "number": 267,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CL10 Moonlit Marsh",
+        "number": 268,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "RL01 Cultist's Cathedral",
+        "number": 271,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RL02 Decrepit Shelter",
+        "number": 272,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RL03 Abandoned Quarter",
+        "number": 273,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RL04 Heretic Hideout",
+        "number": 274,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RL05 Verdant Garden",
+        "number": 275,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "RL06 The Shrouded Seas",
+        "number": 276,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UA08 Maw of the Depths",
+        "number": 277,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UA09 Treasure Trove",
+        "number": 278,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UA10 Secluded Courtyard",
+        "number": 279,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CL11 Forgotten Foundation",
+        "number": 269,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "CL12 Planar Archives",
+        "number": 270,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Hireling",
+        "number": 1,
+        "shape": "token",
+        "set": "VLR"
+    },
+    {
+        "card_name": "VLR DRAFT ARCHETYPES",
+        "number": 2,
+        "shape": "token",
+        "set": "VLR"
+    },
+    {
+        "card_name": "VLR MECHANICS",
+        "number": 3,
+        "shape": "token",
+        "set": "VLR"
+    },
+    {
+        "card_name": "Bounty Board",
+        "number": 9,
+        "shape": "token",
+        "set": "VLR"
+    },
+    {
+        "card_name": "Treasure",
+        "number": 13,
+        "shape": "token",
+        "set": "VLR"
+    },
+    {
+        "card_name": "Citizen",
+        "number": 4,
+        "shape": "token",
+        "set": "VLR"
+    },
+    {
+        "card_name": "Spirit",
+        "number": 5,
+        "shape": "token",
+        "set": "VLR"
+    },
+    {
+        "card_name": "Acolyte",
+        "number": 6,
+        "shape": "token",
+        "set": "VLR"
+    },
+    {
+        "card_name": "Horror",
+        "number": 7,
+        "shape": "token",
+        "set": "VLR"
+    },
+    {
+        "card_name": "Mercenary",
+        "number": 8,
+        "shape": "token",
+        "set": "VLR"
+    },
+    {
+        "card_name": "Druid",
+        "number": 10,
+        "shape": "token",
+        "set": "VLR"
+    },
+    {
+        "card_name": "Lorenza",
+        "number": 11,
+        "shape": "token",
+        "set": "VLR"
+    },
+    {
+        "card_name": "Rebel",
+        "number": 12,
+        "shape": "token",
+        "set": "VLR"
+    },
+    {
+        "card_name": "UM22 Malicious Throng",
+        "number": 237,
+        "shape": "token",
+        "set": "VLR"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->masterpiece",
+    {
+        "card_name": "SPG07",
+        "number": 1,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "Lin Sivvi, Defiant Hero",
+        "number": 2,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "Renewed Solidarity",
+        "number": 3,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "Ghostly Pilferer",
+        "number": 4,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "Black Market Connections",
+        "number": 5,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "Sedgemoor Witch",
+        "number": 6,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "Widespread Thieving",
+        "number": 7,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "Overwhelming Instinct",
+        "number": 8,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "Shigeki, Jukai Visionary",
+        "number": 9,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "Rakdos, the Muscle",
+        "number": 10,
+        "shape": "normal",
+        "set": "VLR"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]
