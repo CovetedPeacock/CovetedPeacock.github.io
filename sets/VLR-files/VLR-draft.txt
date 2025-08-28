@@ -1755,9 +1755,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Mercenary",
-			"collector_number": "10",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/10_Mercenary.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/7_Mercenary.jpg"
 			}
 		},
 		{
@@ -2185,9 +2185,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Spirit",
-			"collector_number": "2",
+			"collector_number": "1",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/2_Spirit.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/1_Spirit.jpg"
 			}
 		},
 		{
@@ -2195,9 +2195,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Rebel",
-			"collector_number": "11",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/11_Rebel.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/8_Rebel.jpg"
 			}
 		},
 		{
@@ -2205,9 +2205,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Druid",
-			"collector_number": "9",
+			"collector_number": "6",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/9_Druid.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/6_Druid.jpg"
 			}
 		},
 		{
@@ -2215,9 +2215,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure",
-			"collector_number": "12",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/12_Treasure.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/9_Treasure.jpg"
 			}
 		},
 		{
@@ -2405,9 +2405,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Reminder",
-			"collector_number": "8",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/8_Bounty Board.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/5_Bounty Board.jpg"
 			}
 		},
 		{
@@ -2485,9 +2485,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Warlock",
-			"collector_number": "7",
+			"collector_number": "4",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/7_Acolyte.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/4_Acolyte.jpg"
 			}
 		},
 		{

@@ -1795,43 +1795,43 @@
     "a->token",
     {
         "card_name": "Spirit",
-        "number": 2,
+        "number": 1,
         "shape": "token",
         "set": "VLR"
     },
     {
         "card_name": "Bounty Board",
-        "number": 8,
+        "number": 5,
         "shape": "token",
         "set": "VLR"
     },
     {
         "card_name": "Treasure",
-        "number": 12,
-        "shape": "token",
-        "set": "VLR"
-    },
-    {
-        "card_name": "Acolyte",
-        "number": 7,
-        "shape": "token",
-        "set": "VLR"
-    },
-    {
-        "card_name": "Druid",
         "number": 9,
         "shape": "token",
         "set": "VLR"
     },
     {
+        "card_name": "Acolyte",
+        "number": 4,
+        "shape": "token",
+        "set": "VLR"
+    },
+    {
+        "card_name": "Druid",
+        "number": 6,
+        "shape": "token",
+        "set": "VLR"
+    },
+    {
         "card_name": "Mercenary",
-        "number": 10,
+        "number": 7,
         "shape": "token",
         "set": "VLR"
     },
     {
         "card_name": "Rebel",
-        "number": 11,
+        "number": 8,
         "shape": "token",
         "set": "VLR"
     },

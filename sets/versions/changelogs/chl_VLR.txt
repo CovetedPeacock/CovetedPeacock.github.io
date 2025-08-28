@@ -1,4 +1,585 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+CW01 Fledgling Sycophant
+
+CW07 Weapon Hawker
+
+CW05 Renegade Rescuers
+
+UW04 Aspiring Shaper
+
+CW02 Reclaimed Convert
+
+CU03 Enigmatic Apothecary
+
+CW09 Grove Sentry
+
+CW04 Planar Scholar
+
+CM01 Sanctum Purifier
+
+UW07 Chapel Patrol
+
+CW13 Stand as One
+
+UW13 One Quiet Moment
+
+UM30 Protect the Pattern
+
+CW11 Volwood Rites
+
+CW14 Surround
+
+CW12 Take the Mark
+
+UM14 Consult the Offerings
+
+CU12 Overseer's Thrall
+
+CU01 South-District Pilferer
+
+CU06 Tempting Recruiter
+
+CU07 Skybound Sentry
+
+CW06 Verdure Curator
+
+CU05 Vicuro Pathmaker
+
+CU04 Blessed Convert
+
+CM02 Heist Lookout
+
+CU08 Intangibility
+
+CU10 Eavesdrop
+
+CU14 Wretched Propaganda
+
+UM18 Listen In
+
+UM04 Mischievous Thief
+
+UU10 Perfect Plan
+
+UU08 Sanctum Sacrament
+
+CU02 Congregation Minister
+
+CU09 Attuned Rebuttal
+
+UM26 Fight for What's Right
+
+UM16 Nimble Getaway
+
+CB01 South-Street Scoundrel
+
+CB03 Moonlit Runaway
+
+CB05 Scheming Corvid
+
+UB05 Runaway Corvid
+
+CB09 Beyond the Shroud
+
+CB06 Skittering Swiftblade
+
+CB08 Crypt Caretaker
+
+CM03 Stalking Ashblood
+
+CB02 Volwood Proselytizer
+
+UB09 Evasive Flourish
+
+CB13 In Cold Blood
+
+CB12 Covet
+
+CB14 Tragic Accident
+
+UB10 Bloodletting
+
+CB11 Hymn of the Overseer
+
+UB12 Avarice
+
+UM22 It's Just Business
+
+UM06 Skittering Striker
+
+UA08 Maw of the Depths
+
+CR01 Sunset Recruit
+
+CR06 Thoroughfare Busker
+
+CR03 Nimble Thief
+
+CM04 Incursion Vanguard
+
+CR02 Nal Newcomer
+
+CR12 Due Reward
+
+CR04 Liberated Convert
+
+CR05 Contract Killer
+
+CU13 Snatch Away
+
+CL11 Forgotten Foundation
+
+CR14 Tear Down
+
+CR09 Dagger Toss
+
+UR12
+
+UR07 Renegade's Volley
+
+CR13 Spice of Life
+
+CR11 Yoink!
+
+UR11 Flee
+
+UM08 Patrol Veteran
+
+UA03
+
+CG01 Leonin Revivalist
+
+CG11 Spit Venom
+
+CG02 Sunset Scout
+
+CG06 Volwood Forerunner
+
+CG09 Verdant Sentry
+
+CG04 Scaled Mentor
+
+UG06 Tainted Stalker
+
+CG08 Titanic Mycoid
+
+CG07 Hired Hand
+
+CG05 Flourishing Seedling
+
+CG03 Gutter Rat
+
+CG10 [Ancient Animus for Rebels]
+
+CG14 Take in the Haul
+
+CG13 Unbridled Flourishing
+
+UG04
+
+UG13 Trespass the Volwood
+
+CG12 Poison the Blade
+
+UM01 Old-Growth Protector
+
+UW01 Stalwart Grovespeaker
+
+UW02 Overseer's Chosen
+
+UW05 Sunset Elite
+
+CW03 Setral Grovetender
+
+RW01 Sanctum Judge
+
+UW09
+
+UW10 Overseer's Shackles
+
+UU01 Vicuro Informant
+
+UU03 Veteran Thief
+
+UU13
+
+UU06 Overseer's Entrancer
+
+UM03 Shrouded Ritualist
+
+UU11 Observe the Pattern
+
+UU12 Beneath the Tide
+
+MB02 Purloin
+
+UB01 Rooftop Prowler
+
+UB02 Leonin Striker
+
+CB04 Lurking Voidborn
+
+UM05 Steady Schemer
+
+UB04 Forsaken Shepherd
+
+UB06 Tunnel Prowler
+
+UB07 Lumbering Corruptor
+
+UB13 Jump the Gap
+
+UB03
+
+UR01 Slippery Pickpocket
+
+UR03 Wistful Runaway
+
+UR05 Frenetic Escapees
+
+UR06 Killer-for-Hire
+
+UR02 Guild Hireling
+
+UM07 Rooftop Runner
+
+UR09 Explosive Exit
+
+UG02 Culvert Inspector
+
+UG03 Outskirts Sureshot
+
+UG07 performer
+
+UG05 Incursion Hero
+
+UG09
+
+UA04
+
+UM23 Volwood Liberator
+
+UG11 Life from Death
+
+RM02 Windborn Chaplain
+
+UM19 Elite Executioner
+
+RM19 Kane, Volwood Valiant
+
+UM10 Setral Guardian
+
+UM02 Chapel Attendant
+
+UM12 Profane Gathering
+
+UM20 Go for the Gut
+
+UM24 Liberation
+
+UM27 Umber Grovetender
+
+CW10 Shroud Warden
+
+UU05 Curious Chemist
+
+UR04 Frontline Victor
+
+CM05 Alliance Alchemist
+
+UM11 Sanctum Deathspeaker
+
+UM15 Robber Reinforcements
+
+CR07 Serial Traitor
+
+CR08 Streetwise Surveyor
+
+UA02 Ancient Sentry
+
+RA01 Heart of Bedlam
+
+CA04 Chromatic Relic
+
+CA03 Disposable Dagger
+
+UA09 Treasure Trove
+
+RL05 Verdant Garden
+
+UR13 Siurne's Deceit
+
+UR08 Traitor's Mark
+
+CR10 Picking Prey
+
+UG08 Blooming Champion
+
+UG10 Defend the Groves
+
+UB08 Pickpocket
+
+UB11 Cycle of Betrayal
+
+CB10 Rial's Inquisition
+
+UU09 Madness of Age
+
+CU11 Backalley Insight
+
+UU02 Sanctuary Cultivator
+
+UW12 DESIGN
+
+UM28 Noncreature
+
+UW11 City's Memory
+
+RB02 Seasoned Hunter
+
+MU02 Het, False God
+
+RL01 Cultist's Cathedral
+
+CL12 Planar Archives
+
+RL04 Heretic Hideout
+
+RL03 Abandoned Quarter
+
+RL02 Decrepit Shelter
+
+Mercenary
+
+RL06 The Shrouded Seas
+
+RM20 Valiant Inciter
+
+MC01 Tesh, Fragmented Founder
+
+MM07 Sahra, Siege Captain
+
+RR02 Scaled Spellthief
+
+MG02
+
+UW08 Shepherd of the Silence
+
+UA05 Rogue's Gloves
+
+RW03 Umber Uniter
+
+CB07 Sanctum Sneak
+
+RR01 Nal Bloodweaver
+
+MC02 The Founder's Cage
+
+UA10 Secluded Courtyard
+
+RB04 Glimpse the Bigger Picture
+
+MM09 Ery, Concord Archdruid
+
+RG03 Barkscale Strategist
+
+RB01 Malicious Pactmaker
+
+RB03 Observant Acquisitor
+
+RM25 Evrax, the Last
+
+UM17 Delias, Savvy Smuggler
+
+RM26 Volwood Renewer
+
+RM08 Vicuro Dealer
+
+RM14 Guild Exterminator
+
+UM09 Sanctum Intruder
+
+UG12
+
+CL01 Apothecary's Quarters
+
+CL02 Schemer's Study
+
+CL03 Sketchy Slum
+
+CL04 Backalley Market
+
+CL05 Concordant Sanctuary
+
+CL07 Alchemist's Office
+
+CL08 Haunting Alley
+
+CL09 Humming Furnace
+
+CL10 Moonlit Marsh
+
+UA07 Mistbomb
+
+CA01 Scrounging Sensor
+
+RG04 Sunset Summons
+
+RG02 Sunset Siegebreakers
+
+RU03 Empowered Initiate
+
+RU04 Duplicity
+
+RR05 Sunder the Cage
+
+RW04 Spite of the Founder
+
+Spirit
+
+Rebel
+
+Druid
+
+Treasure
+
+RR03 Liberated Rallier
+
+RU01 Getaway Expert
+
+RU02 Adept Grovewarden
+
+RW05 Depart
+
+UR10 Count the Loot
+
+RR04 Get Your Revenge
+
+RG05
+
+RG01 Leybound Summoner
+
+UW06 East-District Peddler
+
+RW02 Renegade Champion
+
+UG02 Renegade Survivalist
+
+UA01
+
+MM03 Orlen, Untouchable
+
+RM13 Torel, Scion of Rot
+
+UU04 South-District Chaplain
+
+CW08 Sanctum Enforcer
+
+CA02 Autonomous Accomplice
+
+UA06 Skulker's Cowl
+
+Bounty Board
+
+UM13 High Priestess Symi
+
+RM27 In Tune
+
+RM17 Winding Assailant
+
+RM23 Rebellious Recruiter
+
+RM29 Setral Arborist
+
+RM12 Covetous Pickpocket
+
+RM05 Malicious Throng
+
+Acolyte
+
+RB05 Coffers Altar
+
+RM13
+
+RM18
+
+RM24
+
+RM30
+
+RM04
+
+RM03 Eerie Congregation
+
+RM10 Prized
+
+RM09 Top of the World
+
+RM15
+
+RM16
+
+RM22
+
+RM21
+
+RM28
+
+MM06 Memoriam
+
+MM02 Rites of Equilibrium
+
+MM04 Take in the Haul
+
+MM08 Rise Up
+
+MM10 Restoration Efforts
+
+CL06 Corrupted Sanctum
+
+UW03 Renegade Trueheart
+
+MM01 Arital, Grand Adjudicator
+
+MM05 Orliss of the Elite
+
+RM01 Surola, Loyal Preacher
+
+RU05 Into Eternity
+
+RM06
+
+RM07 Marle, Vicuro Head
+
+UM21 Waylen, Bloodhunter
+
+UM25 Ivari, Liberated Mentor
+
+UM29 Loresk, Ever-Curious
+
+MR02
+
+UU07
+
+MW01 Siurne, Eternal Sentinel
+
+MU01 Leiowen, Escape Artist
+
+MB01 Soya, Nal Executioner
+
+MR01 Vie, Sunset Hero
+
+MG01 The Setral Shaper
+
+MW02
+rules_text:  => [i](updating this for the sake of letting the egghub get updated)[/i]
+
+
+VERSION 2 CHANGELOG
 ====================
 
 UW04 Aspiring Shaper added.
