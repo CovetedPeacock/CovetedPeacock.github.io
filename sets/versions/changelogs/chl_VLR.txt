@@ -1,4 +1,791 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+UW04 Aspiring Shaper added.
+CU03 Enigmatic Apothecary added.
+CW09 Grove Sentry added.
+UM30 Protect the Pattern added.
+UM14 Consult the Offerings added.
+CW06 Verdure Curator added.
+UM18 Listen In added.
+UU08 Sanctum Sacrament added.
+UM26 Fight for What's Right added.
+UM16 Nimble Getaway added.
+UB05 Runaway Corvid added.
+UM22 It's Just Business added.
+UM06 Skittering Striker added.
+UR12 added.
+UG06 Tainted Stalker added.
+UG04 added.
+UM01 Old-Growth Protector added.
+UW05 Sunset Elite added.
+UW09 added.
+UU03 Veteran Thief added.
+UM03 Shrouded Ritualist added.
+UU12 Beneath the Tide added.
+MB02 Purloin added.
+UB01 Rooftop Prowler added.
+UB02 Leonin Striker added.
+UM05 Steady Schemer added.
+UB04 Forsaken Shepherd added.
+UB06 Tunnel Prowler added.
+UB07 Lumbering Corruptor added.
+UB13 Jump the Gap added.
+UB03 added.
+UR01 Slippery Pickpocket added.
+UR05 Frenetic Escapees added.
+UR02 Guild Hireling added.
+UR09 Explosive Exit added.
+UG05 Incursion Hero added.
+UM23 Volwood Liberator added.
+RM02 Windborn Chaplain added.
+UM19 Elite Executioner added.
+RM19 Kane, Volwood Valiant added.
+UM12 Profane Gathering added.
+UM20 Go for the Gut added.
+UM24 Liberation added.
+UM27 Umber Grovetender added.
+CW10 Shroud Warden added.
+UU05 Curious Chemist added.
+UR04 Frontline Victor added.
+UM15 Robber Reinforcements added.
+RA01 Heart of Bedlam added.
+UG10 Defend the Groves added.
+UU09 Madness of Age added.
+UU02 Sanctuary Cultivator added.
+UM28 Noncreature added.
+RB02 Seasoned Hunter added.
+MU02 Het, False God added.
+RM20 Valiant Inciter added.
+MC01 Tesh, Fragmented Founder added.
+MM07 Sahra, Siege Captain added.
+RR02 Scaled Spellthief added.
+UW08 Shepherd of the Silence added.
+RW03 Umber Uniter added.
+RR01 Nal Bloodweaver added.
+MC02 The Founder's Cage added.
+RB01 Malicious Pactmaker added.
+RB03 Observant Acquisitor added.
+RM25 Evrax, the Last added.
+UM17 Delias, Savvy Smuggler added.
+RM26 Volwood Renewer added.
+RM08 Vicuro Dealer added.
+RM14 Guild Exterminator added.
+UG12 added.
+RG02 Sunset Siegebreakers added.
+RU03 Empowered Initiate added.
+RR05 Sunder the Cage added.
+RR03 Liberated Rallier added.
+RU02 Adept Grovewarden added.
+UW06 East-District Peddler added.
+RW02 Renegade Champion added.
+UG02 Renegade Survivalist added.
+MM03 Orlen, Untouchable added.
+RM13 Torel, Scion of Rot added.
+CA02 Autonomous Accomplice added.
+UM13 High Priestess Symi added.
+RM27 In Tune added.
+RM17 Winding Assailant added.
+RM23 Rebellious Recruiter added.
+RM29 Setral Arborist added.
+RM12 Covetous Pickpocket added.
+RM05 Malicious Throng added.
+RM18 added.
+RM30 added.
+RM03 Eerie Congregation added.
+RM10 Prized added.
+RM09 Top of the World added.
+RM15 added.
+RM22 added.
+RM28 added.
+MM06 Memoriam added.
+MM02 Rites of Equilibrium added.
+MM04 Take in the Haul added.
+MM08 Rise Up added.
+MM10 Restoration Efforts added.
+RM01 Surola, Loyal Preacher added.
+RU05 Into Eternity added.
+RM07 Marle, Vicuro Head added.
+UM21 Waylen, Bloodhunter added.
+UM25 Ivari, Liberated Mentor added.
+UM29 Loresk, Ever-Curious added.
+MR02 added.
+UU07 added.
+MW01 Siurne, Eternal Sentinel added.
+MU01 Leiowen, Escape Artist added.
+MB01 Soya, Nal Executioner added.
+MR01 Vie, Sunset Hero added.
+MG01 The Setral Shaper added.
+MW02 added.
+
+UW04 Druid 2 removed.
+CW06 Enigmatic Apothecary removed.
+CW10 Grove Sentry removed.
+UM29 Protect the Pattern removed.
+UM21 Consult the Offerings removed.
+CU03 Verdure Curator removed.
+UM23 Listen In removed.
+UU12 Sanctum Sacrament removed.
+UM27 Fight for What's Right removed.
+UM14 Noncreature removed.
+UB04 Moonlit Crook removed.
+UM25 It's Just Business removed.
+UM06 Skulking Crook removed.
+UR12 Renegade Rally removed.
+UG05 Tainted Stalker removed.
+UG06 Lurking Veilbranch removed.
+UM01 Old-Growth Mentor removed.
+UW06 Sunset Elite removed.
+UW09 Kindly Tavernkeep removed.
+UU03 Heist Expert removed.
+UM03 Shrouded Profaner removed.
+UU08 Beneath the Tide removed.
+RU05 Purloin removed.
+UB01 Rooftop Skulker removed.
+UB02 Leonin Hexblade removed.
+UM05 removed.
+UB03 Forsaken Shepherd removed.
+UB05 Blade of Orliss removed.
+UB06 Lumbering Corruptor removed.
+UB07 Undershoot the Gap removed.
+UB13 Strip from Sanity removed.
+UR02 Slippery Pickpocket removed.
+UR05 Frantic Escapees removed.
+UR01 Nal Hireling removed.
+RR05 Explosive Exit removed.
+UG04 Incursion Hero removed.
+RM19 removed.
+RM07 Windborn Chaplain removed.
+UM15 Elite Executioner removed.
+UM17 Renegade Inciter removed.
+UM12 Noncreature removed.
+UM16 Go for the Gut removed.
+UM18 Liberation removed.
+UM19 Umber Grovewarden removed.
+CW09 Shroud Warden removed.
+UU04 Curious Chemist removed.
+UR04 Assault Arsonist removed.
+UM13 Nimble Escapee removed.
+UA05 Heart of Bedlam removed.
+UG10 Defend the Woods removed.
+UU09 Madness of Eternity removed.
+UU02 Sanctuary Sentry removed.
+UM20 Noncreature removed.
+RM02 Progenitor removed.
+RB02 Hired Elite removed.
+MU01 Het, False God removed.
+RM18 Kane, Volwood Valiant removed.
+MW02 Siurne, Eternal Sentinel removed.
+MR02 Rial, the Missing Mark removed.
+MB01 Tesh, Incomplete removed.
+MM07 Vie, Sunset Champion removed.
+MW01 Jeato, Wayfinder removed.
+RR01 Solemn Elite removed.
+MG01 Towering Umberwood removed.
+Farehn, Defiant Liberator removed.
+UW08 Sanctum Soulguide removed.
+RW03 Loresk, Ever-Curious removed.
+RR02 Waylen, removed.
+MC01 The Founder's Cage removed.
+Rista, Vagabond Warden removed.
+RB01 Ancient Rotcaster removed.
+RR02 Soya, Guild Pariah removed.
+Ifaris, Eternity Scholar removed.
+RB03 Marle, Vicuro Proprietor removed.
+RM22 Evrax, the Last removed.
+RM10 Delias, Savvy Smuggler removed.
+Scheming Runemage removed.
+RM23 Volwood Renewer removed.
+RM11 Vicuro Dealer removed.
+RM15 Guild Exterminator removed.
+UG12 Rebel's Restorative removed.
+RG02 Sahra, the Benefactor removed.
+RU02 High Priestess Symi removed.
+UR09 Sunder the Cage removed.
+Lorenza removed.
+Search for the Truth removed.
+Horror removed.
+RR03 Sunset Rallier removed.
+RB06 Unending Hunter removed.
+Outskirts Channeler removed.
+Trueblade Champion removed.
+RU03 removed.
+REDESIGN removed.
+Moonlit Surveyor removed.
+RB05 Breathe Your Last removed.
+UW05 East-District Peddler removed.
+Siurne's Blessing removed.
+UG01 Renegade Survivalist removed.
+MM03 Leiowen, Escape Artist removed.
+RM14 Lavis, Scion of Rot removed.
+VLR DRAFT ARCHETYPES removed.
+VLR MECHANICS removed.
+Hireling removed.
+CA02 Amorphous Accomplice removed.
+Renewed Solidarity removed.
+Sedgemoor Witch removed.
+Overwhelming Instinct removed.
+Black Market Connections removed.
+Shigeki, Jukai Visionary removed.
+Rakdos, the Muscle removed.
+SPG07 removed.
+Lin Sivvi, Defiant Hero removed.
+Ghostly Pilferer removed.
+Widespread Thieving removed.
+RM01 removed.
+RM25 In Tune removed.
+UM26 Winding Assailant removed.
+UM28 Volwood Rallier removed.
+UM30 Setral Arborist removed.
+UM24 Covetous Pickpocket removed.
+UM22 Malicious Throng removed.
+Avidity removed.
+Unanimity removed.
+RM03 Nimble Intruder removed.
+RM08 removed.
+RM10 removed.
+RM09 removed.
+RM08 Eerie Congregation removed.
+RM12 removed.
+RM17 removed.
+RM20 removed.
+MM06 removed.
+MM02 removed.
+MM04 removed.
+MM08 removed.
+MM10 removed.
+UR11 Flee removed.
+Citizen removed.
+RM06 Surola, Loyal Preacher removed.
+MU02 removed.
+MB02 removed.
+RM02 removed.
+RM05 removed.
+RM07 removed.
+RM09 removed.
+
+CW01 Fledgling Sycophant
+
+CW07 Weapon Hawker
+
+CW05 Renegade Rescuers
+
+CW02 Reclaimed Convert
+
+CW04 Planar Scholar
+
+CM01 Sanctum Purifier
+rules_text: When this creature enters, create an Acolyte token. [i](It's a 0/1 blue Warlock creature with “{1}, Sacrifice this: Surveil 1.”)[/i]
+{2}, Sacrifice another creature: This creature gains lifelink until end of turn. Surveil 2. => When this creature enters, create an Acolyte token. [i](It's a 0/1 white and black Warlock creature with “{1}, Sacrifice this: Surveil 1.”)[/i]
+{2}, Sacrifice another creature: This creature gains lifelink until end of turn. Surveil 2.
+
+UW07 Chapel Patrol
+rules_text: Flying
+If a creature you don't control would die, exile it instead. => Flying
+If a creature you don't control would leave the battlefield, exile it instead.
+
+CW13 Stand as One
+
+UW13 One Quiet Moment
+
+CW11 Volwood Rites
+
+CW14 Surround
+
+CW12 Take the Mark
+
+CU12 Overseer's Thrall
+
+CU01 South-District Pilferer
+
+CU06 Tempting Recruiter
+rules_text: When this creature enters, you may sacrifice a creature. When you do, return target instant or sorcery card from your graveyard to your hand. => As an additional cost to cast this spell, you may sacrifice a creature.
+When this creature enters, if a creature you controlled left the battlefield this turn, you may return target instant or sorcery card from your graveyard to your hand.
+
+CU07 Skybound Sentry
+cost: {1}{U}{U} => {4}{U}
+rules_text: As an additional cost to cast this spell, commune 2. [i](Pay {2}. Each creature you tap while paying this pays for {1}.)[/i]
+Flying => Flying
+When this creature enters, create a 2/2 green and blue Druid creature token with vigilance.
+pt: 3/4 => 3/3
+
+CU05 Vicuro Pathmaker
+
+CU04 Blessed Convert
+rules_text: Flying
+When this creature enters, create two Acolyte tokens. [i](They're 0/1 blue Warlock creatures with “{1}, Sacrifice this: Surveil 1.”)[/i] => Flying
+When this creature enters, create two Acolyte tokens. [i](They're 0/1 white and black Warlock creatures with “{1}, Sacrifice this: Surveil 1.”)[/i]
+
+CM02 Heist Lookout
+
+CU08 Intangibility
+
+CU10 Eavesdrop
+
+CU14 Wretched Propaganda
+rules_text: Choose one—
+• Target nonland permanent's owner puts it on their choice of the top or bottom of their library.
+• Create two Acolyte tokens. [i](They're 0/1 blue Warlock creatures with “{1}, Sacrifice this: Surveil 1.”)[/i] => Choose one—
+• Target nonland permanent's owner puts it on their choice of the top or bottom of their library.
+• Create two Acolyte tokens. [i](They're 0/1 white and black Warlock creatures with “{1}, Sacrifice this: Surveil 1.”)[/i]
+
+UM04 Mischievous Thief
+rules_text: When this creature enters, target opponent reveals their hand. You may exile a nonland card revealed this way until this creature leaves the battlefield.
+{1}: This creature gains flying until end of turn. => This creature has flying during your turn.
+When this creature enters, target opponent reveals their hand. You may exile a nonland card revealed this way until this creature leaves the battlefield.
+
+UU10 Perfect Plan
+
+CU02 Congregation Minister
+
+CU09 Attuned Rebuttal
+cost: {U} => {1}{U}
+rules_text: As an additional cost to cast this spell, commune 3. [i](Pay {3}. Each creature you tap while paying this pays for {1}.)[/i]
+Counter target spell. => As an additional cost to cast this spell, you may commune 2. [i](Pay {2}. Each creature you tap while paying this pays for {1}.)[/i]
+Counter target spell unless its controller pays {2} or if you communed this spell.
+
+CB01 South-Street Scoundrel
+
+CB03 Moonlit Runaway
+
+CB05 Scheming Corvid
+
+CB09 Beyond the Shroud
+
+CB06 Skittering Swiftblade
+
+CB08 Crypt Caretaker
+rules_text: When this creature enters, create two Acolyte tokens. [i](They're 0/1 blue Warlock creatures with “{1}, Sacrifice this: Surveil 1.”)[/i]
+Whenever another creature you control dies, put a +1/+1 counter on this creature. => When this creature enters, create two Acolyte tokens. [i](They're 0/1 white and black Warlock creatures with “{1}, Sacrifice this: Surveil 1.”)[/i]
+Whenever another creature you control dies, put a +1/+1 counter on this creature.
+
+CM03 Stalking Ashblood
+
+CB02 Volwood Proselytizer
+
+UB09 Evasive Flourish
+
+CB13 In Cold Blood
+
+CB12 Covet
+
+CB14 Tragic Accident
+
+UB10 Bloodletting
+
+CB11 Hymn of the Overseer
+
+UB12 Avarice
+
+UA08 Maw of the Depths
+
+CR01 Sunset Recruit
+
+CR06 Thoroughfare Busker
+
+CR03 Nimble Thief
+
+CM04 Incursion Vanguard
+
+CR02 Nal Newcomer
+
+CR12 Due Reward
+
+CR04 Liberated Convert
+
+CR05 Contract Killer
+
+CU13 Snatch Away
+
+CL11 Forgotten Foundation
+
+CR14 Tear Down
+
+CR09 Dagger Toss
+
+UR07 Renegade's Volley
+rules_text: [i]Momentum[/i] — Whenever you cast a creature spell, this enchantment deals 1 damage to each opponent. => At the beginning of your second main phase, you may discard a card. If you do, draw a card.
+[i]Momentum[/i] — Whenever you cast a creature spell, this enchantment deals 1 damage to each opponent.
+
+CR13 Spice of Life
+
+CR11 Yoink!
+
+UR11 Flee
+
+UM08 Patrol Veteran
+
+UA03
+
+CG01 Leonin Revivalist
+
+CG11 Spit Venom
+rules_text: This spell costs {1} less to cast for each 1 life your opponents have lost this turn.
+Target creature you control deals damage equal to its power to target creature you don't control. => This spell costs {1} less to cast for each creature you controlled that attacked this turn.
+Target creature you control deals damage equal to twice its power to target creature you don't control.
+
+CG02 Sunset Scout
+
+CG06 Volwood Forerunner
+
+CG09 Verdant Sentry
+cost: {1}{G}{G} => {5}{G}
+rules_text: As an additional cost to cast this spell, commune 3. [i](Pay {3}. Each creature you tap while paying this pays for {1}.)[/i]
+Trample => Reach, trample
+When this creature enters, create a 2/2 green and blue Druid creature token with vigilance.
+pt: 6/5 => 5/4
+
+CG04 Scaled Mentor
+
+CG08 Titanic Mycoid
+
+CG07 Hired Hand
+
+CG05 Flourishing Seedling
+
+CG03 Gutter Rat
+
+CG10 [Ancient Animus for Rebels]
+
+CG14 Take in the Haul
+
+CG13 Unbridled Flourishing
+cost: {2}{G} => {G}
+rules_text: Search your library for a basic land card, reveal it, put it into your hand, then shuffle. You may play an additional land this turn. => As an additional cost to cast this spell, you may commune 2. [i](Pay {2}. Each creature you tap while paying this pays for {1}.)[/i]
+Search your library for a basic land card, reveal it, put it into your hand, then shuffle. If this spell was communed, put that land onto the battlefield tapped instead.
+
+UG13 Trespass the Volwood
+rules_text: Creatures you control have vigilance.
+Commune 3: This enchantment becomes a 5/5 Treefolk creature until end of turn. [i](Pay {3}. Each creature you tap while paying this pays for {1}.)[/i] => 
+
+CG12 Poison the Blade
+
+UW01 Stalwart Grovespeaker
+rules_text: Commune 5: Reveal the top five cards of your library. You may put a creature card with mana value 3 or less from among them into your hand. Then put the rest on the bottom of your library in any order. [i](Pay {5}. Each creature you tap while paying this pays for {1}.)[/i] => Commune {3}{W}: Reveal the top five cards of your library. You may put a creature card with mana value 3 or less from among them into your hand. Then put the rest on the bottom of your library in any order.
+
+UW02 Overseer's Chosen
+rules_text: Whenever this creature attacks, create an Acolyte token. [i](It's a 0/1 blue Warlock creature with “{1}, Sacrifice this: Surveil 1.”)[/i]
+{1}, Sacrifice another creature: This creature gains indestructible until end of turn. Tap it. => When this creature enters, create an Acolyte token. [i](It's a 0/1 white and black Warlock creature with “{1}, Sacrifice this: Surveil 1.”)[/i]
+{1}, Sacrifice another creature: This creature gains indestructible until end of turn. Tap it.
+
+CW03 Setral Grovetender
+
+RW01 Sanctum Judge
+cost: {1}{W} => {2}{W}
+rules_text: Flying
+Whenever this creature deals combat damage to a player or planeswalker, create an Acolyte token. [i](It's a 0/1 blue Warlock creature with “{1}, Sacrifice this: Surveil 1.”)[/i]
+Whenever a creature you control dies, put a +1/+1 counter on this creature. => Flying
+Whenever this creature deals combat damage to a player or planeswalker, create an Acolyte token. [i](It's a 0/1 white and black Warlock creature with “{1}, Sacrifice this: Surveil 1.”)[/i]
+Whenever a creature you control dies, put a +1/+1 counter on this creature.
+pt: 1/1 => 2/2
+
+UW10 Overseer's Shackles
+cost: {1}{W} => {4}{W}
+rules_text: This artifact doesn't untap during your untap step.
+{1}{W}, {T}: For as long as this artifact remains tapped, another target creature loses all abilities and can't attack or block.
+{2}, Sacrifice a creature: Untap this artifact. Activate only once each turn. => Flash
+As an additional cost to cast this spell, you may sacrifice up to two creatures. This spell costs {2} less to cast for each creature sacrificed this way.
+When this artifact enters, exile target nonland permanent until this artifact leaves the battlefield.
+
+UU01 Vicuro Informant
+rules_text: This creature can't be blocked.
+Whenever this creature attacks, the next nonmana ability you activate costs {1} less to activate. [i](This includes abilities of cards in your hand or graveyard.)[/i] => This creature can't be blocked.
+Whenever this creature attacks, the next alternate or additional cost of a spell you cast this turn costs {1} less. [i](Abscond and escape are alternate costs, and commune is an additional cost.)[/i]
+
+UU13
+
+UU06 Overseer's Entrancer
+
+UU11 Observe the Pattern
+rules_text: Commune X. When you do, look at the top X cards of your library. Put up to two of them into your hand and the rest on the bottom of your library in any order. [i](To commune X, pay {X}. Each creature you tap while paying this pays for 1.)[/i] => 
+
+CB04 Lurking Voidborn
+
+UR03 Wistful Runaway
+
+UR06 Killer-for-Hire
+rules_text: Whenever you attack, post a bounty. [i](Exile the top card of your library. You may play it on any of your turns where an opponent lost life.)[/i]
+Whenever you play a card from exile, create a tapped Treasure token. => Whenever you attack, post a bounty. [i](Exile the top card of your library. You may play it on any of your turns where an opponent lost life.)[/i]
+Whenever you play a card from anywhere other than your hand, create a tapped Treasure token.
+
+UM07 Rooftop Runner
+rules_text: Trample, haste
+When this creature enters, if it was cast from exile, it deals 2 damage to any target. => Trample
+When this creature enters, if you've cast two or more spells this turn, it deals 2 damage to any noncreature target.
+pt: 4/2 => 4/3
+
+UG02 Culvert Inspector
+rules_text: Vigilance
+Commune 3: Mill two cards, then you may return a land card from your graveyard to the battlefield tapped. Activate only once each turn and only as a sorcery. [i](Pay {3}. Each creature you tap while paying this pays for {1}.)[/i] => Vigilance
+Other Druids you control have vigilance and “Whenever this creature attacks, you may tap it.”
+
+UG03 Outskirts Sureshot
+
+UG07 performer
+
+UG09
+
+UA04
+
+UG11 Life from Death
+rules_text: Put target creature card from your graveyard on top of your library, then post a bounty. [i](Exile the top card of your library. You may play it on any of your turns where an opponent lost life.)[/i] => Put target permanent card from your graveyard on top of your library, then post a bounty. [i](Exile the top card of your library. You may play it on any of your turns where an opponent lost life.)[/i]
+
+UM10 Setral Guardian
+rules_text: This creature gets +1/+1 for each other tapped creature you control.
+Commune 4: This creature must be blocked this turn if able. Activate only during your turn. [i](Pay {4}. Each creature you tap while paying this pays for {1}.)[/i] => Vigilance, reach
+{T}: [effect]
+pt: 2/2 => 4/4
+
+UM02 Chapel Attendant
+cost: {3}{W}{U} => {2}{W}{U}
+rules_text: Flying, vigilance
+As long as you control five or more creatures, this creature has indestructible.
+Whenever this creature attacks, create an Acolyte token. [i](It's a 0/1 blue Warlock creature with “{1}, Sacrifice this: Surveil 1.”)[/i] => Flying, vigilance
+As long as you control five or more creatures, this creature gets +1/+1 and has lifelink and ward {2}.
+pt: 4/3 => 3/3
+
+CM05 Alliance Alchemist
+cost: {1}{GU}{W} => {GU}{W}
+rules_text: At the beginning of your end step, untap target creature you control.
+Commune 4: Put a +1/+1 counter on this creature. [i](Pay {4}. Each creature you tap while paying this pays for {1}.)[/i] => As an additional cost to cast this spell, you may commune 4. [i](Pay {4}. Each creature you tap while paying this pays for {1}.)[/i]
+If this creature was communed, it enters with two +1/+1 counters on it.
+Vigilance
+pt: 3/3 => 2/2
+
+UM11 Sanctum Deathspeaker
+rules_text: Whenever this creature or another Warlock you control dies, each opponent loses 1 life and you gain 1 life.
+{3}, Sacrifice another creature: Tap target creature you don't control and put a stun counter on it. => Whenever this creature or another Warlock you control dies, each opponent loses 1 life and you gain 1 life.
+{T}, Sacrifice another creature: Tap target creature you don't control and put a stun counter on it.
+pt: 2/4 => 2/3
+
+CR07 Serial Traitor
+
+CR08 Streetwise Surveyor
+
+UA02 Ancient Sentry
+
+CA04 Chromatic Relic
+
+CA03 Disposable Dagger
+
+UA09 Treasure Trove
+rules_text: {T}: Add {C}.
+{3}, {T}: Create a Treasure token. => {T}: Add {C}.
+{3}, {T}: Create a Treasure token.
+[i](do something more interesting?)[/i]
+
+RL05 Verdant Garden
+
+UR13 Siurne's Deceit
+
+UR08 Traitor's Mark
+
+CR10 Picking Prey
+rules_text: Abscond {R} [i](You may cast this spell for its abscond cost by returning a tapped creature you control to its owner's hand.)[/i]
+Target creature you control gets +2/+0 and gains first strike until end of turn. => Target creature you control gets +2/+0 and gains first strike until end of turn.
+Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+
+UG08 Blooming Champion
+cost: {4}{G}{G} => {3}{G}{G}
+rules_text:  => When this creature enters, you may commune 4. [i](Pay {4}. Each creature you tap while paying this pays for {1}.)[/i]
+Whenever you commune, you may have this creature fight target creature you don't control. [i](Each deals damage equal to its power to the other.)[/i]
+pt: 5/5 => 5/4
+
+UB08 Pickpocket
+
+UB11 Cycle of Betrayal
+rules_text: Enchant creature you don't control
+Enchanted creature has “At the beginning of your upkeep, sacrifice this creature unless you pay 3 life or discard a card.”
+{1}{B}, Discard a card: Return this card from your graveyard to your hand. => Enchant creature you don't control
+Enchanted creature has “At the beginning of your upkeep, sacrifice this creature unless you pay 3 life or discard a card.”
+Escape—{2}{B}, Discard a card. [i](You may cast this card from your graveyard for its escape cost.)[/i]
+
+CB10 Rial's Inquisition
+
+CU11 Backalley Insight
+
+UW12 DESIGN
+
+UW11 City's Memory
+type: Enchantment => Instant
+cost: {1}{W} => {W}
+rules_text: {2}, Exile a creature card from your graveyard: Create a 1/1 white Spirit creature token with flying. Activate only as a sorcery. => Create a 1/1 colorless Spirit creature token.
+Escape—{2}{W}, Exile a creature card from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i]
+
+RL01 Cultist's Cathedral
+
+CL12 Planar Archives
+
+RL04 Heretic Hideout
+
+RL03 Abandoned Quarter
+
+RL02 Decrepit Shelter
+
+Mercenary
+
+RL06 The Shrouded Seas
+
+MG02
+type:  => Creature
+cost: {G} => {4}{G}{G}
+
+UA05 Rogue's Gloves
+
+CB07 Sanctum Sneak
+rules_text: Whenever this creature attacks, you may pay 2 life. If you do, it gets +2/+1 and gains [keyword] until end of turn. => Whenever this creature attacks, you may pay 2 life. If you do, it gets +2/+1 and gains menace until end of turn.
+
+UA10 Secluded Courtyard
+
+RB04 Glimpse the Bigger Picture
+rules_text: You may reveal a card you own from outside the game or choose a face-up card you own in exile. Put that card into your hand. You lose 2 life. => You may reveal a card you own from outside the game or choose a face-up card you own in exile. Put that card into your hand. You lose 2 life.
+Escape—{2}{B}, Discard a card. [i](You may cast this card from your graveyard for its escape cost.)[/i]
+
+MM09 Ery, Concord Archdruid
+rules_text: Vigilance
+Other Druids you control have vigilance.
+You may cast creature spells as though they have flash and cost {2} less to cast by tapping two creatures you control in addition to paying other costs. => Vigilance, reach
+Ery gets +1/+1 for each land you control.
+Once each turn, when Ery or another Druid you control enters, search your library for a land card, put it onto the battlefield tapped, then shuffle.
+pt: 4/4 => 0/0
+
+RG03 Barkscale Strategist
+
+UM09 Sanctum Intruder
+rules_text: [i]Momentum[/i] — Whenever you cast a creature spell, create a 1/1 red and white Rebel creature token. => This creature gets +1/+1 for each other tapped creature you control.
+pt: 2/2 => 1/1
+
+CL01 Apothecary's Quarters
+
+CL02 Schemer's Study
+
+CL03 Sketchy Slum
+
+CL04 Backalley Market
+
+CL05 Concordant Sanctuary
+
+CL07 Alchemist's Office
+
+CL08 Haunting Alley
+
+CL09 Humming Furnace
+
+CL10 Moonlit Marsh
+
+UA07 Mistbomb
+
+CA01 Scrounging Sensor
+
+RG04 Sunset Summons
+rules_text: [i]Momentum[/i] — Whenever you cast a creature spell, draw a card.
+Creatures you control have trample and ward {1}. => [i]Momentum[/i] — Whenever you cast a creature spell, reveal the top three cards of your library. Put a creature or land card from among them into your hand and the rest on the bottom of your library in a random order. If you put a land card into your hand this way, you may put a land card from your hand onto the battlefield tapped.
+
+RU04 Duplicity
+cost: {U} => {3}{U}
+rules_text: Choose a creature. As nontoken creatures you control enter this turn, you may have them enter tapped. If they do, they enter as copies of the chosen creature. => Abscond {1}{U} [i](You may cast this spell for its abscond cost by returning a tapped creature you control to its owner's hand.)[/i]
+Create a token that's a copy of target creature, except it isn't legendary.
+
+RW04 Spite of the Founder
+rules_text: Ward {2}
+When this enchantment enters, phase out all creatures. Creatures phased out this way can't phase in until the turn after this leaves the battlefield. => Ward {3}
+When this enchantment enters, phase out all creatures until this enchantment leaves the battlefield. Permanents that phase in this way phase in tapped with a stun counter on them.
+
+Spirit
+rules_text: Flying => 
+
+Rebel
+
+Druid
+pt: 1/1 => 2/2
+
+Treasure
+
+RU01 Getaway Expert
+cost: {1}{U} => {U}
+rules_text: Whenever this creature deals combat damage to a player, you may return a creature you control to its owner's hand.
+Discard a card: This creature can't be blocked this turn. => Whenever this creature attacks, you may discard a card. If you do, it can't be blocked this turn.
+Whenever this creature deals combat damage to a player, you may return another creature you control to its owner's hand. If you do, draw a card.
+pt: 2/1 => 1/1
+
+RW05 Depart
+rules_text: As an additional cost to cast this spell, exile two creature cards from your graveyard.
+Exile target creature or planeswalker. => Exile target creature or planeswalker. Its controller creates a 1/1 colorless Spirit creature token.
+Escape—{2}{W}{W}, Exile three creature cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i]
+
+UR10 Count the Loot
+rules_text: Whenever this enchantment enters or one or more creatures you control deal combat damage to a player, create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+{X}{R}{R}, Sacrifice this enchantment: Count the Loot deals X damage to target creature. => Whenever this enchantment enters or one or more creatures you control deal combat damage to a player, create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+{X}{X}{R}, Sacrifice this enchantment: Count the Loot deals X damage to each creature. Activate only as a sorcery.
+
+RR04 Get Your Revenge
+rules_text: This spell costs {1} less to cast for each 1 life your opponents have lost this turn.
+Get Your Revenge deals X damage to target creature or planeswalker. => [i](escape design)[/i]
+
+RG05
+rules_text: [need art for the design] => [i](escape design)[/i]
+
+RG01 Leybound Summoner
+rules_text: When this creature enters, you may commune X. When you do, search your library for a creature card with mana value X or less, put it onto the battlefield tapped, then shuffle. [i](Pay {X}. Each creature you tap while paying this pays for {1}.)[/i] => As an additional cost to cast this spell, you may commune X. X can't be 0. [i](Pay {X}. Each creature you tap while paying this pays for {1}.)[/i]
+When this creature enters, if it was communed, search your library for a creature card with mana value X or less, put it onto the battlefield, then shuffle.
+
+UA01
+
+UU04 South-District Chaplain
+rules_text: Flying
+Whenever you cast a noncreature spell, create an Acolyte token. [i](It's a 0/1 blue Warlock creature with “{1}, Sacrifice this: Surveil 1.”)[/i] => Flying
+Whenever you cast a noncreature spell, create an Acolyte token. [i](It's a 0/1 white and black Warlock creature with “{1}, Sacrifice this: Surveil 1.”)[/i]
+
+CW08 Sanctum Enforcer
+rules_text: Vigilance
+When this creature dies, create two Acolyte tokens. [i](They're 0/1 blue Warlock creatures with “{1}, Sacrifice this: Surveil 1.”)[/i] => Vigilance
+When this creature dies, create two Acolyte tokens. [i](They're 0/1 white and black Warlock creatures with “{1}, Sacrifice this: Surveil 1.”)[/i]
+
+UA06 Skulker's Cowl
+
+Bounty Board
+
+Acolyte
+
+RB05 Coffers Altar
+
+RM13
+cost: {U}{B}{R} => {1}{UR}{B}
+
+RM24
+cost: {G}{W}{U} => {RW}{G}
+
+RM04
+type:  => Sorcery
+cost: {UR}{B} => {W}{U}{B}
+rules_text:  => Return target creature card with mana value X or less from your graveyard to the battlefield, where X is 3 plus the number of creatures that died this turn.
+
+RM16
+
+RM21
+
+CL06 Corrupted Sanctum
+
+UW03 Renegade Trueheart
+pt: 2/2 => 2/1
+
+MM01 Arital, Grand Adjudicator
+rules_text: Flying
+Whenever Arital attacks or dies, surveil 3.
+At the beginning of your end step, exile target permanent card from your graveyard if it's a Warlock or it has mana value 3 or less. If you do, create a token that's a copy of it. => Flying, lifelink
+Whenever Arital enters or attacks, you may sacrifice another creature. If you do, exile target permanent card from your graveyard if its mana value is 3 or less or you sacrificed a Warlock this way, then create a token that's a copy of it.
+
+MM05 Orliss of the Elite
+rules_text: Whenever another Mercenary you control attacks, it deals 1 damage to the player or permanent it's attacking.
+At the beginning of your end step, Orliss deals 3 damage to each opponent and each permanent an opponent controls that was dealt damage this turn. => If an opponent would lose life during your turn, they lose twice that much life instead. [i](Damage causes loss of life.)[/i]
+Other Mercenaries you control have trample and haste.
+pt: 3/4 => 3/5
+
+RM06
+cost: {BG}{R} => {WB}{U}
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
