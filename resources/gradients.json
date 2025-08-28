@@ -1,6 +1,11 @@
 {
 	"gradients":[
 	{
+		"name":"Tranquil",
+		"color1":"#ef629f",
+		"color2":"#eecda3"
+	},
+	{
 		"name":"Purple White",
 		"color1":"#ba5370",
 		"color2":"#f4e2d8"
@@ -64,11 +69,6 @@
 		"name":"Kashmir",
 		"color1":"#614385",
 		"color2":"#516395"
-	},
-	{
-		"name":"Tranquil",
-		"color1":"#ef629f",
-		"color2":"#eecda3"
 	},
 	{
 		"name":"Pale Wood",
