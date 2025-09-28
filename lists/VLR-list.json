@@ -13,7 +13,7 @@
     },
     {
         "card_name": "Make a Break For It",
-        "number": 84,
+        "number": 83,
         "shape": "normal",
         "set": "VLR"
     },
@@ -103,7 +103,7 @@
     },
     {
         "card_name": "Glimpse the Bigger Picture",
-        "number": 77,
+        "number": 76,
         "shape": "normal",
         "set": "VLR"
     },
@@ -133,7 +133,7 @@
     },
     {
         "card_name": "Malicious Pactmaker",
-        "number": 85,
+        "number": 84,
         "shape": "normal",
         "set": "VLR"
     },
@@ -163,7 +163,7 @@
     },
     {
         "card_name": "Observant Acquisitor",
-        "number": 87,
+        "number": 86,
         "shape": "normal",
         "set": "VLR"
     },
@@ -282,7 +282,7 @@
         "set": "VLR"
     },
     {
-        "card_name": "Cycle of Betrayal",
+        "card_name": "Evasive Flourish",
         "number": 74,
         "shape": "normal",
         "set": "VLR"
@@ -312,7 +312,7 @@
         "set": "VLR"
     },
     {
-        "card_name": "Evasive Flourish",
+        "card_name": "Forsaken Shroudguard",
         "number": 75,
         "shape": "normal",
         "set": "VLR"
@@ -342,8 +342,8 @@
         "set": "VLR"
     },
     {
-        "card_name": "Forsaken Shroudguard",
-        "number": 76,
+        "card_name": "Jump the Gap",
+        "number": 79,
         "shape": "normal",
         "set": "VLR"
     },
@@ -372,7 +372,7 @@
         "set": "VLR"
     },
     {
-        "card_name": "Jump the Gap",
+        "card_name": "Leonin Striker",
         "number": 80,
         "shape": "normal",
         "set": "VLR"
@@ -402,7 +402,7 @@
         "set": "VLR"
     },
     {
-        "card_name": "Leonin Striker",
+        "card_name": "Lumbering Corruptor",
         "number": 81,
         "shape": "normal",
         "set": "VLR"
@@ -432,8 +432,8 @@
         "set": "VLR"
     },
     {
-        "card_name": "Lumbering Corruptor",
-        "number": 82,
+        "card_name": "Offer Yourself",
+        "number": 87,
         "shape": "normal",
         "set": "VLR"
     },
@@ -673,7 +673,7 @@
     },
     {
         "card_name": "Hymn of the Overseer",
-        "number": 78,
+        "number": 77,
         "shape": "normal",
         "set": "VLR"
     },
@@ -703,7 +703,7 @@
     },
     {
         "card_name": "In Cold Blood",
-        "number": 79,
+        "number": 78,
         "shape": "normal",
         "set": "VLR"
     },
@@ -733,7 +733,7 @@
     },
     {
         "card_name": "Lurking Voidborn",
-        "number": 83,
+        "number": 82,
         "shape": "normal",
         "set": "VLR"
     },
@@ -763,7 +763,7 @@
     },
     {
         "card_name": "Moonlit Runaway",
-        "number": 86,
+        "number": 85,
         "shape": "normal",
         "set": "VLR"
     },
@@ -1590,13 +1590,13 @@
     },
     {
         "card_name": "Schemer's Study",
-        "number": 269,
+        "number": 270,
         "shape": "normal",
         "set": "VLR"
     },
     {
         "card_name": "Sketchy Slum",
-        "number": 272,
+        "number": 273,
         "shape": "normal",
         "set": "VLR"
     },
@@ -1608,7 +1608,7 @@
     },
     {
         "card_name": "Concordant Sanctuary",
-        "number": 260,
+        "number": 261,
         "shape": "normal",
         "set": "VLR"
     },
@@ -1629,7 +1629,7 @@
     },
     {
         "card_name": "Corrupted Sanctum",
-        "number": 261,
+        "number": 262,
         "shape": "normal",
         "set": "VLR"
     },
@@ -1641,19 +1641,19 @@
     },
     {
         "card_name": "Haunting Alley",
-        "number": 264,
+        "number": 265,
         "shape": "normal",
         "set": "VLR"
     },
     {
         "card_name": "Humming Furnace",
-        "number": 266,
+        "number": 267,
         "shape": "normal",
         "set": "VLR"
     },
     {
         "card_name": "Moonlit Marsh",
-        "number": 267,
+        "number": 268,
         "shape": "normal",
         "set": "VLR"
     },
@@ -1680,25 +1680,25 @@
     },
     {
         "card_name": "Bustling Docks",
-        "number": 259,
+        "number": 260,
         "shape": "normal",
         "set": "VLR"
     },
     {
         "card_name": "Cultist Cathedral",
-        "number": 262,
+        "number": 263,
         "shape": "normal",
         "set": "VLR"
     },
     {
         "card_name": "Heretic Hideout",
-        "number": 265,
+        "number": 266,
         "shape": "normal",
         "set": "VLR"
     },
     {
         "card_name": "The Shrouded Seas",
-        "number": 271,
+        "number": 272,
         "shape": "normal",
         "set": "VLR"
     },
@@ -1709,14 +1709,14 @@
         "set": "VLR"
     },
     {
-        "card_name": "Secluded Courtyard",
-        "number": 270,
+        "card_name": "Boundless Coffers",
+        "number": 259,
         "shape": "normal",
         "set": "VLR"
     },
     {
-        "card_name": "Treasure Trove",
-        "number": 273,
+        "card_name": "Secluded Courtyard",
+        "number": 271,
         "shape": "normal",
         "set": "VLR"
     },
@@ -1728,13 +1728,13 @@
     },
     {
         "card_name": "Forgotten Foundation",
-        "number": 263,
+        "number": 264,
         "shape": "normal",
         "set": "VLR"
     },
     {
         "card_name": "Planar Archives",
-        "number": 268,
+        "number": 269,
         "shape": "normal",
         "set": "VLR"
     },
@@ -1766,31 +1766,31 @@
         "card_name": "er"
     },
     {
-        "card_name": "Mountain",
+        "card_name": "Mountain_VLR",
         "number": 279,
         "shape": "normal",
         "set": "VLR"
     },
     {
-        "card_name": "Swamp",
+        "card_name": "Swamp_VLR",
         "number": 278,
         "shape": "normal",
         "set": "VLR"
     },
     {
-        "card_name": "Plains",
+        "card_name": "Plains_VLR",
         "number": 276,
         "shape": "normal",
         "set": "VLR"
     },
     {
-        "card_name": "Island",
+        "card_name": "Island_VLR",
         "number": 277,
         "shape": "normal",
         "set": "VLR"
     },
     {
-        "card_name": "Forest",
+        "card_name": "Forest_VLR",
         "number": 280,
         "shape": "normal",
         "set": "VLR"
@@ -1809,55 +1809,55 @@
     },
     "a->token",
     {
-        "card_name": "Copy",
+        "card_name": "Copy VLR",
         "number": 1,
         "shape": "token",
         "set": "VLR"
     },
     {
-        "card_name": "Spirit",
+        "card_name": "colorless Spirit 11VLR",
         "number": 2,
         "shape": "token",
         "set": "VLR"
     },
     {
-        "card_name": "Bounty Board",
+        "card_name": "Bounty Board VLR",
         "number": 5,
         "shape": "token",
         "set": "VLR"
     },
     {
-        "card_name": "Treasure",
+        "card_name": "Treasure VLR",
         "number": 9,
         "shape": "token",
         "set": "VLR"
     },
     {
-        "card_name": "Skeleton Dragon",
+        "card_name": "red Skeleton Dragon 55VLR",
         "number": 3,
         "shape": "token",
         "set": "VLR"
     },
     {
-        "card_name": "Acolyte",
+        "card_name": "Acolyte VLR",
         "number": 4,
         "shape": "token",
         "set": "VLR"
     },
     {
-        "card_name": "Druid",
+        "card_name": "green and blue Druid 22VLR",
         "number": 6,
         "shape": "token",
         "set": "VLR"
     },
     {
-        "card_name": "Mercenary",
+        "card_name": "black and green Mercenary 11VLR",
         "number": 7,
         "shape": "token",
         "set": "VLR"
     },
     {
-        "card_name": "Rebel",
+        "card_name": "red and white Rebel 11VLR",
         "number": 8,
         "shape": "token",
         "set": "VLR"

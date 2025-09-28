@@ -1,10 +1,10 @@
 {
+	"gradients":[
 	{
 		"name":"Celestial",
 		"color1":"#1d2671",
 		"color2":"#c33764"
 	},
-	"gradients":[
 	{
 		"name":"Tranquil",
 		"color1":"#ef629f",

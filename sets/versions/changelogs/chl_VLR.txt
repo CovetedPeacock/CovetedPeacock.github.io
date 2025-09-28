@@ -1,4 +1,706 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Boundless Coffers added.
+Offer Yourself added.
+black and green Mercenary 11VLR added.
+colorless Spirit 11VLR added.
+red and white Rebel 11VLR added.
+green and blue Druid 22VLR added.
+Treasure VLR added.
+Bounty Board VLR added.
+Acolyte VLR added.
+Copy VLR added.
+red Skeleton Dragon 55VLR added.
+
+Treasure Trove removed.
+Cycle of Betrayal removed.
+Mercenary removed.
+Spirit removed.
+Rebel removed.
+Druid removed.
+Treasure removed.
+Bounty Board removed.
+Acolyte removed.
+Copy removed.
+Skeleton Dragon removed.
+
+Fledgling Sycophant
+
+Weapon Hawker
+
+Renegade Rescuers
+
+Aspiring Shaper
+rules_text: This creature gets +1/+1 for each other tapped creature you control. => When this creature enters, create a 2/2 blue and green Druid creature token with vigilance.
+pt: 1/1 => 1/2
+
+Reclaimed Convert
+
+Enigmatic Apothecary
+rules_text: When this creature enters, tap up to one target creature an opponent controls, then you may commune 4. If you do, put two stun counters on that creature. [i](Pay {4}. Each creature you tap while paying this pays for {1}.)[/i] => When this creature enters, tap up to one target creature an opponent controls, then you may commune 3. If you do, put two stun counters on that creature. [i](Pay {3}. Each creature you tap while paying this pays for {1}.)[/i]
+
+Grove Sentry
+
+Planar Scholar
+
+Sanctum Purifier
+rules_text: When this creature enters, create an Acolyte token. [i](It's a 0/1 white and black Warlock creature with “{1}, Sacrifice this: Surveil 1.”)[/i]
+{2}, Sacrifice another creature: This creature gains lifelink until end of turn. Surveil 2. => Whenever this creature enters or dies, create an Acolyte token. [i](It's a 0/1 white and black Warlock creature with “{1}, Sacrifice this: Surveil 1.”)[/i]
+{2}, Sacrifice another creature: This creature gains lifelink until end of turn. Surveil 2.
+
+Chapel Patrol
+rules_text: Flying
+When this creature enters, exile 
+If a creature you don't control would leave the battlefield, exile it instead. => Flying
+When this creature enters, exile up to three target creature cards from graveyards. You gain 1 life for each card exiled this way.
+Whenever a creature you don't control dies, exile it and you gain 1 life.
+
+Stand as One
+
+One Quiet Moment
+
+Protect the Pattern
+
+Volwood Rites
+
+Surround
+
+Take the Mark
+
+Consult the Offerings
+
+Overseer's Thrall
+
+South-District Pilferer
+
+Tempting Recruiter
+
+Skybound Sentry
+
+Verdure Curator
+
+Vicuro Pathmaker
+
+Blessed Convert
+
+Heist Lookout
+
+Intangibility
+
+Eavesdrop
+
+Wretched Propaganda
+type: Sorcery => Instant
+
+Listen In
+
+Mischievous Thief
+
+Perfect Plan
+
+Sanctum Sacrament
+rules_text: As an additional cost to cast this spell, you may sacrifice a creature. If you do, this spell costs {2} less to cast.
+Counter target creature spell. => As an additional cost to cast this spell, you may sacrifice a creature. If you do, this spell costs {2} less to cast.
+Exile target creature or planeswalker spell.
+
+Congregation Minister
+
+Attuned Rebuttal
+
+Fight For What's Right
+
+Nimble Getaway
+
+South-Street Scoundrel
+rules_text: Deathtouch
+When this creature dies, if it attacked this turn, it deals 1 damage to each opponent and you gain 1 life. => Deathtouch
+When this creature dies, if it's your turn, it deals 1 damage to each opponent and you gain 1 life.
+
+Moonlit Runaway
+
+Scheming Corvid
+
+Runaway Corvid
+pt: 3/1 => 3/2
+
+Beyond the Shroud
+
+Skittering Swiftblade
+
+Crypt Caretaker
+cost: {3}{B}{B} => {3}{B}
+pt: 2/3 => 2/2
+
+Stalking Ashblood
+
+Volwood Proselytizer
+
+Evasive Flourish
+
+In Cold Blood
+
+Covet
+
+Tragic Accident
+
+Bloodletting
+
+Hymn of the Overseer
+
+Avarice
+
+It's Just Business
+
+Skittering Striker
+
+The Volwood
+
+Sunset Recruit
+
+Thoroughfare Busker
+rules_text: Whenever you attack, add {R}. Until end of turn, you don't lose this mana as steps and phases end.
+{3}, {T}, Discard a card: Draw a card. => Whenever you attack, add {R}. Until end of turn, you don't lose this mana as steps and phases end.
+{2}{R}, Discard a card: Draw a card.
+
+Nimble Thief
+
+Incursion Vanguard
+
+Nal Newcomer
+
+Due Reward
+
+Liberated Convert
+
+Contract Killer
+
+Snatch Away
+
+Forgotten Foundation
+
+Tear Down
+
+Dagger Toss
+
+Renegade's Volley
+
+Spice of Life
+
+Yoink!
+
+Flee
+
+Patrol Veteran
+
+Dormant Godkiller
+
+Leonin Revivalist
+
+Spit Venom
+cost: {4}{G} => {3}{G}
+
+Sunset Scout
+
+Volwood Forerunner
+
+Verdant Sentry
+
+Scaled Mentor
+
+Tainted Stalker
+rules_text: Trample
+Whenever this creature becomes blocked, post a bounty. [i](Exile the top card of your library. You may play it on any of your turns where an opponent lost life.)[/i] => Whenever this creature attacks, you may discard a card. If you do, target creature blocks it this turn if able.
+Whenever a creature dealt damage by this creature this turn dies, if it's your turn, post a bounty. [i](Exile the top card of your library. You may play it on any of your turns where an opponent lost life.)[/i]
+pt: 5/3 => 5/4
+
+Titanic Mycoid
+
+Hired Hand
+
+Flourishing Seedling
+
+Gutter Rat
+
+Courageous Clash
+
+Take in the Haul
+
+Unbridled Flourishing
+
+Shroudpiercer
+
+Trespass the Volwood
+rules_text: As long as this enchantment is on the battlefield, it's a Forest land in addition to its other types. [i](It has “{T}: Add {G}.)[/i]
+As long as you control eight or more lands, this enchantment is a 5/5 Treefolk creature in addition to its other types and it has trample and reach. => As long as this enchantment is on the battlefield, it's a Forest land in addition to its other types. [i](It has “{T}: Add {G}.”)[/i]
+As long as you control eight or more lands, this enchantment is a 5/5 Treefolk creature in addition to its other types and it has trample and reach.
+
+Poison the Blade
+
+Old-Growth Protector
+
+Stalwart Grovespeaker
+
+Overseer's Chosen
+
+Sunset Elite
+
+Setral Grovetender
+
+Sanctum Judge
+
+Invigorating Concoction
+cost: {2}{W} => {W}
+rules_text: At the beginning of your end step, put a +1/+1 counter on target tapped creature you control. => This enchantment enters with three +1/+1 counters on it.
+At the beginning of your end step, you may move a counter from this enchantment to target tapped creature you control.
+
+Overseer's Shackles
+
+Vicuro Informant
+
+Rooftop Runner
+
+Overseer's Entrancer
+
+Shrouded Ritualist
+
+Observe the Pattern
+rules_text: At the beginning of your end step, you may commune 4. [i](Pay {4}. Each creature you tap while paying this pays for {1}.)[/i]
+Once each turn, when you commune, look at the top two cards of your library. Put one into your hand and the other into your graveyard. => At the beginning of your end step, you may commune 4. [i](Pay {4}. Each creature you tap while paying this pays for {1}.)[/i]
+When you commune, look at the top two cards of your library. Put one into your hand and the other into your graveyard.
+
+Beneath the Tide
+rules_text: Target creature's owner puts it on the top or bottom of their library.
+Escape—{2}{U}{U}, Exile two creature cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i] => Target creature's owner puts it second from the top or on the bottom of their library.
+Escape—{2}{U}{U}, Exile three creature cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i]
+
+Make a Break For It
+cost: {2}{B} => {1}{B}
+rules_text: Whenever a creature you control leaves the battlefield, choose one that hasn't been chosen this turn. If you can't, each opponent loses 3 life.
+• You gain 3 life.
+• Surveil 2.
+• Each opponent discards a card. => Whenever a creature you control leaves the battlefield, you gain 1 life. If this ability has resolved one or more times this turn, each opponent loses 1 life. If this ability has resolved three or more times this turn, create a Treasure token. If this ability has resolved five or more times this turn, draw a card.
+
+Rooftop Prowler
+rules_text: This creature enters tapped.
+You may cast this spell from your graveyard as long as a creature you controlled left the battlefield without dying this turn. => This creature enters tapped.
+You may cast this spell from your graveyard as long as a creature you controlled left the battlefield this turn.
+
+Leonin Striker
+
+Lurking Voidborn
+rules_text: This creature can't block.
+{2}, Exile this card from your graveyard: You draw a card and lose 2 life. => This creature enters tapped.
+{2}, Exile this card from your graveyard: You draw a card and lose 1 life.
+pt: 3/2 => 3/1
+
+Shady Schemer
+rules_text: Whenever one or more creatures you control deal combat damage to a player, surveil 1. Then if three or more creatures dealt combat damage this way, draw a card and you lose 1 life. => Whenever one or more creatures you control deal combat damage to a player, surveil 1. Then if three or more creatures dealt combat damage this way, you may draw a card and lose 1 life.
+
+Forsaken Shroudguard
+rules_text: Flying
+This creature can't block.
+Sacrifice another creature: Surveil 1. Activate only outside of combat. => Flying
+Sacrifice another creature: Surveil 1. Activate only outside of combat.
+
+Tunnel Prowler
+
+Lumbering Corruptor
+
+Jump the Gap
+
+Slippery Tomethief
+pt: 2/2 => 3/2
+
+Wistful Runaway
+
+Daring Escapees
+
+Killer-for-Hire
+
+Guild Hireling
+
+Rooftop Hunter
+
+Explosive Exit
+
+Culvert Inspector
+
+Outskirts Sureshot
+
+Creeping Overgrowth
+
+Incursion Hero
+
+Renegade's Intercession
+rules_text: Move any number of counters from target creature you control to up to one target creature, then return it to its owner's hand. => Move any number of counters from target creature you control to up to one other target creature, then return it to its owner's hand.
+
+Herbalist's Satchel
+
+Volwood Liberator
+
+Life from Death
+
+Windborn Chaplain
+cost: {2}{W}{U}{B} => {W}{U}{B}
+rules_text: Flash
+Flying
+Whenever another creature you control dies, each opponent loses 1 life and you gain 1 life. => Flying
+Whenever another creature you control dies, each opponent loses 1 life and you gain 1 life.
+pt: 3/4 => 2/2
+
+Elite Executioner
+
+Kane, Volwood Valiant
+
+Setral Guardian
+
+Chapel Attendant
+
+Profane Gathering
+
+Go for the Gut
+
+Liberation
+
+Umber Grovetender
+pt: 1/3 => 1/4
+
+Shroud Warden
+
+Curious Chemist
+rules_text: Vigilance
+At the beginning of your end step, you may commune 4. [i](Pay {4}. Each creature you tap while paying this pays for {1}.)[/i]
+Whenever you commune, create a 2/2 green and blue Druid creature token with vigilance. => Vigilance
+At the beginning of your end step, you may commune 3. [i](Pay {3}. Each creature you tap while paying this pays for {1}.)[/i]
+Whenever you commune, return up to one target nonland permanent to its owner's hand.
+
+Frontline Victor
+
+Alliance Alchemist
+pt: 2/2 => 2/3
+
+Sanctum Deathspeaker
+
+Robber Reinforcements
+
+Serial Traitor
+
+Streetwise Surveyor
+
+Ancient Sentry
+
+Heart of Bedlam
+
+Chromatic Relic
+
+Disposable Dagger
+
+Verdant Grotto
+
+Siurne's Deceit
+
+Become the Hunted
+
+Picking Prey
+
+Blooming Champion
+
+Defend the Groves
+
+Pickpocket
+
+Rial's Assault
+
+Madness of Age
+
+Backalley Insight
+rules_text: Abscond {1}{U} [i](You may cast this spell for its abscond cost by returning a tapped creature you control to its owner's hand.)[/i]
+Draw two cards. => Abscond {U} [i](You may cast this spell for its abscond cost by returning a tapped creature you control to its owner's hand.)[/i]
+Draw two cards.
+
+Sanctuary Cultivator
+
+Call for Backup
+
+Wander Into the Grove
+
+City's Memory
+rules_text: Create a 1/1 colorless Spirit creature token.
+Escape—{2}{W}, Exile a creature card from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i] => Create a 1/1 colorless Spirit creature token.
+Escape—{2}{W}, Exile two creature cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i]
+
+Seasoned Hunter
+
+Het, False God
+
+Cultist Cathedral
+
+Heretic Hideout
+
+Abandoned Quarter
+
+Bustling Docks
+
+The Shrouded Seas
+
+Valiant Inciter
+
+Tesh, Fragmented Founder
+
+Sahra, Siege Captain
+
+Scaled Spellthief
+rules_text: Abscond {1}{R} [i](You may cast this spell for its abscond cost by returning a tapped creature you control to its owner's hand.)[/i]
+Flash
+When this creature enters, gain control of target instant or sorcery spell. You may choose new targets for it. => Abscond {1}{R} [i](You may cast this spell for its abscond cost by returning a tapped creature you control to its owner's hand.)[/i]
+Flash
+When this creature enters, exile target instant or sorcery card from a graveyard. You may cast a copy of that card until end of turn, and may spend mana as though it were mana of any type to do so.
+
+Volwood Reclaimer
+
+Ascended Prophet
+
+Rogue's Gloves
+
+Umber Uniter
+rules_text: Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+As long as this creature is untapped, other creatures you control have ward {2}.
+As long as this creature is tapped, other creatures you control get +1/+1. => Whenever this creature becomes untapped, create a 2/2 green and blue Druid creature token with vigilance.
+Whenever this creature becomes tapped, if it isn't attacking, put a +1/+1 counter on it.
+pt: 2/2 => 2/3
+
+Sanctum Sneak
+cost: {3}{B} => {3}{B}{B}
+rules_text: Whenever this creature attacks, you may pay 2 life. If you do, it gets +2/+1 and gains menace until end of turn. => Abscond {2}{B} [i](You may cast this spell for its abscond cost by returning a tapped creature you control to its owner's hand.)[/i]
+When this creature enters, each opponent loses 3 life unless they sacrifice a nonland permanent of their choice or discard a card.
+
+Nal Bloodweaver
+
+The Founder's Cage
+
+Secluded Courtyard
+
+Glimpse the Bigger Picture
+rules_text: You may reveal a card you own from outside the game or choose a face-up card you own in exile with mana value X. Put that card into your hand. You lose 2 life.
+Escape—{2}{B}, Discard a card. [i](You may cast this card from your graveyard for its escape cost.)[/i] => You may reveal a card you own from outside the game or choose a face-up card you own in exile. Put that card into your hand.
+Escape—{1}{B}{B}, Pay 3 life. [i](You may cast this card from your graveyard for its escape cost.)[/i]
+
+Ery, Concord Archdruid
+
+Barkscale Strategist
+
+Malicious Pactmaker
+rules_text: Whenever another nontoken creature you control dies, create an Acolyte token. [i](It's a 0/1 white and black Warlock creature with “{1}, Sacrifice this: Surveil 1.”)[/i] => Whenever this creature or another nontoken creature you control dies, create an Acolyte token. [i](It's a 0/1 white and black Warlock creature with “{1}, Sacrifice this: Surveil 1.”)[/i]
+
+Observant Acquisitor
+rules_text: Abscond {1}{B} [i](You may cast this spell for its abscond cost by returning a tapped creature you control to its owner's hand.)[/i]
+When this creature enters, choose a nonland card name. Each opponent reveals their hand and discards all cards with the chosen name. If no cards are discarded this way, you gain 3 life. => Abscond {1}{B} [i](You may cast this spell for its abscond cost by returning a tapped creature you control to its owner's hand.)[/i]
+When this creature enters, choose a nonland card type. Each opponent reveals their hand and discards a card of the chosen type. If no cards are discarded this way, you draw a card.
+
+Evrax, the Last
+
+Delias, Savvy Smuggler
+
+Volwood Renewer
+
+Backalley Dealer
+
+Guild Exterminator
+
+Sanctum Intruder
+
+Apothecary's Quarters
+
+Schemer's Study
+
+Sketchy Slum
+
+Backalley Market
+
+Concordant Sanctuary
+
+Alchemist's Office
+
+Haunting Alley
+
+Humming Furnace
+
+Moonlit Marsh
+
+Mistbomb
+
+Scrounging Sensor
+
+Taken Alive
+
+Sunset Siegebreakers
+
+Empowered Initiate
+rules_text: At the beginning of your end step, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+Whenever you surveil, tap up to one target nonland permanent and put a stun counter on it. => At the beginning of your end step, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+{1}{U}, Exile three cards from your graveyard: Tap up to one target nonland permanent and put a stun counter on it.
+pt: 3/3 => 3/4
+
+Duplicity
+
+Sunder the Cage
+cost: {2}{R} => {1}{R}{R}
+
+Spite of the Founder
+
+Liberated Rallier
+
+Getaway Expert
+rules_text: Whenever this creature attacks, you may draw a card. If you do, discard a card.
+When this creature leaves the battlefield without dying, return up to one target card you discarded this turn from your graveyard to your hand. => Whenever this creature attacks, tap target creature you don't control.
+When this creature leaves the battlefield, draw a card. Then if it's not your turn, discard a card.
+
+Adept Grovewarden
+
+Depart
+
+Split the Loot
+
+Revenge Killing
+
+Sunset Summons
+
+Leybound Ritualist
+rules_text: At the beginning of your end step, if you control eight or more tapped creatures and/or lands, you may put a permanent card from your hand onto the battlefield. If it's a land, draw a card. => At the beginning of your end step, for each five permanents you control, mill a card. Create a 2/2 green and blue Druid creature token with vigilance for each creature card milled this way, then return each land card milled this way to the battlefield tapped.
+pt: 2/3 => 2/2
+
+Renegade Champion
+
+Renegade Survivalist
+
+Wharf Patrol
+
+Orlen, Untouchable
+
+Torel, Scion of Rot
+
+South-District Chaplain
+
+Sanctum Enforcer
+
+Autonomous Accomplice
+
+Skulker's Cowl
+
+High Priestess Symi
+
+In Tune
+
+Winding Assailant
+
+Rebellious Recruiter
+pt: 3/2 => 4/3
+
+Setral Arborist
+rules_text: At the beginning of your end step, untap target land you control. If you control four or more tapped creatures, untap up to three target lands you control instead. => At the beginning of your end step, untap target land you control. If you control three or more tapped creatures, untap up to three target lands you control instead.
+
+Scurrying Pickpocket
+
+Malicious Throng
+
+Coffers Altar
+
+Expert Infiltration
+
+Race for the Kill
+
+Unending Uprising
+
+Semmaroot Balm
+rules_text: You gain 3 life. Draw a card.
+At the beginning of your end step, if you control four or more tapped creatures, you may return this card from your graveyard to your hand. => You gain 3 life. Draw a card.
+At the beginning of your end step, if you control three or more tapped creatures, you may return this card from your graveyard to your hand.
+
+Profane Scripture
+
+Eerie Congregation
+
+Prized Possession
+
+On Top of the World
+
+Find Your Prey
+
+Wanton Destruction
+
+Rally the Rabble
+
+Siurne's Blessing
+
+Herbal Remedy
+
+Memoriam
+
+Rites of Equilibrium
+
+What's Yours Is Mine
+
+Rise Up
+
+Restoration Efforts
+
+Corrupted Sanctum
+
+Renegade Trueheart
+
+Arital, Grand Adjudicator
+
+Orliss of the Elite
+
+Surola, Loyal Preacher
+
+Into Eternity
+
+Beseech the Dead
+rules_text: If you would surveil a number of cards, surveil that many cards plus one instead.
+{2}, Exile four cards from your graveyard: Draw a card. => If you would surveil a number of cards, surveil that many cards plus one instead.
+{2}, Exile four cards from your graveyard: Choose one —
+• Draw a card.
+• Each opponent loses 2 life and you gain 2 life.
+
+Marle, Vicuro Head
+
+Waylen, Bloodhunter
+
+Ivari, Liberated Mentor
+
+Loresk, Ever-Curious
+rules_text: As an additional cost to cast Loresk, you may commune 4. [i](Pay {4}. Each creature you tap while paying this pays for {1}.)[/i]
+At the beginning of your end step, put a +1/+1 counter on each other tapped creature you control. => When Loresk enters, you may commune 3. [i](Pay {3}. Each creature you tap while paying this pays for {1}.)[/i]
+Whenever you commune, create a 2/2 green and blue Druid creature token with vigilance.
+
+Aspiring Elite
+
+Tireless Refutation
+
+Siurne, Eternal Sentinel
+
+Leiowen, Escape Artist
+
+Soya, Nal Executioner
+
+Vie, Sunset Hero
+
+The Setral Shaper
+
+Balance the Pattern
+
+Planar Archives
+rules_text: You may have this land enter tapped. If you do, choose a color as it enters.
+{T}: Add {C}.
+{T}: Add one mana of the chosen color. => You may have this land enter tapped. If you do, choose a color as it enters.
+{T}: Add {C}.
+{T}: Add one mana of the chosen color.
+{1}, {T}: Add one mana of any color.
+
+
+VERSION 5 CHANGELOG
 ====================
 
 Rooftop Hunter added.
