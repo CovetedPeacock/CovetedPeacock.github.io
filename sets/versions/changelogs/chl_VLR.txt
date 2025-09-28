@@ -1,4 +1,581 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Fledgling Sycophant added.
+Weapon Hawker added.
+Renegade Rescuers added.
+Aspiring Shaper added.
+Reclaimed Convert added.
+Enigmatic Apothecary added.
+Grove Sentry added.
+Planar Scholar added.
+Sanctum Purifier added.
+Chapel Patrol added.
+Stand as One added.
+One Quiet Moment added.
+Protect the Pattern added.
+Volwood Rites added.
+Surround added.
+Take the Mark added.
+Consult the Offerings added.
+Overseer's Thrall added.
+South-District Pilferer added.
+Tempting Recruiter added.
+Skybound Sentry added.
+Verdure Curator added.
+Vicuro Pathmaker added.
+Blessed Convert added.
+Heist Lookout added.
+Intangibility added.
+Eavesdrop added.
+Wretched Propaganda added.
+Listen In added.
+Mischievous Thief added.
+Perfect Plan added.
+Sanctum Sacrament added.
+Congregation Minister added.
+Attuned Rebuttal added.
+Fight For What's Right added.
+Nimble Getaway added.
+South-Street Scoundrel added.
+Moonlit Runaway added.
+Scheming Corvid added.
+Runaway Corvid added.
+Beyond the Shroud added.
+Skittering Swiftblade added.
+Crypt Caretaker added.
+Stalking Ashblood added.
+Volwood Proselytizer added.
+Evasive Flourish added.
+In Cold Blood added.
+Covet added.
+Tragic Accident added.
+Bloodletting added.
+Hymn of the Overseer added.
+Avarice added.
+It's Just Business added.
+Skittering Striker added.
+The Volwood added.
+Sunset Recruit added.
+Thoroughfare Busker added.
+Nimble Thief added.
+Incursion Vanguard added.
+Nal Newcomer added.
+Due Reward added.
+Liberated Convert added.
+Contract Killer added.
+Snatch Away added.
+Forgotten Foundation added.
+Tear Down added.
+Dagger Toss added.
+Renegade's Volley added.
+Spice of Life added.
+Yoink! added.
+Flee added.
+Patrol Veteran added.
+Dormant Godkiller added.
+Leonin Revivalist added.
+Spit Venom added.
+Sunset Scout added.
+Volwood Forerunner added.
+Verdant Sentry added.
+Scaled Mentor added.
+Tainted Stalker added.
+Titanic Mycoid added.
+Hired Hand added.
+Flourishing Seedling added.
+Gutter Rat added.
+Courageous Clash added.
+Take in the Haul added.
+Unbridled Flourishing added.
+Shroudpiercer added.
+Trespass the Volwood added.
+Poison the Blade added.
+Old-Growth Protector added.
+Stalwart Grovespeaker added.
+Overseer's Chosen added.
+Sunset Elite added.
+Setral Grovetender added.
+Sanctum Judge added.
+Invigorating Concoction added.
+Overseer's Shackles added.
+Vicuro Informant added.
+Rooftop Runner added.
+Overseer's Entrancer added.
+Shrouded Ritualist added.
+Observe the Pattern added.
+Beneath the Tide added.
+Make a Break For It added.
+Rooftop Prowler added.
+Leonin Striker added.
+Lurking Voidborn added.
+Shady Schemer added.
+Forsaken Shroudguard added.
+Tunnel Prowler added.
+Lumbering Corruptor added.
+Jump the Gap added.
+Slippery Tomethief added.
+Wistful Runaway added.
+Daring Escapees added.
+Killer-for-Hire added.
+Guild Hireling added.
+Rooftop Prowler added.
+Explosive Exit added.
+Culvert Inspector added.
+Outskirts Sureshot added.
+Creeping Overgrowth added.
+Incursion Hero added.
+Renegade's Intercession added.
+Herbalist's Satchel added.
+Volwood Liberator added.
+Life from Death added.
+Windborn Chaplain added.
+Elite Executioner added.
+Kane, Volwood Valiant added.
+Setral Guardian added.
+Chapel Attendant added.
+Profane Gathering added.
+Go for the Gut added.
+Liberation added.
+Umber Grovetender added.
+Shroud Warden added.
+Curious Chemist added.
+Frontline Victor added.
+Alliance Alchemist added.
+Sanctum Deathspeaker added.
+Robber Reinforcements added.
+Serial Traitor added.
+Streetwise Surveyor added.
+Ancient Sentry added.
+Heart of Bedlam added.
+Chromatic Relic added.
+Disposable Dagger added.
+Treasure Trove added.
+Verdant Grotto added.
+Siurne's Deceit added.
+Become the Hunted added.
+Picking Prey added.
+Blooming Champion added.
+Defend the Groves added.
+Pickpocket added.
+Cycle of Betrayal added.
+Rial's Assault added.
+Madness of Age added.
+Backalley Insight added.
+Sanctuary Cultivator added.
+Call for Backup added.
+Wander Into the Grove added.
+City's Memory added.
+Seasoned Hunter added.
+Het, False God added.
+Cultist Cathedral added.
+Heretic Hideout added.
+Abandoned Quarter added.
+Bustling Docks added.
+The Shrouded Seas added.
+Valiant Inciter added.
+Tesh, Fragmented Founder added.
+Sahra, Siege Captain added.
+Scaled Spellthief added.
+Volwood Reclaimer added.
+Ascended Prophet added.
+Rogue's Gloves added.
+Umber Uniter added.
+Sanctum Sneak added.
+Nal Bloodweaver added.
+The Founder's Cage added.
+Secluded Courtyard added.
+Glimpse the Bigger Picture added.
+Ery, Concord Archdruid added.
+Barkscale Strategist added.
+Malicious Pactmaker added.
+Observant Acquisitor added.
+Evrax, the Last added.
+Delias, Savvy Smuggler added.
+Volwood Renewer added.
+Backalley Dealer added.
+Guild Exterminator added.
+Sanctum Intruder added.
+Apothecary's Quarters added.
+Schemer's Study added.
+Sketchy Slum added.
+Backalley Market added.
+Concordant Sanctuary added.
+Alchemist's Office added.
+Haunting Alley added.
+Humming Furnace added.
+Moonlit Marsh added.
+Mistbomb added.
+Scrounging Sensor added.
+Taken Alive added.
+Sunset Siegebreakers added.
+Empowered Initiate added.
+Duplicity added.
+Sunder the Cage added.
+Spite of the Founder added.
+Liberated Rallier added.
+Getaway Expert added.
+Adept Grovewarden added.
+Depart added.
+Split the Loot added.
+Revenge Killing added.
+Sunset Summons added.
+Leybound Ritualist added.
+Renegade Champion added.
+Renegade Survivalist added.
+Wharf Patrol added.
+Orlen, Untouchable added.
+Torel, Scion of Rot added.
+South-District Chaplain added.
+Sanctum Enforcer added.
+Autonomous Accomplice added.
+Skulker's Cowl added.
+High Priestess Symi added.
+In Tune added.
+Winding Assailant added.
+Rebellious Recruiter added.
+Setral Arborist added.
+Scurrying Pickpocket added.
+Malicious Throng added.
+Coffers Altar added.
+Expert Infiltration added.
+Race for the Kill added.
+Unending Uprising added.
+Semmaroot Balm added.
+Profane Scripture added.
+Eerie Congregation added.
+Prized Possession added.
+On Top of the World added.
+Find Your Prey added.
+Wanton Destruction added.
+Rally the Rabble added.
+Siurne's Blessing added.
+Herbal Remedy added.
+Memoriam added.
+Rites of Equilibrium added.
+Take in the Haul added.
+Rise Up added.
+Restoration Efforts added.
+Corrupted Sanctum added.
+Renegade Trueheart added.
+Arital, Grand Adjudicator added.
+Orliss of the Elite added.
+Surola, Loyal Preacher added.
+Into Eternity added.
+Beseech the Dead added.
+Marle, Vicuro Head added.
+Waylen, Bloodhunter added.
+Ivari, Liberated Mentor added.
+Loresk, Ever-Curious added.
+Aspiring Elite added.
+Tireless Refutation added.
+Siurne, Eternal Sentinel added.
+Leiowen, Escape Artist added.
+Soya, Nal Executioner added.
+Vie, Sunset Hero added.
+The Setral Shaper added.
+Balance the Pattern added.
+Planar Archives added.
+Copy added.
+Skeleton Dragon added.
+
+CW01 Fledgling Sycophant removed.
+CW07 Weapon Hawker removed.
+CW05 Renegade Rescuers removed.
+UW04 Aspiring Shaper removed.
+CW02 Reclaimed Convert removed.
+CU03 Enigmatic Apothecary removed.
+CW09 Grove Sentry removed.
+CW04 Planar Scholar removed.
+CM01 Sanctum Purifier removed.
+UW07 Chapel Patrol removed.
+CW13 Stand as One removed.
+UW13 One Quiet Moment removed.
+UM30 Protect the Pattern removed.
+CW11 Volwood Rites removed.
+CW14 Surround removed.
+CW12 Take the Mark removed.
+UM14 Consult the Offerings removed.
+CU12 Overseer's Thrall removed.
+CU01 South-District Pilferer removed.
+CU06 Tempting Recruiter removed.
+CU07 Skybound Sentry removed.
+CW06 Verdure Curator removed.
+CU05 Vicuro Pathmaker removed.
+CU04 Blessed Convert removed.
+CM02 Heist Lookout removed.
+CU08 Intangibility removed.
+CU10 Eavesdrop removed.
+CU14 Wretched Propaganda removed.
+UM18 Listen In removed.
+UM04 Mischievous Thief removed.
+UU10 Perfect Plan removed.
+UU08 Sanctum Sacrament removed.
+CU02 Congregation Minister removed.
+CU09 Attuned Rebuttal removed.
+UM26 Fight for What's Right removed.
+UM16 Nimble Getaway removed.
+CB01 South-Street Scoundrel removed.
+CB03 Moonlit Runaway removed.
+CB05 Scheming Corvid removed.
+UB05 Runaway Corvid removed.
+CB09 Beyond the Shroud removed.
+CB06 Skittering Swiftblade removed.
+CB08 Crypt Caretaker removed.
+CM03 Stalking Ashblood removed.
+CB02 Volwood Proselytizer removed.
+UB09 Evasive Flourish removed.
+CB13 In Cold Blood removed.
+CB12 Covet removed.
+CB14 Tragic Accident removed.
+UB10 Bloodletting removed.
+CB11 Hymn of the Overseer removed.
+UB12 Avarice removed.
+UM22 It's Just Business removed.
+UM06 Skittering Striker removed.
+UA08 Maw of the Depths removed.
+CR01 Sunset Recruit removed.
+CR06 Thoroughfare Busker removed.
+CR03 Nimble Thief removed.
+CM04 Incursion Vanguard removed.
+CR02 Nal Newcomer removed.
+CR12 Due Reward removed.
+CR04 Liberated Convert removed.
+CR05 Contract Killer removed.
+CU13 Snatch Away removed.
+CL11 Forgotten Foundation removed.
+CR14 Tear Down removed.
+CR09 Dagger Toss removed.
+UR12 removed.
+UR07 Renegade's Volley removed.
+CR13 Spice of Life removed.
+CR11 Yoink! removed.
+UR11 Flee removed.
+UM08 Patrol Veteran removed.
+UA03 removed.
+CG01 Leonin Revivalist removed.
+CG11 Spit Venom removed.
+CG02 Sunset Scout removed.
+CG06 Volwood Forerunner removed.
+CG09 Verdant Sentry removed.
+CG04 Scaled Mentor removed.
+UG06 Tainted Stalker removed.
+CG08 Titanic Mycoid removed.
+CG07 Hired Hand removed.
+CG05 Flourishing Seedling removed.
+CG03 Gutter Rat removed.
+CG10 [Ancient Animus for Rebels] removed.
+CG14 Take in the Haul removed.
+CG13 Unbridled Flourishing removed.
+UG04 removed.
+UG13 Trespass the Volwood removed.
+CG12 Poison the Blade removed.
+UM01 Old-Growth Protector removed.
+UW01 Stalwart Grovespeaker removed.
+UW02 Overseer's Chosen removed.
+UW05 Sunset Elite removed.
+CW03 Setral Grovetender removed.
+RW01 Sanctum Judge removed.
+UW09 removed.
+UW10 Overseer's Shackles removed.
+UU01 Vicuro Informant removed.
+UU03 Veteran Thief removed.
+UU13 removed.
+UU06 Overseer's Entrancer removed.
+UM03 Shrouded Ritualist removed.
+UU11 Observe the Pattern removed.
+UU12 Beneath the Tide removed.
+MB02 Purloin removed.
+UB01 Rooftop Prowler removed.
+UB02 Leonin Striker removed.
+CB04 Lurking Voidborn removed.
+UM05 Steady Schemer removed.
+UB04 Forsaken Shepherd removed.
+UB06 Tunnel Prowler removed.
+UB07 Lumbering Corruptor removed.
+UB13 Jump the Gap removed.
+UB03 removed.
+UR01 Slippery Pickpocket removed.
+UR03 Wistful Runaway removed.
+UR05 Frenetic Escapees removed.
+UR06 Killer-for-Hire removed.
+UR02 Guild Hireling removed.
+UM07 Rooftop Runner removed.
+UR09 Explosive Exit removed.
+UG02 Culvert Inspector removed.
+UG03 Outskirts Sureshot removed.
+UG07 performer removed.
+UG05 Incursion Hero removed.
+UG09 removed.
+UA04 removed.
+UM23 Volwood Liberator removed.
+UG11 Life from Death removed.
+RM02 Windborn Chaplain removed.
+UM19 Elite Executioner removed.
+RM19 Kane, Volwood Valiant removed.
+UM10 Setral Guardian removed.
+UM02 Chapel Attendant removed.
+UM12 Profane Gathering removed.
+UM20 Go for the Gut removed.
+UM24 Liberation removed.
+UM27 Umber Grovetender removed.
+CW10 Shroud Warden removed.
+UU05 Curious Chemist removed.
+UR04 Frontline Victor removed.
+CM05 Alliance Alchemist removed.
+UM11 Sanctum Deathspeaker removed.
+UM15 Robber Reinforcements removed.
+CR07 Serial Traitor removed.
+CR08 Streetwise Surveyor removed.
+UA02 Ancient Sentry removed.
+RA01 Heart of Bedlam removed.
+CA04 Chromatic Relic removed.
+CA03 Disposable Dagger removed.
+UA09 Treasure Trove removed.
+RL05 Verdant Garden removed.
+UR13 Siurne's Deceit removed.
+UR08 Traitor's Mark removed.
+CR10 Picking Prey removed.
+UG08 Blooming Champion removed.
+UG10 Defend the Groves removed.
+UB08 Pickpocket removed.
+UB11 Cycle of Betrayal removed.
+CB10 Rial's Inquisition removed.
+UU09 Madness of Age removed.
+CU11 Backalley Insight removed.
+UU02 Sanctuary Cultivator removed.
+UW12 DESIGN removed.
+UM28 Noncreature removed.
+UW11 City's Memory removed.
+RB02 Seasoned Hunter removed.
+MU02 Het, False God removed.
+RL01 Cultist's Cathedral removed.
+CL12 Planar Archives removed.
+RL04 Heretic Hideout removed.
+RL03 Abandoned Quarter removed.
+RL02 Decrepit Shelter removed.
+RL06 The Shrouded Seas removed.
+RM20 Valiant Inciter removed.
+MC01 Tesh, Fragmented Founder removed.
+MM07 Sahra, Siege Captain removed.
+RR02 Scaled Spellthief removed.
+MG02 removed.
+UW08 Shepherd of the Silence removed.
+UA05 Rogue's Gloves removed.
+RW03 Umber Uniter removed.
+CB07 Sanctum Sneak removed.
+RR01 Nal Bloodweaver removed.
+MC02 The Founder's Cage removed.
+UA10 Secluded Courtyard removed.
+RB04 Glimpse the Bigger Picture removed.
+MM09 Ery, Concord Archdruid removed.
+RG03 Barkscale Strategist removed.
+RB01 Malicious Pactmaker removed.
+RB03 Observant Acquisitor removed.
+RM25 Evrax, the Last removed.
+UM17 Delias, Savvy Smuggler removed.
+RM26 Volwood Renewer removed.
+RM08 Vicuro Dealer removed.
+RM14 Guild Exterminator removed.
+UM09 Sanctum Intruder removed.
+UG12 removed.
+CL01 Apothecary's Quarters removed.
+CL02 Schemer's Study removed.
+CL03 Sketchy Slum removed.
+CL04 Backalley Market removed.
+CL05 Concordant Sanctuary removed.
+CL07 Alchemist's Office removed.
+CL08 Haunting Alley removed.
+CL09 Humming Furnace removed.
+CL10 Moonlit Marsh removed.
+UA07 Mistbomb removed.
+CA01 Scrounging Sensor removed.
+RG04 Sunset Summons removed.
+RG02 Sunset Siegebreakers removed.
+RU03 Empowered Initiate removed.
+RU04 Duplicity removed.
+RR05 Sunder the Cage removed.
+RW04 Spite of the Founder removed.
+RR03 Liberated Rallier removed.
+RU01 Getaway Expert removed.
+RU02 Adept Grovewarden removed.
+RW05 Depart removed.
+UR10 Count the Loot removed.
+RR04 Get Your Revenge removed.
+RG05 removed.
+RG01 Leybound Summoner removed.
+UW06 East-District Peddler removed.
+RW02 Renegade Champion removed.
+UG02 Renegade Survivalist removed.
+UA01 removed.
+MM03 Orlen, Untouchable removed.
+RM13 Torel, Scion of Rot removed.
+UU04 South-District Chaplain removed.
+CW08 Sanctum Enforcer removed.
+CA02 Autonomous Accomplice removed.
+UA06 Skulker's Cowl removed.
+UM13 High Priestess Symi removed.
+RM27 In Tune removed.
+RM17 Winding Assailant removed.
+RM23 Rebellious Recruiter removed.
+RM29 Setral Arborist removed.
+RM12 Covetous Pickpocket removed.
+RM05 Malicious Throng removed.
+RB05 Coffers Altar removed.
+RM13 removed.
+RM18 removed.
+RM24 removed.
+RM30 removed.
+RM04 removed.
+RM03 Eerie Congregation removed.
+RM10 Prized removed.
+RM09 Top of the World removed.
+RM15 removed.
+RM16 removed.
+RM22 removed.
+RM21 removed.
+RM28 removed.
+MM06 Memoriam removed.
+MM02 Rites of Equilibrium removed.
+MM04 Take in the Haul removed.
+MM08 Rise Up removed.
+MM10 Restoration Efforts removed.
+CL06 Corrupted Sanctum removed.
+UW03 Renegade Trueheart removed.
+MM01 Arital, Grand Adjudicator removed.
+MM05 Orliss of the Elite removed.
+RM01 Surola, Loyal Preacher removed.
+RU05 Into Eternity removed.
+RM06 removed.
+RM07 Marle, Vicuro Head removed.
+UM21 Waylen, Bloodhunter removed.
+UM25 Ivari, Liberated Mentor removed.
+UM29 Loresk, Ever-Curious removed.
+MR02 removed.
+UU07 removed.
+MW01 Siurne, Eternal Sentinel removed.
+MU01 Leiowen, Escape Artist removed.
+MB01 Soya, Nal Executioner removed.
+MR01 Vie, Sunset Hero removed.
+MG01 The Setral Shaper removed.
+MW02 removed.
+
+Mercenary
+
+Spirit
+
+Rebel
+
+Druid
+
+Treasure
+
+Bounty Board
+
+Acolyte
+
+
+VERSION 3 CHANGELOG
 ====================
 
 

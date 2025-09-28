@@ -1,4 +1,9 @@
 {
+	{
+		"name":"Celestial",
+		"color1":"#1d2671",
+		"color2":"#c33764"
+	},
 	"gradients":[
 	{
 		"name":"Tranquil",
@@ -134,11 +139,6 @@
 		"name":"Scooter",
 		"color1":"#5b86e5",
 		"color2":"#36d1dc"
-	},
-	{
-		"name":"Celestial",
-		"color1":"#1d2671",
-		"color2":"#c33764"
 	},
 	{
 		"name":"Royal",
