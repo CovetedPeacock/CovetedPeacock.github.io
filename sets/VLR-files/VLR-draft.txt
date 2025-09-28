@@ -1181,13 +1181,13 @@
 			}
 		},
 		{
-			"name": "Rooftop Prowler",
+			"name": "Rooftop Hunter",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Creature — Human Mercenary",
 			"collector_number": "198",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/198_Rooftop Prowler.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/198_Rooftop Hunter.jpg"
 			}
 		},
 		{
@@ -1265,9 +1265,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{G}{W}",
 			"type": "Creature — Treefolk Rebel",
-			"collector_number": "212",
+			"collector_number": "211",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/212_Volwood Liberator.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/211_Volwood Liberator.jpg"
 			}
 		},
 		{
@@ -1365,9 +1365,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{W}{U}",
 			"type": "Creature — Snake Druid",
-			"collector_number": "210",
+			"collector_number": "209",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/210_Umber Grovetender.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/209_Umber Grovetender.jpg"
 			}
 		},
 		{
@@ -1635,9 +1635,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{W}{U}",
 			"type": "Enchantment",
-			"collector_number": "214",
+			"collector_number": "213",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/214_Wander Into the Grove.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/213_Wander Into the Grove.jpg"
 			}
 		},
 		{
@@ -1735,9 +1735,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{G}{W}",
 			"type": "Creature — Human Rebel",
-			"collector_number": "211",
+			"collector_number": "210",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/211_Valiant Inciter.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/210_Valiant Inciter.jpg"
 			}
 		},
 		{
@@ -1925,9 +1925,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{W}{U}",
 			"type": "Creature — Treefolk Druid",
-			"collector_number": "213",
+			"collector_number": "212",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/213_Volwood Renewer.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/212_Volwood Renewer.jpg"
 			}
 		},
 		{
@@ -2295,9 +2295,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{R}{G}",
 			"type": "Legendary Creature — Treefolk Mercenary",
-			"collector_number": "209",
+			"collector_number": "208",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/209_Torel, Scion of Rot.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/208_Torel, Scion of Rot.jpg"
 			}
 		},
 		{
@@ -2535,9 +2535,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{R}{G}",
 			"type": "Sorcery",
-			"collector_number": "215",
+			"collector_number": "214",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/215_Wanton Destruction.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/214_Wanton Destruction.jpg"
 			}
 		},
 		{
@@ -2591,13 +2591,13 @@
 			}
 		},
 		{
-			"name": "Take in the Haul",
+			"name": "What's Yours Is Mine",
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{B}{R}",
 			"type": "Enchantment",
-			"collector_number": "208",
+			"collector_number": "215",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/208_Take in the Haul.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/215_What's Yours Is Mine.jpg"
 			}
 		},
 		{
@@ -2996,7 +2996,7 @@
 	2 Herbal Remedy
 	1 Memoriam
 	1 Rites of Equilibrium
-	1 Take in the Haul
+	1 What's Yours Is Mine
 	1 Rise Up
 	1 Restoration Efforts
 	1 Arital, Grand Adjudicator
@@ -3062,7 +3062,7 @@
 	4 Daring Escapees
 	4 Killer-for-Hire
 	4 Guild Hireling
-	4 Rooftop Prowler
+	4 Rooftop Hunter
 	4 Culvert Inspector
 	4 Outskirts Sureshot
 	4 Creeping Overgrowth
@@ -3324,7 +3324,7 @@
 	6 Daring Escapees
 	6 Killer-for-Hire
 	6 Guild Hireling
-	6 Rooftop Prowler
+	6 Rooftop Hunter
 	2 Explosive Exit
 	6 Culvert Inspector
 	6 Outskirts Sureshot
@@ -3458,7 +3458,7 @@
 	2 Herbal Remedy
 	1 Memoriam
 	1 Rites of Equilibrium
-	1 Take in the Haul
+	1 What's Yours Is Mine
 	1 Rise Up
 	1 Restoration Efforts
 	12 Corrupted Sanctum
@@ -3600,7 +3600,7 @@
 	15 Daring Escapees
 	15 Killer-for-Hire
 	15 Guild Hireling
-	15 Rooftop Prowler
+	15 Rooftop Hunter
 	7 Explosive Exit
 	15 Culvert Inspector
 	15 Outskirts Sureshot
@@ -3734,7 +3734,7 @@
 	7 Herbal Remedy
 	4 Memoriam
 	4 Rites of Equilibrium
-	4 Take in the Haul
+	4 What's Yours Is Mine
 	4 Rise Up
 	4 Restoration Efforts
 	6 Corrupted Sanctum
