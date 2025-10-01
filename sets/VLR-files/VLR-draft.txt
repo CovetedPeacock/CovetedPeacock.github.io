@@ -25,9 +25,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Rebel",
-			"collector_number": "18",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/18_Renegade Rescuers.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/19_Renegade Rescuers.jpg"
 			}
 		},
 		{
@@ -45,9 +45,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Cat Rebel",
-			"collector_number": "16",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/16_Reclaimed Convert.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/17_Reclaimed Convert.jpg"
 			}
 		},
 		{
@@ -75,9 +75,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Bird Wizard",
-			"collector_number": "15",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/15_Planar Scholar.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/16_Planar Scholar.jpg"
 			}
 		},
 		{
@@ -105,9 +105,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "27",
+			"collector_number": "29",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/27_Stand as One.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/29_Stand as One.jpg"
 			}
 		},
 		{
@@ -115,9 +115,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{W}",
 			"type": "Sorcery",
-			"collector_number": "12",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/12_One Quiet Moment.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/13_One Quiet Moment.jpg"
 			}
 		},
 		{
@@ -131,33 +131,23 @@
 			}
 		},
 		{
-			"name": "Volwood Rites",
+			"name": "Shaper's Rites",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "33",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/33_Volwood Rites.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/24_Shaper's Rites.jpg"
 			}
 		},
 		{
 			"name": "Surround",
-			"rarity": "common",
-			"mana_cost": "{W}",
-			"type": "Sorcery",
-			"collector_number": "29",
-			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/29_Surround.jpg"
-			}
-		},
-		{
-			"name": "Take the Mark",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
-			"type": "Enchantment",
-			"collector_number": "30",
+			"type": "Instant",
+			"collector_number": "31",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/30_Take the Mark.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/31_Surround.jpg"
 			}
 		},
 		{
@@ -215,9 +205,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Druid",
-			"collector_number": "32",
+			"collector_number": "33",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/32_Verdure Curator.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/33_Verdure Curator.jpg"
 			}
 		},
 		{
@@ -915,9 +905,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Creature — Treefolk Druid",
-			"collector_number": "26",
+			"collector_number": "28",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/26_Stalwart Grovespeaker.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/28_Stalwart Grovespeaker.jpg"
 			}
 		},
 		{
@@ -925,9 +915,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Bird Warlock",
-			"collector_number": "13",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/13_Overseer's Chosen.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/14_Overseer's Chosen.jpg"
 			}
 		},
 		{
@@ -935,9 +925,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Cat Rebel",
-			"collector_number": "28",
+			"collector_number": "30",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/28_Sunset Elite.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/30_Sunset Elite.jpg"
 			}
 		},
 		{
@@ -945,9 +935,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Druid",
-			"collector_number": "22",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/22_Setral Grovetender.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/23_Setral Grovetender.jpg"
 			}
 		},
 		{
@@ -955,9 +945,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Bird Warlock",
-			"collector_number": "21",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/21_Sanctum Judge.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/22_Sanctum Judge.jpg"
 			}
 		},
 		{
@@ -972,12 +962,12 @@
 		},
 		{
 			"name": "Overseer's Shackles",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Artifact",
-			"collector_number": "14",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/14_Overseer's Shackles.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/15_Overseer's Shackles.jpg"
 			}
 		},
 		{
@@ -1223,7 +1213,7 @@
 		{
 			"name": "Creeping Overgrowth",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{G}",
+			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
 			"collector_number": "137",
 			"image_uris": {
@@ -1375,9 +1365,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{W}{W}",
 			"type": "Creature — Angel",
-			"collector_number": "23",
+			"collector_number": "25",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/23_Shroud Warden.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/25_Shroud Warden.jpg"
 			}
 		},
 		{
@@ -1401,13 +1391,13 @@
 			}
 		},
 		{
-			"name": "Alliance Alchemist",
+			"name": "Concord Alchemist",
 			"rarity": "common",
 			"mana_cost": "{G/U}{W}",
 			"type": "Creature — Snake Druid",
-			"collector_number": "217",
+			"collector_number": "218",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/217_Alliance Alchemist.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/218_Concord Alchemist.jpg"
 			}
 		},
 		{
@@ -1675,9 +1665,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "263",
+			"collector_number": "262",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/263_Cultist Cathedral.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/262_Cultist Cathedral.jpg"
 			}
 		},
 		{
@@ -1743,7 +1733,7 @@
 		{
 			"name": "Tesh, Fragmented Founder",
 			"rarity": "mythic",
-			"mana_cost": "{4}",
+			"mana_cost": "{3}",
 			"type": "Legendary Planeswalker — Tesh",
 			"collector_number": "1",
 			"image_uris": {
@@ -1805,9 +1795,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Azra Druid",
-			"collector_number": "31",
+			"collector_number": "32",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/31_Umber Uniter.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/32_Umber Uniter.jpg"
 			}
 		},
 		{
@@ -1853,7 +1843,7 @@
 		{
 			"name": "Glimpse the Bigger Picture",
 			"rarity": "rare",
-			"mana_cost": "{1}{B}",
+			"mana_cost": "{1}{B}{B}",
 			"type": "Sorcery",
 			"collector_number": "76",
 			"image_uris": {
@@ -2001,13 +1991,13 @@
 			}
 		},
 		{
-			"name": "Concordant Sanctuary",
+			"name": "Flourishing Garden",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "261",
+			"collector_number": "263",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/261_Concordant Sanctuary.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/263_Flourishing Garden.jpg"
 			}
 		},
 		{
@@ -2125,9 +2115,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Enchantment",
-			"collector_number": "25",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/25_Spite of the Founder.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/27_Spite of the Founder.jpg"
 			}
 		},
 		{
@@ -2255,9 +2245,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Snake Rebel",
-			"collector_number": "17",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/17_Renegade Champion.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/18_Renegade Champion.jpg"
 			}
 		},
 		{
@@ -2315,9 +2305,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Human Warlock",
-			"collector_number": "20",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/20_Sanctum Enforcer.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/21_Sanctum Enforcer.jpg"
 			}
 		},
 		{
@@ -2625,9 +2615,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "262",
+			"collector_number": "261",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/262_Corrupted Sanctum.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/261_Corrupted Sanctum.jpg"
 			}
 		},
 		{
@@ -2635,9 +2625,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Bird Rebel",
-			"collector_number": "19",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/19_Renegade Trueheart.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/20_Renegade Trueheart.jpg"
 			}
 		},
 		{
@@ -2674,7 +2664,7 @@
 			"name": "Into Eternity",
 			"rarity": "rare",
 			"mana_cost": "{X}{U}",
-			"type": "Instant",
+			"type": "Sorcery",
 			"collector_number": "49",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/49_Into Eternity.jpg"
@@ -2685,9 +2675,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W/B}{U}",
 			"type": "Enchantment",
-			"collector_number": "218",
+			"collector_number": "217",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/218_Beseech the Dead.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/217_Beseech the Dead.jpg"
 			}
 		},
 		{
@@ -2755,16 +2745,16 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Legendary Creature — Angel Warlock",
-			"collector_number": "24",
+			"collector_number": "26",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/24_Siurne, Eternal Sentinel_back.jpg"
+					"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/26_Siurne, Eternal Sentinel_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/24_Siurne, Eternal Sentinel_front.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/26_Siurne, Eternal Sentinel_front.jpg"
 			}
 		},
 		{
@@ -2924,6 +2914,16 @@
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/3_red Skeleton Dragon 55VLR.jpg"
 			}
+		},
+		{
+			"name": "Makeshift Justice",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/12_Makeshift Justice.jpg"
+			}
 		}
 	]
 
@@ -3017,6 +3017,7 @@
 	4 Chapel Patrol
 	4 One Quiet Moment
 	4 Protect the Pattern
+	4 Surround
 	4 Consult the Offerings
 	4 Listen In
 	4 Mischievous Thief
@@ -3043,7 +3044,6 @@
 	4 Overseer's Chosen
 	4 Sunset Elite
 	4 Invigorating Concoction
-	4 Overseer's Shackles
 	4 Vicuro Informant
 	4 Rooftop Runner
 	4 Overseer's Entrancer
@@ -3123,9 +3123,7 @@
 	8 Planar Scholar
 	8 Sanctum Purifier
 	8 Stand as One
-	8 Volwood Rites
-	8 Surround
-	8 Take the Mark
+	8 Shaper's Rites
 	8 Overseer's Thrall
 	8 South-District Pilferer
 	8 Tempting Recruiter
@@ -3180,9 +3178,10 @@
 	8 Unbridled Flourishing
 	8 Poison the Blade
 	8 Setral Grovetender
+	8 Overseer's Shackles
 	8 Lurking Voidborn
 	8 Shroud Warden
-	8 Alliance Alchemist
+	8 Concord Alchemist
 	8 Serial Traitor
 	8 Streetwise Surveyor
 	8 Chromatic Relic
@@ -3195,7 +3194,7 @@
 	8 Schemer's Study
 	8 Sketchy Slum
 	8 Backalley Market
-	8 Concordant Sanctuary
+	8 Flourishing Garden
 	8 Alchemist's Office
 	8 Haunting Alley
 	8 Humming Furnace
@@ -3205,6 +3204,7 @@
 	8 Autonomous Accomplice
 	8 Corrupted Sanctum
 	8 Planar Archives
+	8 Makeshift Justice
 [foil(1)]
 	12 Fledgling Sycophant
 	12 Weapon Hawker
@@ -3219,9 +3219,8 @@
 	12 Stand as One
 	6 One Quiet Moment
 	6 Protect the Pattern
-	12 Volwood Rites
-	12 Surround
-	12 Take the Mark
+	12 Shaper's Rites
+	6 Surround
 	6 Consult the Offerings
 	12 Overseer's Thrall
 	12 South-District Pilferer
@@ -3303,7 +3302,7 @@
 	12 Setral Grovetender
 	2 Sanctum Judge
 	6 Invigorating Concoction
-	6 Overseer's Shackles
+	12 Overseer's Shackles
 	6 Vicuro Informant
 	6 Rooftop Runner
 	6 Overseer's Entrancer
@@ -3346,7 +3345,7 @@
 	12 Shroud Warden
 	6 Curious Chemist
 	6 Frontline Victor
-	12 Alliance Alchemist
+	12 Concord Alchemist
 	6 Sanctum Deathspeaker
 	6 Robber Reinforcements
 	12 Serial Traitor
@@ -3405,7 +3404,7 @@
 	12 Schemer's Study
 	12 Sketchy Slum
 	12 Backalley Market
-	12 Concordant Sanctuary
+	12 Flourishing Garden
 	12 Alchemist's Office
 	12 Haunting Alley
 	12 Humming Furnace
@@ -3481,6 +3480,7 @@
 	1 The Setral Shaper
 	1 Balance the Pattern
 	12 Planar Archives
+	12 Makeshift Justice
 [wildcard(1)]
 	6 Fledgling Sycophant
 	6 Weapon Hawker
@@ -3495,9 +3495,8 @@
 	6 Stand as One
 	15 One Quiet Moment
 	15 Protect the Pattern
-	6 Volwood Rites
-	6 Surround
-	6 Take the Mark
+	6 Shaper's Rites
+	15 Surround
 	15 Consult the Offerings
 	6 Overseer's Thrall
 	6 South-District Pilferer
@@ -3579,7 +3578,7 @@
 	6 Setral Grovetender
 	7 Sanctum Judge
 	15 Invigorating Concoction
-	15 Overseer's Shackles
+	6 Overseer's Shackles
 	15 Vicuro Informant
 	15 Rooftop Runner
 	15 Overseer's Entrancer
@@ -3622,7 +3621,7 @@
 	6 Shroud Warden
 	15 Curious Chemist
 	15 Frontline Victor
-	6 Alliance Alchemist
+	6 Concord Alchemist
 	15 Sanctum Deathspeaker
 	15 Robber Reinforcements
 	6 Serial Traitor
@@ -3681,7 +3680,7 @@
 	6 Schemer's Study
 	6 Sketchy Slum
 	6 Backalley Market
-	6 Concordant Sanctuary
+	6 Flourishing Garden
 	6 Alchemist's Office
 	6 Haunting Alley
 	6 Humming Furnace
@@ -3757,3 +3756,26 @@
 	4 The Setral Shaper
 	4 Balance the Pattern
 	6 Planar Archives
+	6 Makeshift Justice
+[land(1)]
+	12 Alchemist's Office
+	12 Apothecary's Quarters
+	12 Backalley Market
+	12 Corrupted Sanctum
+	12 Flourishing Garden
+	12 Forgotten Foundation
+	12 Haunting Alley
+	12 Humming Furnace
+	12 Moonlit Marsh
+	12 Planar Archives
+	12 Schemer's Study
+	12 Sketchy Slum
+	6 Boundless Coffers
+	6 Secluded Courtyard
+	6 The Volwood
+	2 Abandoned Quarter
+	2 Bustling Docks
+	2 Cultist Cathedral
+	2 Heretic Hideout
+	2 The Shrouded Seas
+	2 Verdant Grotto

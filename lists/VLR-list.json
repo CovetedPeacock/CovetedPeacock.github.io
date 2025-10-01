@@ -31,7 +31,7 @@
     },
     {
         "card_name": "Siurne, Eternal Sentinel",
-        "number": 24,
+        "number": 26,
         "shape": "transform double faced",
         "set": "VLR"
     },
@@ -91,7 +91,7 @@
     },
     {
         "card_name": "Renegade Champion",
-        "number": 17,
+        "number": 18,
         "shape": "normal",
         "set": "VLR"
     },
@@ -121,7 +121,7 @@
     },
     {
         "card_name": "Sanctum Judge",
-        "number": 21,
+        "number": 22,
         "shape": "normal",
         "set": "VLR"
     },
@@ -151,7 +151,7 @@
     },
     {
         "card_name": "Spite of the Founder",
-        "number": 25,
+        "number": 27,
         "shape": "normal",
         "set": "VLR"
     },
@@ -181,7 +181,7 @@
     },
     {
         "card_name": "Umber Uniter",
-        "number": 31,
+        "number": 32,
         "shape": "normal",
         "set": "VLR"
     },
@@ -391,7 +391,7 @@
     },
     {
         "card_name": "One Quiet Moment",
-        "number": 12,
+        "number": 13,
         "shape": "normal",
         "set": "VLR"
     },
@@ -421,7 +421,7 @@
     },
     {
         "card_name": "Overseer's Chosen",
-        "number": 13,
+        "number": 14,
         "shape": "normal",
         "set": "VLR"
     },
@@ -450,8 +450,8 @@
         "set": "VLR"
     },
     {
-        "card_name": "Overseer's Shackles",
-        "number": 14,
+        "card_name": "Renegade Trueheart",
+        "number": 20,
         "shape": "normal",
         "set": "VLR"
     },
@@ -480,8 +480,8 @@
         "set": "VLR"
     },
     {
-        "card_name": "Renegade Trueheart",
-        "number": 19,
+        "card_name": "Stalwart Grovespeaker",
+        "number": 28,
         "shape": "normal",
         "set": "VLR"
     },
@@ -510,8 +510,8 @@
         "set": "VLR"
     },
     {
-        "card_name": "Stalwart Grovespeaker",
-        "number": 26,
+        "card_name": "Sunset Elite",
+        "number": 30,
         "shape": "normal",
         "set": "VLR"
     },
@@ -540,8 +540,8 @@
         "set": "VLR"
     },
     {
-        "card_name": "Sunset Elite",
-        "number": 28,
+        "card_name": "Surround",
+        "number": 31,
         "shape": "normal",
         "set": "VLR"
     },
@@ -630,8 +630,8 @@
         "set": "VLR"
     },
     {
-        "card_name": "Planar Scholar",
-        "number": 15,
+        "card_name": "Makeshift Justice",
+        "number": 12,
         "shape": "normal",
         "set": "VLR"
     },
@@ -660,8 +660,8 @@
         "set": "VLR"
     },
     {
-        "card_name": "Reclaimed Convert",
-        "number": 16,
+        "card_name": "Overseer's Shackles",
+        "number": 15,
         "shape": "normal",
         "set": "VLR"
     },
@@ -690,8 +690,8 @@
         "set": "VLR"
     },
     {
-        "card_name": "Renegade Rescuers",
-        "number": 18,
+        "card_name": "Planar Scholar",
+        "number": 16,
         "shape": "normal",
         "set": "VLR"
     },
@@ -720,8 +720,8 @@
         "set": "VLR"
     },
     {
-        "card_name": "Sanctum Enforcer",
-        "number": 20,
+        "card_name": "Reclaimed Convert",
+        "number": 17,
         "shape": "normal",
         "set": "VLR"
     },
@@ -750,8 +750,8 @@
         "set": "VLR"
     },
     {
-        "card_name": "Setral Grovetender",
-        "number": 22,
+        "card_name": "Renegade Rescuers",
+        "number": 19,
         "shape": "normal",
         "set": "VLR"
     },
@@ -780,8 +780,8 @@
         "set": "VLR"
     },
     {
-        "card_name": "Shroud Warden",
-        "number": 23,
+        "card_name": "Sanctum Enforcer",
+        "number": 21,
         "shape": "normal",
         "set": "VLR"
     },
@@ -810,8 +810,8 @@
         "set": "VLR"
     },
     {
-        "card_name": "Stand as One",
-        "number": 27,
+        "card_name": "Setral Grovetender",
+        "number": 23,
         "shape": "normal",
         "set": "VLR"
     },
@@ -840,8 +840,8 @@
         "set": "VLR"
     },
     {
-        "card_name": "Surround",
-        "number": 29,
+        "card_name": "Shaper's Rites",
+        "number": 24,
         "shape": "normal",
         "set": "VLR"
     },
@@ -870,8 +870,8 @@
         "set": "VLR"
     },
     {
-        "card_name": "Take the Mark",
-        "number": 30,
+        "card_name": "Shroud Warden",
+        "number": 25,
         "shape": "normal",
         "set": "VLR"
     },
@@ -900,8 +900,8 @@
         "set": "VLR"
     },
     {
-        "card_name": "Verdure Curator",
-        "number": 32,
+        "card_name": "Stand as One",
+        "number": 29,
         "shape": "normal",
         "set": "VLR"
     },
@@ -930,7 +930,7 @@
         "set": "VLR"
     },
     {
-        "card_name": "Volwood Rites",
+        "card_name": "Verdure Curator",
         "number": 33,
         "shape": "normal",
         "set": "VLR"
@@ -1259,7 +1259,7 @@
     },
     {
         "card_name": "Beseech the Dead",
-        "number": 218,
+        "number": 217,
         "shape": "normal",
         "set": "VLR"
     },
@@ -1462,8 +1462,8 @@
         "set": "VLR"
     },
     {
-        "card_name": "Alliance Alchemist",
-        "number": 217,
+        "card_name": "Concord Alchemist",
+        "number": 218,
         "shape": "normal",
         "set": "VLR"
     },
@@ -1607,8 +1607,8 @@
         "set": "VLR"
     },
     {
-        "card_name": "Concordant Sanctuary",
-        "number": 261,
+        "card_name": "Flourishing Garden",
+        "number": 263,
         "shape": "normal",
         "set": "VLR"
     },
@@ -1629,7 +1629,7 @@
     },
     {
         "card_name": "Corrupted Sanctum",
-        "number": 262,
+        "number": 261,
         "shape": "normal",
         "set": "VLR"
     },
@@ -1686,7 +1686,7 @@
     },
     {
         "card_name": "Cultist Cathedral",
-        "number": 263,
+        "number": 262,
         "shape": "normal",
         "set": "VLR"
     },

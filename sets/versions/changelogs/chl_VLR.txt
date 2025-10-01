@@ -1,4 +1,652 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+Shaper's Rites added.
+Concord Alchemist added.
+Flourishing Garden added.
+Makeshift Justice added.
+
+Volwood Rites removed.
+Take the Mark removed.
+Alliance Alchemist removed.
+Concordant Sanctuary removed.
+
+Fledgling Sycophant
+
+Weapon Hawker
+
+Renegade Rescuers
+
+Aspiring Shaper
+
+Reclaimed Convert
+
+Enigmatic Apothecary
+
+Grove Sentry
+
+Planar Scholar
+
+Sanctum Purifier
+
+Chapel Patrol
+
+Stand as One
+
+One Quiet Moment
+
+Protect the Pattern
+
+Surround
+type: Sorcery => Instant
+cost: {W} => {3}{W}
+rules_text: Surround deals damage equal to twice the number of creatures you control to target creature. => This spell costs {1} less to cast for each creature you control.
+Exile target creature or planeswalker.
+
+Consult the Offerings
+rules_text: Choose target nonland card with mana value 3 or less in your graveyard. If it's a creature, return it to the battlefield tapped. Otherwise, return it to your hand.
+Exile Consult the Offerings. => Choose target creature, instant, or sorcery card with mana value 3 or less in your graveyard. If it's a creature card, return it to the battlefield tapped. Otherwise, return it to your hand.
+Exile Consult the Offerings.
+
+Overseer's Thrall
+
+South-District Pilferer
+
+Tempting Recruiter
+
+Skybound Sentry
+
+Verdure Curator
+
+Vicuro Pathmaker
+
+Blessed Convert
+
+Heist Lookout
+
+Intangibility
+
+Eavesdrop
+
+Wretched Propaganda
+
+Listen In
+
+Mischievous Thief
+
+Perfect Plan
+
+Sanctum Sacrament
+
+Congregation Minister
+
+Attuned Rebuttal
+
+Fight For What's Right
+
+Nimble Getaway
+
+South-Street Scoundrel
+
+Moonlit Runaway
+
+Scheming Corvid
+
+Runaway Corvid
+
+Beyond the Shroud
+
+Skittering Swiftblade
+
+Crypt Caretaker
+
+Stalking Ashblood
+rules_text: When this creature enters, post a bounty. [i](Exile the top card of your library. You may play it on any of your turns where an opponent lost life.)[/i]
+This creature can't be blocked by more than one creature. => When this creature enters, post a bounty. [i](Exile the top card of your library. You may play it on any of your turns where an opponent lost life.)[/i]
+This creature can't be blocked by creatures with power 2 or less.
+pt: 4/4 => 4/3
+
+Volwood Proselytizer
+
+Evasive Flourish
+
+In Cold Blood
+
+Covet
+
+Tragic Accident
+
+Bloodletting
+
+Hymn of the Overseer
+
+Avarice
+
+It's Just Business
+
+Skittering Striker
+
+The Volwood
+
+Sunset Recruit
+
+Thoroughfare Busker
+
+Nimble Thief
+
+Incursion Vanguard
+
+Nal Newcomer
+
+Due Reward
+
+Liberated Convert
+
+Contract Killer
+
+Snatch Away
+
+Forgotten Foundation
+
+Tear Down
+
+Dagger Toss
+
+Renegade's Volley
+
+Spice of Life
+
+Yoink!
+
+Flee
+
+Patrol Veteran
+
+Dormant Godkiller
+
+Leonin Revivalist
+
+Spit Venom
+
+Sunset Scout
+
+Volwood Forerunner
+
+Verdant Sentry
+
+Scaled Mentor
+
+Tainted Stalker
+
+Titanic Mycoid
+
+Hired Hand
+
+Flourishing Seedling
+
+Gutter Rat
+rules_text: This creature gets +2/+2 as long as it's blocking or being blocked. => Whenever this creature blocks or becomes blocked, it gets +2/+2 until end of turn.
+
+Courageous Clash
+
+Take in the Haul
+
+Unbridled Flourishing
+
+Shroudpiercer
+
+Trespass the Volwood
+
+Poison the Blade
+
+Old-Growth Protector
+
+Stalwart Grovespeaker
+
+Overseer's Chosen
+
+Sunset Elite
+
+Setral Grovetender
+
+Sanctum Judge
+
+Invigorating Concoction
+rules_text: This enchantment enters with three +1/+1 counters on it.
+At the beginning of your end step, you may move a counter from this enchantment to target tapped creature you control. => At the beginning of your end step, you may commune 3. [i](Pay {3}. Each creature you tap while paying this pays for {1}.)[/i]
+Whenever you commune, put a +1/+1 counter on target creature you control.
+
+Overseer's Shackles
+rules_text: As an additional cost to cast this spell, you may sacrifice a creature. If you do, this spell costs {3} less to cast.
+When this artifact enters, exile target nonland permanent until this artifact leaves the battlefield. => As an additional cost to cast this spell, you may sacrifice a creature. If you do, this spell costs {3} less to cast.
+When this artifact enters, exile target nonland permanent an opponent controls until this artifact leaves the battlefield.
+
+Vicuro Informant
+
+Rooftop Runner
+
+Overseer's Entrancer
+
+Shrouded Ritualist
+
+Observe the Pattern
+
+Beneath the Tide
+rules_text: Target creature's owner puts it second from the top or on the bottom of their library.
+Escape—{2}{U}{U}, Exile three creature cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i] => Target nonland permanent's owner puts it on the top or bottom of their library.
+Escape—{2}{U}{U}, Exile two other noncreature cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i]
+
+Make a Break For It
+
+Rooftop Prowler
+
+Leonin Striker
+
+Lurking Voidborn
+
+Shady Schemer
+
+Forsaken Shroudguard
+
+Tunnel Prowler
+
+Lumbering Corruptor
+
+Jump the Gap
+
+Slippery Tomethief
+
+Wistful Runaway
+
+Daring Escapees
+
+Killer-for-Hire
+
+Guild Hireling
+
+Rooftop Hunter
+
+Explosive Exit
+
+Culvert Inspector
+
+Outskirts Sureshot
+
+Creeping Overgrowth
+cost: {1}{G} => {2}{G}
+rules_text: Destroy target artifact or enchantment.
+Escape—{2}{G}, Exile four other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i] => Exile target noncreature, nonland permanent.
+Escape—{2}{G}, Exile four other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i]
+
+Incursion Hero
+
+Renegade's Intercession
+rules_text: Move any number of counters from target creature you control to up to one other target creature, then return it to its owner's hand. => Return target creature you control to its owner's hand. You may put any number of its counters on to up to one other target creature.
+
+Herbalist's Satchel
+
+Volwood Liberator
+
+Life from Death
+
+Windborn Chaplain
+
+Elite Executioner
+
+Kane, Volwood Valiant
+
+Setral Guardian
+
+Chapel Attendant
+
+Profane Gathering
+
+Go for the Gut
+
+Liberation
+
+Umber Grovetender
+rules_text: Commune 4: Add {G}{W}{U}. [i](Pay {4}. Each creature you tap while paying this pays for {1}.)[/i] => Commune 3: Add {G}{W}{U}. Activate only once each turn. [i](Pay {3}. Each creature you tap while paying this pays for {1}.)[/i]
+
+Shroud Warden
+
+Curious Chemist
+
+Frontline Victor
+
+Sanctum Deathspeaker
+
+Robber Reinforcements
+
+Serial Traitor
+
+Streetwise Surveyor
+
+Ancient Sentry
+
+Heart of Bedlam
+
+Chromatic Relic
+
+Disposable Dagger
+
+Boundless Coffers
+
+Verdant Grotto
+
+Siurne's Deceit
+
+Become the Hunted
+
+Picking Prey
+
+Blooming Champion
+
+Defend the Groves
+
+Pickpocket
+
+Offer Yourself
+
+Rial's Assault
+
+Madness of Age
+
+Backalley Insight
+rules_text: Abscond {U} [i](You may cast this spell for its abscond cost by returning a tapped creature you control to its owner's hand.)[/i]
+Draw two cards. => Abscond {1}{U} [i](You may cast this spell for its abscond cost by returning a tapped creature you control to its owner's hand.)[/i]
+Draw two cards.
+
+Sanctuary Cultivator
+
+Call for Backup
+
+Wander Into the Grove
+
+City's Memory
+
+Seasoned Hunter
+
+Het, False God
+
+Cultist Cathedral
+
+Heretic Hideout
+
+Abandoned Quarter
+
+Bustling Docks
+
+black and green Mercenary 11VLR
+
+The Shrouded Seas
+
+Valiant Inciter
+
+Tesh, Fragmented Founder
+cost: {4} => {3}
+rules_text: When Tesh enters, if it didn't escape, sacrifice it at the beginning of the next end step.
+[-1]: Draw a card, then surveil 2. You gain 3 life.
+[-2]: Each opponent loses 4 life unless that player exiles a nonland permanent they control or a card from their hand.
+[-3]: Create three 1/1 colorless Spirit creature tokens.
+Escape—{4}, Exile another legendary card from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i] => When Tesh enters, if it didn't escape, sacrifice it at the beginning of the next end step.
+[-1]: Draw a card, then surveil 2. You gain 3 life.
+[-2]: Create two 1/1 colorless Spirit creature tokens.
+[-3]: Each opponent loses 3 life unless that player exiles a nonland permanent they control or a card from their hand.
+Escape—{4}, Exile another legendary card from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i]
+special_text: When Tesh enters, if it didn't escape, sacrifice it at the beginning of the next end step.
+[-1]: Draw a card, then surveil 2. You gain 3 life.
+[-2]: Each opponent loses 4 life unless that player exiles a nonland permanent they control or a card from their hand.
+[-3]: Create three 1/1 colorless Spirit creature tokens.
+Escape—{4}, Exile another legendary card from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i] => When Tesh enters, if it didn't escape, sacrifice it at the beginning of the next end step.
+[-1]: Draw a card, then surveil 2. You gain 3 life.
+[-2]: Create two 1/1 colorless Spirit creature tokens.
+[-3]: Each opponent loses 3 life unless that player exiles a nonland permanent they control or a card from their hand.
+Escape—{4}, Exile another legendary card from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i]
+
+Sahra, Siege Captain
+
+Scaled Spellthief
+
+Volwood Reclaimer
+
+Ascended Prophet
+
+Rogue's Gloves
+
+Umber Uniter
+
+Sanctum Sneak
+
+Nal Bloodweaver
+
+The Founder's Cage
+
+Secluded Courtyard
+
+Glimpse the Bigger Picture
+cost: {1}{B} => {1}{B}{B}
+rules_text: You may reveal a card you own from outside the game or choose a face-up card you own in exile. Put that card into your hand.
+Escape—{1}{B}{B}, Pay 3 life. [i](You may cast this card from your graveyard for its escape cost.)[/i] => You may reveal a card you own from outside the game or choose a face-up card you own in exile. Put that card into your hand. You lose 2 life.
+Escape—{1}{B}{B}, Exile five other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i]
+
+Ery, Concord Archdruid
+
+Barkscale Strategist
+
+Malicious Pactmaker
+
+Observant Acquisitor
+
+Evrax, the Last
+
+Delias, Savvy Smuggler
+
+Volwood Renewer
+
+Backalley Dealer
+
+Guild Exterminator
+
+Sanctum Intruder
+
+Apothecary's Quarters
+
+Schemer's Study
+
+Sketchy Slum
+
+Backalley Market
+
+Alchemist's Office
+
+Haunting Alley
+
+Humming Furnace
+
+Moonlit Marsh
+
+Mistbomb
+
+Scrounging Sensor
+
+Taken Alive
+
+Sunset Siegebreakers
+
+Empowered Initiate
+
+Duplicity
+rules_text: Abscond {1}{U} [i](You may cast this spell for its abscond cost by returning a tapped creature you control to its owner's hand.)[/i]
+Create a token that's a copy of target creature, except it isn't legendary. => Abscond {1}{U} [i](You may cast this spell for its abscond cost by returning a tapped creature you control to its owner's hand.)[/i]
+Create a token that's a copy of target creature, except it isn't legendary. [i](You can't target the absconding creature.)[/i]
+
+Sunder the Cage
+
+Spite of the Founder
+
+colorless Spirit 11VLR
+
+red and white Rebel 11VLR
+
+green and blue Druid 22VLR
+
+Treasure VLR
+
+Liberated Rallier
+
+Getaway Expert
+
+Adept Grovewarden
+
+Depart
+rules_text: Exile target nonland permanent with mana value X or less.
+Escape—{3}{W}, Exile X other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i] => Exile target nonland permanent with mana value X or less.
+Escape—{2}{W}{W}, Exile X other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i]
+
+Split the Loot
+
+Revenge Killing
+rules_text: Revenge Killing deals X damage to any nonplayer target.
+Escape—{3}{R}, Exile X other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i] => Revenge Killing deals X damage to any nonplayer target.
+Escape—{3}{R}{R}, Exile X other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i]
+
+Sunset Summons
+
+Leybound Ritualist
+rules_text: At the beginning of your end step, for each five permanents you control, mill a card. Create a 2/2 green and blue Druid creature token with vigilance for each creature card milled this way, then return each land card milled this way to the battlefield tapped. => At the beginning of your end step, for each five tapped permanents you control, mill a card. Create a 2/2 green and blue Druid creature token with vigilance for each creature card milled this way, then return each land card milled this way to the battlefield tapped.
+pt: 2/2 => 3/3
+
+Renegade Champion
+rules_text: Creatures can't be sacrificed.
+Creatures tokens can't block.
+[i]Momentum[/i] — Whenever you cast a creature spell, target creature you control gains first strike until end of turn. => Players can't sacrifice creatures to cast spells or activate abilities.
+Creatures tokens can't block.
+[i]Momentum[/i] — Whenever you cast a creature spell, target creature you control gains first strike until end of turn.
+
+Renegade Survivalist
+
+Wharf Patrol
+
+Orlen, Untouchable
+
+Torel, Scion of Rot
+
+South-District Chaplain
+
+Sanctum Enforcer
+
+Autonomous Accomplice
+
+Skulker's Cowl
+
+Bounty Board VLR
+
+High Priestess Symi
+
+In Tune
+
+Winding Assailant
+
+Rebellious Recruiter
+
+Setral Arborist
+
+Scurrying Pickpocket
+
+Malicious Throng
+
+Acolyte VLR
+
+Coffers Altar
+
+Expert Infiltration
+
+Race for the Kill
+
+Unending Uprising
+
+Semmaroot Balm
+
+Profane Scripture
+rules_text: As an additional cost to cast this spell, sacrifice any number of creatures.
+Search your library for a nonland card with mana value less than or equal to 1 plus the number of creatures sacrificed to cast this spell, exile it, then shuffle. Cast the exiled card without paying its mana cost. => As an additional cost to cast this spell, sacrifice any number of creatures.
+Search your library for a nonland card with mana value less than or equal to 1 plus the number of creatures sacrificed to cast this spell, exile it, then shuffle. You may cast the exiled card without paying its mana cost.
+
+Eerie Congregation
+
+Prized Possession
+
+On Top of the World
+
+Find Your Prey
+
+Wanton Destruction
+
+Rally the Rabble
+
+Siurne's Blessing
+
+Herbal Remedy
+
+Memoriam
+
+Rites of Equilibrium
+
+What's Yours Is Mine
+
+Rise Up
+
+Restoration Efforts
+
+Corrupted Sanctum
+
+Renegade Trueheart
+
+Arital, Grand Adjudicator
+
+Orliss of the Elite
+
+Surola, Loyal Preacher
+
+Into Eternity
+type: Instant => Sorcery
+
+Beseech the Dead
+
+Marle, Vicuro Head
+
+Waylen, Bloodhunter
+
+Ivari, Liberated Mentor
+
+Loresk, Ever-Curious
+pt: 2/2 => 3/4
+
+Aspiring Elite
+
+Tireless Refutation
+
+Siurne, Eternal Sentinel
+
+Leiowen, Escape Artist
+
+Soya, Nal Executioner
+
+Vie, Sunset Hero
+
+The Setral Shaper
+
+Balance the Pattern
+
+Planar Archives
+
+Copy VLR
+
+red Skeleton Dragon 55VLR
+
+
+VERSION 6 CHANGELOG
 ====================
 
 Boundless Coffers added.
