@@ -23,7 +23,7 @@
 		{
 			"name": "Renegade Rescuers",
 			"rarity": "common",
-			"mana_cost": "{2}{W}",
+			"mana_cost": "{4}{W}",
 			"type": "Creature — Human Rebel",
 			"collector_number": "19",
 			"image_uris": {
@@ -83,7 +83,7 @@
 		{
 			"name": "Sanctum Purifier",
 			"rarity": "common",
-			"mana_cost": "{1}{W/B}{U}",
+			"mana_cost": "{W/B}{U}",
 			"type": "Creature — Snake Warlock",
 			"collector_number": "234",
 			"image_uris": {
@@ -243,7 +243,7 @@
 		{
 			"name": "Intangibility",
 			"rarity": "common",
-			"mana_cost": "{U}",
+			"mana_cost": "{1}{U}",
 			"type": "Instant",
 			"collector_number": "48",
 			"image_uris": {
@@ -535,9 +535,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "275",
+			"collector_number": "277",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/275_The Volwood.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/277_The Volwood.jpg"
 			}
 		},
 		{
@@ -635,9 +635,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "264",
+			"collector_number": "265",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/264_Forgotten Foundation.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/265_Forgotten Foundation.jpg"
 			}
 		},
 		{
@@ -694,7 +694,7 @@
 			"name": "Flee",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
-			"type": "Instant",
+			"type": "Sorcery",
 			"collector_number": "108",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/108_Flee.jpg"
@@ -703,7 +703,7 @@
 		{
 			"name": "Patrol Veteran",
 			"rarity": "uncommon",
-			"mana_cost": "{R}{G}",
+			"mana_cost": "{1}{R}{G}",
 			"type": "Creature — Human Rebel",
 			"collector_number": "189",
 			"image_uris": {
@@ -783,7 +783,7 @@
 		{
 			"name": "Tainted Stalker",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{G}{G}",
+			"mana_cost": "{2}{G}",
 			"type": "Creature — Treefolk Mercenary",
 			"collector_number": "158",
 			"image_uris": {
@@ -793,7 +793,7 @@
 		{
 			"name": "Titanic Mycoid",
 			"rarity": "common",
-			"mana_cost": "{5}{G}",
+			"mana_cost": "{6}{G}",
 			"type": "Creature — Giant Fungus",
 			"collector_number": "161",
 			"image_uris": {
@@ -1033,7 +1033,7 @@
 		{
 			"name": "Make a Break For It",
 			"rarity": "mythic",
-			"mana_cost": "{1}{B}",
+			"mana_cost": "{2}{B}",
 			"type": "Enchantment",
 			"collector_number": "83",
 			"image_uris": {
@@ -1173,7 +1173,7 @@
 		{
 			"name": "Rooftop Hunter",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{R}{G}",
+			"mana_cost": "{R}{G}",
 			"type": "Creature — Human Mercenary",
 			"collector_number": "198",
 			"image_uris": {
@@ -1183,7 +1183,7 @@
 		{
 			"name": "Explosive Exit",
 			"rarity": "rare",
-			"mana_cost": "{3}{R}",
+			"mana_cost": "{2}{R}{R}",
 			"type": "Sorcery",
 			"collector_number": "107",
 			"image_uris": {
@@ -1203,7 +1203,7 @@
 		{
 			"name": "Outskirts Sureshot",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{G}",
+			"mana_cost": "{3}{G}",
 			"type": "Creature — Cat Mercenary",
 			"collector_number": "147",
 			"image_uris": {
@@ -1485,19 +1485,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "259",
+			"collector_number": "260",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/259_Boundless Coffers.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/260_Boundless Coffers.jpg"
 			}
 		},
 		{
 			"name": "Verdant Grotto",
-			"rarity": "rare",
+			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "274",
+			"collector_number": "276",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/274_Verdant Grotto.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/276_Verdant Grotto.jpg"
 			}
 		},
 		{
@@ -1634,7 +1634,7 @@
 			"name": "City's Memory",
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
-			"type": "Instant",
+			"type": "Sorcery",
 			"collector_number": "7",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/7_City's Memory.jpg"
@@ -1653,7 +1653,7 @@
 		{
 			"name": "Het, False God",
 			"rarity": "mythic",
-			"mana_cost": "{5}{U}{U}",
+			"mana_cost": "{6}{U}{U}",
 			"type": "Legendary Creature — Elder Spirit",
 			"collector_number": "47",
 			"image_uris": {
@@ -1662,42 +1662,42 @@
 		},
 		{
 			"name": "Cultist Cathedral",
-			"rarity": "rare",
+			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "262",
+			"collector_number": "263",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/262_Cultist Cathedral.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/263_Cultist Cathedral.jpg"
 			}
 		},
 		{
 			"name": "Heretic Hideout",
-			"rarity": "rare",
+			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "266",
+			"collector_number": "267",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/266_Heretic Hideout.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/267_Heretic Hideout.jpg"
 			}
 		},
 		{
 			"name": "Abandoned Quarter",
-			"rarity": "rare",
+			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "255",
+			"collector_number": "256",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/255_Abandoned Quarter.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/256_Abandoned Quarter.jpg"
 			}
 		},
 		{
 			"name": "Bustling Docks",
-			"rarity": "rare",
+			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "260",
+			"collector_number": "261",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/260_Bustling Docks.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/261_Bustling Docks.jpg"
 			}
 		},
 		{
@@ -1715,9 +1715,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "272",
+			"collector_number": "273",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/272_The Shrouded Seas.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/273_The Shrouded Seas.jpg"
 			}
 		},
 		{
@@ -1763,7 +1763,7 @@
 		{
 			"name": "Volwood Reclaimer",
 			"rarity": "mythic",
-			"mana_cost": "{3}{G}{G}",
+			"mana_cost": "{2}{G}{G}",
 			"type": "Creature — Treefolk Rebel",
 			"collector_number": "166",
 			"image_uris": {
@@ -1785,9 +1785,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "251",
+			"collector_number": "252",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/251_Rogue's Gloves.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/252_Rogue's Gloves.jpg"
 			}
 		},
 		{
@@ -1824,7 +1824,7 @@
 			"name": "The Founder's Cage",
 			"rarity": "mythic",
 			"mana_cost": "{2}",
-			"type": "Legendary Artifact — Equipment",
+			"type": "Legendary Artifact",
 			"collector_number": "247",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/247_The Founder's Cage.jpg"
@@ -1835,9 +1835,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "271",
+			"collector_number": "272",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/271_Secluded Courtyard.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/272_Secluded Courtyard.jpg"
 			}
 		},
 		{
@@ -1881,13 +1881,13 @@
 			}
 		},
 		{
-			"name": "Observant Acquisitor",
+			"name": "Observant Infiltrator",
 			"rarity": "rare",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Cat Rogue",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/86_Observant Acquisitor.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/86_Observant Infiltrator.jpg"
 			}
 		},
 		{
@@ -1955,9 +1955,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "257",
+			"collector_number": "258",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/257_Apothecary's Quarters.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/258_Apothecary's Quarters.jpg"
 			}
 		},
 		{
@@ -1965,9 +1965,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "270",
+			"collector_number": "271",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/270_Schemer's Study.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/271_Schemer's Study.jpg"
 			}
 		},
 		{
@@ -1975,9 +1975,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "273",
+			"collector_number": "274",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/273_Sketchy Slum.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/274_Sketchy Slum.jpg"
 			}
 		},
 		{
@@ -1985,9 +1985,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "258",
+			"collector_number": "259",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/258_Backalley Market.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/259_Backalley Market.jpg"
 			}
 		},
 		{
@@ -1995,9 +1995,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "263",
+			"collector_number": "264",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/263_Flourishing Garden.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/264_Flourishing Garden.jpg"
 			}
 		},
 		{
@@ -2005,9 +2005,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "256",
+			"collector_number": "257",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/256_Alchemist's Office.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/257_Alchemist's Office.jpg"
 			}
 		},
 		{
@@ -2015,9 +2015,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "265",
+			"collector_number": "266",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/265_Haunting Alley.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/266_Haunting Alley.jpg"
 			}
 		},
 		{
@@ -2025,9 +2025,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "267",
+			"collector_number": "268",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/267_Humming Furnace.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/268_Humming Furnace.jpg"
 			}
 		},
 		{
@@ -2035,9 +2035,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "268",
+			"collector_number": "269",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/268_Moonlit Marsh.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/269_Moonlit Marsh.jpg"
 			}
 		},
 		{
@@ -2045,9 +2045,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "250",
+			"collector_number": "251",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/250_Mistbomb.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/251_Mistbomb.jpg"
 			}
 		},
 		{
@@ -2055,9 +2055,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Rat Construct",
-			"collector_number": "252",
+			"collector_number": "253",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/252_Scrounging Sensor.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/253_Scrounging Sensor.jpg"
 			}
 		},
 		{
@@ -2083,7 +2083,7 @@
 		{
 			"name": "Empowered Initiate",
 			"rarity": "rare",
-			"mana_cost": "{3}{U}",
+			"mana_cost": "{6}{U}",
 			"type": "Creature — Azra Warlock",
 			"collector_number": "44",
 			"image_uris": {
@@ -2183,7 +2183,7 @@
 		{
 			"name": "Adept Grovewarden",
 			"rarity": "rare",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{1}{U}",
 			"type": "Creature — Cat Druid",
 			"collector_number": "35",
 			"image_uris": {
@@ -2214,7 +2214,7 @@
 			"name": "Revenge Killing",
 			"rarity": "rare",
 			"mana_cost": "{X}{R}",
-			"type": "Instant",
+			"type": "Sorcery",
 			"collector_number": "119",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/119_Revenge Killing.jpg"
@@ -2265,9 +2265,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "254",
+			"collector_number": "255",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/254_Wharf Patrol.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/255_Wharf Patrol.jpg"
 			}
 		},
 		{
@@ -2325,9 +2325,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact — Equipment",
-			"collector_number": "253",
+			"collector_number": "254",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/253_Skulker's Cowl.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/254_Skulker's Cowl.jpg"
 			}
 		},
 		{
@@ -2453,7 +2453,7 @@
 		{
 			"name": "Unending Uprising",
 			"rarity": "rare",
-			"mana_cost": "{R/W}{G}",
+			"mana_cost": "{1}{R/W}{G}",
 			"type": "Enchantment",
 			"collector_number": "239",
 			"image_uris": {
@@ -2464,7 +2464,7 @@
 			"name": "Semmaroot Balm",
 			"rarity": "rare",
 			"mana_cost": "{G/U}{W}",
-			"type": "Sorcery",
+			"type": "Instant",
 			"collector_number": "236",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/236_Semmaroot Balm.jpg"
@@ -2503,8 +2503,8 @@
 		{
 			"name": "On Top of the World",
 			"rarity": "rare",
-			"mana_cost": "{U}{B}{R}",
-			"type": "Instant",
+			"mana_cost": "{1}{U}{B}{R}",
+			"type": "Sorcery",
 			"collector_number": "186",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/186_On Top of the World.jpg"
@@ -2563,7 +2563,7 @@
 		{
 			"name": "Memoriam",
 			"rarity": "mythic",
-			"mana_cost": "{B}{R}{G}",
+			"mana_cost": "{2}{B}{R}{G}",
 			"type": "Enchantment",
 			"collector_number": "182",
 			"image_uris": {
@@ -2583,7 +2583,7 @@
 		{
 			"name": "What's Yours Is Mine",
 			"rarity": "mythic",
-			"mana_cost": "{2}{U}{B}{R}",
+			"mana_cost": "{1}{U}{B}{R}",
 			"type": "Enchantment",
 			"collector_number": "215",
 			"image_uris": {
@@ -2593,7 +2593,7 @@
 		{
 			"name": "Rise Up",
 			"rarity": "mythic",
-			"mana_cost": "{1}{R}{G}{W}",
+			"mana_cost": "{2}{R}{G}{W}",
 			"type": "Enchantment",
 			"collector_number": "195",
 			"image_uris": {
@@ -2615,9 +2615,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "261",
+			"collector_number": "262",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/261_Corrupted Sanctum.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/262_Corrupted Sanctum.jpg"
 			}
 		},
 		{
@@ -2664,7 +2664,7 @@
 			"name": "Into Eternity",
 			"rarity": "rare",
 			"mana_cost": "{X}{U}",
-			"type": "Sorcery",
+			"type": "Instant",
 			"collector_number": "49",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/49_Into Eternity.jpg"
@@ -2723,7 +2723,7 @@
 		{
 			"name": "Aspiring Elite",
 			"rarity": "mythic",
-			"mana_cost": "{R}",
+			"mana_cost": "{2}{R}",
 			"type": "Creature — Cat Mercenary",
 			"collector_number": "101",
 			"image_uris": {
@@ -2840,9 +2840,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "279",
+			"collector_number": "281",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/279_Mountain_VLR.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/281_Mountain_VLR.jpg"
 			}
 		},
 		{
@@ -2850,9 +2850,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
-			"collector_number": "278",
+			"collector_number": "280",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/278_Swamp_VLR.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/280_Swamp_VLR.jpg"
 			}
 		},
 		{
@@ -2860,9 +2860,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
-			"collector_number": "276",
+			"collector_number": "278",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/276_Plains_VLR.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/278_Plains_VLR.jpg"
 			}
 		},
 		{
@@ -2870,9 +2870,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
-			"collector_number": "277",
+			"collector_number": "279",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/277_Island_VLR.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/279_Island_VLR.jpg"
 			}
 		},
 		{
@@ -2880,9 +2880,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "280",
+			"collector_number": "282",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/280_Forest_VLR.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/282_Forest_VLR.jpg"
 			}
 		},
 		{
@@ -2890,9 +2890,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "269",
+			"collector_number": "270",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/269_Planar Archives.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/270_Planar Archives.jpg"
 			}
 		},
 		{
@@ -2924,858 +2924,885 @@
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/12_Makeshift Justice.jpg"
 			}
+		},
+		{
+			"name": "Tomb of the Founder",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/275_Tomb of the Founder.jpg"
+			}
+		},
+		{
+			"name": "Memorial to the First Shaper",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/250_Memorial to the First Shaper.jpg"
+			}
 		}
 	]
 
 [rare(1)]
-	2 Sanctum Judge
-	1 Make a Break For It
-	2 Explosive Exit
-	2 Windborn Chaplain
-	2 Kane, Volwood Valiant
-	2 Heart of Bedlam
-	2 Verdant Grotto
-	2 Seasoned Hunter
-	1 Het, False God
-	2 Cultist Cathedral
-	2 Heretic Hideout
-	2 Abandoned Quarter
-	2 Bustling Docks
-	2 The Shrouded Seas
-	2 Valiant Inciter
-	1 Tesh, Fragmented Founder
-	1 Sahra, Siege Captain
-	2 Scaled Spellthief
-	1 Volwood Reclaimer
-	2 Umber Uniter
-	2 Nal Bloodweaver
-	1 The Founder's Cage
-	2 Glimpse the Bigger Picture
-	1 Ery, Concord Archdruid
-	2 Barkscale Strategist
-	2 Malicious Pactmaker
-	2 Observant Acquisitor
-	2 Evrax, the Last
-	2 Volwood Renewer
-	2 Backalley Dealer
-	2 Guild Exterminator
-	2 Taken Alive
-	2 Sunset Siegebreakers
-	2 Empowered Initiate
-	2 Duplicity
-	2 Spite of the Founder
-	2 Liberated Rallier
-	2 Getaway Expert
-	2 Adept Grovewarden
-	2 Depart
-	2 Revenge Killing
-	2 Sunset Summons
-	2 Leybound Ritualist
-	2 Renegade Champion
-	1 Orlen, Untouchable
-	2 Torel, Scion of Rot
-	2 In Tune
-	2 Winding Assailant
-	2 Rebellious Recruiter
-	2 Setral Arborist
-	2 Scurrying Pickpocket
-	2 Malicious Throng
-	2 Coffers Altar
-	2 Expert Infiltration
-	2 Race for the Kill
-	2 Unending Uprising
-	2 Semmaroot Balm
-	2 Profane Scripture
-	2 Eerie Congregation
-	2 Prized Possession
-	2 On Top of the World
-	2 Find Your Prey
-	2 Wanton Destruction
-	2 Rally the Rabble
-	2 Siurne's Blessing
-	2 Herbal Remedy
-	1 Memoriam
-	1 Rites of Equilibrium
-	1 What's Yours Is Mine
-	1 Rise Up
-	1 Restoration Efforts
-	1 Arital, Grand Adjudicator
-	1 Orliss of the Elite
-	2 Surola, Loyal Preacher
-	2 Into Eternity
-	2 Beseech the Dead
-	2 Marle, Vicuro Head
-	1 Aspiring Elite
-	1 Siurne, Eternal Sentinel
-	1 Leiowen, Escape Artist
-	1 Soya, Nal Executioner
-	1 Vie, Sunset Hero
-	1 The Setral Shaper
-	1 Balance the Pattern
+	10 Sanctum Judge
+	5 Make a Break For It
+	10 Explosive Exit
+	10 Windborn Chaplain
+	10 Kane, Volwood Valiant
+	10 Heart of Bedlam
+	10 Seasoned Hunter
+	5 Het, False God
+	10 The Shrouded Seas
+	10 Valiant Inciter
+	5 Tesh, Fragmented Founder
+	5 Sahra, Siege Captain
+	10 Scaled Spellthief
+	5 Volwood Reclaimer
+	10 Umber Uniter
+	10 Nal Bloodweaver
+	5 The Founder's Cage
+	10 Glimpse the Bigger Picture
+	5 Ery, Concord Archdruid
+	10 Barkscale Strategist
+	10 Malicious Pactmaker
+	10 Observant Infiltrator
+	10 Evrax, the Last
+	10 Volwood Renewer
+	10 Backalley Dealer
+	10 Guild Exterminator
+	10 Taken Alive
+	10 Sunset Siegebreakers
+	10 Empowered Initiate
+	10 Duplicity
+	10 Spite of the Founder
+	10 Liberated Rallier
+	10 Getaway Expert
+	10 Adept Grovewarden
+	10 Depart
+	10 Revenge Killing
+	10 Sunset Summons
+	10 Leybound Ritualist
+	10 Renegade Champion
+	5 Orlen, Untouchable
+	10 Torel, Scion of Rot
+	10 In Tune
+	10 Winding Assailant
+	10 Rebellious Recruiter
+	10 Setral Arborist
+	10 Scurrying Pickpocket
+	10 Malicious Throng
+	10 Coffers Altar
+	10 Expert Infiltration
+	10 Race for the Kill
+	10 Unending Uprising
+	10 Semmaroot Balm
+	10 Profane Scripture
+	10 Eerie Congregation
+	10 Prized Possession
+	10 On Top of the World
+	10 Find Your Prey
+	10 Wanton Destruction
+	10 Rally the Rabble
+	10 Siurne's Blessing
+	10 Herbal Remedy
+	5 Memoriam
+	5 Rites of Equilibrium
+	5 What's Yours Is Mine
+	5 Rise Up
+	5 Restoration Efforts
+	5 Arital, Grand Adjudicator
+	5 Orliss of the Elite
+	10 Surola, Loyal Preacher
+	10 Into Eternity
+	10 Beseech the Dead
+	10 Marle, Vicuro Head
+	5 Aspiring Elite
+	5 Siurne, Eternal Sentinel
+	5 Leiowen, Escape Artist
+	5 Soya, Nal Executioner
+	5 Vie, Sunset Hero
+	5 The Setral Shaper
+	5 Balance the Pattern
+	10 Tomb of the Founder
+	10 Memorial to the First Shaper
 [uncommon(3)]
-	4 Aspiring Shaper
-	4 Chapel Patrol
-	4 One Quiet Moment
-	4 Protect the Pattern
-	4 Surround
-	4 Consult the Offerings
-	4 Listen In
-	4 Mischievous Thief
-	4 Perfect Plan
-	4 Sanctum Sacrament
-	4 Fight For What's Right
-	4 Nimble Getaway
-	4 Runaway Corvid
-	4 Evasive Flourish
-	4 Bloodletting
-	4 Avarice
-	4 It's Just Business
-	4 Skittering Striker
-	4 The Volwood
-	4 Renegade's Volley
-	4 Flee
-	4 Patrol Veteran
-	4 Dormant Godkiller
-	4 Tainted Stalker
-	4 Shroudpiercer
-	4 Trespass the Volwood
-	4 Old-Growth Protector
-	4 Stalwart Grovespeaker
-	4 Overseer's Chosen
-	4 Sunset Elite
-	4 Invigorating Concoction
-	4 Vicuro Informant
-	4 Rooftop Runner
-	4 Overseer's Entrancer
-	4 Shrouded Ritualist
-	4 Observe the Pattern
-	4 Beneath the Tide
-	4 Rooftop Prowler
-	4 Leonin Striker
-	4 Shady Schemer
-	4 Forsaken Shroudguard
-	4 Tunnel Prowler
-	4 Lumbering Corruptor
-	4 Jump the Gap
-	4 Slippery Tomethief
-	4 Wistful Runaway
-	4 Daring Escapees
-	4 Killer-for-Hire
-	4 Guild Hireling
-	4 Rooftop Hunter
-	4 Culvert Inspector
-	4 Outskirts Sureshot
-	4 Creeping Overgrowth
-	4 Incursion Hero
-	4 Renegade's Intercession
-	4 Herbalist's Satchel
-	4 Volwood Liberator
-	4 Life from Death
-	4 Elite Executioner
-	4 Setral Guardian
-	4 Chapel Attendant
-	4 Profane Gathering
-	4 Go for the Gut
-	4 Liberation
-	4 Umber Grovetender
-	4 Curious Chemist
-	4 Frontline Victor
-	4 Sanctum Deathspeaker
-	4 Robber Reinforcements
-	4 Ancient Sentry
-	4 Boundless Coffers
-	4 Siurne's Deceit
-	4 Become the Hunted
-	4 Blooming Champion
-	4 Defend the Groves
-	4 Pickpocket
-	4 Offer Yourself
-	4 Madness of Age
-	4 Sanctuary Cultivator
-	4 Call for Backup
-	4 Wander Into the Grove
-	4 City's Memory
-	4 Ascended Prophet
-	4 Rogue's Gloves
-	4 Secluded Courtyard
-	4 Delias, Savvy Smuggler
-	4 Sanctum Intruder
-	4 Mistbomb
-	4 Sunder the Cage
-	4 Split the Loot
-	4 Renegade Survivalist
-	4 Wharf Patrol
-	4 South-District Chaplain
-	4 Skulker's Cowl
-	4 High Priestess Symi
-	4 Renegade Trueheart
-	4 Waylen, Bloodhunter
-	4 Ivari, Liberated Mentor
-	4 Loresk, Ever-Curious
-	4 Tireless Refutation
+	20 Aspiring Shaper
+	20 Chapel Patrol
+	20 One Quiet Moment
+	20 Protect the Pattern
+	20 Surround
+	20 Consult the Offerings
+	20 Listen In
+	20 Mischievous Thief
+	20 Perfect Plan
+	20 Sanctum Sacrament
+	20 Fight For What's Right
+	20 Nimble Getaway
+	20 Runaway Corvid
+	20 Evasive Flourish
+	20 Bloodletting
+	20 Avarice
+	20 It's Just Business
+	20 Skittering Striker
+	20 The Volwood
+	20 Renegade's Volley
+	20 Flee
+	20 Patrol Veteran
+	20 Dormant Godkiller
+	20 Tainted Stalker
+	20 Shroudpiercer
+	20 Trespass the Volwood
+	20 Old-Growth Protector
+	20 Stalwart Grovespeaker
+	20 Overseer's Chosen
+	20 Sunset Elite
+	20 Invigorating Concoction
+	20 Vicuro Informant
+	20 Rooftop Runner
+	20 Overseer's Entrancer
+	20 Shrouded Ritualist
+	20 Observe the Pattern
+	20 Beneath the Tide
+	20 Rooftop Prowler
+	20 Leonin Striker
+	20 Shady Schemer
+	20 Forsaken Shroudguard
+	20 Tunnel Prowler
+	20 Lumbering Corruptor
+	20 Jump the Gap
+	20 Slippery Tomethief
+	20 Wistful Runaway
+	20 Daring Escapees
+	20 Killer-for-Hire
+	20 Guild Hireling
+	20 Rooftop Hunter
+	20 Culvert Inspector
+	20 Outskirts Sureshot
+	20 Creeping Overgrowth
+	20 Incursion Hero
+	20 Renegade's Intercession
+	20 Herbalist's Satchel
+	20 Volwood Liberator
+	20 Life from Death
+	20 Elite Executioner
+	20 Setral Guardian
+	20 Chapel Attendant
+	20 Profane Gathering
+	20 Go for the Gut
+	20 Liberation
+	20 Umber Grovetender
+	20 Curious Chemist
+	20 Frontline Victor
+	20 Sanctum Deathspeaker
+	20 Robber Reinforcements
+	20 Ancient Sentry
+	20 Boundless Coffers
+	20 Verdant Grotto
+	20 Siurne's Deceit
+	20 Become the Hunted
+	20 Blooming Champion
+	20 Defend the Groves
+	20 Pickpocket
+	20 Offer Yourself
+	20 Madness of Age
+	20 Sanctuary Cultivator
+	20 Call for Backup
+	20 Wander Into the Grove
+	20 City's Memory
+	20 Cultist Cathedral
+	20 Heretic Hideout
+	20 Abandoned Quarter
+	20 Bustling Docks
+	20 Ascended Prophet
+	20 Rogue's Gloves
+	20 Secluded Courtyard
+	20 Delias, Savvy Smuggler
+	20 Sanctum Intruder
+	20 Mistbomb
+	20 Sunder the Cage
+	20 Split the Loot
+	20 Renegade Survivalist
+	20 Wharf Patrol
+	20 South-District Chaplain
+	20 Skulker's Cowl
+	20 High Priestess Symi
+	20 Renegade Trueheart
+	20 Waylen, Bloodhunter
+	20 Ivari, Liberated Mentor
+	20 Loresk, Ever-Curious
+	20 Tireless Refutation
 [common(7)]
-	8 Fledgling Sycophant
-	8 Weapon Hawker
-	8 Renegade Rescuers
-	8 Reclaimed Convert
-	8 Enigmatic Apothecary
-	8 Grove Sentry
-	8 Planar Scholar
-	8 Sanctum Purifier
-	8 Stand as One
-	8 Shaper's Rites
-	8 Overseer's Thrall
-	8 South-District Pilferer
-	8 Tempting Recruiter
-	8 Skybound Sentry
-	8 Verdure Curator
-	8 Vicuro Pathmaker
-	8 Blessed Convert
-	8 Heist Lookout
-	8 Intangibility
-	8 Eavesdrop
-	8 Wretched Propaganda
-	8 Congregation Minister
-	8 Attuned Rebuttal
-	8 South-Street Scoundrel
-	8 Moonlit Runaway
-	8 Scheming Corvid
-	8 Beyond the Shroud
-	8 Skittering Swiftblade
-	8 Crypt Caretaker
-	8 Stalking Ashblood
-	8 Volwood Proselytizer
-	8 In Cold Blood
-	8 Covet
-	8 Tragic Accident
-	8 Hymn of the Overseer
-	8 Sunset Recruit
-	8 Thoroughfare Busker
-	8 Nimble Thief
-	8 Incursion Vanguard
-	8 Nal Newcomer
-	8 Due Reward
-	8 Liberated Convert
-	8 Contract Killer
-	8 Snatch Away
-	8 Forgotten Foundation
-	8 Tear Down
-	8 Dagger Toss
-	8 Spice of Life
-	8 Yoink!
-	8 Leonin Revivalist
-	8 Spit Venom
-	8 Sunset Scout
-	8 Volwood Forerunner
-	8 Verdant Sentry
-	8 Scaled Mentor
-	8 Titanic Mycoid
-	8 Hired Hand
-	8 Flourishing Seedling
-	8 Gutter Rat
-	8 Courageous Clash
-	8 Take in the Haul
-	8 Unbridled Flourishing
-	8 Poison the Blade
-	8 Setral Grovetender
-	8 Overseer's Shackles
-	8 Lurking Voidborn
-	8 Shroud Warden
-	8 Concord Alchemist
-	8 Serial Traitor
-	8 Streetwise Surveyor
-	8 Chromatic Relic
-	8 Disposable Dagger
-	8 Picking Prey
-	8 Rial's Assault
-	8 Backalley Insight
-	8 Sanctum Sneak
-	8 Apothecary's Quarters
-	8 Schemer's Study
-	8 Sketchy Slum
-	8 Backalley Market
-	8 Flourishing Garden
-	8 Alchemist's Office
-	8 Haunting Alley
-	8 Humming Furnace
-	8 Moonlit Marsh
-	8 Scrounging Sensor
-	8 Sanctum Enforcer
-	8 Autonomous Accomplice
-	8 Corrupted Sanctum
-	8 Planar Archives
-	8 Makeshift Justice
+	40 Fledgling Sycophant
+	40 Weapon Hawker
+	40 Renegade Rescuers
+	40 Reclaimed Convert
+	40 Enigmatic Apothecary
+	40 Grove Sentry
+	40 Planar Scholar
+	40 Sanctum Purifier
+	40 Stand as One
+	40 Shaper's Rites
+	40 Overseer's Thrall
+	40 South-District Pilferer
+	40 Tempting Recruiter
+	40 Skybound Sentry
+	40 Verdure Curator
+	40 Vicuro Pathmaker
+	40 Blessed Convert
+	40 Heist Lookout
+	40 Intangibility
+	40 Eavesdrop
+	40 Wretched Propaganda
+	40 Congregation Minister
+	40 Attuned Rebuttal
+	40 South-Street Scoundrel
+	40 Moonlit Runaway
+	40 Scheming Corvid
+	40 Beyond the Shroud
+	40 Skittering Swiftblade
+	40 Crypt Caretaker
+	40 Stalking Ashblood
+	40 Volwood Proselytizer
+	40 In Cold Blood
+	40 Covet
+	40 Tragic Accident
+	40 Hymn of the Overseer
+	40 Sunset Recruit
+	40 Thoroughfare Busker
+	40 Nimble Thief
+	40 Incursion Vanguard
+	40 Nal Newcomer
+	40 Due Reward
+	40 Liberated Convert
+	40 Contract Killer
+	40 Snatch Away
+	40 Forgotten Foundation
+	40 Tear Down
+	40 Dagger Toss
+	40 Spice of Life
+	40 Yoink!
+	40 Leonin Revivalist
+	40 Spit Venom
+	40 Sunset Scout
+	40 Volwood Forerunner
+	40 Verdant Sentry
+	40 Scaled Mentor
+	40 Titanic Mycoid
+	40 Hired Hand
+	40 Flourishing Seedling
+	40 Gutter Rat
+	40 Courageous Clash
+	40 Take in the Haul
+	40 Unbridled Flourishing
+	40 Poison the Blade
+	40 Setral Grovetender
+	40 Overseer's Shackles
+	40 Lurking Voidborn
+	40 Shroud Warden
+	40 Concord Alchemist
+	40 Serial Traitor
+	40 Streetwise Surveyor
+	40 Chromatic Relic
+	40 Disposable Dagger
+	40 Picking Prey
+	40 Rial's Assault
+	40 Backalley Insight
+	40 Sanctum Sneak
+	40 Apothecary's Quarters
+	40 Schemer's Study
+	40 Sketchy Slum
+	40 Backalley Market
+	40 Flourishing Garden
+	40 Alchemist's Office
+	40 Haunting Alley
+	40 Humming Furnace
+	40 Moonlit Marsh
+	40 Scrounging Sensor
+	40 Sanctum Enforcer
+	40 Autonomous Accomplice
+	40 Corrupted Sanctum
+	40 Planar Archives
+	40 Makeshift Justice
 [foil(1)]
-	12 Fledgling Sycophant
-	12 Weapon Hawker
-	12 Renegade Rescuers
-	6 Aspiring Shaper
-	12 Reclaimed Convert
-	12 Enigmatic Apothecary
-	12 Grove Sentry
-	12 Planar Scholar
-	12 Sanctum Purifier
-	6 Chapel Patrol
-	12 Stand as One
-	6 One Quiet Moment
-	6 Protect the Pattern
-	12 Shaper's Rites
-	6 Surround
-	6 Consult the Offerings
-	12 Overseer's Thrall
-	12 South-District Pilferer
-	12 Tempting Recruiter
-	12 Skybound Sentry
-	12 Verdure Curator
-	12 Vicuro Pathmaker
-	12 Blessed Convert
-	12 Heist Lookout
-	12 Intangibility
-	12 Eavesdrop
-	12 Wretched Propaganda
-	6 Listen In
-	6 Mischievous Thief
-	6 Perfect Plan
-	6 Sanctum Sacrament
-	12 Congregation Minister
-	12 Attuned Rebuttal
-	6 Fight For What's Right
-	6 Nimble Getaway
-	12 South-Street Scoundrel
-	12 Moonlit Runaway
-	12 Scheming Corvid
-	6 Runaway Corvid
-	12 Beyond the Shroud
-	12 Skittering Swiftblade
-	12 Crypt Caretaker
-	12 Stalking Ashblood
-	12 Volwood Proselytizer
-	6 Evasive Flourish
-	12 In Cold Blood
-	12 Covet
-	12 Tragic Accident
-	6 Bloodletting
-	12 Hymn of the Overseer
-	6 Avarice
-	6 It's Just Business
-	6 Skittering Striker
-	6 The Volwood
-	12 Sunset Recruit
-	12 Thoroughfare Busker
-	12 Nimble Thief
-	12 Incursion Vanguard
-	12 Nal Newcomer
-	12 Due Reward
-	12 Liberated Convert
-	12 Contract Killer
-	12 Snatch Away
-	12 Forgotten Foundation
-	12 Tear Down
-	12 Dagger Toss
-	6 Renegade's Volley
-	12 Spice of Life
-	12 Yoink!
-	6 Flee
-	6 Patrol Veteran
-	6 Dormant Godkiller
-	12 Leonin Revivalist
-	12 Spit Venom
-	12 Sunset Scout
-	12 Volwood Forerunner
-	12 Verdant Sentry
-	12 Scaled Mentor
-	6 Tainted Stalker
-	12 Titanic Mycoid
-	12 Hired Hand
-	12 Flourishing Seedling
-	12 Gutter Rat
-	12 Courageous Clash
-	12 Take in the Haul
-	12 Unbridled Flourishing
-	6 Shroudpiercer
-	6 Trespass the Volwood
-	12 Poison the Blade
-	6 Old-Growth Protector
-	6 Stalwart Grovespeaker
-	6 Overseer's Chosen
-	6 Sunset Elite
-	12 Setral Grovetender
-	2 Sanctum Judge
-	6 Invigorating Concoction
-	12 Overseer's Shackles
-	6 Vicuro Informant
-	6 Rooftop Runner
-	6 Overseer's Entrancer
-	6 Shrouded Ritualist
-	6 Observe the Pattern
-	6 Beneath the Tide
-	1 Make a Break For It
-	6 Rooftop Prowler
-	6 Leonin Striker
-	12 Lurking Voidborn
-	6 Shady Schemer
-	6 Forsaken Shroudguard
-	6 Tunnel Prowler
-	6 Lumbering Corruptor
-	6 Jump the Gap
-	6 Slippery Tomethief
-	6 Wistful Runaway
-	6 Daring Escapees
-	6 Killer-for-Hire
-	6 Guild Hireling
-	6 Rooftop Hunter
-	2 Explosive Exit
-	6 Culvert Inspector
-	6 Outskirts Sureshot
-	6 Creeping Overgrowth
-	6 Incursion Hero
-	6 Renegade's Intercession
-	6 Herbalist's Satchel
-	6 Volwood Liberator
-	6 Life from Death
-	2 Windborn Chaplain
-	6 Elite Executioner
-	2 Kane, Volwood Valiant
-	6 Setral Guardian
-	6 Chapel Attendant
-	6 Profane Gathering
-	6 Go for the Gut
-	6 Liberation
-	6 Umber Grovetender
-	12 Shroud Warden
-	6 Curious Chemist
-	6 Frontline Victor
-	12 Concord Alchemist
-	6 Sanctum Deathspeaker
-	6 Robber Reinforcements
-	12 Serial Traitor
-	12 Streetwise Surveyor
-	6 Ancient Sentry
-	2 Heart of Bedlam
-	12 Chromatic Relic
-	12 Disposable Dagger
-	6 Boundless Coffers
-	2 Verdant Grotto
-	6 Siurne's Deceit
-	6 Become the Hunted
-	12 Picking Prey
-	6 Blooming Champion
-	6 Defend the Groves
-	6 Pickpocket
-	6 Offer Yourself
-	12 Rial's Assault
-	6 Madness of Age
-	12 Backalley Insight
-	6 Sanctuary Cultivator
-	6 Call for Backup
-	6 Wander Into the Grove
-	6 City's Memory
-	2 Seasoned Hunter
-	1 Het, False God
-	2 Cultist Cathedral
-	2 Heretic Hideout
-	2 Abandoned Quarter
-	2 Bustling Docks
-	2 The Shrouded Seas
-	2 Valiant Inciter
-	1 Tesh, Fragmented Founder
-	1 Sahra, Siege Captain
-	2 Scaled Spellthief
-	1 Volwood Reclaimer
-	6 Ascended Prophet
-	6 Rogue's Gloves
-	2 Umber Uniter
-	12 Sanctum Sneak
-	2 Nal Bloodweaver
-	1 The Founder's Cage
-	6 Secluded Courtyard
-	2 Glimpse the Bigger Picture
-	1 Ery, Concord Archdruid
-	2 Barkscale Strategist
-	2 Malicious Pactmaker
-	2 Observant Acquisitor
-	2 Evrax, the Last
-	6 Delias, Savvy Smuggler
-	2 Volwood Renewer
-	2 Backalley Dealer
-	2 Guild Exterminator
-	6 Sanctum Intruder
-	12 Apothecary's Quarters
-	12 Schemer's Study
-	12 Sketchy Slum
-	12 Backalley Market
-	12 Flourishing Garden
-	12 Alchemist's Office
-	12 Haunting Alley
-	12 Humming Furnace
-	12 Moonlit Marsh
-	6 Mistbomb
-	12 Scrounging Sensor
-	2 Taken Alive
-	2 Sunset Siegebreakers
-	2 Empowered Initiate
-	2 Duplicity
-	6 Sunder the Cage
-	2 Spite of the Founder
-	2 Liberated Rallier
-	2 Getaway Expert
-	2 Adept Grovewarden
-	2 Depart
-	6 Split the Loot
-	2 Revenge Killing
-	2 Sunset Summons
-	2 Leybound Ritualist
-	2 Renegade Champion
-	6 Renegade Survivalist
-	6 Wharf Patrol
-	1 Orlen, Untouchable
-	2 Torel, Scion of Rot
-	6 South-District Chaplain
-	12 Sanctum Enforcer
-	12 Autonomous Accomplice
-	6 Skulker's Cowl
-	6 High Priestess Symi
-	2 In Tune
-	2 Winding Assailant
-	2 Rebellious Recruiter
-	2 Setral Arborist
-	2 Scurrying Pickpocket
-	2 Malicious Throng
-	2 Coffers Altar
-	2 Expert Infiltration
-	2 Race for the Kill
-	2 Unending Uprising
-	2 Semmaroot Balm
-	2 Profane Scripture
-	2 Eerie Congregation
-	2 Prized Possession
-	2 On Top of the World
-	2 Find Your Prey
-	2 Wanton Destruction
-	2 Rally the Rabble
-	2 Siurne's Blessing
-	2 Herbal Remedy
-	1 Memoriam
-	1 Rites of Equilibrium
-	1 What's Yours Is Mine
-	1 Rise Up
-	1 Restoration Efforts
-	12 Corrupted Sanctum
-	6 Renegade Trueheart
-	1 Arital, Grand Adjudicator
-	1 Orliss of the Elite
-	2 Surola, Loyal Preacher
-	2 Into Eternity
-	2 Beseech the Dead
-	2 Marle, Vicuro Head
-	6 Waylen, Bloodhunter
-	6 Ivari, Liberated Mentor
-	6 Loresk, Ever-Curious
-	1 Aspiring Elite
-	6 Tireless Refutation
-	1 Siurne, Eternal Sentinel
-	1 Leiowen, Escape Artist
-	1 Soya, Nal Executioner
-	1 Vie, Sunset Hero
-	1 The Setral Shaper
-	1 Balance the Pattern
-	12 Planar Archives
-	12 Makeshift Justice
+	60 Fledgling Sycophant
+	60 Weapon Hawker
+	60 Renegade Rescuers
+	30 Aspiring Shaper
+	60 Reclaimed Convert
+	60 Enigmatic Apothecary
+	60 Grove Sentry
+	60 Planar Scholar
+	60 Sanctum Purifier
+	30 Chapel Patrol
+	60 Stand as One
+	30 One Quiet Moment
+	30 Protect the Pattern
+	60 Shaper's Rites
+	30 Surround
+	30 Consult the Offerings
+	60 Overseer's Thrall
+	60 South-District Pilferer
+	60 Tempting Recruiter
+	60 Skybound Sentry
+	60 Verdure Curator
+	60 Vicuro Pathmaker
+	60 Blessed Convert
+	60 Heist Lookout
+	60 Intangibility
+	60 Eavesdrop
+	60 Wretched Propaganda
+	30 Listen In
+	30 Mischievous Thief
+	30 Perfect Plan
+	30 Sanctum Sacrament
+	60 Congregation Minister
+	60 Attuned Rebuttal
+	30 Fight For What's Right
+	30 Nimble Getaway
+	60 South-Street Scoundrel
+	60 Moonlit Runaway
+	60 Scheming Corvid
+	30 Runaway Corvid
+	60 Beyond the Shroud
+	60 Skittering Swiftblade
+	60 Crypt Caretaker
+	60 Stalking Ashblood
+	60 Volwood Proselytizer
+	30 Evasive Flourish
+	60 In Cold Blood
+	60 Covet
+	60 Tragic Accident
+	30 Bloodletting
+	60 Hymn of the Overseer
+	30 Avarice
+	30 It's Just Business
+	30 Skittering Striker
+	30 The Volwood
+	60 Sunset Recruit
+	60 Thoroughfare Busker
+	60 Nimble Thief
+	60 Incursion Vanguard
+	60 Nal Newcomer
+	60 Due Reward
+	60 Liberated Convert
+	60 Contract Killer
+	60 Snatch Away
+	60 Forgotten Foundation
+	60 Tear Down
+	60 Dagger Toss
+	30 Renegade's Volley
+	60 Spice of Life
+	60 Yoink!
+	30 Flee
+	30 Patrol Veteran
+	30 Dormant Godkiller
+	60 Leonin Revivalist
+	60 Spit Venom
+	60 Sunset Scout
+	60 Volwood Forerunner
+	60 Verdant Sentry
+	60 Scaled Mentor
+	30 Tainted Stalker
+	60 Titanic Mycoid
+	60 Hired Hand
+	60 Flourishing Seedling
+	60 Gutter Rat
+	60 Courageous Clash
+	60 Take in the Haul
+	60 Unbridled Flourishing
+	30 Shroudpiercer
+	30 Trespass the Volwood
+	60 Poison the Blade
+	30 Old-Growth Protector
+	30 Stalwart Grovespeaker
+	30 Overseer's Chosen
+	30 Sunset Elite
+	60 Setral Grovetender
+	10 Sanctum Judge
+	30 Invigorating Concoction
+	60 Overseer's Shackles
+	30 Vicuro Informant
+	30 Rooftop Runner
+	30 Overseer's Entrancer
+	30 Shrouded Ritualist
+	30 Observe the Pattern
+	30 Beneath the Tide
+	5 Make a Break For It
+	30 Rooftop Prowler
+	30 Leonin Striker
+	60 Lurking Voidborn
+	30 Shady Schemer
+	30 Forsaken Shroudguard
+	30 Tunnel Prowler
+	30 Lumbering Corruptor
+	30 Jump the Gap
+	30 Slippery Tomethief
+	30 Wistful Runaway
+	30 Daring Escapees
+	30 Killer-for-Hire
+	30 Guild Hireling
+	30 Rooftop Hunter
+	10 Explosive Exit
+	30 Culvert Inspector
+	30 Outskirts Sureshot
+	30 Creeping Overgrowth
+	30 Incursion Hero
+	30 Renegade's Intercession
+	30 Herbalist's Satchel
+	30 Volwood Liberator
+	30 Life from Death
+	10 Windborn Chaplain
+	30 Elite Executioner
+	10 Kane, Volwood Valiant
+	30 Setral Guardian
+	30 Chapel Attendant
+	30 Profane Gathering
+	30 Go for the Gut
+	30 Liberation
+	30 Umber Grovetender
+	60 Shroud Warden
+	30 Curious Chemist
+	30 Frontline Victor
+	60 Concord Alchemist
+	30 Sanctum Deathspeaker
+	30 Robber Reinforcements
+	60 Serial Traitor
+	60 Streetwise Surveyor
+	30 Ancient Sentry
+	10 Heart of Bedlam
+	60 Chromatic Relic
+	60 Disposable Dagger
+	30 Boundless Coffers
+	30 Verdant Grotto
+	30 Siurne's Deceit
+	30 Become the Hunted
+	60 Picking Prey
+	30 Blooming Champion
+	30 Defend the Groves
+	30 Pickpocket
+	30 Offer Yourself
+	60 Rial's Assault
+	30 Madness of Age
+	60 Backalley Insight
+	30 Sanctuary Cultivator
+	30 Call for Backup
+	30 Wander Into the Grove
+	30 City's Memory
+	10 Seasoned Hunter
+	5 Het, False God
+	30 Cultist Cathedral
+	30 Heretic Hideout
+	30 Abandoned Quarter
+	30 Bustling Docks
+	10 The Shrouded Seas
+	10 Valiant Inciter
+	5 Tesh, Fragmented Founder
+	5 Sahra, Siege Captain
+	10 Scaled Spellthief
+	5 Volwood Reclaimer
+	30 Ascended Prophet
+	30 Rogue's Gloves
+	10 Umber Uniter
+	60 Sanctum Sneak
+	10 Nal Bloodweaver
+	5 The Founder's Cage
+	30 Secluded Courtyard
+	10 Glimpse the Bigger Picture
+	5 Ery, Concord Archdruid
+	10 Barkscale Strategist
+	10 Malicious Pactmaker
+	10 Observant Infiltrator
+	10 Evrax, the Last
+	30 Delias, Savvy Smuggler
+	10 Volwood Renewer
+	10 Backalley Dealer
+	10 Guild Exterminator
+	30 Sanctum Intruder
+	60 Apothecary's Quarters
+	60 Schemer's Study
+	60 Sketchy Slum
+	60 Backalley Market
+	60 Flourishing Garden
+	60 Alchemist's Office
+	60 Haunting Alley
+	60 Humming Furnace
+	60 Moonlit Marsh
+	30 Mistbomb
+	60 Scrounging Sensor
+	10 Taken Alive
+	10 Sunset Siegebreakers
+	10 Empowered Initiate
+	10 Duplicity
+	30 Sunder the Cage
+	10 Spite of the Founder
+	10 Liberated Rallier
+	10 Getaway Expert
+	10 Adept Grovewarden
+	10 Depart
+	30 Split the Loot
+	10 Revenge Killing
+	10 Sunset Summons
+	10 Leybound Ritualist
+	10 Renegade Champion
+	30 Renegade Survivalist
+	30 Wharf Patrol
+	5 Orlen, Untouchable
+	10 Torel, Scion of Rot
+	30 South-District Chaplain
+	60 Sanctum Enforcer
+	60 Autonomous Accomplice
+	30 Skulker's Cowl
+	30 High Priestess Symi
+	10 In Tune
+	10 Winding Assailant
+	10 Rebellious Recruiter
+	10 Setral Arborist
+	10 Scurrying Pickpocket
+	10 Malicious Throng
+	10 Coffers Altar
+	10 Expert Infiltration
+	10 Race for the Kill
+	10 Unending Uprising
+	10 Semmaroot Balm
+	10 Profane Scripture
+	10 Eerie Congregation
+	10 Prized Possession
+	10 On Top of the World
+	10 Find Your Prey
+	10 Wanton Destruction
+	10 Rally the Rabble
+	10 Siurne's Blessing
+	10 Herbal Remedy
+	5 Memoriam
+	5 Rites of Equilibrium
+	5 What's Yours Is Mine
+	5 Rise Up
+	5 Restoration Efforts
+	60 Corrupted Sanctum
+	30 Renegade Trueheart
+	5 Arital, Grand Adjudicator
+	5 Orliss of the Elite
+	10 Surola, Loyal Preacher
+	10 Into Eternity
+	10 Beseech the Dead
+	10 Marle, Vicuro Head
+	30 Waylen, Bloodhunter
+	30 Ivari, Liberated Mentor
+	30 Loresk, Ever-Curious
+	5 Aspiring Elite
+	30 Tireless Refutation
+	5 Siurne, Eternal Sentinel
+	5 Leiowen, Escape Artist
+	5 Soya, Nal Executioner
+	5 Vie, Sunset Hero
+	5 The Setral Shaper
+	5 Balance the Pattern
+	60 Planar Archives
+	60 Makeshift Justice
+	10 Tomb of the Founder
+	10 Memorial to the First Shaper
 [wildcard(1)]
-	6 Fledgling Sycophant
-	6 Weapon Hawker
-	6 Renegade Rescuers
-	15 Aspiring Shaper
-	6 Reclaimed Convert
-	6 Enigmatic Apothecary
-	6 Grove Sentry
-	6 Planar Scholar
-	6 Sanctum Purifier
-	15 Chapel Patrol
-	6 Stand as One
-	15 One Quiet Moment
-	15 Protect the Pattern
-	6 Shaper's Rites
-	15 Surround
-	15 Consult the Offerings
-	6 Overseer's Thrall
-	6 South-District Pilferer
-	6 Tempting Recruiter
-	6 Skybound Sentry
-	6 Verdure Curator
-	6 Vicuro Pathmaker
-	6 Blessed Convert
-	6 Heist Lookout
-	6 Intangibility
-	6 Eavesdrop
-	6 Wretched Propaganda
-	15 Listen In
-	15 Mischievous Thief
-	15 Perfect Plan
-	15 Sanctum Sacrament
-	6 Congregation Minister
-	6 Attuned Rebuttal
-	15 Fight For What's Right
-	15 Nimble Getaway
-	6 South-Street Scoundrel
-	6 Moonlit Runaway
-	6 Scheming Corvid
-	15 Runaway Corvid
-	6 Beyond the Shroud
-	6 Skittering Swiftblade
-	6 Crypt Caretaker
-	6 Stalking Ashblood
-	6 Volwood Proselytizer
-	15 Evasive Flourish
-	6 In Cold Blood
-	6 Covet
-	6 Tragic Accident
-	15 Bloodletting
-	6 Hymn of the Overseer
-	15 Avarice
-	15 It's Just Business
-	15 Skittering Striker
-	15 The Volwood
-	6 Sunset Recruit
-	6 Thoroughfare Busker
-	6 Nimble Thief
-	6 Incursion Vanguard
-	6 Nal Newcomer
-	6 Due Reward
-	6 Liberated Convert
-	6 Contract Killer
-	6 Snatch Away
-	6 Forgotten Foundation
-	6 Tear Down
-	6 Dagger Toss
-	15 Renegade's Volley
-	6 Spice of Life
-	6 Yoink!
-	15 Flee
-	15 Patrol Veteran
-	15 Dormant Godkiller
-	6 Leonin Revivalist
-	6 Spit Venom
-	6 Sunset Scout
-	6 Volwood Forerunner
-	6 Verdant Sentry
-	6 Scaled Mentor
-	15 Tainted Stalker
-	6 Titanic Mycoid
-	6 Hired Hand
-	6 Flourishing Seedling
-	6 Gutter Rat
-	6 Courageous Clash
-	6 Take in the Haul
-	6 Unbridled Flourishing
-	15 Shroudpiercer
-	15 Trespass the Volwood
-	6 Poison the Blade
-	15 Old-Growth Protector
-	15 Stalwart Grovespeaker
-	15 Overseer's Chosen
-	15 Sunset Elite
-	6 Setral Grovetender
-	7 Sanctum Judge
-	15 Invigorating Concoction
-	6 Overseer's Shackles
-	15 Vicuro Informant
-	15 Rooftop Runner
-	15 Overseer's Entrancer
-	15 Shrouded Ritualist
-	15 Observe the Pattern
-	15 Beneath the Tide
-	4 Make a Break For It
-	15 Rooftop Prowler
-	15 Leonin Striker
-	6 Lurking Voidborn
-	15 Shady Schemer
-	15 Forsaken Shroudguard
-	15 Tunnel Prowler
-	15 Lumbering Corruptor
-	15 Jump the Gap
-	15 Slippery Tomethief
-	15 Wistful Runaway
-	15 Daring Escapees
-	15 Killer-for-Hire
-	15 Guild Hireling
-	15 Rooftop Hunter
-	7 Explosive Exit
-	15 Culvert Inspector
-	15 Outskirts Sureshot
-	15 Creeping Overgrowth
-	15 Incursion Hero
-	15 Renegade's Intercession
-	15 Herbalist's Satchel
-	15 Volwood Liberator
-	15 Life from Death
-	7 Windborn Chaplain
-	15 Elite Executioner
-	7 Kane, Volwood Valiant
-	15 Setral Guardian
-	15 Chapel Attendant
-	15 Profane Gathering
-	15 Go for the Gut
-	15 Liberation
-	15 Umber Grovetender
-	6 Shroud Warden
-	15 Curious Chemist
-	15 Frontline Victor
-	6 Concord Alchemist
-	15 Sanctum Deathspeaker
-	15 Robber Reinforcements
-	6 Serial Traitor
-	6 Streetwise Surveyor
-	15 Ancient Sentry
-	7 Heart of Bedlam
-	6 Chromatic Relic
-	6 Disposable Dagger
-	15 Boundless Coffers
-	7 Verdant Grotto
-	15 Siurne's Deceit
-	15 Become the Hunted
-	6 Picking Prey
-	15 Blooming Champion
-	15 Defend the Groves
-	15 Pickpocket
-	15 Offer Yourself
-	6 Rial's Assault
-	15 Madness of Age
-	6 Backalley Insight
-	15 Sanctuary Cultivator
-	15 Call for Backup
-	15 Wander Into the Grove
-	15 City's Memory
-	7 Seasoned Hunter
-	4 Het, False God
-	7 Cultist Cathedral
-	7 Heretic Hideout
-	7 Abandoned Quarter
-	7 Bustling Docks
-	7 The Shrouded Seas
-	7 Valiant Inciter
-	4 Tesh, Fragmented Founder
-	4 Sahra, Siege Captain
-	7 Scaled Spellthief
-	4 Volwood Reclaimer
-	15 Ascended Prophet
-	15 Rogue's Gloves
-	7 Umber Uniter
-	6 Sanctum Sneak
-	7 Nal Bloodweaver
-	4 The Founder's Cage
-	15 Secluded Courtyard
-	7 Glimpse the Bigger Picture
-	4 Ery, Concord Archdruid
-	7 Barkscale Strategist
-	7 Malicious Pactmaker
-	7 Observant Acquisitor
-	7 Evrax, the Last
-	15 Delias, Savvy Smuggler
-	7 Volwood Renewer
-	7 Backalley Dealer
-	7 Guild Exterminator
-	15 Sanctum Intruder
-	6 Apothecary's Quarters
-	6 Schemer's Study
-	6 Sketchy Slum
-	6 Backalley Market
-	6 Flourishing Garden
-	6 Alchemist's Office
-	6 Haunting Alley
-	6 Humming Furnace
-	6 Moonlit Marsh
-	15 Mistbomb
-	6 Scrounging Sensor
-	7 Taken Alive
-	7 Sunset Siegebreakers
-	7 Empowered Initiate
-	7 Duplicity
-	15 Sunder the Cage
-	7 Spite of the Founder
-	7 Liberated Rallier
-	7 Getaway Expert
-	7 Adept Grovewarden
-	7 Depart
-	15 Split the Loot
-	7 Revenge Killing
-	7 Sunset Summons
-	7 Leybound Ritualist
-	7 Renegade Champion
-	15 Renegade Survivalist
-	15 Wharf Patrol
-	4 Orlen, Untouchable
-	7 Torel, Scion of Rot
-	15 South-District Chaplain
-	6 Sanctum Enforcer
-	6 Autonomous Accomplice
-	15 Skulker's Cowl
-	15 High Priestess Symi
-	7 In Tune
-	7 Winding Assailant
-	7 Rebellious Recruiter
-	7 Setral Arborist
-	7 Scurrying Pickpocket
-	7 Malicious Throng
-	7 Coffers Altar
-	7 Expert Infiltration
-	7 Race for the Kill
-	7 Unending Uprising
-	7 Semmaroot Balm
-	7 Profane Scripture
-	7 Eerie Congregation
-	7 Prized Possession
-	7 On Top of the World
-	7 Find Your Prey
-	7 Wanton Destruction
-	7 Rally the Rabble
-	7 Siurne's Blessing
-	7 Herbal Remedy
-	4 Memoriam
-	4 Rites of Equilibrium
-	4 What's Yours Is Mine
-	4 Rise Up
-	4 Restoration Efforts
-	6 Corrupted Sanctum
-	15 Renegade Trueheart
-	4 Arital, Grand Adjudicator
-	4 Orliss of the Elite
-	7 Surola, Loyal Preacher
-	7 Into Eternity
-	7 Beseech the Dead
-	7 Marle, Vicuro Head
-	15 Waylen, Bloodhunter
-	15 Ivari, Liberated Mentor
-	15 Loresk, Ever-Curious
-	4 Aspiring Elite
-	15 Tireless Refutation
-	4 Siurne, Eternal Sentinel
-	4 Leiowen, Escape Artist
-	4 Soya, Nal Executioner
-	4 Vie, Sunset Hero
-	4 The Setral Shaper
-	4 Balance the Pattern
-	6 Planar Archives
-	6 Makeshift Justice
+	30 Fledgling Sycophant
+	30 Weapon Hawker
+	30 Renegade Rescuers
+	75 Aspiring Shaper
+	30 Reclaimed Convert
+	30 Enigmatic Apothecary
+	30 Grove Sentry
+	30 Planar Scholar
+	30 Sanctum Purifier
+	75 Chapel Patrol
+	30 Stand as One
+	75 One Quiet Moment
+	75 Protect the Pattern
+	30 Shaper's Rites
+	75 Surround
+	75 Consult the Offerings
+	30 Overseer's Thrall
+	30 South-District Pilferer
+	30 Tempting Recruiter
+	30 Skybound Sentry
+	30 Verdure Curator
+	30 Vicuro Pathmaker
+	30 Blessed Convert
+	30 Heist Lookout
+	30 Intangibility
+	30 Eavesdrop
+	30 Wretched Propaganda
+	75 Listen In
+	75 Mischievous Thief
+	75 Perfect Plan
+	75 Sanctum Sacrament
+	30 Congregation Minister
+	30 Attuned Rebuttal
+	75 Fight For What's Right
+	75 Nimble Getaway
+	30 South-Street Scoundrel
+	30 Moonlit Runaway
+	30 Scheming Corvid
+	75 Runaway Corvid
+	30 Beyond the Shroud
+	30 Skittering Swiftblade
+	30 Crypt Caretaker
+	30 Stalking Ashblood
+	30 Volwood Proselytizer
+	75 Evasive Flourish
+	30 In Cold Blood
+	30 Covet
+	30 Tragic Accident
+	75 Bloodletting
+	30 Hymn of the Overseer
+	75 Avarice
+	75 It's Just Business
+	75 Skittering Striker
+	75 The Volwood
+	30 Sunset Recruit
+	30 Thoroughfare Busker
+	30 Nimble Thief
+	30 Incursion Vanguard
+	30 Nal Newcomer
+	30 Due Reward
+	30 Liberated Convert
+	30 Contract Killer
+	30 Snatch Away
+	30 Forgotten Foundation
+	30 Tear Down
+	30 Dagger Toss
+	75 Renegade's Volley
+	30 Spice of Life
+	30 Yoink!
+	75 Flee
+	75 Patrol Veteran
+	75 Dormant Godkiller
+	30 Leonin Revivalist
+	30 Spit Venom
+	30 Sunset Scout
+	30 Volwood Forerunner
+	30 Verdant Sentry
+	30 Scaled Mentor
+	75 Tainted Stalker
+	30 Titanic Mycoid
+	30 Hired Hand
+	30 Flourishing Seedling
+	30 Gutter Rat
+	30 Courageous Clash
+	30 Take in the Haul
+	30 Unbridled Flourishing
+	75 Shroudpiercer
+	75 Trespass the Volwood
+	30 Poison the Blade
+	75 Old-Growth Protector
+	75 Stalwart Grovespeaker
+	75 Overseer's Chosen
+	75 Sunset Elite
+	30 Setral Grovetender
+	35 Sanctum Judge
+	75 Invigorating Concoction
+	30 Overseer's Shackles
+	75 Vicuro Informant
+	75 Rooftop Runner
+	75 Overseer's Entrancer
+	75 Shrouded Ritualist
+	75 Observe the Pattern
+	75 Beneath the Tide
+	20 Make a Break For It
+	75 Rooftop Prowler
+	75 Leonin Striker
+	30 Lurking Voidborn
+	75 Shady Schemer
+	75 Forsaken Shroudguard
+	75 Tunnel Prowler
+	75 Lumbering Corruptor
+	75 Jump the Gap
+	75 Slippery Tomethief
+	75 Wistful Runaway
+	75 Daring Escapees
+	75 Killer-for-Hire
+	75 Guild Hireling
+	75 Rooftop Hunter
+	35 Explosive Exit
+	75 Culvert Inspector
+	75 Outskirts Sureshot
+	75 Creeping Overgrowth
+	75 Incursion Hero
+	75 Renegade's Intercession
+	75 Herbalist's Satchel
+	75 Volwood Liberator
+	75 Life from Death
+	35 Windborn Chaplain
+	75 Elite Executioner
+	35 Kane, Volwood Valiant
+	75 Setral Guardian
+	75 Chapel Attendant
+	75 Profane Gathering
+	75 Go for the Gut
+	75 Liberation
+	75 Umber Grovetender
+	30 Shroud Warden
+	75 Curious Chemist
+	75 Frontline Victor
+	30 Concord Alchemist
+	75 Sanctum Deathspeaker
+	75 Robber Reinforcements
+	30 Serial Traitor
+	30 Streetwise Surveyor
+	75 Ancient Sentry
+	35 Heart of Bedlam
+	30 Chromatic Relic
+	30 Disposable Dagger
+	75 Boundless Coffers
+	75 Verdant Grotto
+	75 Siurne's Deceit
+	75 Become the Hunted
+	30 Picking Prey
+	75 Blooming Champion
+	75 Defend the Groves
+	75 Pickpocket
+	75 Offer Yourself
+	30 Rial's Assault
+	75 Madness of Age
+	30 Backalley Insight
+	75 Sanctuary Cultivator
+	75 Call for Backup
+	75 Wander Into the Grove
+	75 City's Memory
+	35 Seasoned Hunter
+	20 Het, False God
+	75 Cultist Cathedral
+	75 Heretic Hideout
+	75 Abandoned Quarter
+	75 Bustling Docks
+	35 The Shrouded Seas
+	35 Valiant Inciter
+	20 Tesh, Fragmented Founder
+	20 Sahra, Siege Captain
+	35 Scaled Spellthief
+	20 Volwood Reclaimer
+	75 Ascended Prophet
+	75 Rogue's Gloves
+	35 Umber Uniter
+	30 Sanctum Sneak
+	35 Nal Bloodweaver
+	20 The Founder's Cage
+	75 Secluded Courtyard
+	35 Glimpse the Bigger Picture
+	20 Ery, Concord Archdruid
+	35 Barkscale Strategist
+	35 Malicious Pactmaker
+	35 Observant Infiltrator
+	35 Evrax, the Last
+	75 Delias, Savvy Smuggler
+	35 Volwood Renewer
+	35 Backalley Dealer
+	35 Guild Exterminator
+	75 Sanctum Intruder
+	30 Apothecary's Quarters
+	30 Schemer's Study
+	30 Sketchy Slum
+	30 Backalley Market
+	30 Flourishing Garden
+	30 Alchemist's Office
+	30 Haunting Alley
+	30 Humming Furnace
+	30 Moonlit Marsh
+	75 Mistbomb
+	30 Scrounging Sensor
+	35 Taken Alive
+	35 Sunset Siegebreakers
+	35 Empowered Initiate
+	35 Duplicity
+	75 Sunder the Cage
+	35 Spite of the Founder
+	35 Liberated Rallier
+	35 Getaway Expert
+	35 Adept Grovewarden
+	35 Depart
+	75 Split the Loot
+	35 Revenge Killing
+	35 Sunset Summons
+	35 Leybound Ritualist
+	35 Renegade Champion
+	75 Renegade Survivalist
+	75 Wharf Patrol
+	20 Orlen, Untouchable
+	35 Torel, Scion of Rot
+	75 South-District Chaplain
+	30 Sanctum Enforcer
+	30 Autonomous Accomplice
+	75 Skulker's Cowl
+	75 High Priestess Symi
+	35 In Tune
+	35 Winding Assailant
+	35 Rebellious Recruiter
+	35 Setral Arborist
+	35 Scurrying Pickpocket
+	35 Malicious Throng
+	35 Coffers Altar
+	35 Expert Infiltration
+	35 Race for the Kill
+	35 Unending Uprising
+	35 Semmaroot Balm
+	35 Profane Scripture
+	35 Eerie Congregation
+	35 Prized Possession
+	35 On Top of the World
+	35 Find Your Prey
+	35 Wanton Destruction
+	35 Rally the Rabble
+	35 Siurne's Blessing
+	35 Herbal Remedy
+	20 Memoriam
+	20 Rites of Equilibrium
+	20 What's Yours Is Mine
+	20 Rise Up
+	20 Restoration Efforts
+	30 Corrupted Sanctum
+	75 Renegade Trueheart
+	20 Arital, Grand Adjudicator
+	20 Orliss of the Elite
+	35 Surola, Loyal Preacher
+	35 Into Eternity
+	35 Beseech the Dead
+	35 Marle, Vicuro Head
+	75 Waylen, Bloodhunter
+	75 Ivari, Liberated Mentor
+	75 Loresk, Ever-Curious
+	20 Aspiring Elite
+	75 Tireless Refutation
+	20 Siurne, Eternal Sentinel
+	20 Leiowen, Escape Artist
+	20 Soya, Nal Executioner
+	20 Vie, Sunset Hero
+	20 The Setral Shaper
+	20 Balance the Pattern
+	30 Planar Archives
+	30 Makeshift Justice
+	35 Tomb of the Founder
+	35 Memorial to the First Shaper
 [land(1)]
-	12 Alchemist's Office
-	12 Apothecary's Quarters
-	12 Backalley Market
-	12 Corrupted Sanctum
-	12 Flourishing Garden
-	12 Forgotten Foundation
-	12 Haunting Alley
-	12 Humming Furnace
-	12 Moonlit Marsh
-	12 Planar Archives
-	12 Schemer's Study
-	12 Sketchy Slum
-	6 Boundless Coffers
-	6 Secluded Courtyard
-	6 The Volwood
-	2 Abandoned Quarter
-	2 Bustling Docks
-	2 Cultist Cathedral
-	2 Heretic Hideout
-	2 The Shrouded Seas
-	2 Verdant Grotto
+	60 Alchemist's Office
+	60 Apothecary's Quarters
+	60 Backalley Market
+	60 Corrupted Sanctum
+	60 Flourishing Garden
+	60 Forgotten Foundation
+	60 Haunting Alley
+	60 Humming Furnace
+	60 Moonlit Marsh
+	60 Planar Archives
+	60 Schemer's Study
+	60 Sketchy Slum
+	30 Abandoned Quarter
+	30 Boundless Coffers
+	30 Bustling Docks
+	30 Cultist Cathedral
+	30 Heretic Hideout
+	30 Secluded Courtyard
+	30 Verdant Grotto
+	30 The Volwood
+	10 The Shrouded Seas
+	10 Tomb of the Founder
