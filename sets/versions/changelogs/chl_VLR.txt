@@ -1,4 +1,649 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+Siurne's Betrayal added.
+Rial's Return added.
+Interrogation added.
+
+Siurne's Deceit removed.
+Rial's Assault removed.
+Depart removed.
+
+Fledgling Sycophant
+
+Weapon Hawker
+
+Renegade Rescuers
+
+Aspiring Shaper
+
+Reclaimed Convert
+rules_text: This creature has first strike during your turn.
+[i]Momentum[/i] — Whenever you cast a creature spell, another target creature you control gains first strike until end of turn. => This creature has first strike during your turn.
+[i]Momentum[/i] — Whenever you cast a creature spell, this creature gets +1/+0 until end of turn.
+
+Enigmatic Apothecary
+
+Grove Sentry
+
+Planar Scholar
+
+Sanctum Purifier
+
+Chapel Patrol
+
+Stand as One
+
+One Quiet Moment
+
+Protect the Pattern
+
+Shaper's Rites
+
+Surround
+
+Consult the Offerings
+cost: {WB}{U} => {1}{WB}{U}
+rules_text: Choose target creature, instant, or sorcery card with mana value 3 or less in your graveyard. If it's a creature card, return it to the battlefield tapped. Otherwise, return it to your hand.
+Exile Consult the Offerings. => Exile target creature, instant, or sorcery card with mana value 3 or less from your graveyard. You may cast a copy of that card without paying its mana cost. A creature cast this way enters tapped.
+Exile Consult the Offerings.
+
+Overseer's Thrall
+
+South-District Pilferer
+rules_text: Flying
+Whenever this creature enters or leaves the battlefield, surveil 1. => When this creature enters, surveil 2.
+{U}: This creature gains flying until end of turn.
+
+Tempting Recruiter
+
+Skybound Sentry
+
+Verdure Curator
+
+Vicuro Pathmaker
+
+Blessed Convert
+
+Heist Lookout
+
+Intangibility
+
+Eavesdrop
+
+Wretched Propaganda
+
+Listen In
+
+Mischievous Thief
+
+Perfect Plan
+
+Sanctum Sacrament
+
+Congregation Minister
+
+Attuned Rebuttal
+
+Fight For What's Right
+
+Nimble Getaway
+
+South-Street Scoundrel
+
+Moonlit Runaway
+
+Scheming Corvid
+
+Runaway Corvid
+
+Beyond the Shroud
+
+Skittering Swiftblade
+
+Crypt Caretaker
+
+Stalking Ashblood
+
+Volwood Proselytizer
+
+Evasive Flourish
+
+In Cold Blood
+
+Covet
+
+Tragic Accident
+
+Bloodletting
+
+Hymn of the Overseer
+
+Avarice
+
+It's Just Business
+
+Skittering Striker
+
+The Volwood
+
+Sunset Recruit
+pt: 1/2 => 1/1
+
+Thoroughfare Busker
+
+Nimble Thief
+
+Incursion Vanguard
+
+Nal Newcomer
+
+Due Reward
+
+Liberated Convert
+
+Contract Killer
+
+Snatch Away
+
+Forgotten Foundation
+
+Tear Down
+
+Dagger Toss
+
+Renegade's Volley
+
+Spice of Life
+
+Yoink!
+
+Flee
+cost: {2}{R} => {1}{R}
+rules_text: Abscond {1}{R} [i](You may cast this spell for its abscond cost by returning a tapped creature you control to its owner's hand.)[/i]
+Create a token that's a copy of target creature you control, then return that creature to its owner's hand. The token gains haste. Sacrifice it at the beginning of the next end step. [i](You can't target the absconding creature.)[/i] => Return target creature you control to its owner's hand, then create a token that's a copy of it. The token gains haste. Sacrifice it at the beginning of the next end step.
+
+Patrol Veteran
+
+Dormant Godkiller
+rules_text: This creature enters tapped with six stun counters on it.
+Trample
+Whenever one or more creatures you control die, untap this creature. => This creature enters tapped with six stun counters on it.
+Trample
+Whenever one or more creatures die, untap this creature.
+
+Leonin Revivalist
+
+Spit Venom
+
+Sunset Scout
+
+Volwood Forerunner
+
+Verdant Sentry
+
+Scaled Mentor
+
+Tainted Stalker
+
+Titanic Mycoid
+
+Hired Hand
+
+Flourishing Seedling
+
+Gutter Rat
+
+Courageous Clash
+
+Take in the Haul
+
+Unbridled Flourishing
+
+Shroudpiercer
+
+Trespass the Volwood
+
+Poison the Blade
+
+Old-Growth Protector
+
+Stalwart Grovespeaker
+
+Overseer's Chosen
+
+Sunset Elite
+
+Setral Grovetender
+
+Sanctum Judge
+
+Invigorating Concoction
+
+Overseer's Shackles
+
+Vicuro Informant
+rules_text: This creature can't block or be blocked.
+When this creature leaves the battlefield, if you paid an abscond cost this turn or you control another Rogue, draw a card. => This creature can't be blocked as long as you control another Rogue.
+When this creature leaves the battlefield during your turn, draw a card.
+
+Rooftop Runner
+
+Overseer's Entrancer
+
+Shrouded Ritualist
+
+Observe the Pattern
+
+Beneath the Tide
+
+Make a Break For It
+
+Rooftop Prowler
+
+Leonin Striker
+
+Lurking Voidborn
+
+Shady Schemer
+
+Forsaken Shroudguard
+
+Tunnel Prowler
+
+Lumbering Corruptor
+
+Jump the Gap
+
+Slippery Tomethief
+
+Wistful Runaway
+pt: 2/2 => 2/1
+
+Daring Escapees
+
+Killer-for-Hire
+
+Guild Hireling
+
+Rooftop Hunter
+
+Explosive Exit
+
+Culvert Inspector
+
+Outskirts Sureshot
+
+Creeping Overgrowth
+
+Incursion Hero
+
+Renegade's Intercession
+
+Herbalist's Satchel
+
+Volwood Liberator
+
+Life from Death
+
+Windborn Chaplain
+
+Elite Executioner
+
+Kane, Volwood Valiant
+
+Setral Guardian
+
+Chapel Attendant
+
+Profane Gathering
+
+Go for the Gut
+
+Liberation
+
+Umber Grovetender
+
+Shroud Warden
+
+Curious Chemist
+
+Frontline Victor
+
+Concord Alchemist
+
+Sanctum Deathspeaker
+
+Robber Reinforcements
+
+Serial Traitor
+
+Streetwise Surveyor
+
+Ancient Sentry
+
+Heart of Bedlam
+
+Chromatic Relic
+
+Disposable Dagger
+
+Boundless Coffers
+
+Verdant Grotto
+
+Become the Hunted
+
+Picking Prey
+
+Blooming Champion
+
+Defend the Groves
+
+Pickpocket
+
+Offer Yourself
+
+Madness of Age
+
+Backalley Insight
+
+Sanctuary Cultivator
+
+Call for Backup
+
+Wander Into the Grove
+
+City's Memory
+
+Seasoned Hunter
+
+Het, False God
+
+Cultist Cathedral
+
+Heretic Hideout
+
+Abandoned Quarter
+
+Bustling Docks
+
+black and green Mercenary 11VLR
+
+The Shrouded Seas
+
+Valiant Inciter
+
+Tesh, Fragmented Founder
+
+Sahra, Siege Captain
+
+Scaled Spellthief
+rules_text: Abscond {1}{R} [i](You may cast this spell for its abscond cost by returning a tapped creature you control to its owner's hand.)[/i]
+Flash
+When this creature enters, gain control of up to one target instant or sorcery spell or activated or triggered ability of a nonland source. You may choose new targets if able. => Abscond {1}{R} [i](You may cast this spell for its abscond cost by returning a tapped creature you control to its owner's hand.)[/i]
+Flash
+When this creature enters, if it was cast, copy target instant or sorcery spell. You may choose new targets if able.
+pt: 3/1 => 2/1
+
+Volwood Reclaimer
+
+Ascended Prophet
+
+Rogue's Gloves
+
+Umber Uniter
+
+Sanctum Sneak
+
+Nal Bloodweaver
+
+The Founder's Cage
+
+Secluded Courtyard
+
+Glimpse the Bigger Picture
+
+Ery, Concord Archdruid
+
+Barkscale Strategist
+
+Malicious Pactmaker
+
+Observant Infiltrator
+
+Evrax, the Last
+
+Delias, Savvy Smuggler
+rules_text: Menace
+Whenever Delias enters or leaves the battlefield, draw a card. Then discard a card unless you pay 2 life. => Menace
+Whenever Delias deals combat damage to a player or leaves the battlefield without dying, you may discard a card or pay 2 life. If you do, draw a card.
+
+Volwood Renewer
+
+Backalley Dealer
+
+Guild Exterminator
+
+Sanctum Intruder
+
+Apothecary's Quarters
+
+Schemer's Study
+
+Sketchy Slum
+
+Backalley Market
+
+Flourishing Garden
+
+Alchemist's Office
+
+Haunting Alley
+
+Humming Furnace
+
+Moonlit Marsh
+
+Mistbomb
+
+Scrounging Sensor
+
+Taken Alive
+
+Sunset Siegebreakers
+
+Empowered Initiate
+
+Duplicity
+
+Sunder the Cage
+type: Instant => Sorcery
+cost: {1}{R}{R} => {1}{R}
+rules_text: Choose one or both —
+• Sunder the Cage deals 5 damage to target creature or planeswalker.
+• Destroy target artifact. => Destroy up to one target artifact or land you don't control. Its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.
+Draw a card.
+
+Spite of the Founder
+
+colorless Spirit 11VLR
+
+red and white Rebel 11VLR
+
+green and blue Druid 22VLR
+
+Treasure VLR
+
+Liberated Rallier
+
+Getaway Expert
+rules_text: Whenever another creature you control enters, this creature can't be blocked this turn. => This creature can't be blocked.
+When this creature enters, target creature you control can't be blocked this turn.
+{1}{U}, Discard a card: Exile this creature, then return it to the battlefield tapped under its owner's control.
+
+Adept Grovewarden
+cost: {1}{U} => {2}{U}
+rules_text: As an additional cost to cast this spell, you may commune X. X can't be 0. [i](Pay {X}. Each creature you tap while paying this pays for {1}.)[/i]
+Flash
+When this creature enters, if it was communed, counter target spell with mana value X or less. => Flash
+When this creature enters, you may commune X. When you do, counter target spell with mana value X or less. [i](Pay {X}. Each creature you tap while paying this pays for {1}.)[/i]
+pt: 1/2 => 1/3
+
+Split the Loot
+rules_text: As an additional cost to cast this spell, discard a card. [i](Do this when paying escape costs.)[/i]
+Draw two cards and create a tapped Treasure token.
+Escape—{3}{R}, Exile three other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i] => You may discard a card. If you do, draw two cards and create a tapped Treasure token.
+Escape—{3}{R}, Exile three other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i]
+
+Revenge Killing
+type: Sorcery => Instant
+rules_text: Revenge Killing deals X damage to any nonplayer target.
+Escape—{2}{R}{R}, Exile X other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i] => This spell costs {3} less to cast if targets an attacking creature.
+Revenge Killing deals damage X to any nonplayer target.
+
+Sunset Summons
+
+Leybound Ritualist
+
+Renegade Champion
+
+Renegade Survivalist
+
+Wharf Patrol
+
+Orlen, Untouchable
+
+Torel, Scion of Rot
+
+South-District Chaplain
+
+Sanctum Enforcer
+
+Autonomous Accomplice
+
+Skulker's Cowl
+
+Bounty Board VLR
+
+High Priestess Symi
+
+In Tune
+
+Winding Assailant
+
+Rebellious Recruiter
+
+Setral Arborist
+
+Scurrying Pickpocket
+
+Malicious Throng
+
+Acolyte VLR
+
+Coffers Altar
+
+Expert Infiltration
+
+Race for the Kill
+
+Unending Uprising
+
+Semmaroot Balm
+
+Profane Scripture
+
+Eerie Congregation
+
+Prized Possession
+
+On Top of the World
+
+Find Your Prey
+
+Wanton Destruction
+
+Rally the Rabble
+
+Siurne's Blessing
+
+Herbal Remedy
+
+Memoriam
+
+Rites of Equilibrium
+
+What's Yours Is Mine
+
+Rise Up
+
+Restoration Efforts
+rules_text: Whenever you tap a permanent for mana, add one mana of any type that permanent produced.
+If you would gain life, gain twice that much life instead.
+If you would draw one or more cards, draw twice that many cards instead. => Whenever you tap a land for mana, add one mana of any type that permanent produced.
+Creatures you control get +1/+1 and have vigilance.
+Commune 20: Return all cards from your graveyard to your hand, then you may cast a spell from your hand without paying its mana cost. [i](Pay {20}. Each creature you tap while paying this pays for {1}.)[/i]
+
+Corrupted Sanctum
+
+Renegade Trueheart
+
+Arital, Grand Adjudicator
+
+Orliss of the Elite
+
+Surola, Loyal Preacher
+
+Into Eternity
+
+Beseech the Dead
+
+Marle, Vicuro Head
+rules_text: Menace, ward {1}
+Colored spells you cast have abscond. Their abscond cost is equal to their mana cost minus {2}. [i](You may cast a spell for its abscond cost by returning a tapped creature you control to its owner's hand.)[/i] => Menace, ward {1}
+Each spell you cast that's one or more colors has abscond. Its abscond cost is equal to their mana cost minus {2}. [i](You may cast a spell for its abscond cost by returning a tapped creature you control to its owner's hand.)[/i]
+
+Waylen, Bloodhunter
+
+Ivari, Liberated Mentor
+
+Loresk, Ever-Curious
+
+Aspiring Elite
+
+Tireless Refutation
+
+Siurne, Eternal Sentinel
+
+Leiowen, Escape Artist
+
+Soya, Nal Executioner
+
+Vie, Sunset Hero
+
+The Setral Shaper
+
+Balance the Pattern
+
+Planar Archives
+
+Copy VLR
+
+red Skeleton Dragon 55VLR
+
+Makeshift Justice
+
+Tomb of the Founder
+
+Memorial to the First Shaper
+cost: {1} => {2}
+rules_text: Permanent cards in exile and graveyards can't enter the battlefield.
+Players can't cast spells from exile or graveyards. => At the beginning of combat on your turn, if there are six or more cards exiled with this artifact, untap target creature you control and put two +1/+1 counters on it.
+{T}: Exile up to two target cards from a single graveyard.
+
+
+VERSION 10 CHANGELOG
 ====================
 
 Observant Infiltrator added.

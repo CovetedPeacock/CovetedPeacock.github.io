@@ -60,8 +60,8 @@
         "set": "VLR"
     },
     {
-        "card_name": "Depart",
-        "number": 8,
+        "card_name": "Interrogation",
+        "number": 10,
         "shape": "normal",
         "set": "VLR"
     },
@@ -168,8 +168,8 @@
         "set": "VLR"
     },
     {
-        "card_name": "Revenge Killing",
-        "number": 119,
+        "card_name": "Scaled Spellthief",
+        "number": 120,
         "shape": "normal",
         "set": "VLR"
     },
@@ -198,8 +198,8 @@
         "set": "VLR"
     },
     {
-        "card_name": "Scaled Spellthief",
-        "number": 120,
+        "card_name": "Siurne's Betrayal",
+        "number": 122,
         "shape": "normal",
         "set": "VLR"
     },
@@ -438,8 +438,8 @@
         "set": "VLR"
     },
     {
-        "card_name": "Siurne's Deceit",
-        "number": 122,
+        "card_name": "Revenge Killing",
+        "number": 119,
         "shape": "normal",
         "set": "VLR"
     },
@@ -571,7 +571,7 @@
     },
     {
         "card_name": "Fledgling Sycophant",
-        "number": 9,
+        "number": 8,
         "shape": "normal",
         "set": "VLR"
     },
@@ -601,7 +601,7 @@
     },
     {
         "card_name": "Grove Sentry",
-        "number": 10,
+        "number": 9,
         "shape": "normal",
         "set": "VLR"
     },
@@ -792,7 +792,7 @@
         "set": "VLR"
     },
     {
-        "card_name": "Rial's Assault",
+        "card_name": "Rial's Return",
         "number": 89,
         "shape": "normal",
         "set": "VLR"
