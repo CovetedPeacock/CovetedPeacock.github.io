@@ -2898,371 +2898,279 @@
 	]
 
 [rare(1)]
-	2 Juniper's Awakening
-	2 Malicious Throng
-	2 Make a Break For It
-	2 Reckless Show-Off
-	2 Burn It All Down
-	2 Kane, Unyielding
-	2 Heart of Bedlam
-	2 Veteran Hunter
-	1 Het, False God
-	2 The Shrouded Seas
-	2 Valiant Firebrand
-	1 Tesh, Fragmented Founder
-	1 Sahra, Siege Captain
-	2 Ascension Ritualist
-	1 Esteemed Exterminator
-	2 Forsaken Penitents
-	2 Sunset Champion
-	1 The Founder's Cage
-	2 The Founder's Hunt Begins
-	1 Ery, Leyfused
-	2 Setral Arborist
-	2 Malicious Pactmaker
-	2 League of Their Own
-	2 Evrax, the Last
-	2 Delias, Savvy Smuggler
-	2 Smolder Away
-	2 Wharf Forgemaster
-	2 Corner the Prey
-	2 Voice of the Old Grove
-	2 Greedy Deserter
-	2 Duplicity
-	2 Spite of the Founder
-	2 Rooftop Observer
-	2 Innovative Alchemist
-	2 Stand Ready
-	2 Solemn Procession
-	2 Leybound Ritualist
-	2 Renegade Recruiter
-	2 Turen, Untouchable
-	2 Torvel, Scion of Rot
-	2 High Priestess Symi
-	2 In Tune
-	2 Winding Assailant
-	2 Vie's Lieutenant
-	2 Swift-Step Robber
-	2 Ruthless Stalker
-	2 Coffers Altar
-	2 Race for the Glory
-	2 Unending Unrest
-	2 Heart of the Grove
-	2 Profane Scripture
-	2 Shroudwarder Phoenix
-	2 Prized Possession
-	2 It All Comes Together
-	2 Wanton Destruction
-	2 Silent Warden
-	1 The Great Singularity
-	1 Arital, Grand Adjudicator
-	1 Orliss of the Elite
-	2 Surola, Vile Preacher
-	2 On Top of the World
-	2 Memoriam
-	1 Marle, Vicuro Head
-	1 Brazen Burglar
-	1 Siurne, Eternal Sentinel
-	1 Leiowen, Escape Artist
-	1 Soya, Nal Executioner
-	1 Vie, the First Hero
-	1 The Setral Shaper
-	2 Shape the Pattern
-	2 Tomb of the Founder
-	2 Memorial to the First Shaper
-	1 Restoration Specialist
-	1 Avarice
-	2 Loresk, Ever-Curious
-	2 Waylen, Bloodhunter
-	2 Ivari, Liberated Mentor
-	1 Volwood Warder
-	1 Planar Archives
-	2 Divine Liberation
+	20 Juniper's Awakening
+	20 Malicious Throng
+	20 Make a Break For It
+	20 Reckless Show-Off
+	20 Burn It All Down
+	20 Kane, Unyielding
+	20 Heart of Bedlam
+	20 Veteran Hunter
+	10 Het, False God
+	20 The Shrouded Seas
+	20 Valiant Firebrand
+	10 Tesh, Fragmented Founder
+	10 Sahra, Siege Captain
+	20 Ascension Ritualist
+	10 Esteemed Exterminator
+	20 Forsaken Penitents
+	20 Sunset Champion
+	10 The Founder's Cage
+	20 The Founder's Hunt Begins
+	10 Ery, Leyfused
+	20 Setral Arborist
+	20 Malicious Pactmaker
+	20 League of Their Own
+	20 Evrax, the Last
+	20 Delias, Savvy Smuggler
+	20 Smolder Away
+	20 Wharf Forgemaster
+	20 Corner the Prey
+	20 Voice of the Old Grove
+	20 Greedy Deserter
+	20 Duplicity
+	20 Spite of the Founder
+	20 Rooftop Observer
+	20 Innovative Alchemist
+	20 Stand Ready
+	20 Solemn Procession
+	20 Leybound Ritualist
+	20 Renegade Recruiter
+	20 Turen, Untouchable
+	20 Torvel, Scion of Rot
+	20 High Priestess Symi
+	20 In Tune
+	20 Winding Assailant
+	20 Vie's Lieutenant
+	20 Swift-Step Robber
+	20 Ruthless Stalker
+	20 Coffers Altar
+	20 Race for the Glory
+	20 Unending Unrest
+	20 Heart of the Grove
+	20 Profane Scripture
+	20 Shroudwarder Phoenix
+	20 Prized Possession
+	20 It All Comes Together
+	20 Wanton Destruction
+	20 Silent Warden
+	10 The Great Singularity
+	10 Arital, Grand Adjudicator
+	10 Orliss of the Elite
+	20 Surola, Vile Preacher
+	20 On Top of the World
+	20 Memoriam
+	10 Marle, Vicuro Head
+	10 Brazen Burglar
+	10 Siurne, Eternal Sentinel
+	10 Leiowen, Escape Artist
+	10 Soya, Nal Executioner
+	10 Vie, the First Hero
+	10 The Setral Shaper
+	20 Shape the Pattern
+	20 Tomb of the Founder
+	20 Memorial to the First Shaper
+	10 Restoration Specialist
+	10 Avarice
+	20 Loresk, Ever-Curious
+	20 Waylen, Bloodhunter
+	20 Ivari, Liberated Mentor
+	10 Volwood Warder
+	10 Planar Archives
+	20 Divine Liberation
 [uncommon(3)]
-	4 Chapel Crasher
-	4 Chapel Specter
-	4 One Quiet Moment
-	4 Bond the Sundered Souls
-	4 Offer the Faithless
-	4 Consult the Offerings
-	4 Founder's Malice
-	4 Perfect Plan
-	4 Pickpocket
-	4 Semari Weaponsmith
-	4 Petty Larceny
-	4 Hand of the Overseer
-	4 Evasive Flourish
-	4 Bloodletting
-	4 Done Deal
-	4 Listen In
-	4 Founder's Echo
-	4 The Volwood
-	4 Friendly Misdirection
-	4 Scatter Records
-	4 Melodious Mallard
-	4 Dormant Godkiller
-	4 Ruthless Duo
-	4 Shroudpiercer
-	4 Trespass the Volwood
-	4 Soulcage
-	4 Overseer's Entrancer
-	4 Overseer's Chosen
-	4 Outskirts Mentor
-	4 Backalley Entertainer
-	4 Vicuro Informant
-	4 Rooftop Runner
-	4 Chandelier Slink
-	4 Volwood Defilers
-	4 Observe the Pattern
-	4 Bedlam's Vessel
-	4 Patient Executioner
-	4 Forsaken Shroudguard
-	4 Skittering Striker
-	4 Crypt Tiller
-	4 Thing in the Dark
-	4 Tenacious Thief
-	4 Wistful Strategist
-	4 Daring Escapees
-	4 Scrawny Pursesnatcher
-	4 Sieging Volleymage
-	4 Tale of Bedlam
-	4 Culvert Inspector
-	4 Unerring Assailant
-	4 Creeping Overgrowth
-	4 Volwood Deadeye
-	4 End the Chase
-	4 Herbalist's Satchel
-	4 Volwood Stalwart
-	4 Life from Death
-	4 Guild Elite
-	4 Rowdy Mob
-	4 Starry-Eyed Scholar
-	4 Profane Gathering
-	4 Go for the Gut
-	4 Rally the Rabble
-	4 Umber Grovetender
-	4 Survivalist Mentor
-	4 Frontline Victor
-	4 Sanctum Deathspeaker
-	4 Overprepared Accomplice
-	4 Ancient Sentry
-	4 Bustling Marketplace
-	4 Strangle
-	4 Setral Mender
-	4 Venomous Solution
-	4 Become the Hunted
-	4 Offer Yourself
-	4 Madness of Ages
-	4 Jump the Gap
-	4 Undergrowth Steward
-	4 Call for Backup
-	4 Into the Grove
-	4 City's Memory
-	4 Ascendant Judge
-	4 Gathering Place
-	4 Secluded Courtyard
-	4 Wharf Vendor
-	4 Smoke Bomb
-	4 Sunder the Cage
-	4 Split the Loot
-	4 Reap the Rewards
-	4 Blossoming Steward
-	4 Wharf Patrol
-	4 Setral Shoresculptor
-	4 Stalker's Cowl
-	4 Expert Infiltration
-	4 Orliss's Edict
-	4 Renegade Trueheart
-	4 Sprouting Sproutling
-	4 Herald of Emergence
-	4 Reckless Smashing
-	4 Tireless Refutation
-	4 Makeshift Justice
-	4 Siurne's Betrayal
-[common(6)]
-	8 Fledgling Sycophant
-	8 Blessed Procession
-	8 Sunset Sentries
-	8 Reclaimed Convert
-	8 Enigmatic Apothecary
-	8 Renegade Banneret
-	8 Clash of Courage
-	8 Preacher of Singularity
-	8 Stand as One
-	8 Renegade's Intercession
-	8 Semari Pilferer
-	8 Beneath the Tide
-	8 Setral Sentry
-	8 Blinded Arbiter
-	8 Vicuro Pathmaker
-	8 Shroud Scholar
-	8 Heist Lookout
-	8 Intangibility
-	8 Eavesdrop
-	8 Covet
-	8 Aspiring Shaper
-	8 Attuned Rebuttal
-	8 South-Street Scoundrel
-	8 Disciple of Surola
-	8 Killer-for-Hire
-	8 Beyond the Shroud
-	8 Slinking Swiftblade
-	8 Crypt Caretaker
-	8 Elite Aspirant
-	8 Volwood Proselytizer
-	8 With Impunity
-	8 It's Just Business
-	8 Tragic Accident
-	8 Hymn of the Overseer
-	8 Sunset Recruit
-	8 Patrol Veteran
-	8 Impatient Bandits
-	8 Incursion Vanguard
-	8 Disgruntled Crook
-	8 Impromptu Exit
-	8 Liberated Convert
-	8 Thoroughfare Busker
-	8 Subtle Touch
-	8 Forgotten Foundation
-	8 Tear Down
-	8 Spice of Life
-	8 Yoink!
-	8 Leonin Revivalist
-	8 Spit Venom
-	8 Outskirts Steward
-	8 Kindly Tavernkeep
-	8 Volwood Sentry
-	8 Toxin Peddler
-	8 Titanic Mycoid
-	8 Hired Hand
-	8 Dockside Hawker
-	8 Gutter Rat
-	8 Defend the Groves
-	8 Due Reward
-	8 Unbridled Flourishing
-	8 Find Your Prey
-	8 Congregation Minister
-	8 Overseer's Shackles
-	8 Shaper's Rites
-	8 Shriek of the Shroud
-	8 Midnight Warden
-	8 Concord Alchemist
-	8 Shroudwalker
-	8 Streetwise Surveyor
-	8 Bounty Wall
-	8 Disposable Dagger
-	8 Furious Resolve
-	8 Het's Call
-	8 Encroaching Voidborn
-	8 Apothecary's Quarters
-	8 Schemer's Study
-	8 Sketchy Slum
-	8 Backalley Market
-	8 Flourishing Garden
-	8 Abandoned District
-	8 Verdant Grotto
-	8 Scrounging Sensor
-	8 Sanctum Enforcer
-	8 Autonomous Accomplice
-	8 Corrupted Sanctum
-	8 Humming Furnace
-	8 Fell the Nonbeliever
-	8 Lucrative Larcenist
-	8 Steady Flurry
-	8 Boundless Coffers
-	8 Hidden Corridor
-[common | masterpiece(1)]
-	8 Fledgling Sycophant
-	8 Blessed Procession
-	8 Sunset Sentries
-	8 Reclaimed Convert
-	8 Enigmatic Apothecary
-	8 Renegade Banneret
-	8 Clash of Courage
-	8 Preacher of Singularity
-	8 Stand as One
-	8 Renegade's Intercession
-	8 Semari Pilferer
-	8 Beneath the Tide
-	8 Setral Sentry
-	8 Blinded Arbiter
-	8 Vicuro Pathmaker
-	8 Shroud Scholar
-	8 Heist Lookout
-	8 Intangibility
-	8 Eavesdrop
-	8 Covet
-	8 Aspiring Shaper
-	8 Attuned Rebuttal
-	8 South-Street Scoundrel
-	8 Disciple of Surola
-	8 Killer-for-Hire
-	8 Beyond the Shroud
-	8 Slinking Swiftblade
-	8 Crypt Caretaker
-	8 Elite Aspirant
-	8 Volwood Proselytizer
-	8 With Impunity
-	8 It's Just Business
-	8 Tragic Accident
-	8 Hymn of the Overseer
-	8 Sunset Recruit
-	8 Patrol Veteran
-	8 Impatient Bandits
-	8 Incursion Vanguard
-	8 Disgruntled Crook
-	8 Impromptu Exit
-	8 Liberated Convert
-	8 Thoroughfare Busker
-	8 Subtle Touch
-	8 Forgotten Foundation
-	8 Tear Down
-	8 Spice of Life
-	8 Yoink!
-	8 Leonin Revivalist
-	8 Spit Venom
-	8 Outskirts Steward
-	8 Kindly Tavernkeep
-	8 Volwood Sentry
-	8 Toxin Peddler
-	8 Titanic Mycoid
-	8 Hired Hand
-	8 Dockside Hawker
-	8 Gutter Rat
-	8 Defend the Groves
-	8 Due Reward
-	8 Unbridled Flourishing
-	8 Find Your Prey
-	8 Congregation Minister
-	8 Overseer's Shackles
-	8 Shaper's Rites
-	8 Shriek of the Shroud
-	8 Midnight Warden
-	8 Concord Alchemist
-	8 Shroudwalker
-	8 Streetwise Surveyor
-	8 Bounty Wall
-	8 Disposable Dagger
-	8 Furious Resolve
-	8 Het's Call
-	8 Encroaching Voidborn
-	8 Apothecary's Quarters
-	8 Schemer's Study
-	8 Sketchy Slum
-	8 Backalley Market
-	8 Flourishing Garden
-	8 Abandoned District
-	8 Verdant Grotto
-	8 Scrounging Sensor
-	8 Sanctum Enforcer
-	8 Autonomous Accomplice
-	8 Corrupted Sanctum
-	8 Humming Furnace
-	8 Fell the Nonbeliever
-	8 Lucrative Larcenist
-	8 Steady Flurry
-	8 Boundless Coffers
-	8 Hidden Corridor
+	40 Chapel Crasher
+	40 Chapel Specter
+	40 One Quiet Moment
+	40 Bond the Sundered Souls
+	40 Offer the Faithless
+	40 Consult the Offerings
+	40 Founder's Malice
+	40 Perfect Plan
+	40 Pickpocket
+	40 Semari Weaponsmith
+	40 Petty Larceny
+	40 Hand of the Overseer
+	40 Evasive Flourish
+	40 Bloodletting
+	40 Done Deal
+	40 Listen In
+	40 Founder's Echo
+	40 The Volwood
+	40 Friendly Misdirection
+	40 Scatter Records
+	40 Melodious Mallard
+	40 Dormant Godkiller
+	40 Ruthless Duo
+	40 Shroudpiercer
+	40 Trespass the Volwood
+	40 Soulcage
+	40 Overseer's Entrancer
+	40 Overseer's Chosen
+	40 Outskirts Mentor
+	40 Backalley Entertainer
+	40 Vicuro Informant
+	40 Rooftop Runner
+	40 Chandelier Slink
+	40 Volwood Defilers
+	40 Observe the Pattern
+	40 Bedlam's Vessel
+	40 Patient Executioner
+	40 Forsaken Shroudguard
+	40 Skittering Striker
+	40 Crypt Tiller
+	40 Thing in the Dark
+	40 Tenacious Thief
+	40 Wistful Strategist
+	40 Daring Escapees
+	40 Scrawny Pursesnatcher
+	40 Sieging Volleymage
+	40 Tale of Bedlam
+	40 Culvert Inspector
+	40 Unerring Assailant
+	40 Creeping Overgrowth
+	40 Volwood Deadeye
+	40 End the Chase
+	40 Herbalist's Satchel
+	40 Volwood Stalwart
+	40 Life from Death
+	40 Guild Elite
+	40 Rowdy Mob
+	40 Starry-Eyed Scholar
+	40 Profane Gathering
+	40 Go for the Gut
+	40 Rally the Rabble
+	40 Umber Grovetender
+	40 Survivalist Mentor
+	40 Frontline Victor
+	40 Sanctum Deathspeaker
+	40 Overprepared Accomplice
+	40 Ancient Sentry
+	40 Bustling Marketplace
+	40 Strangle
+	40 Setral Mender
+	40 Venomous Solution
+	40 Become the Hunted
+	40 Offer Yourself
+	40 Madness of Ages
+	40 Jump the Gap
+	40 Undergrowth Steward
+	40 Call for Backup
+	40 Into the Grove
+	40 City's Memory
+	40 Ascendant Judge
+	40 Gathering Place
+	40 Secluded Courtyard
+	40 Wharf Vendor
+	40 Smoke Bomb
+	40 Sunder the Cage
+	40 Split the Loot
+	40 Reap the Rewards
+	40 Blossoming Steward
+	40 Wharf Patrol
+	40 Setral Shoresculptor
+	40 Stalker's Cowl
+	40 Expert Infiltration
+	40 Orliss's Edict
+	40 Renegade Trueheart
+	40 Sprouting Sproutling
+	40 Herald of Emergence
+	40 Reckless Smashing
+	40 Tireless Refutation
+	40 Makeshift Justice
+	40 Siurne's Betrayal
+[common(7)]
+	80 Fledgling Sycophant
+	80 Blessed Procession
+	80 Sunset Sentries
+	80 Reclaimed Convert
+	80 Enigmatic Apothecary
+	80 Renegade Banneret
+	80 Clash of Courage
+	80 Preacher of Singularity
+	80 Stand as One
+	80 Renegade's Intercession
+	80 Semari Pilferer
+	80 Beneath the Tide
+	80 Setral Sentry
+	80 Blinded Arbiter
+	80 Vicuro Pathmaker
+	80 Shroud Scholar
+	80 Heist Lookout
+	80 Intangibility
+	80 Eavesdrop
+	80 Covet
+	80 Aspiring Shaper
+	80 Attuned Rebuttal
+	80 South-Street Scoundrel
+	80 Disciple of Surola
+	80 Killer-for-Hire
+	80 Beyond the Shroud
+	80 Slinking Swiftblade
+	80 Crypt Caretaker
+	80 Elite Aspirant
+	80 Volwood Proselytizer
+	80 With Impunity
+	80 It's Just Business
+	80 Tragic Accident
+	80 Hymn of the Overseer
+	80 Sunset Recruit
+	80 Patrol Veteran
+	80 Impatient Bandits
+	80 Incursion Vanguard
+	80 Disgruntled Crook
+	80 Impromptu Exit
+	80 Liberated Convert
+	80 Thoroughfare Busker
+	80 Subtle Touch
+	80 Forgotten Foundation
+	80 Tear Down
+	80 Spice of Life
+	80 Yoink!
+	80 Leonin Revivalist
+	80 Spit Venom
+	80 Outskirts Steward
+	80 Kindly Tavernkeep
+	80 Volwood Sentry
+	80 Toxin Peddler
+	80 Titanic Mycoid
+	80 Hired Hand
+	80 Dockside Hawker
+	80 Gutter Rat
+	80 Defend the Groves
+	80 Due Reward
+	80 Unbridled Flourishing
+	80 Find Your Prey
+	80 Congregation Minister
+	80 Overseer's Shackles
+	80 Shaper's Rites
+	80 Shriek of the Shroud
+	80 Midnight Warden
+	80 Concord Alchemist
+	80 Shroudwalker
+	80 Streetwise Surveyor
+	80 Bounty Wall
+	80 Disposable Dagger
+	80 Furious Resolve
+	80 Het's Call
+	80 Encroaching Voidborn
+	80 Apothecary's Quarters
+	80 Schemer's Study
+	80 Sketchy Slum
+	80 Backalley Market
+	80 Flourishing Garden
+	80 Abandoned District
+	80 Verdant Grotto
+	80 Scrounging Sensor
+	80 Sanctum Enforcer
+	80 Autonomous Accomplice
+	80 Corrupted Sanctum
+	80 Humming Furnace
+	80 Fell the Nonbeliever
+	80 Lucrative Larcenist
+	80 Steady Flurry
+	80 Boundless Coffers
+	80 Hidden Corridor
 [foil(1)]
 	12 Fledgling Sycophant
 	12 Blessed Procession
