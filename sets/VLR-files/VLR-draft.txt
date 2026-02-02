@@ -45,9 +45,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Cat Rebel",
-			"collector_number": "26",
+			"collector_number": "25",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/26_Reclaimed Convert.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/25_Reclaimed Convert.jpg"
 			}
 		},
 		{
@@ -65,9 +65,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Cat Rebel",
-			"collector_number": "27",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/27_Renegade Banneret.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/26_Renegade Banneret.jpg"
 			}
 		},
 		{
@@ -85,9 +85,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Bird Warlock",
-			"collector_number": "25",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/25_Preacher of Singularity.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/24_Preacher of Singularity.jpg"
 			}
 		},
 		{
@@ -115,9 +115,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{W}",
 			"type": "Sorcery",
-			"collector_number": "20",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/20_One Quiet Moment.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/19_One Quiet Moment.jpg"
 			}
 		},
 		{
@@ -135,9 +135,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "30",
+			"collector_number": "29",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/30_Renegade's Intercession.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/29_Renegade's Intercession.jpg"
 			}
 		},
 		{
@@ -145,9 +145,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Instant",
-			"collector_number": "19",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/19_Offer the Faithless.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/18_Offer the Faithless.jpg"
 			}
 		},
 		{
@@ -263,8 +263,8 @@
 		{
 			"name": "Juniper's Awakening",
 			"rarity": "rare",
-			"mana_cost": "{2}{U}{U}",
-			"type": "Sorcery",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Enchantment",
 			"collector_number": "54",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/54_Juniper's Awakening.jpg"
@@ -325,9 +325,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Human Artificer",
-			"collector_number": "32",
+			"collector_number": "31",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/32_Semari Weaponsmith.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/31_Semari Weaponsmith.jpg"
 			}
 		},
 		{
@@ -463,8 +463,8 @@
 		{
 			"name": "Tragic Accident",
 			"rarity": "common",
-			"mana_cost": "{1}{B}",
-			"type": "Sorcery",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
 			"collector_number": "108",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/108_Tragic Accident.jpg"
@@ -885,9 +885,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Cat Warlock",
-			"collector_number": "23",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/23_Overseer's Entrancer.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/22_Overseer's Entrancer.jpg"
 			}
 		},
 		{
@@ -895,9 +895,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Bird Warlock",
-			"collector_number": "22",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/22_Overseer's Chosen.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/21_Overseer's Chosen.jpg"
 			}
 		},
 		{
@@ -905,9 +905,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Snake Rebel",
-			"collector_number": "21",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/21_Outskirts Mentor.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/20_Outskirts Mentor.jpg"
 			}
 		},
 		{
@@ -923,7 +923,7 @@
 		{
 			"name": "Malicious Throng",
 			"rarity": "rare",
-			"mana_cost": "{W}{B}",
+			"mana_cost": "{1}{W}{B}",
 			"type": "Creature — Human Warlock",
 			"collector_number": "195",
 			"image_uris": {
@@ -945,9 +945,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment — Aura",
-			"collector_number": "24",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/24_Overseer's Shackles.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/23_Overseer's Shackles.jpg"
 			}
 		},
 		{
@@ -1053,7 +1053,7 @@
 		{
 			"name": "Reckless Show-Off",
 			"rarity": "rare",
-			"mana_cost": "{2}{R}",
+			"mana_cost": "{3}{R}{R}",
 			"type": "Creature — Bird Rogue",
 			"collector_number": "128",
 			"image_uris": {
@@ -1313,7 +1313,7 @@
 		{
 			"name": "Rally the Rabble",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{R}{W}",
+			"mana_cost": "{2}{R}{W}",
 			"type": "Enchantment",
 			"collector_number": "203",
 			"image_uris": {
@@ -1335,9 +1335,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{W}{W}",
 			"type": "Creature — Angel",
-			"collector_number": "18",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/18_Midnight Warden.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/17_Midnight Warden.jpg"
 			}
 		},
 		{
@@ -1403,7 +1403,7 @@
 		{
 			"name": "Streetwise Surveyor",
 			"rarity": "common",
-			"mana_cost": "{3}{R}",
+			"mana_cost": "{4}{R}",
 			"type": "Creature — Human Rogue",
 			"collector_number": "137",
 			"image_uris": {
@@ -1684,7 +1684,7 @@
 			"name": "Ascendant Judge",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{W}",
-			"type": "Creature — Human Warlock",
+			"type": "Creature — Bird Warlock",
 			"collector_number": "2",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/2_Ascendant Judge.jpg"
@@ -1705,9 +1705,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Warlock",
-			"collector_number": "15",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/15_Forsaken Penitents.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/14_Forsaken Penitents.jpg"
 			}
 		},
 		{
@@ -1753,7 +1753,7 @@
 		{
 			"name": "The Founder's Hunt Begins",
 			"rarity": "rare",
-			"mana_cost": "{2}{B}{B}",
+			"mana_cost": "{3}{B}{B}",
 			"type": "Sorcery",
 			"collector_number": "87",
 			"image_uris": {
@@ -2015,9 +2015,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Druid",
-			"collector_number": "6",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/6t_green and blue Druid 22VLR.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/7t_green and blue Druid 22VLR.jpg"
 			}
 		},
 		{
@@ -2081,13 +2081,13 @@
 			}
 		},
 		{
-			"name": "Eerie Procession",
+			"name": "Solemn Procession",
 			"rarity": "rare",
 			"mana_cost": "{X}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "13",
+			"collector_number": "33",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/13_Eerie Procession.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/33_Solemn Procession.jpg"
 			}
 		},
 		{
@@ -2105,9 +2105,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Rebel",
-			"collector_number": "28",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/28_Renegade Recruiter.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/27_Renegade Recruiter.jpg"
 			}
 		},
 		{
@@ -2165,9 +2165,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Warlock",
-			"collector_number": "31",
+			"collector_number": "30",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/31_Sanctum Enforcer.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/30_Sanctum Enforcer.jpg"
 			}
 		},
 		{
@@ -2255,9 +2255,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Warlock",
-			"collector_number": "5",
+			"collector_number": "6",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/5t_Acolyte VLR.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/6t_Acolyte VLR.jpg"
 			}
 		},
 		{
@@ -2283,7 +2283,7 @@
 		{
 			"name": "Race for the Glory",
 			"rarity": "rare",
-			"mana_cost": "{3}{B}{B}",
+			"mana_cost": "{1}{B}{B}",
 			"type": "Enchantment",
 			"collector_number": "101",
 			"image_uris": {
@@ -2385,9 +2385,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Legendary Enchantment",
-			"collector_number": "16",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/16_The Great Singularity.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/15_The Great Singularity.jpg"
 			}
 		},
 		{
@@ -2405,9 +2405,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Bird Rebel",
-			"collector_number": "29",
+			"collector_number": "28",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/29_Renegade Trueheart.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/28_Renegade Trueheart.jpg"
 			}
 		},
 		{
@@ -2443,8 +2443,8 @@
 		{
 			"name": "On Top of the World",
 			"rarity": "rare",
-			"mana_cost": "{2}{U}",
-			"type": "Instant",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
 			"collector_number": "58",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/58_On Top of the World.jpg"
@@ -2525,16 +2525,16 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}",
 			"type": "Legendary Creature — Angel Warlock",
-			"collector_number": "33",
+			"collector_number": "32",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/33_Siurne, Eternal Sentinel_back.jpg"
+					"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/32_Siurne, Eternal Sentinel_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/33_Siurne, Eternal Sentinel_front.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/32_Siurne, Eternal Sentinel_front.jpg"
 			}
 		},
 		{
@@ -2700,9 +2700,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "14",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/14_Fell the Nonbeliever.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/13_Fell the Nonbeliever.jpg"
 			}
 		},
 		{
@@ -2790,9 +2790,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}",
 			"type": "Legendary Creature — Snake Rebel",
-			"collector_number": "17",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/17_Ivari, Liberated Mentor.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/16_Ivari, Liberated Mentor.jpg"
 			}
 		},
 		{
@@ -2878,7 +2878,7 @@
 		{
 			"name": "Siurne's Betrayal",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{B}{R}",
+			"mana_cost": "{1}{B}{R}",
 			"type": "Sorcery",
 			"collector_number": "209",
 			"image_uris": {
@@ -2886,13 +2886,13 @@
 			}
 		},
 		{
-			"name": "green Elemental VLR",
+			"name": "green Elemental XXVLR",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Elemental",
-			"collector_number": "7",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/7t_green Elemental VLR.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/5t_green Elemental XXVLR.jpg"
 			}
 		}
 	]
@@ -2933,7 +2933,7 @@
 	2 Rooftop Observer
 	2 Innovative Alchemist
 	2 Stand Ready
-	2 Eerie Procession
+	2 Solemn Procession
 	2 Leybound Ritualist
 	2 Renegade Recruiter
 	2 Turen, Untouchable
@@ -3468,7 +3468,7 @@
 	2 Stand Ready
 	6 Split the Loot
 	6 Reap the Rewards
-	2 Eerie Procession
+	2 Solemn Procession
 	2 Leybound Ritualist
 	2 Renegade Recruiter
 	6 Blossoming Steward
@@ -3740,7 +3740,7 @@
 	7 Stand Ready
 	15 Split the Loot
 	15 Reap the Rewards
-	7 Eerie Procession
+	7 Solemn Procession
 	7 Leybound Ritualist
 	7 Renegade Recruiter
 	15 Blossoming Steward
