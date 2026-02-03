@@ -2826,8 +2826,8 @@ Whenever a nontoken creature dies, you may pay 3 life. If you do, create a token
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Soya, Guild Pariah</reverse_related>
-			<reverse_related>Ruthless Duo</reverse_related>
+			<reverse-related>Soya, Guild Pariah</reverse-related>
+			<reverse-related>Ruthless Duo</reverse-related>
 		</card>
 		<card>
 			<name>The Shrouded Seas</name>
@@ -3515,9 +3515,9 @@ When this enchantment enters, if it was cast, phase out all creatures until this
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related count="2">Tesh, Fragmented Founder</reverse_related>
-			<reverse_related>City&apos;s Memory</reverse_related>
-			<reverse_related count="2">City&apos;s Memory</reverse_related>
+			<reverse-related count="2">Tesh, Fragmented Founder</reverse-related>
+			<reverse-related>City&apos;s Memory</reverse-related>
+			<reverse-related count="2">City&apos;s Memory</reverse-related>
 		</card>
 		<card>
 			<name>Druid VLR</name>
@@ -3536,7 +3536,7 @@ When this enchantment enters, if it was cast, phase out all creatures until this
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Survivalist Mentor</reverse_related>
+			<reverse-related>Survivalist Mentor</reverse-related>
 		</card>
 		<card>
 			<name>Treasure VLR</name>
@@ -3552,21 +3552,21 @@ When this enchantment enters, if it was cast, phase out all creatures until this
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
-			<reverse_related>Coffers Altar</reverse_related>
-			<reverse_related>Elite Aspirant</reverse_related>
-			<reverse_related>League of Their Own</reverse_related>
-			<reverse_related>Tragic Accident</reverse_related>
-			<reverse_related>Reap the Rewards</reverse_related>
-			<reverse_related>Scrawny Pursesnatcher</reverse_related>
-			<reverse_related count="2">Split the Loot</reverse_related>
-			<reverse_related>Waylen, Bloodhunter</reverse_related>
-			<reverse_related count="2">Avarice</reverse_related>
-			<reverse_related>Tale of Bedlam</reverse_related>
-			<reverse_related>Killer-for-Hire</reverse_related>
-			<reverse_related>Orliss of the Elite</reverse_related>
-			<reverse_related>Autonomous Accomplice</reverse_related>
-			<reverse_related>Bounty Wall</reverse_related>
-			<reverse_related>Bustling Marketplace</reverse_related>
+			<reverse-related>Coffers Altar</reverse-related>
+			<reverse-related>Elite Aspirant</reverse-related>
+			<reverse-related>League of Their Own</reverse-related>
+			<reverse-related>Tragic Accident</reverse-related>
+			<reverse-related>Reap the Rewards</reverse-related>
+			<reverse-related>Scrawny Pursesnatcher</reverse-related>
+			<reverse-related count="2">Split the Loot</reverse-related>
+			<reverse-related>Waylen, Bloodhunter</reverse-related>
+			<reverse-related count="2">Avarice</reverse-related>
+			<reverse-related>Tale of Bedlam</reverse-related>
+			<reverse-related>Killer-for-Hire</reverse-related>
+			<reverse-related>Orliss of the Elite</reverse-related>
+			<reverse-related>Autonomous Accomplice</reverse-related>
+			<reverse-related>Bounty Wall</reverse-related>
+			<reverse-related>Bustling Marketplace</reverse-related>
 		</card>
 		<card>
 			<name>Rooftop Observer</name>
@@ -3978,19 +3978,19 @@ When this creature dies, return up to one target permanent card with mana value 
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Ascendant Judge</reverse_related>
-			<reverse_related count="2">Blessed Procession</reverse_related>
-			<reverse_related>Congregation Minister</reverse_related>
-			<reverse_related>Forsaken Penitents</reverse_related>
-			<reverse_related>Overseer&apos;s Chosen</reverse_related>
-			<reverse_related count="2">Siurne, Covetous Creation</reverse_related>
-			<reverse_related>Crypt Caretaker</reverse_related>
-			<reverse_related>Crypt Tiller</reverse_related>
-			<reverse_related>Disciple of Surola</reverse_related>
-			<reverse_related>Malicious Pactmaker</reverse_related>
-			<reverse_related>Offer Yourself</reverse_related>
-			<reverse_related>Malicious Throng</reverse_related>
-			<reverse_related count="3">Profane Gathering</reverse_related>
+			<reverse-related>Ascendant Judge</reverse-related>
+			<reverse-related count="2">Blessed Procession</reverse-related>
+			<reverse-related>Congregation Minister</reverse-related>
+			<reverse-related>Forsaken Penitents</reverse-related>
+			<reverse-related>Overseer&apos;s Chosen</reverse-related>
+			<reverse-related count="2">Siurne, Covetous Creation</reverse-related>
+			<reverse-related>Crypt Caretaker</reverse-related>
+			<reverse-related>Crypt Tiller</reverse-related>
+			<reverse-related>Disciple of Surola</reverse-related>
+			<reverse-related>Malicious Pactmaker</reverse-related>
+			<reverse-related>Offer Yourself</reverse-related>
+			<reverse-related>Malicious Throng</reverse-related>
+			<reverse-related count="3">Profane Gathering</reverse-related>
 		</card>
 		<card>
 			<name>Coffers Altar</name>
@@ -4788,26 +4788,26 @@ Whenever Soya enters or attacks, you may sacrifice another nonland permanent. If
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
-			<reverse_related>Tesh, Fragmented Founder</reverse_related>
-			<reverse_related>Consult the Offerings</reverse_related>
-			<reverse_related count="X">Duplicity</reverse_related>
-			<reverse_related>Innovative Alchemist</reverse_related>
-			<reverse_related>Bedlam&apos;s Vessel</reverse_related>
-			<reverse_related>Het, False God</reverse_related>
-			<reverse_related>High Priestess Symi</reverse_related>
-			<reverse_related>It&apos;s Just Business</reverse_related>
-			<reverse_related>Slinking Swiftblade</reverse_related>
-			<reverse_related>Veteran Hunter</reverse_related>
-			<reverse_related>Herald of Emergence</reverse_related>
-			<reverse_related>Due Reward</reverse_related>
-			<reverse_related>Esteemed Exterminator</reverse_related>
-			<reverse_related>Hired Hand</reverse_related>
-			<reverse_related>Unerring Assailant</reverse_related>
-			<reverse_related>Guild Elite</reverse_related>
-			<reverse_related>Kane, Unyielding</reverse_related>
-			<reverse_related>Soulcage</reverse_related>
-			<reverse_related>Torvel, Scion of Rot</reverse_related>
-			<reverse_related>Arital, Grand Adjudicator</reverse_related>
+			<reverse-related>Tesh, Fragmented Founder</reverse-related>
+			<reverse-related>Consult the Offerings</reverse-related>
+			<reverse-related count="X">Duplicity</reverse-related>
+			<reverse-related>Innovative Alchemist</reverse-related>
+			<reverse-related>Bedlam&apos;s Vessel</reverse-related>
+			<reverse-related>Het, False God</reverse-related>
+			<reverse-related>High Priestess Symi</reverse-related>
+			<reverse-related>It&apos;s Just Business</reverse-related>
+			<reverse-related>Slinking Swiftblade</reverse-related>
+			<reverse-related>Veteran Hunter</reverse-related>
+			<reverse-related>Herald of Emergence</reverse-related>
+			<reverse-related>Due Reward</reverse-related>
+			<reverse-related>Esteemed Exterminator</reverse-related>
+			<reverse-related>Hired Hand</reverse-related>
+			<reverse-related>Unerring Assailant</reverse-related>
+			<reverse-related>Guild Elite</reverse-related>
+			<reverse-related>Kane, Unyielding</reverse-related>
+			<reverse-related>Soulcage</reverse-related>
+			<reverse-related>Torvel, Scion of Rot</reverse-related>
+			<reverse-related>Arital, Grand Adjudicator</reverse-related>
 		</card>
 		<card>
 			<name>Skeleton Dragon VLR</name>
@@ -4826,9 +4826,9 @@ Whenever Soya enters or attacks, you may sacrifice another nonland permanent. If
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Bedlam&apos;s Vessel</reverse_related>
-			<reverse_related>Tale of Bedlam</reverse_related>
-			<reverse_related>Heart of Bedlam</reverse_related>
+			<reverse-related>Bedlam&apos;s Vessel</reverse-related>
+			<reverse-related>Tale of Bedlam</reverse-related>
+			<reverse-related>Heart of Bedlam</reverse-related>
 		</card>
 		<card>
 			<name>Fell the Nonbeliever</name>
@@ -5125,15 +5125,15 @@ Equip {2}</text>
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
-			<reverse_related>Semari Weaponsmith</reverse_related>
-			<reverse_related>Done Deal</reverse_related>
-			<reverse_related>Dockside Hawker</reverse_related>
-			<reverse_related>Volwood Deadeye</reverse_related>
-			<reverse_related>Winding Assailant</reverse_related>
-			<reverse_related count="2">Rowdy Mob</reverse_related>
-			<reverse_related count="2">Wharf Forgemaster</reverse_related>
-			<reverse_related>Ancient Sentry</reverse_related>
-			<reverse_related>Humming Furnace</reverse_related>
+			<reverse-related>Semari Weaponsmith</reverse-related>
+			<reverse-related>Done Deal</reverse-related>
+			<reverse-related>Dockside Hawker</reverse-related>
+			<reverse-related>Volwood Deadeye</reverse-related>
+			<reverse-related>Winding Assailant</reverse-related>
+			<reverse-related count="2">Rowdy Mob</reverse-related>
+			<reverse-related count="2">Wharf Forgemaster</reverse-related>
+			<reverse-related>Ancient Sentry</reverse-related>
+			<reverse-related>Humming Furnace</reverse-related>
 		</card>
 		<card>
 			<name>Citizen VLR</name>
@@ -5152,9 +5152,9 @@ Equip {2}</text>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related count="2">Backalley Entertainer</reverse_related>
-			<reverse_related count="2">Rowdy Mob</reverse_related>
-			<reverse_related>Kindly Tavernkeep</reverse_related>
+			<reverse-related count="2">Backalley Entertainer</reverse-related>
+			<reverse-related count="2">Rowdy Mob</reverse-related>
+			<reverse-related>Kindly Tavernkeep</reverse-related>
 		</card>
 		<card>
 			<name>Siurne&apos;s Betrayal</name>
@@ -5189,8 +5189,8 @@ Equip {2}</text>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Juniper&apos;s Awakening</reverse_related>
-			<reverse_related>Juni, Shaper Unbound</reverse_related>
+			<reverse-related>Juniper&apos;s Awakening</reverse-related>
+			<reverse-related>Juni, Shaper Unbound</reverse-related>
 		</card>
 	</cards>
 </cockatrice_carddatabase>
