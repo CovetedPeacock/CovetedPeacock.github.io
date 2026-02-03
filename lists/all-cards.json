@@ -17,8 +17,11 @@
             "loyalty": "",
             "artist": "Daria Preobrazhenskaya",
             "alias": "",
+            "position": "0",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Blessed Procession",
@@ -37,8 +40,11 @@
             "loyalty": "",
             "artist": "Even Amundsen",
             "alias": "",
+            "position": "1",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Sunset Sentries",
@@ -57,8 +63,11 @@
             "loyalty": "",
             "artist": "Marc Simonetti",
             "alias": "",
+            "position": "2",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Chapel Crasher",
@@ -77,8 +86,11 @@
             "loyalty": "",
             "artist": "Jo\u00e3o Alexandre E. de Almeida",
             "alias": "",
+            "position": "3",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Reclaimed Convert",
@@ -97,8 +109,11 @@
             "loyalty": "",
             "artist": "Daria Eliseeva",
             "alias": "",
+            "position": "4",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Enigmatic Apothecary",
@@ -117,8 +132,11 @@
             "loyalty": "",
             "artist": "Timi Honkanen",
             "alias": "",
+            "position": "5",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Renegade Banneret",
@@ -137,8 +155,11 @@
             "loyalty": "",
             "artist": "Mitrey Vlasory",
             "alias": "",
+            "position": "6",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Clash of Courage",
@@ -157,8 +178,11 @@
             "loyalty": "",
             "artist": "Ilya Royz",
             "alias": "",
+            "position": "7",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Preacher of Singularity",
@@ -177,8 +201,11 @@
             "loyalty": "",
             "artist": "Andy Aslamov",
             "alias": "",
+            "position": "8",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Chapel Specter",
@@ -197,8 +224,11 @@
             "loyalty": "",
             "artist": "Edgar G\u00f3mez",
             "alias": "",
+            "position": "9",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Stand as One",
@@ -217,8 +247,11 @@
             "loyalty": "",
             "artist": "Andy Aslamov",
             "alias": "",
+            "position": "10",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "One Quiet Moment",
@@ -237,8 +270,11 @@
             "loyalty": "",
             "artist": "Caio Santos",
             "alias": "",
+            "position": "11",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Bond the Sundered Souls",
@@ -257,8 +293,11 @@
             "loyalty": "",
             "artist": "Michal Ka\u0161tovsk\u00fd",
             "alias": "",
+            "position": "12",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Renegade's Intercession",
@@ -277,8 +316,11 @@
             "loyalty": "",
             "artist": "Ana Amaral",
             "alias": "",
+            "position": "13",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Offer the Faithless",
@@ -297,8 +339,11 @@
             "loyalty": "",
             "artist": "Arianne Elliott",
             "alias": "",
+            "position": "14",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Consult the Offerings",
@@ -317,8 +362,11 @@
             "loyalty": "",
             "artist": "Angelika Blieweis",
             "alias": "",
+            "position": "15",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Semari Pilferer",
@@ -337,8 +385,11 @@
             "loyalty": "",
             "artist": "Gaston S. Garcia",
             "alias": "",
+            "position": "16",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Beneath the Tide",
@@ -357,8 +408,11 @@
             "loyalty": "",
             "artist": "Giulia Giovanete",
             "alias": "",
+            "position": "17",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Setral Sentry",
@@ -377,8 +431,11 @@
             "loyalty": "",
             "artist": "Ivan Dominguez",
             "alias": "",
+            "position": "18",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Blinded Arbiter",
@@ -397,8 +454,11 @@
             "loyalty": "",
             "artist": "Lily Curtis",
             "alias": "",
+            "position": "19",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Vicuro Pathmaker",
@@ -417,8 +477,11 @@
             "loyalty": "",
             "artist": "Deryl Arrazaq",
             "alias": "",
+            "position": "20",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Shroud Scholar",
@@ -437,8 +500,11 @@
             "loyalty": "",
             "artist": "David Kovacic",
             "alias": "",
+            "position": "21",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Heist Lookout",
@@ -457,8 +523,11 @@
             "loyalty": "",
             "artist": "Ayden Plummer",
             "alias": "",
+            "position": "22",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Intangibility",
@@ -477,8 +546,11 @@
             "loyalty": "",
             "artist": "Sidharth Chaturvedi",
             "alias": "",
+            "position": "23",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Eavesdrop",
@@ -497,8 +569,11 @@
             "loyalty": "",
             "artist": "Nicole Cardiff",
             "alias": "",
+            "position": "24",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Covet",
@@ -517,8 +592,11 @@
             "loyalty": "",
             "artist": "Gun Gunawan",
             "alias": "",
+            "position": "25",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Juniper's Awakening",
@@ -537,8 +615,11 @@
             "loyalty": "",
             "artist": "Vitor Scienza",
             "alias": "",
+            "position": "26",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Founder's Malice",
@@ -557,8 +638,11 @@
             "loyalty": "",
             "artist": "Romana Sed\u00edkov\u00e1",
             "alias": "",
+            "position": "27",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Perfect Plan",
@@ -577,8 +661,11 @@
             "loyalty": "",
             "artist": "Davi Mcdf",
             "alias": "",
+            "position": "28",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Pickpocket",
@@ -597,8 +684,11 @@
             "loyalty": "",
             "artist": "JB Casacop",
             "alias": "",
+            "position": "29",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Aspiring Shaper",
@@ -617,8 +707,11 @@
             "loyalty": "",
             "artist": "Halo Grey",
             "alias": "",
+            "position": "30",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Attuned Rebuttal",
@@ -637,8 +730,11 @@
             "loyalty": "",
             "artist": "Kristian Agerkvist",
             "alias": "",
+            "position": "31",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Semari Weaponsmith",
@@ -657,8 +753,11 @@
             "loyalty": "",
             "artist": "Felipe Fornitani",
             "alias": "",
+            "position": "32",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Petty Larceny",
@@ -677,8 +776,11 @@
             "loyalty": "",
             "artist": "Polina Surygina",
             "alias": "",
+            "position": "33",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "South-Street Scoundrel",
@@ -697,8 +799,11 @@
             "loyalty": "",
             "artist": "Timi Honkanen",
             "alias": "",
+            "position": "34",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Disciple of Surola",
@@ -717,8 +822,11 @@
             "loyalty": "",
             "artist": "Jason Chen",
             "alias": "",
+            "position": "35",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Killer-for-Hire",
@@ -737,8 +845,11 @@
             "loyalty": "",
             "artist": "Timi Honkanen",
             "alias": "",
+            "position": "36",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Hand of the Overseer",
@@ -757,8 +868,11 @@
             "loyalty": "",
             "artist": "Joshua Esmeralda",
             "alias": "",
+            "position": "37",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Beyond the Shroud",
@@ -777,8 +891,11 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
+            "position": "38",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Slinking Swiftblade",
@@ -797,8 +914,11 @@
             "loyalty": "",
             "artist": "Olie Boldador",
             "alias": "",
+            "position": "39",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Crypt Caretaker",
@@ -817,8 +937,11 @@
             "loyalty": "",
             "artist": "Marina Ryats",
             "alias": "",
+            "position": "40",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Elite Aspirant",
@@ -837,8 +960,11 @@
             "loyalty": "",
             "artist": "Tatiana Pavlova",
             "alias": "",
+            "position": "41",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Volwood Proselytizer",
@@ -857,8 +983,11 @@
             "loyalty": "",
             "artist": "Kenny Gon\u00e7alves Schimitt",
             "alias": "",
+            "position": "42",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Evasive Flourish",
@@ -877,8 +1006,11 @@
             "loyalty": "",
             "artist": "Angelo Adonis Chavez",
             "alias": "",
+            "position": "43",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "With Impunity",
@@ -897,8 +1029,11 @@
             "loyalty": "",
             "artist": "Von Milano",
             "alias": "",
+            "position": "44",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "It's Just Business",
@@ -917,8 +1052,11 @@
             "loyalty": "",
             "artist": "Olie Boldador",
             "alias": "",
+            "position": "45",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Tragic Accident",
@@ -937,8 +1075,11 @@
             "loyalty": "",
             "artist": "Joe Latham",
             "alias": "",
+            "position": "46",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Bloodletting",
@@ -957,8 +1098,11 @@
             "loyalty": "",
             "artist": "M\u00e1rton Gyula Kiss",
             "alias": "",
+            "position": "47",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Hymn of the Overseer",
@@ -977,8 +1121,11 @@
             "loyalty": "",
             "artist": "Mehmet Ozen",
             "alias": "",
+            "position": "48",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Done Deal",
@@ -997,8 +1144,11 @@
             "loyalty": "",
             "artist": "Muhammet Ali Parlagi",
             "alias": "",
+            "position": "49",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Listen In",
@@ -1017,8 +1167,11 @@
             "loyalty": "",
             "artist": "Kira L Nguyen",
             "alias": "",
+            "position": "50",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Founder's Echo",
@@ -1037,8 +1190,11 @@
             "loyalty": "",
             "artist": "Vladimir Matyukhin",
             "alias": "",
+            "position": "51",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "The Volwood",
@@ -1057,8 +1213,11 @@
             "loyalty": "",
             "artist": "Andreas Rocha",
             "alias": "",
+            "position": "52",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Sunset Recruit",
@@ -1077,8 +1236,11 @@
             "loyalty": "",
             "artist": "@loafyfloff",
             "alias": "",
+            "position": "53",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Patrol Veteran",
@@ -1097,8 +1259,11 @@
             "loyalty": "",
             "artist": "M\u00e1rton Gyula Kiss",
             "alias": "",
+            "position": "54",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Impatient Bandits",
@@ -1117,8 +1282,11 @@
             "loyalty": "",
             "artist": "Matt Sellers",
             "alias": "",
+            "position": "55",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Incursion Vanguard",
@@ -1137,8 +1305,11 @@
             "loyalty": "",
             "artist": "Patrick Garcia",
             "alias": "",
+            "position": "56",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Disgruntled Crook",
@@ -1157,8 +1328,11 @@
             "loyalty": "",
             "artist": "Matt Sellers",
             "alias": "",
+            "position": "57",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Impromptu Exit",
@@ -1177,8 +1351,11 @@
             "loyalty": "",
             "artist": "Homme des Lunes",
             "alias": "",
+            "position": "58",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Liberated Convert",
@@ -1197,8 +1374,11 @@
             "loyalty": "",
             "artist": "Patricia Pria",
             "alias": "",
+            "position": "59",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Thoroughfare Busker",
@@ -1217,8 +1397,11 @@
             "loyalty": "",
             "artist": "Andy Aslamov",
             "alias": "",
+            "position": "60",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Subtle Touch",
@@ -1237,8 +1420,11 @@
             "loyalty": "",
             "artist": "Rapha\u00eblle Ellehar Bieuville",
             "alias": "",
+            "position": "61",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Forgotten Foundation",
@@ -1257,8 +1443,11 @@
             "loyalty": "",
             "artist": "Bartek Fedyczak",
             "alias": "",
+            "position": "62",
+            "rotated": false,
             "notes": "!tapped",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Tear Down",
@@ -1277,8 +1466,11 @@
             "loyalty": "",
             "artist": "Philipp Dobrusin",
             "alias": "",
+            "position": "63",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Friendly Misdirection",
@@ -1297,8 +1489,11 @@
             "loyalty": "",
             "artist": "Sergio Villa-Isaza",
             "alias": "",
+            "position": "64",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Spice of Life",
@@ -1317,8 +1512,11 @@
             "loyalty": "",
             "artist": "Michael Katchan",
             "alias": "",
+            "position": "65",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Yoink!",
@@ -1337,8 +1535,11 @@
             "loyalty": "",
             "artist": "JB Casacop",
             "alias": "",
+            "position": "66",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Scatter Records",
@@ -1357,8 +1558,11 @@
             "loyalty": "",
             "artist": "Kate Fox",
             "alias": "",
+            "position": "67",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Melodious Mallard",
@@ -1377,8 +1581,11 @@
             "loyalty": "",
             "artist": "Pierre Ignaszewski",
             "alias": "",
+            "position": "68",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Dormant Godkiller",
@@ -1397,8 +1604,11 @@
             "loyalty": "",
             "artist": "Artur Treffner",
             "alias": "",
+            "position": "69",
+            "rotated": false,
             "notes": "!tapped",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Leonin Revivalist",
@@ -1417,8 +1627,11 @@
             "loyalty": "",
             "artist": "Xander Brown",
             "alias": "",
+            "position": "70",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Spit Venom",
@@ -1437,8 +1650,11 @@
             "loyalty": "",
             "artist": "Timi Honkanen",
             "alias": "",
+            "position": "71",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Outskirts Steward",
@@ -1457,8 +1673,11 @@
             "loyalty": "",
             "artist": "Rodrigo Clark",
             "alias": "",
+            "position": "72",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Kindly Tavernkeep",
@@ -1477,8 +1696,11 @@
             "loyalty": "",
             "artist": "Claudiu-Antoniu Magherusan",
             "alias": "",
+            "position": "73",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Volwood Sentry",
@@ -1497,8 +1719,11 @@
             "loyalty": "",
             "artist": "Dimitr Bochukov",
             "alias": "",
+            "position": "74",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Toxin Peddler",
@@ -1517,8 +1742,11 @@
             "loyalty": "",
             "artist": "Cole Eastburn",
             "alias": "",
+            "position": "75",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Ruthless Duo",
@@ -1537,8 +1765,11 @@
             "loyalty": "",
             "artist": "Liquid Feather",
             "alias": "",
+            "position": "76",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Titanic Mycoid",
@@ -1557,8 +1788,11 @@
             "loyalty": "",
             "artist": "Finnian MacManus",
             "alias": "",
+            "position": "77",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Hired Hand",
@@ -1577,8 +1811,11 @@
             "loyalty": "",
             "artist": "Arghawana Rim",
             "alias": "",
+            "position": "78",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Dockside Hawker",
@@ -1597,8 +1834,11 @@
             "loyalty": "",
             "artist": "Lena B Wolf",
             "alias": "",
+            "position": "79",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Gutter Rat",
@@ -1617,8 +1857,11 @@
             "loyalty": "",
             "artist": "Sergio Villa-Isaza",
             "alias": "",
+            "position": "80",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Defend the Groves",
@@ -1637,8 +1880,11 @@
             "loyalty": "",
             "artist": "Tran Kh\u00e1nh Ky",
             "alias": "",
+            "position": "81",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Due Reward",
@@ -1657,8 +1903,11 @@
             "loyalty": "",
             "artist": "Joseph Weston",
             "alias": "",
+            "position": "82",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Unbridled Flourishing",
@@ -1677,8 +1926,11 @@
             "loyalty": "",
             "artist": "Angga Dwipayana",
             "alias": "",
+            "position": "83",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Shroudpiercer",
@@ -1697,8 +1949,11 @@
             "loyalty": "",
             "artist": "Allan Santos",
             "alias": "",
+            "position": "84",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Trespass the Volwood",
@@ -1717,8 +1972,11 @@
             "loyalty": "",
             "artist": "Arthur Miglionni",
             "alias": "",
+            "position": "85",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Find Your Prey",
@@ -1737,8 +1995,11 @@
             "loyalty": "",
             "artist": "Kristian Agerkvist",
             "alias": "",
+            "position": "86",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Soulcage",
@@ -1757,8 +2018,11 @@
             "loyalty": "",
             "artist": "Lana Ansay",
             "alias": "",
+            "position": "87",
+            "rotated": false,
             "notes": "!tag wishlist",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Overseer's Entrancer",
@@ -1777,8 +2041,11 @@
             "loyalty": "",
             "artist": "Envak Enkaqti",
             "alias": "",
+            "position": "88",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Overseer's Chosen",
@@ -1797,8 +2064,11 @@
             "loyalty": "",
             "artist": "Christian da Luz Novelli",
             "alias": "",
+            "position": "89",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Outskirts Mentor",
@@ -1817,8 +2087,11 @@
             "loyalty": "",
             "artist": "Timi Honkanen",
             "alias": "",
+            "position": "90",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Congregation Minister",
@@ -1837,8 +2110,11 @@
             "loyalty": "",
             "artist": "Rogier van de Beek",
             "alias": "",
+            "position": "91",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Malicious Throng",
@@ -1857,8 +2133,11 @@
             "loyalty": "",
             "artist": "Michal Zacharek",
             "alias": "",
+            "position": "92",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Backalley Entertainer",
@@ -1877,8 +2156,11 @@
             "loyalty": "",
             "artist": "Tony Foti",
             "alias": "",
+            "position": "93",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Overseer's Shackles",
@@ -1897,8 +2179,11 @@
             "loyalty": "",
             "artist": "Ekaterina Franka Smetannikova",
             "alias": "",
+            "position": "94",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Vicuro Informant",
@@ -1917,8 +2202,11 @@
             "loyalty": "",
             "artist": "Nicole Cardiff",
             "alias": "",
+            "position": "95",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Rooftop Runner",
@@ -1937,8 +2225,11 @@
             "loyalty": "",
             "artist": "Evgeniya Kolomoets",
             "alias": "",
+            "position": "96",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Chandelier Slink",
@@ -1957,8 +2248,11 @@
             "loyalty": "",
             "artist": "Annadel Cinco",
             "alias": "",
+            "position": "97",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Volwood Defilers",
@@ -1977,8 +2271,11 @@
             "loyalty": "",
             "artist": "Kira L Nguyen",
             "alias": "",
+            "position": "98",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Observe the Pattern",
@@ -1997,8 +2294,11 @@
             "loyalty": "",
             "artist": "Ketka",
             "alias": "",
+            "position": "99",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Shaper's Rites",
@@ -2017,8 +2317,11 @@
             "loyalty": "",
             "artist": "Antoine Leblanc",
             "alias": "",
+            "position": "100",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Make a Break For It",
@@ -2037,8 +2340,11 @@
             "loyalty": "",
             "artist": "Azora Studio",
             "alias": "",
+            "position": "101",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Bedlam's Vessel",
@@ -2057,8 +2363,11 @@
             "loyalty": "",
             "artist": "Tatiana Krstic",
             "alias": "",
+            "position": "102",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Patient Executioner",
@@ -2077,8 +2386,11 @@
             "loyalty": "",
             "artist": "Judah Carvalho",
             "alias": "",
+            "position": "103",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Shriek of the Shroud",
@@ -2097,8 +2409,11 @@
             "loyalty": "",
             "artist": "Anthony Chong Jones",
             "alias": "",
+            "position": "104",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Reckless Show-Off",
@@ -2117,8 +2432,11 @@
             "loyalty": "",
             "artist": "Anzu Hanabi",
             "alias": "",
+            "position": "105",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Forsaken Shroudguard",
@@ -2137,8 +2455,11 @@
             "loyalty": "",
             "artist": "Marcel Gr\u00f6ber",
             "alias": "",
+            "position": "106",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Skittering Striker",
@@ -2157,8 +2478,11 @@
             "loyalty": "",
             "artist": "Brandon McCamey",
             "alias": "",
+            "position": "107",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Crypt Tiller",
@@ -2177,8 +2501,11 @@
             "loyalty": "",
             "artist": "Gustavo Barreira",
             "alias": "",
+            "position": "108",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Thing in the Dark",
@@ -2197,8 +2524,11 @@
             "loyalty": "",
             "artist": "Atanas Lozansk",
             "alias": "",
+            "position": "109",
+            "rotated": false,
             "notes": "!tapped",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Tenacious Thief",
@@ -2217,8 +2547,11 @@
             "loyalty": "",
             "artist": "Hurcem Kucukdogan",
             "alias": "",
+            "position": "110",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Wistful Strategist",
@@ -2237,8 +2570,11 @@
             "loyalty": "",
             "artist": "Aurore Folny",
             "alias": "",
+            "position": "111",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Daring Escapees",
@@ -2257,8 +2593,11 @@
             "loyalty": "",
             "artist": "Ekaterina Tambovtseva",
             "alias": "",
+            "position": "112",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Scrawny Pursesnatcher",
@@ -2277,8 +2616,11 @@
             "loyalty": "",
             "artist": "Earl Toribio",
             "alias": "",
+            "position": "113",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Sieging Volleymage",
@@ -2297,8 +2639,11 @@
             "loyalty": "",
             "artist": "Caio Santos",
             "alias": "",
+            "position": "114",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Tale of Bedlam",
@@ -2317,8 +2662,11 @@
             "loyalty": "",
             "artist": "Karin Wittig",
             "alias": "",
+            "position": "115",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Burn It All Down",
@@ -2337,8 +2685,11 @@
             "loyalty": "",
             "artist": "Gian Carlo",
             "alias": "",
+            "position": "116",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Culvert Inspector",
@@ -2357,8 +2708,11 @@
             "loyalty": "",
             "artist": "Christer Degerman",
             "alias": "",
+            "position": "117",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Unerring Assailant",
@@ -2377,8 +2731,11 @@
             "loyalty": "",
             "artist": "Sabrina Tobal",
             "alias": "",
+            "position": "118",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Creeping Overgrowth",
@@ -2397,8 +2754,11 @@
             "loyalty": "",
             "artist": "Sigri de Vries",
             "alias": "",
+            "position": "119",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Volwood Deadeye",
@@ -2417,8 +2777,11 @@
             "loyalty": "",
             "artist": "Tiago Alexandre",
             "alias": "",
+            "position": "120",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "End the Chase",
@@ -2437,8 +2800,11 @@
             "loyalty": "",
             "artist": "Nicola Angius",
             "alias": "",
+            "position": "121",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Herbalist's Satchel",
@@ -2457,8 +2823,11 @@
             "loyalty": "",
             "artist": "Olha Karmanova",
             "alias": "",
+            "position": "122",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Volwood Stalwart",
@@ -2477,8 +2846,11 @@
             "loyalty": "",
             "artist": "Bach Nguyen",
             "alias": "",
+            "position": "123",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Life from Death",
@@ -2497,8 +2869,11 @@
             "loyalty": "",
             "artist": "Arturo Serpas",
             "alias": "",
+            "position": "124",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Guild Elite",
@@ -2517,8 +2892,11 @@
             "loyalty": "",
             "artist": "Von Milano",
             "alias": "",
+            "position": "125",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Kane, Unyielding",
@@ -2537,8 +2915,11 @@
             "loyalty": "",
             "artist": "Laura Sava",
             "alias": "",
+            "position": "126",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Rowdy Mob",
@@ -2557,8 +2938,11 @@
             "loyalty": "",
             "artist": "Kaia Adams",
             "alias": "",
+            "position": "127",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Starry-Eyed Scholar",
@@ -2577,8 +2961,11 @@
             "loyalty": "",
             "artist": "Shalizeh",
             "alias": "",
+            "position": "128",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Profane Gathering",
@@ -2597,8 +2984,11 @@
             "loyalty": "",
             "artist": "Stefan Djukic",
             "alias": "",
+            "position": "129",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Go for the Gut",
@@ -2617,8 +3007,11 @@
             "loyalty": "",
             "artist": "Nailsen Ivanderlie",
             "alias": "",
+            "position": "130",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Rally the Rabble",
@@ -2637,8 +3030,11 @@
             "loyalty": "",
             "artist": "Omar Samy",
             "alias": "",
+            "position": "131",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Umber Grovetender",
@@ -2657,8 +3053,11 @@
             "loyalty": "",
             "artist": "Timi Honkanen",
             "alias": "",
+            "position": "132",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Midnight Warden",
@@ -2677,8 +3076,11 @@
             "loyalty": "",
             "artist": "Leonardo Santanna",
             "alias": "",
+            "position": "133",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Survivalist Mentor",
@@ -2697,8 +3099,11 @@
             "loyalty": "",
             "artist": "Christina Kraus",
             "alias": "",
+            "position": "134",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Frontline Victor",
@@ -2717,8 +3122,11 @@
             "loyalty": "",
             "artist": "Kendal Miller",
             "alias": "",
+            "position": "135",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Concord Alchemist",
@@ -2737,8 +3145,11 @@
             "loyalty": "",
             "artist": "Timi Honkanen",
             "alias": "",
+            "position": "136",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Sanctum Deathspeaker",
@@ -2757,8 +3168,11 @@
             "loyalty": "",
             "artist": "Timi Honkanen",
             "alias": "",
+            "position": "137",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Overprepared Accomplice",
@@ -2777,8 +3191,11 @@
             "loyalty": "",
             "artist": "Francesco Botti",
             "alias": "",
+            "position": "138",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Shroudwalker",
@@ -2797,8 +3214,11 @@
             "loyalty": "",
             "artist": "Lana Ansay",
             "alias": "",
+            "position": "139",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Streetwise Surveyor",
@@ -2817,8 +3237,11 @@
             "loyalty": "",
             "artist": "Xavier Colette",
             "alias": "",
+            "position": "140",
+            "rotated": false,
             "notes": "\u201cI just enjoy the view.\u201d",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Ancient Sentry",
@@ -2837,8 +3260,11 @@
             "loyalty": "",
             "artist": "Jason Nguyen",
             "alias": "",
+            "position": "141",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Heart of Bedlam",
@@ -2857,8 +3283,11 @@
             "loyalty": "",
             "artist": "Zolt\u00e1n D\u00f3cs",
             "alias": "",
+            "position": "142",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Bounty Wall",
@@ -2877,8 +3306,11 @@
             "loyalty": "",
             "artist": "Shunding Lin",
             "alias": "",
+            "position": "143",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Disposable Dagger",
@@ -2897,8 +3329,11 @@
             "loyalty": "",
             "artist": "Nicol\u00e1s Trujillo Llano",
             "alias": "",
+            "position": "144",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Bustling Marketplace",
@@ -2917,8 +3352,11 @@
             "loyalty": "",
             "artist": "Alvin Ho",
             "alias": "",
+            "position": "145",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Strangle",
@@ -2937,8 +3375,11 @@
             "loyalty": "",
             "artist": "Dimitri Neron",
             "alias": "",
+            "position": "146",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Furious Resolve",
@@ -2957,8 +3398,11 @@
             "loyalty": "",
             "artist": "Viktoria Likhodeeva",
             "alias": "",
+            "position": "147",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Setral Mender",
@@ -2977,8 +3421,11 @@
             "loyalty": "",
             "artist": "Brian Narendra",
             "alias": "",
+            "position": "148",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Venomous Solution",
@@ -2997,8 +3444,11 @@
             "loyalty": "",
             "artist": "Humble Squid Creatives",
             "alias": "",
+            "position": "149",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Become the Hunted",
@@ -3017,8 +3467,11 @@
             "loyalty": "",
             "artist": "Matt Forsyth",
             "alias": "",
+            "position": "150",
+            "rotated": false,
             "notes": "!tag wishlist",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Offer Yourself",
@@ -3037,8 +3490,11 @@
             "loyalty": "",
             "artist": "Artur Treffner",
             "alias": "",
+            "position": "151",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Het's Call",
@@ -3057,8 +3513,11 @@
             "loyalty": "",
             "artist": "Thanyss",
             "alias": "",
+            "position": "152",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Madness of Ages",
@@ -3077,8 +3536,11 @@
             "loyalty": "",
             "artist": "Dimitri Chappuis",
             "alias": "",
+            "position": "153",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Jump the Gap",
@@ -3097,8 +3559,11 @@
             "loyalty": "",
             "artist": "Mikael Quites",
             "alias": "",
+            "position": "154",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Undergrowth Steward",
@@ -3117,8 +3582,11 @@
             "loyalty": "",
             "artist": "Bogdan Badaluta",
             "alias": "",
+            "position": "155",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Call for Backup",
@@ -3137,8 +3605,11 @@
             "loyalty": "",
             "artist": "Edward Cheekokseang",
             "alias": "",
+            "position": "156",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Into the Grove",
@@ -3157,8 +3628,11 @@
             "loyalty": "",
             "artist": "Simon Grasdal",
             "alias": "",
+            "position": "157",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "City's Memory",
@@ -3177,8 +3651,11 @@
             "loyalty": "",
             "artist": "Florian Herold",
             "alias": "",
+            "position": "158",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Veteran Hunter",
@@ -3197,8 +3674,11 @@
             "loyalty": "",
             "artist": "Alexander Lyzhin",
             "alias": "",
+            "position": "159",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Het, False God",
@@ -3217,8 +3697,11 @@
             "loyalty": "",
             "artist": "Ming Chang",
             "alias": "",
+            "position": "160",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Mercenary",
@@ -3237,8 +3720,11 @@
             "loyalty": "",
             "artist": "Renee Gross",
             "alias": "",
+            "position": "161",
+            "rotated": false,
             "notes": "!related Soya, Guild Pariah;Ruthless Duo",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "The Shrouded Seas",
@@ -3257,8 +3743,11 @@
             "loyalty": "",
             "artist": "Inga Nielsen",
             "alias": "",
+            "position": "162",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Valiant Firebrand",
@@ -3277,8 +3766,11 @@
             "loyalty": "",
             "artist": "Grafit Studio",
             "alias": "",
+            "position": "163",
+            "rotated": false,
             "notes": "!tag wishlist",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Tesh, Fragmented Founder",
@@ -3297,8 +3789,11 @@
             "loyalty": "5",
             "artist": "John Stone",
             "alias": "",
+            "position": "164",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Sahra, Siege Captain",
@@ -3317,8 +3812,11 @@
             "loyalty": "",
             "artist": "Juan Ignacio Bisceglia",
             "alias": "",
+            "position": "165",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Ascension Ritualist",
@@ -3337,8 +3835,11 @@
             "loyalty": "",
             "artist": "Ksenia Kiseleva",
             "alias": "",
+            "position": "166",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Esteemed Exterminator",
@@ -3357,8 +3858,11 @@
             "loyalty": "",
             "artist": "Andrew Clark",
             "alias": "",
+            "position": "167",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Ascendant Judge",
@@ -3377,8 +3881,11 @@
             "loyalty": "",
             "artist": "Aurelien Rantet",
             "alias": "",
+            "position": "168",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Gathering Place",
@@ -3397,8 +3904,11 @@
             "loyalty": "",
             "artist": "Rene Gross",
             "alias": "",
+            "position": "169",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Forsaken Penitents",
@@ -3417,8 +3927,11 @@
             "loyalty": "",
             "artist": "Tatiana Pavlova",
             "alias": "",
+            "position": "170",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Encroaching Voidborn",
@@ -3437,8 +3950,11 @@
             "loyalty": "",
             "artist": "Luka Brico",
             "alias": "",
+            "position": "171",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Sunset Champion",
@@ -3457,8 +3973,11 @@
             "loyalty": "",
             "artist": "Timi Honkanen",
             "alias": "",
+            "position": "172",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "The Founder's Cage",
@@ -3477,8 +3996,11 @@
             "loyalty": "",
             "artist": "Josep P\u00e9rez",
             "alias": "",
+            "position": "173",
+            "rotated": false,
             "notes": "!tapped\n!tag wishlist",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Secluded Courtyard",
@@ -3497,8 +4019,11 @@
             "loyalty": "",
             "artist": "Jeff Parker",
             "alias": "",
+            "position": "174",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "The Founder's Hunt Begins",
@@ -3517,8 +4042,11 @@
             "loyalty": "",
             "artist": "Park Jinjoon",
             "alias": "",
+            "position": "175",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Ery, Leyfused",
@@ -3537,8 +4065,11 @@
             "loyalty": "",
             "artist": "Timi Honkanen",
             "alias": "",
+            "position": "176",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Setral Arborist",
@@ -3557,8 +4088,11 @@
             "loyalty": "",
             "artist": "Mike Szabados",
             "alias": "",
+            "position": "177",
+            "rotated": false,
             "notes": "!tag wishlist",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Malicious Pactmaker",
@@ -3577,8 +4111,11 @@
             "loyalty": "",
             "artist": "David Astruga",
             "alias": "",
+            "position": "178",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "League of Their Own",
@@ -3597,8 +4134,11 @@
             "loyalty": "",
             "artist": "Gino Zhang Yuan",
             "alias": "",
+            "position": "179",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Evrax, the Last",
@@ -3617,8 +4157,11 @@
             "loyalty": "",
             "artist": "Timi Honkanen",
             "alias": "",
+            "position": "180",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Delias, Savvy Smuggler",
@@ -3637,8 +4180,11 @@
             "loyalty": "",
             "artist": "Britt Martin",
             "alias": "",
+            "position": "181",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Smolder Away",
@@ -3657,8 +4203,11 @@
             "loyalty": "",
             "artist": "Lana Ansay",
             "alias": "",
+            "position": "182",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Wharf Forgemaster",
@@ -3677,8 +4226,11 @@
             "loyalty": "",
             "artist": "Liza Bokova",
             "alias": "",
+            "position": "183",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Wharf Vendor",
@@ -3697,8 +4249,11 @@
             "loyalty": "",
             "artist": "Petr Don\u00e1t",
             "alias": "",
+            "position": "184",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Apothecary's Quarters",
@@ -3717,8 +4272,11 @@
             "loyalty": "",
             "artist": "Maxim Ryadinskiy",
             "alias": "",
+            "position": "185",
+            "rotated": false,
             "notes": "!tapped",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Schemer's Study",
@@ -3737,8 +4295,11 @@
             "loyalty": "",
             "artist": "Edvard Toth",
             "alias": "",
+            "position": "186",
+            "rotated": false,
             "notes": "!tapped",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Sketchy Slum",
@@ -3757,8 +4318,11 @@
             "loyalty": "",
             "artist": "Dawid Jurek",
             "alias": "",
+            "position": "187",
+            "rotated": false,
             "notes": "!tapped",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Backalley Market",
@@ -3777,8 +4341,11 @@
             "loyalty": "",
             "artist": "tsonline",
             "alias": "",
+            "position": "188",
+            "rotated": false,
             "notes": "!tapped",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Flourishing Garden",
@@ -3797,8 +4364,11 @@
             "loyalty": "",
             "artist": "Angela Pauly Llobet",
             "alias": "",
+            "position": "189",
+            "rotated": false,
             "notes": "!tapped",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Abandoned District",
@@ -3817,8 +4387,11 @@
             "loyalty": "",
             "artist": "JonasDeRo",
             "alias": "",
+            "position": "190",
+            "rotated": false,
             "notes": "!tapped",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Verdant Grotto",
@@ -3837,8 +4410,11 @@
             "loyalty": "",
             "artist": "Victoria Rose Barnett",
             "alias": "",
+            "position": "191",
+            "rotated": false,
             "notes": "!tapped",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Smoke Bomb",
@@ -3857,8 +4433,11 @@
             "loyalty": "",
             "artist": "Bartek Fedyczak",
             "alias": "",
+            "position": "192",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Scrounging Sensor",
@@ -3877,8 +4456,11 @@
             "loyalty": "",
             "artist": "Stijn Beerts",
             "alias": "",
+            "position": "193",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Corner the Prey",
@@ -3897,8 +4479,11 @@
             "loyalty": "",
             "artist": "Ignacio Paul-Edgeof",
             "alias": "",
+            "position": "194",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Voice of the Old Grove",
@@ -3917,8 +4502,11 @@
             "loyalty": "",
             "artist": "Oza Akhmad",
             "alias": "",
+            "position": "195",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Greedy Deserter",
@@ -3937,8 +4525,11 @@
             "loyalty": "",
             "artist": "Mr. Liki",
             "alias": "",
+            "position": "196",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Duplicity",
@@ -3957,8 +4548,11 @@
             "loyalty": "",
             "artist": "Luis Aguirre G\u00e1rate",
             "alias": "",
+            "position": "197",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Sunder the Cage",
@@ -3977,8 +4571,11 @@
             "loyalty": "",
             "artist": "Luka Brico",
             "alias": "",
+            "position": "198",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Spite of the Founder",
@@ -3997,8 +4594,11 @@
             "loyalty": "",
             "artist": "Ben Jackson",
             "alias": "",
+            "position": "199",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Spirit",
@@ -4017,8 +4617,11 @@
             "loyalty": "",
             "artist": "Yerlik Zharylgapov",
             "alias": "",
+            "position": "200",
+            "rotated": false,
             "notes": "!related Tesh, Fragmented Founder<2>;City's Memory;City's Memory<2>",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Druid",
@@ -4037,8 +4640,11 @@
             "loyalty": "",
             "artist": "Bruna Machado",
             "alias": "",
+            "position": "201",
+            "rotated": false,
             "notes": "!related Survivalist Mentor",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Treasure",
@@ -4057,8 +4663,11 @@
             "loyalty": "",
             "artist": "Dominic Barrios",
             "alias": "",
+            "position": "202",
+            "rotated": false,
             "notes": "!related Coffers Altar;Elite Aspirant;League of Their Own;Tragic Accident;Reap the Rewards;Scrawny Pursesnatcher;Split the Loot<2>;Waylen, Bloodhunter;Avarice<2>;Tale of Bedlam;Killer-for-Hire;Orliss of the Elite;Autonomous Accomplice;Bounty Wall;Bustling Marketplace",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Rooftop Observer",
@@ -4077,8 +4686,11 @@
             "loyalty": "",
             "artist": "Timi Honkanen",
             "alias": "",
+            "position": "203",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Innovative Alchemist",
@@ -4097,8 +4709,11 @@
             "loyalty": "",
             "artist": "Aleksandra Wojtas",
             "alias": "",
+            "position": "204",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Stand Ready",
@@ -4117,8 +4732,11 @@
             "loyalty": "",
             "artist": "Azid Faizi",
             "alias": "",
+            "position": "205",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Split the Loot",
@@ -4137,8 +4755,11 @@
             "loyalty": "",
             "artist": "Matt Sellers",
             "alias": "",
+            "position": "206",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Reap the Rewards",
@@ -4157,8 +4778,11 @@
             "loyalty": "",
             "artist": "Kira Radaru",
             "alias": "",
+            "position": "207",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Solemn Procession",
@@ -4177,8 +4801,11 @@
             "loyalty": "",
             "artist": "Gabriel Loo-Carre",
             "alias": "",
+            "position": "208",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Leybound Ritualist",
@@ -4197,8 +4824,11 @@
             "loyalty": "",
             "artist": "Gessony Pawlick",
             "alias": "",
+            "position": "209",
+            "rotated": false,
             "notes": "Only the eldest of Valir's inhabitants remember the rites of the old world.",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Renegade Recruiter",
@@ -4217,8 +4847,11 @@
             "loyalty": "",
             "artist": "Manuel Casta\u00f1\u00f3n",
             "alias": "",
+            "position": "210",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Blossoming Steward",
@@ -4237,8 +4870,11 @@
             "loyalty": "",
             "artist": "Gon",
             "alias": "",
+            "position": "211",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Wharf Patrol",
@@ -4257,8 +4893,11 @@
             "loyalty": "",
             "artist": "Fahed Alrajil",
             "alias": "",
+            "position": "212",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Turen, Untouchable",
@@ -4277,8 +4916,11 @@
             "loyalty": "",
             "artist": "Andrew Clark",
             "alias": "",
+            "position": "213",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Torvel, Scion of Rot",
@@ -4297,8 +4939,11 @@
             "loyalty": "",
             "artist": "Tyler Ellis",
             "alias": "",
+            "position": "214",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Setral Shoresculptor",
@@ -4317,8 +4962,11 @@
             "loyalty": "",
             "artist": "Ilya Royz",
             "alias": "",
+            "position": "215",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Sanctum Enforcer",
@@ -4337,8 +4985,11 @@
             "loyalty": "",
             "artist": "Rogier van de Beek",
             "alias": "",
+            "position": "217",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Autonomous Accomplice",
@@ -4357,8 +5008,11 @@
             "loyalty": "",
             "artist": "Lucas \u00c1lvaro",
             "alias": "",
+            "position": "219",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Stalker's Cowl",
@@ -4377,8 +5031,11 @@
             "loyalty": "",
             "artist": "Sebastian Szmyd",
             "alias": "",
+            "position": "220",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "High Priestess Symi",
@@ -4397,8 +5054,11 @@
             "loyalty": "",
             "artist": "Luiza de Carvalho",
             "alias": "",
+            "position": "221",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "In Tune",
@@ -4417,8 +5077,11 @@
             "loyalty": "",
             "artist": "Asur Misoa",
             "alias": "",
+            "position": "222",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Winding Assailant",
@@ -4437,8 +5100,11 @@
             "loyalty": "",
             "artist": "Cindy Avelino",
             "alias": "",
+            "position": "223",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Vie's Lieutenant",
@@ -4457,8 +5123,11 @@
             "loyalty": "",
             "artist": "Victor Garcia",
             "alias": "",
+            "position": "224",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Swift-Step Robber",
@@ -4477,8 +5146,11 @@
             "loyalty": "",
             "artist": "Veronique Fierse",
             "alias": "",
+            "position": "225",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Ruthless Stalker",
@@ -4497,8 +5169,11 @@
             "loyalty": "",
             "artist": "Simon-Pierre Bernard",
             "alias": "",
+            "position": "226",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Acolyte",
@@ -4517,8 +5192,11 @@
             "loyalty": "",
             "artist": "Rizal Akbar Fauzi",
             "alias": "",
+            "position": "227",
+            "rotated": false,
             "notes": "!related Ascendant Judge;Blessed Procession<2>;Congregation Minister;Forsaken Penitents;Overseer's Chosen;Siurne, Covetous Creation<2>;Crypt Caretaker;Crypt Tiller;Disciple of Surola;Malicious Pactmaker;Offer Yourself;Malicious Throng;Profane Gathering<3>",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Coffers Altar",
@@ -4537,8 +5215,11 @@
             "loyalty": "",
             "artist": "Bruno Balixa",
             "alias": "",
+            "position": "228",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Expert Infiltration",
@@ -4557,8 +5238,11 @@
             "loyalty": "",
             "artist": "Bartek Fedyczak",
             "alias": "",
+            "position": "229",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Race for the Glory",
@@ -4577,8 +5261,11 @@
             "loyalty": "",
             "artist": "Sabrina Tobal",
             "alias": "",
+            "position": "230",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Unending Unrest",
@@ -4597,8 +5284,11 @@
             "loyalty": "",
             "artist": "Artur Treffner",
             "alias": "",
+            "position": "231",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Heart of the Grove",
@@ -4617,8 +5307,11 @@
             "loyalty": "",
             "artist": "Matilde Valente",
             "alias": "",
+            "position": "232",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Profane Scripture",
@@ -4637,8 +5330,11 @@
             "loyalty": "",
             "artist": "Juan Ignacio Bisceglia",
             "alias": "",
+            "position": "233",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Shroudwarder Phoenix",
@@ -4657,8 +5353,11 @@
             "loyalty": "",
             "artist": "Rapha\u00eblle Ellehar Bieuville",
             "alias": "",
+            "position": "234",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Prized Possession",
@@ -4677,8 +5376,11 @@
             "loyalty": "",
             "artist": "Federico Arguissein",
             "alias": "",
+            "position": "235",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "It All Comes Together",
@@ -4697,8 +5399,11 @@
             "loyalty": "",
             "artist": "Victor Garcia",
             "alias": "",
+            "position": "236",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Orliss's Edict",
@@ -4717,8 +5422,11 @@
             "loyalty": "",
             "artist": "Timi Honkanen",
             "alias": "",
+            "position": "237",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Wanton Destruction",
@@ -4737,8 +5445,11 @@
             "loyalty": "",
             "artist": "Arif Wijaya",
             "alias": "",
+            "position": "238",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Silent Warden",
@@ -4757,8 +5468,11 @@
             "loyalty": "",
             "artist": "Danila Kalinin",
             "alias": "",
+            "position": "239",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "The Great Singularity",
@@ -4777,8 +5491,11 @@
             "loyalty": "",
             "artist": "Julianna Draga",
             "alias": "",
+            "position": "240",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Corrupted Sanctum",
@@ -4797,8 +5514,11 @@
             "loyalty": "",
             "artist": "Caelan Stokkermans",
             "alias": "",
+            "position": "241",
+            "rotated": false,
             "notes": "!tapped",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Renegade Trueheart",
@@ -4817,8 +5537,11 @@
             "loyalty": "",
             "artist": "Timi Honkanen",
             "alias": "",
+            "position": "242",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Arital, Grand Adjudicator",
@@ -4837,8 +5560,11 @@
             "loyalty": "",
             "artist": "Maxime Minard",
             "alias": "",
+            "position": "243",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Orliss of the Elite",
@@ -4857,8 +5583,11 @@
             "loyalty": "",
             "artist": "Timi Honkanen",
             "alias": "",
+            "position": "244",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Surola, Vile Preacher",
@@ -4877,8 +5606,11 @@
             "loyalty": "",
             "artist": "Tatiana Yamshanova",
             "alias": "",
+            "position": "245",
+            "rotated": false,
             "notes": "\u201cThe Singularity nears \u2014 it is time for us all to prove our worth.\u201d",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "On Top of the World",
@@ -4897,8 +5629,11 @@
             "loyalty": "",
             "artist": "Joshua Hardie",
             "alias": "",
+            "position": "246",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Memoriam",
@@ -4917,8 +5652,11 @@
             "loyalty": "",
             "artist": "Nereamf Art",
             "alias": "",
+            "position": "247",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Marle, Vicuro Head",
@@ -4937,8 +5675,11 @@
             "loyalty": "",
             "artist": "Stephanie Folse",
             "alias": "",
+            "position": "248",
+            "rotated": false,
             "notes": "\u201cKeep quiet. You can brag later.\u201d",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Sprouting Sproutling",
@@ -4957,8 +5698,11 @@
             "loyalty": "",
             "artist": "Gun Gunawan",
             "alias": "",
+            "position": "249",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Herald of Emergence",
@@ -4977,8 +5721,11 @@
             "loyalty": "",
             "artist": "Vladimir Matyukhin",
             "alias": "",
+            "position": "250",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Reckless Smashing",
@@ -4997,8 +5744,11 @@
             "loyalty": "",
             "artist": "Sam Yang",
             "alias": "",
+            "position": "251",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Brazen Burglar",
@@ -5017,8 +5767,11 @@
             "loyalty": "",
             "artist": "Kenu W",
             "alias": "",
+            "position": "252",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Tireless Refutation",
@@ -5037,8 +5790,11 @@
             "loyalty": "",
             "artist": "Kristian Agerkvist",
             "alias": "",
+            "position": "253",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Siurne, Eternal Sentinel",
@@ -5057,6 +5813,7 @@
             "loyalty": "",
             "artist": "Asur Misoa",
             "alias": "",
+            "position": "254",
             "card_name2": "Siurne, Covetous Creation",
             "color2": "WB",
             "type2": "Legendary Planeswalker \u2013 Siurne",
@@ -5068,8 +5825,11 @@
             "loyalty2": "",
             "artist2": "Billy Christian",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Leiowen, Escape Artist",
@@ -5088,6 +5848,7 @@
             "loyalty": "",
             "artist": "Muhammad Fakhrur Rozzi",
             "alias": "",
+            "position": "255",
             "card_name2": "Leiowen, Ghost of Vicuro",
             "color2": "UR",
             "type2": "Legendary Planeswalker \u2013 Leiowen",
@@ -5099,8 +5860,11 @@
             "loyalty2": "",
             "artist2": "Muhammad Fakhrur Rozzi",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Soya, Nal Executioner",
@@ -5119,6 +5883,7 @@
             "loyalty": "",
             "artist": "Judah Carvalho",
             "alias": "",
+            "position": "256",
             "card_name2": "Soya, Guild Pariah",
             "color2": "BG",
             "type2": "Legendary Planeswalker \u2013 Soya",
@@ -5130,8 +5895,11 @@
             "loyalty2": "",
             "artist2": "Day Paint Studio",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Vie, the First Hero",
@@ -5150,6 +5918,7 @@
             "loyalty": "",
             "artist": "Steven Shan",
             "alias": "",
+            "position": "257",
             "card_name2": "Vie, Fallen Hope",
             "color2": "WR",
             "type2": "Legendary Planeswalker \u2013 Vie",
@@ -5161,8 +5930,11 @@
             "loyalty2": "",
             "artist2": "Julia Mato",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "The Setral Shaper",
@@ -5181,6 +5953,7 @@
             "loyalty": "",
             "artist": "Joe Neeves",
             "alias": "",
+            "position": "258",
             "card_name2": "Juni, Shaper Unbound",
             "color2": "UG",
             "type2": "Legendary Planeswalker \u2013 Juniper",
@@ -5192,8 +5965,11 @@
             "loyalty2": "",
             "artist2": "Joe Neeves",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Shape the Pattern",
@@ -5212,8 +5988,11 @@
             "loyalty": "",
             "artist": "Momo",
             "alias": "",
+            "position": "259",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Mountain_VLR",
@@ -5232,8 +6011,11 @@
             "loyalty": "",
             "artist": "Viro Ara",
             "alias": "",
+            "position": "260",
+            "rotated": false,
             "notes": "!exportname Mountain_VLR",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Swamp_VLR",
@@ -5252,8 +6034,11 @@
             "loyalty": "",
             "artist": "Wesley Gardner",
             "alias": "",
+            "position": "261",
+            "rotated": false,
             "notes": "!exportname Swamp_VLR",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Plains_VLR",
@@ -5272,8 +6057,11 @@
             "loyalty": "",
             "artist": "Kenza Morvan",
             "alias": "",
+            "position": "262",
+            "rotated": false,
             "notes": "!exportname Plains_VLR",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Island_VLR",
@@ -5292,8 +6080,11 @@
             "loyalty": "",
             "artist": "ABluSkittle",
             "alias": "",
+            "position": "263",
+            "rotated": false,
             "notes": "!exportname Island_VLR",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Forest_VLR",
@@ -5312,8 +6103,11 @@
             "loyalty": "",
             "artist": "Petros Stefanidis",
             "alias": "",
+            "position": "264",
+            "rotated": false,
             "notes": "!exportname Forest_VLR",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Humming Furnace",
@@ -5332,8 +6126,11 @@
             "loyalty": "",
             "artist": "Tetiana Svirska",
             "alias": "",
+            "position": "265",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Copy",
@@ -5352,8 +6149,11 @@
             "loyalty": "",
             "artist": "Vanette Kosman",
             "alias": "",
+            "position": "266",
+            "rotated": false,
             "notes": "!related Tesh, Fragmented Founder;Consult the Offerings;Duplicity<X>;Innovative Alchemist;Bedlam's Vessel;Het, False God;High Priestess Symi;It's Just Business;Slinking Swiftblade;Veteran Hunter;Herald of Emergence;Due Reward;Esteemed Exterminator;Hired Hand;Unerring Assailant;Guild Elite;Kane, Unyielding;Soulcage;Torvel, Scion of Rot;Arital, Grand Adjudicator",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Skeleton Dragon",
@@ -5372,8 +6172,11 @@
             "loyalty": "",
             "artist": "Kerem Beyit",
             "alias": "",
+            "position": "267",
+            "rotated": false,
             "notes": "!related Bedlam's Vessel;Tale of Bedlam;Heart of Bedlam",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Fell the Nonbeliever",
@@ -5392,8 +6195,11 @@
             "loyalty": "",
             "artist": "Patricia Pria",
             "alias": "",
+            "position": "268",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Tomb of the Founder",
@@ -5412,8 +6218,11 @@
             "loyalty": "",
             "artist": "Bimo Maliki",
             "alias": "",
+            "position": "270",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Memorial to the First Shaper",
@@ -5432,8 +6241,11 @@
             "loyalty": "",
             "artist": "Artur Treffner",
             "alias": "",
+            "position": "271",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Lucrative Larcenist",
@@ -5452,8 +6264,11 @@
             "loyalty": "",
             "artist": "David Koo",
             "alias": "",
+            "position": "272",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Steady Flurry",
@@ -5472,8 +6287,11 @@
             "loyalty": "",
             "artist": "Arghawana Rim",
             "alias": "",
+            "position": "273",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Restoration Specialist",
@@ -5492,8 +6310,11 @@
             "loyalty": "",
             "artist": "Irene Cabrejas",
             "alias": "",
+            "position": "276",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Avarice",
@@ -5512,8 +6333,11 @@
             "loyalty": "",
             "artist": "Jack W",
             "alias": "",
+            "position": "277",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Loresk, Ever-Curious",
@@ -5532,8 +6356,11 @@
             "loyalty": "",
             "artist": "Aleks Stoller",
             "alias": "",
+            "position": "279",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Waylen, Bloodhunter",
@@ -5552,8 +6379,11 @@
             "loyalty": "",
             "artist": "Dire Wolf Digital",
             "alias": "",
+            "position": "280",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Ivari, Liberated Mentor",
@@ -5572,8 +6402,11 @@
             "loyalty": "",
             "artist": "Timi Honkanen",
             "alias": "",
+            "position": "281",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Makeshift Justice",
@@ -5592,8 +6425,11 @@
             "loyalty": "",
             "artist": "Tera Kan Zaki",
             "alias": "",
+            "position": "282",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Volwood Warder",
@@ -5612,8 +6448,11 @@
             "loyalty": "",
             "artist": "M\u00e1rton Gyula Kiss",
             "alias": "",
+            "position": "283",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Planar Archives",
@@ -5632,8 +6471,11 @@
             "loyalty": "",
             "artist": "Joe Hutchinson",
             "alias": "",
+            "position": "284",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Divine Liberation",
@@ -5652,8 +6494,11 @@
             "loyalty": "",
             "artist": "Csaba Jekkel",
             "alias": "",
+            "position": "285",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Boundless Coffers",
@@ -5672,8 +6517,11 @@
             "loyalty": "",
             "artist": "Richard Sardinha",
             "alias": "",
+            "position": "286",
+            "rotated": false,
             "notes": "!tapped",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Hidden Corridor",
@@ -5692,8 +6540,11 @@
             "loyalty": "",
             "artist": "25kartinok",
             "alias": "",
+            "position": "287",
+            "rotated": false,
             "notes": "!tapped",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Weapon",
@@ -5712,8 +6563,11 @@
             "loyalty": "",
             "artist": "Sara Contreras",
             "alias": "",
+            "position": "288",
+            "rotated": false,
             "notes": "!related Semari Weaponsmith;Done Deal;Dockside Hawker;Volwood Deadeye;Winding Assailant;Rowdy Mob<2>;Wharf Forgemaster<2>;Ancient Sentry;Humming Furnace",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Citizen",
@@ -5732,8 +6586,11 @@
             "loyalty": "",
             "artist": "Nard H",
             "alias": "",
+            "position": "289",
+            "rotated": false,
             "notes": "!related Backalley Entertainer<2>;Rowdy Mob<2>;Kindly Tavernkeep",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Siurne's Betrayal",
@@ -5752,8 +6609,11 @@
             "loyalty": "",
             "artist": "Jason Nguyen",
             "alias": "",
+            "position": "290",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Elemental",
@@ -5772,8 +6632,11 @@
             "loyalty": "",
             "artist": "Marcos Poncio",
             "alias": "",
+            "position": "291",
+            "rotated": false,
             "notes": "!related Juniper's Awakening;Juni, Shaper Unbound",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         }
     ]
 }

@@ -5,7 +5,7 @@
 			<name>VLR</name>
 			<longname>Valir: The Banished Isle</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-02-02</releasedate>
+			<releasedate>2026-02-03</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -14,7 +14,7 @@
 			<text>Flying
 {1}, Sacrifice this creature: Surveil 1.
 {2}{WB}, Exile this card from your graveyard: Draw a card.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/230_Fledgling Sycophant.jpg" num="230">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/0.jpg" num="230">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -31,7 +31,7 @@
 		<card>
 			<name>Blessed Procession</name>
 			<text>Create two Acolyte tokens, then put a +1/+1 counter on each of them. (They&apos;re 0/1 white and black Warlock creatures with &quot;{1}, Sacrifice this: Surveil 1.&quot;)</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/5_Blessed Procession.jpg" num="5">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/1.jpg" num="5">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -48,7 +48,7 @@
 			<name>Sunset Sentries</name>
 			<text>This spell costs {1} less to cast for each spell you&apos;ve cast this turn.
 When this creature enters, draw a card.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/37_Sunset Sentries.jpg" num="37">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/2.jpg" num="37">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -65,7 +65,7 @@ When this creature enters, draw a card.</text>
 		<card>
 			<name>Chapel Crasher</name>
 			<text>Muster — Whenever you cast a creature spell, this creature gets +1/+1 until end of turn. If it&apos;s a Rebel spell, put a +1/+1 counter on this creature instead.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/7_Chapel Crasher.jpg" num="7">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/3.jpg" num="7">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -83,7 +83,7 @@ When this creature enters, draw a card.</text>
 			<name>Reclaimed Convert</name>
 			<text>Vigilance
 Muster — Whenever you cast a creature spell, this creature gains first strike until end of turn.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/25_Reclaimed Convert.jpg" num="25">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/4.jpg" num="25">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -101,7 +101,7 @@ Muster — Whenever you cast a creature spell, this creature gains first strike 
 			<name>Enigmatic Apothecary</name>
 			<text>When this creature enters, mill two cards.
 As long as you&apos;re ancient, this creature gets +3/+1. (You&apos;re ancient as long as you have eight or more total lands in play or in your graveyard.)</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/46_Enigmatic Apothecary.jpg" num="46">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/5.jpg" num="46">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -118,7 +118,7 @@ As long as you&apos;re ancient, this creature gets +3/+1. (You&apos;re ancient a
 		<card>
 			<name>Renegade Banneret</name>
 			<text>When this creature enters, you may return target creature card with power 2 or less from your graveyard to your hand.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/26_Renegade Banneret.jpg" num="26">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/6.jpg" num="26">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -138,7 +138,7 @@ As long as you&apos;re ancient, this creature gets +3/+1. (You&apos;re ancient a
 • Destroy target artifact.
 • Destroy target enchantment.
 • Destroy target token.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/10_Clash of Courage.jpg" num="10">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/7.jpg" num="10">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -155,7 +155,7 @@ As long as you&apos;re ancient, this creature gets +3/+1. (You&apos;re ancient a
 			<name>Preacher of Singularity</name>
 			<text>Flying, lifelink
 {4}{W}: Creatures you control get +1/+1 until end of turn.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/24_Preacher of Singularity.jpg" num="24">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/8.jpg" num="24">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -173,7 +173,7 @@ As long as you&apos;re ancient, this creature gets +3/+1. (You&apos;re ancient a
 			<name>Chapel Specter</name>
 			<text>Flying
 Whenever this creature attacks, exile up to three target cards from a graveyard. You gain 1 life for each card exiled this way.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/8_Chapel Specter.jpg" num="8">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/9.jpg" num="8">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -190,7 +190,7 @@ Whenever this creature attacks, exile up to three target cards from a graveyard.
 		<card>
 			<name>Stand as One</name>
 			<text>Rebels you control get +2/+1 until end of turn. Other creatures you control get +1/+1 until end of turn.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/35_Stand as One.jpg" num="35">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/10.jpg" num="35">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -206,7 +206,7 @@ Whenever this creature attacks, exile up to three target cards from a graveyard.
 		<card>
 			<name>One Quiet Moment</name>
 			<text>Tap all creatures your opponents control, then put a stun counter on each of those creatures.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/19_One Quiet Moment.jpg" num="19">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/11.jpg" num="19">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -223,7 +223,7 @@ Whenever this creature attacks, exile up to three target cards from a graveyard.
 			<name>Bond the Sundered Souls</name>
 			<text>When you cast this spell, if you&apos;re ancient, you may copy it. (You&apos;re ancient as long as you have eight or more total lands in play or in your graveyard.)
 Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/185_Bond the Sundered Souls.jpg" num="185">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/12.jpg" num="185">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -241,7 +241,7 @@ Look at the top three cards of your library. Put one of them into your hand and 
 			<text>Choose one or both —
 • Put a +1/+1 counter on target creature.
 • Return target creature you own to its owner&apos;s hand.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/29_Renegade&apos;s Intercession.jpg" num="29">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/13.jpg" num="29">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -258,7 +258,7 @@ Look at the top three cards of your library. Put one of them into your hand and 
 			<name>Offer the Faithless</name>
 			<text>Affinity for Warlocks (This spell costs {1} less to cast for each Warlock you control.)
 Exile target creature or planeswalker.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/18_Offer the Faithless.jpg" num="18">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/14.jpg" num="18">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -274,7 +274,7 @@ Exile target creature or planeswalker.</text>
 		<card>
 			<name>Consult the Offerings</name>
 			<text>Exile target creature card with mana value 3 or less from your graveyard. Cast a copy of it without paying its mana cost. It enters tapped.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/12_Consult the Offerings.jpg" num="12">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/15.jpg" num="12">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -292,7 +292,7 @@ Exile target creature or planeswalker.</text>
 			<text>Flash
 Flying
 When this creature enters, tap up to one target nonland permanent.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/65_Semari Pilferer.jpg" num="65">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/16.jpg" num="65">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -310,7 +310,7 @@ When this creature enters, tap up to one target nonland permanent.</text>
 			<name>Beneath the Tide</name>
 			<text>Target creature&apos;s owner puts it on their choice of the top or bottom of their library.
 Basic landcycling {1}{U} ({1}{U}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/41_Beneath the Tide.jpg" num="41">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/17.jpg" num="41">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -327,7 +327,7 @@ Basic landcycling {1}{U} ({1}{U}, Discard this card: Search your library for a b
 			<name>Setral Sentry</name>
 			<text>Flying
 When this creature enters, put up to one target noncreature, nonland card from your graveyard on top of your library.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/66_Setral Sentry.jpg" num="66">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/18.jpg" num="66">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -345,7 +345,7 @@ When this creature enters, put up to one target noncreature, nonland card from y
 			<name>Blinded Arbiter</name>
 			<text>Flying
 Whenever this creature attacks, target attacking creature without flying gains flying until end of turn.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/226_Blinded Arbiter.jpg" num="226">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/19.jpg" num="226">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -363,7 +363,7 @@ Whenever this creature attacks, target attacking creature without flying gains f
 			<name>Vicuro Pathmaker</name>
 			<text>Spectacle {1}{U} (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
 When this creature enters, return up to one target creature to its owner&apos;s hand.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/75_Vicuro Pathmaker.jpg" num="75">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/20.jpg" num="75">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -381,7 +381,7 @@ When this creature enters, return up to one target creature to its owner&apos;s 
 			<name>Shroud Scholar</name>
 			<text>Flying
 When this creature enters, look at the top three cards of your library, then put one of them into your hand and the rest into your graveyard.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/238_Shroud Scholar.jpg" num="238">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/21.jpg" num="238">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -398,7 +398,7 @@ When this creature enters, look at the top three cards of your library, then put
 		<card>
 			<name>Heist Lookout</name>
 			<text>When this creature enters, tap target creature you don&apos;t control and put a stun counter on it.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/49_Heist Lookout.jpg" num="49">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/22.jpg" num="49">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -417,7 +417,7 @@ When this creature enters, look at the top three cards of your library, then put
 			<text>Enchant creature
 Enchanted creature loses all abilities and is a Spirit creature with base power and toughness 1/1 in addition to its other types.
 Enchanted creature can&apos;t block and can&apos;t be blocked.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/51_Intangibility.jpg" num="51">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/23.jpg" num="51">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -434,7 +434,7 @@ Enchanted creature can&apos;t block and can&apos;t be blocked.</text>
 			<name>Eavesdrop</name>
 			<text>Surveil 1.
 Draw a card.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/45_Eavesdrop.jpg" num="45">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/24.jpg" num="45">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -451,7 +451,7 @@ Draw a card.</text>
 			<name>Covet</name>
 			<text>Spectacle {1}{U} (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
 Draw two cards.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/43_Covet.jpg" num="43">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/25.jpg" num="43">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -467,7 +467,7 @@ Draw two cards.</text>
 		<card>
 			<name>Juniper&apos;s Awakening</name>
 			<text>At the beginning of your end step, create an X/X green Elemental creature token, where X is the greatest amount of mana you spent to cast a noncreature spell this turn.</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/54_Juniper&apos;s Awakening.jpg" num="54">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/26.jpg" num="54">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -484,7 +484,7 @@ Draw two cards.</text>
 			<name>Founder&apos;s Malice</name>
 			<text>You draw a card and gain 2 life. Each opponent discards a card and loses 2 life.
 Flashback {3}{U}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/189_Founder&apos;s Malice.jpg" num="189">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/27.jpg" num="189">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -501,7 +501,7 @@ Flashback {3}{U}{B} (You may cast this card from your graveyard for its flashbac
 			<name>Perfect Plan</name>
 			<text>Spectacle {1}{U} (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
 Target nonland permanent&apos;s owner puts it into their library second from the top or on the bottom.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/59_Perfect Plan.jpg" num="59">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/28.jpg" num="59">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -517,7 +517,7 @@ Target nonland permanent&apos;s owner puts it into their library second from the
 		<card>
 			<name>Pickpocket</name>
 			<text>Counter target spell. That spell&apos;s controller reveals their hand and the top card of their library.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/60_Pickpocket.jpg" num="60">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/29.jpg" num="60">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -534,7 +534,7 @@ Target nonland permanent&apos;s owner puts it into their library second from the
 			<name>Aspiring Shaper</name>
 			<text>{1}, {T}: Draw a card, then discard a card.
 {5}{U}{U}, {T}: Draw two cards.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/39_Aspiring Shaper.jpg" num="39">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/30.jpg" num="39">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -551,7 +551,7 @@ Target nonland permanent&apos;s owner puts it into their library second from the
 		<card>
 			<name>Attuned Rebuttal</name>
 			<text>Choose target spell. If you&apos;re ancient or that spell is a creature spell, counter it unless its controller pays {3}. (You&apos;re ancient as long as you have eight or more total lands in play or in your graveyard.)</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/40_Attuned Rebuttal.jpg" num="40">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/31.jpg" num="40">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -568,7 +568,7 @@ Target nonland permanent&apos;s owner puts it into their library second from the
 			<name>Semari Weaponsmith</name>
 			<text>This creature has first strike during your turn.
 Whenever you cast your second spell each turn, create a Weapon token. You may attach it to another creature you control. (It&apos;s an Equipment artifact with equip {2} and &quot;Equipped creature gets +1/+1.&quot;)</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/31_Semari Weaponsmith.jpg" num="31">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/32.jpg" num="31">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -586,7 +586,7 @@ Whenever you cast your second spell each turn, create a Weapon token. You may at
 			<name>Petty Larceny</name>
 			<text>Spectacle {U}{R} (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
 Draw two cards, then discard a card. When you discard a nonland card this way, Petty Larceny deals 4 damage to up to one target creature or planeswalker.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/200_Petty Larceny.jpg" num="200">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/33.jpg" num="200">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -603,7 +603,7 @@ Draw two cards, then discard a card. When you discard a nonland card this way, P
 			<name>South-Street Scoundrel</name>
 			<text>Deathtouch
 {B}, Exile this card from your graveyard: Each opponent loses 1 life and you gain 1 life. Activate only as a sorcery.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/105_South-Street Scoundrel.jpg" num="105">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/34.jpg" num="105">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -621,7 +621,7 @@ Draw two cards, then discard a card. When you discard a nonland card this way, P
 			<name>Disciple of Surola</name>
 			<text>When this creature enters, create an Acolyte token. (It&apos;s a 0/1 white and black Warlock creature with &quot;{1}, Sacrifice this: Surveil 1.&quot;)
 {B}, Sacrifice another creature: This creature gets +2/+0 until end of turn.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/83_Disciple of Surola.jpg" num="83">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/35.jpg" num="83">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -639,7 +639,7 @@ Draw two cards, then discard a card. When you discard a nonland card this way, P
 			<name>Killer-for-Hire</name>
 			<text>Deathtouch
 When this creature enters, create a Treasure token.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/232_Killer-for-Hire.jpg" num="232">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/36.jpg" num="232">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -657,7 +657,7 @@ When this creature enters, create a Treasure token.</text>
 			<name>Hand of the Overseer</name>
 			<text>If you would mill or surveil a number of cards, you may mill or surveil that many cards plus one instead.
 Whenever this creature attacks, surveil 1.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/89_Hand of the Overseer.jpg" num="89">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/37.jpg" num="89">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -675,7 +675,7 @@ Whenever this creature attacks, surveil 1.</text>
 			<name>Beyond the Shroud</name>
 			<text>As an additional cost to cast this spell, you may sacrifice a creature.
 Exile target creature or planeswalker if it has mana value 2 or less or if this spell&apos;s additional cost was paid.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/78_Beyond the Shroud.jpg" num="78">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/38.jpg" num="78">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -692,7 +692,7 @@ Exile target creature or planeswalker if it has mana value 2 or less or if this 
 			<name>Slinking Swiftblade</name>
 			<text>Menace
 Pursuit {2}{B} (You may cast a copy of this card from your graveyard for its pursuit cost by exiling it and sacrificing a nonland permanent.)</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/104_Slinking Swiftblade.jpg" num="104">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/39.jpg" num="104">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -710,7 +710,7 @@ Pursuit {2}{B} (You may cast a copy of this card from your graveyard for its pur
 			<name>Crypt Caretaker</name>
 			<text>When this creature enters, create an Acolyte token. (It&apos;s a 0/1 white and black Warlock creature with &quot;{1}, Sacrifice this: Surveil 1.&quot;)
 Whenever another creature you control dies, put a +1/+1 counter on this creature.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/81_Crypt Caretaker.jpg" num="81">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/40.jpg" num="81">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -727,7 +727,7 @@ Whenever another creature you control dies, put a +1/+1 counter on this creature
 		<card>
 			<name>Elite Aspirant</name>
 			<text>When this creature dies, create a Treasure token.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/85_Elite Aspirant.jpg" num="85">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/41.jpg" num="85">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -745,7 +745,7 @@ Whenever another creature you control dies, put a +1/+1 counter on this creature
 			<name>Volwood Proselytizer</name>
 			<text>Lifelink
 {3}{B}: Return this card from your graveyard to your hand.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/110_Volwood Proselytizer.jpg" num="110">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/42.jpg" num="110">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -762,7 +762,7 @@ Whenever another creature you control dies, put a +1/+1 counter on this creature
 		<card>
 			<name>Evasive Flourish</name>
 			<text>Up to X target creatures you control each get +1/+1 and gain flying until end of turn.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/47_Evasive Flourish.jpg" num="47">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/43.jpg" num="47">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -779,7 +779,7 @@ Whenever another creature you control dies, put a +1/+1 counter on this creature
 			<name>With Impunity</name>
 			<text>This spell costs {2} less to cast if you sacrificed a permanent this turn.
 Exile target creature.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/111_With Impunity.jpg" num="111">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/44.jpg" num="111">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -797,7 +797,7 @@ Exile target creature.</text>
 			<text>When this enchantment enters, each opponent discards a card.
 {2}{B}, Sacrifice this enchantment: Surveil 2.
 Pursuit {2}{B} (You may cast a copy of this card from your graveyard for its pursuit cost by exiling it and sacrificing a nonland permanent.)</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/94_It&apos;s Just Business.jpg" num="94">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/45.jpg" num="94">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -813,7 +813,7 @@ Pursuit {2}{B} (You may cast a copy of this card from your graveyard for its pur
 		<card>
 			<name>Tragic Accident</name>
 			<text>Each opponent sacrifices a nontoken creature of their choice. If you control a Mercenary, create a Treasure token.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/108_Tragic Accident.jpg" num="108">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/46.jpg" num="108">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -829,7 +829,7 @@ Pursuit {2}{B} (You may cast a copy of this card from your graveyard for its pur
 		<card>
 			<name>Bloodletting</name>
 			<text>Creatures get -2/-2 until end of turn. Whenever a creature you control dies this turn, each opponent loses 1 life.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/79_Bloodletting.jpg" num="79">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/47.jpg" num="79">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -845,7 +845,7 @@ Pursuit {2}{B} (You may cast a copy of this card from your graveyard for its pur
 		<card>
 			<name>Hymn of the Overseer</name>
 			<text>Return up to one target creature card and up to one other target Warlock card from your graveyard to your hand.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/93_Hymn of the Overseer.jpg" num="93">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/48.jpg" num="93">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -862,7 +862,7 @@ Pursuit {2}{B} (You may cast a copy of this card from your graveyard for its pur
 			<name>Done Deal</name>
 			<text>As an additional cost to cast this spell, sacrifice a nonland permanent.
 You draw two cards, gain 2 life, and create a Weapon token. (It&apos;s an Equipment artifact with equip {2} and &quot;Equipped creature gets +1/+1.&quot;)</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/84_Done Deal.jpg" num="84">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/49.jpg" num="84">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -878,7 +878,7 @@ You draw two cards, gain 2 life, and create a Weapon token. (It&apos;s an Equipm
 		<card>
 			<name>Listen In</name>
 			<text>Choose a nonland card type. Target opponent reveals their hand. You choose a card of that type from it. Exile that card. You lose 1 life.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/96_Listen In.jpg" num="96">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/50.jpg" num="96">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -895,7 +895,7 @@ You draw two cards, gain 2 life, and create a Weapon token. (It&apos;s an Equipm
 			<name>Founder&apos;s Echo</name>
 			<text>Haste
 At the beginning of your end step, if a card left your graveyard this turn, each opponent loses 2 life and you gain 2 life.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/188_Founder&apos;s Echo.jpg" num="188">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/51.jpg" num="188">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -914,7 +914,7 @@ At the beginning of your end step, if a card left your graveyard this turn, each
 			<text>{T}: Add {C}.
 {T}: Add one mana of any color. Spend this mana only to cast spells from anywhere other than your hand.
 {3}, {T}: You mill three cards.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/271_The Volwood.jpg" num="271">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/52.jpg" num="271">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -929,7 +929,7 @@ At the beginning of your end step, if a card left your graveyard this turn, each
 			<name>Sunset Recruit</name>
 			<text>First strike, haste
 {1}{R}, {T}: Target creature with power 2 or less can&apos;t be blocked this turn.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/140_Sunset Recruit.jpg" num="140">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/53.jpg" num="140">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -946,7 +946,7 @@ At the beginning of your end step, if a card left your graveyard this turn, each
 		<card>
 			<name>Patrol Veteran</name>
 			<text>When this creature enters, exile the top two cards of your library. You may play one of those cards until the end of your next turn.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/126_Patrol Veteran.jpg" num="126">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/54.jpg" num="126">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -965,7 +965,7 @@ At the beginning of your end step, if a card left your graveyard this turn, each
 			<text>Trample
 This creature can&apos;t attack alone.
 This creature can&apos;t block.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/121_Impatient Bandits.jpg" num="121">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/55.jpg" num="121">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -982,7 +982,7 @@ This creature can&apos;t block.</text>
 		<card>
 			<name>Incursion Vanguard</name>
 			<text>Muster — Whenever you cast a creature spell, put a +1/+1 counter on this creature.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/231_Incursion Vanguard.jpg" num="231">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/56.jpg" num="231">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -999,7 +999,7 @@ This creature can&apos;t block.</text>
 		<card>
 			<name>Disgruntled Crook</name>
 			<text>When this creature enters, it deals 2 damage to any noncreature target.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/116_Disgruntled Crook.jpg" num="116">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/57.jpg" num="116">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1017,7 +1017,7 @@ This creature can&apos;t block.</text>
 			<name>Impromptu Exit</name>
 			<text>Spectacle {R} (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
 Destroy up to one target artifact. Impromptu Exit deals 1 damage to any number of target opponents and each creature and planeswalker they control.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/122_Impromptu Exit.jpg" num="122">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/58.jpg" num="122">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1033,7 +1033,7 @@ Destroy up to one target artifact. Impromptu Exit deals 1 damage to any number o
 		<card>
 			<name>Liberated Convert</name>
 			<text>Muster — Whenever you cast a creature spell, this creature gets +1/+1 until end of turn.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/123_Liberated Convert.jpg" num="123">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/59.jpg" num="123">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1050,7 +1050,7 @@ Destroy up to one target artifact. Impromptu Exit deals 1 damage to any number o
 		<card>
 			<name>Thoroughfare Busker</name>
 			<text>Whenever you attack, add {R} or {G}. Until end of turn, you don&apos;t lose this mana as steps and phases end.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/239_Thoroughfare Busker.jpg" num="239">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/60.jpg" num="239">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1069,7 +1069,7 @@ Destroy up to one target artifact. Impromptu Exit deals 1 damage to any number o
 			<text>Choose one. If you control a Rogue, you may choose both instead.
 • Return target creature to its owner&apos;s hand.
 • Return target noncreature, nonland permanent to its owner&apos;s hand.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/69_Subtle Touch.jpg" num="69">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/61.jpg" num="69">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1086,7 +1086,7 @@ Destroy up to one target artifact. Impromptu Exit deals 1 damage to any number o
 			<name>Forgotten Foundation</name>
 			<text>This land enters tapped. When it does, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
 {T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield, then shuffle.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/262_Forgotten Foundation.jpg" num="262">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/62.jpg" num="262">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1101,7 +1101,7 @@ Destroy up to one target artifact. Impromptu Exit deals 1 damage to any number o
 		<card>
 			<name>Tear Down</name>
 			<text>Tear Down deals 6 damage to target creature. Creature tokens can&apos;t block this turn.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/141_Tear Down.jpg" num="141">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/63.jpg" num="141">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1118,7 +1118,7 @@ Destroy up to one target artifact. Impromptu Exit deals 1 damage to any number o
 			<name>Friendly Misdirection</name>
 			<text>Enchant creature
 Enchanted creature gets +1/+1 and has haste and &quot;Whenever this creature attacks, you may pay {1}. When you do, target creature you don&apos;t control can&apos;t block this turn.&quot;</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/117_Friendly Misdirection.jpg" num="117">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/64.jpg" num="117">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1134,7 +1134,7 @@ Enchanted creature gets +1/+1 and has haste and &quot;Whenever this creature att
 		<card>
 			<name>Spice of Life</name>
 			<text>Spice of Life deals 4 damage to target creature. If that creature would die this turn, exile it instead.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/133_Spice of Life.jpg" num="133">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/65.jpg" num="133">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1151,7 +1151,7 @@ Enchanted creature gets +1/+1 and has haste and &quot;Whenever this creature att
 			<name>Yoink!</name>
 			<text>Up to one target creature can&apos;t block this turn. Up to one target Rogue you control gains menace until end of turn.
 You may discard a card. If you do, target player draws two cards.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/147_Yoink!.jpg" num="147">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/66.jpg" num="147">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1168,7 +1168,7 @@ You may discard a card. If you do, target player draws two cards.</text>
 			<name>Scatter Records</name>
 			<text>Spectacle {1}{R} (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
 Surveil 2, then exile the top two cards of your library. You may play them until the end of your next turn.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/129_Scatter Records.jpg" num="129">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/67.jpg" num="129">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1185,7 +1185,7 @@ Surveil 2, then exile the top two cards of your library. You may play them until
 			<name>Melodious Mallard</name>
 			<text>Whenever you cast a spell with mana value 4 or greater, put a +1/+1 counter on target creature you control.
 {T}: Add one mana of any color.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/196_Melodious Mallard.jpg" num="196">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/68.jpg" num="196">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1205,7 +1205,7 @@ Surveil 2, then exile the top two cards of your library. You may play them until
 This creature doesn&apos;t untap during its controller&apos;s untap step.
 Trample
 Whenever one or more cards are put into your graveyard from anywhere, untap this creature.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/244_Dormant Godkiller.jpg" num="244">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/69.jpg" num="244">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1221,7 +1221,7 @@ Whenever one or more cards are put into your graveyard from anywhere, untap this
 		<card>
 			<name>Leonin Revivalist</name>
 			<text>When this creature enters, you may put a basic land card from your hand or graveyard onto the battlefield tapped.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/161_Leonin Revivalist.jpg" num="161">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/70.jpg" num="161">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1239,7 +1239,7 @@ Whenever one or more cards are put into your graveyard from anywhere, untap this
 			<name>Spit Venom</name>
 			<text>As an additional cost to cast this spell, you may exile three cards from your graveyard. If you do, this spell costs {2} less to cast.
 Target creature you control gets +2/+0 until end of turn. It deals damage equal to its power to target creature you don&apos;t control.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/172_Spit Venom.jpg" num="172">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/71.jpg" num="172">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1255,7 +1255,7 @@ Target creature you control gets +2/+0 until end of turn. It deals damage equal 
 		<card>
 			<name>Outskirts Steward</name>
 			<text>Whenever you cast a spell with mana value 4 or greater, put a +1/+1 counter on this creature.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/164_Outskirts Steward.jpg" num="164">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/72.jpg" num="164">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1272,7 +1272,7 @@ Target creature you control gets +2/+0 until end of turn. It deals damage equal 
 		<card>
 			<name>Kindly Tavernkeep</name>
 			<text>When this creature enters, create a 1/1 white Citizen creature token.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/233_Kindly Tavernkeep.jpg" num="233">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/73.jpg" num="233">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1290,7 +1290,7 @@ Target creature you control gets +2/+0 until end of turn. It deals damage equal 
 			<name>Volwood Sentry</name>
 			<text>Defender, reach
 As long as you&apos;re ancient, this creature can attack as though it doesn&apos;t have defender. (You&apos;re ancient as long as you have eight or more total lands in play or in your graveyard.)</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/181_Volwood Sentry.jpg" num="181">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/74.jpg" num="181">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1308,7 +1308,7 @@ As long as you&apos;re ancient, this creature can attack as though it doesn&apos
 			<name>Toxin Peddler</name>
 			<text>Deathtouch
 When this creature enters, up to one target creature you control gains deathtouch until end of turn.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/175_Toxin Peddler.jpg" num="175">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/75.jpg" num="175">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1326,7 +1326,7 @@ When this creature enters, up to one target creature you control gains deathtouc
 			<name>Ruthless Duo</name>
 			<text>Deathtouch
 When this creature enters, create a 1/1 black and green Mercenary creature token with deathtouch.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/166_Ruthless Duo.jpg" num="166">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/76.jpg" num="166">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1344,7 +1344,7 @@ When this creature enters, create a 1/1 black and green Mercenary creature token
 			<name>Titanic Mycoid</name>
 			<text>Trample
 Basic landcycling {1}{G} ({1}{G}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/174_Titanic Mycoid.jpg" num="174">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/77.jpg" num="174">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1362,7 +1362,7 @@ Basic landcycling {1}{G} ({1}{G}, Discard this card: Search your library for a b
 			<name>Hired Hand</name>
 			<text>Vigilance
 Pursuit {3}{G} (You may cast a copy of this card from your graveyard for its pursuit cost by exiling it and sacrificing a nonland permanent.)</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/160_Hired Hand.jpg" num="160">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/78.jpg" num="160">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1379,7 +1379,7 @@ Pursuit {3}{G} (You may cast a copy of this card from your graveyard for its pur
 		<card>
 			<name>Dockside Hawker</name>
 			<text>When this creature enters, create a Weapon token. You may attach it to a creature you control. (It&apos;s an Equipment artifact with equip {2} and &quot;Equipped creature gets +1/+1.&quot;)</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/153_Dockside Hawker.jpg" num="153">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/79.jpg" num="153">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1397,7 +1397,7 @@ Pursuit {3}{G} (You may cast a copy of this card from your graveyard for its pur
 			<name>Gutter Rat</name>
 			<text>Trample
 When this creature enters, choose up to one card with pursuit you own in exile. Put that card into your graveyard.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/158_Gutter Rat.jpg" num="158">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/80.jpg" num="158">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1414,7 +1414,7 @@ When this creature enters, choose up to one card with pursuit you own in exile. 
 		<card>
 			<name>Defend the Groves</name>
 			<text>Put a +1/+1 counter on target creature you control if it&apos;s a Druid. Then it fights target creature an opponent controls.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/152_Defend the Groves.jpg" num="152">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/81.jpg" num="152">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1432,7 +1432,7 @@ When this creature enters, choose up to one card with pursuit you own in exile. 
 			<text>When this enchantment enters, mill three cards. You may return a permanent card from among them to your hand.
 {2}, Sacrifice this enchantment: You gain 3 life.
 Pursuit {1}{G} (You may cast a copy of this card from your graveyard for its pursuit cost by exiling it and sacrificing a nonland permanent.)</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/154_Due Reward.jpg" num="154">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/82.jpg" num="154">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1448,7 +1448,7 @@ Pursuit {1}{G} (You may cast a copy of this card from your graveyard for its pur
 		<card>
 			<name>Unbridled Flourishing</name>
 			<text>Search your library for up to two basic land cards, put one onto the battlefield tapped and the other into your graveyard, then shuffle.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/177_Unbridled Flourishing.jpg" num="177">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/83.jpg" num="177">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1466,7 +1466,7 @@ Pursuit {1}{G} (You may cast a copy of this card from your graveyard for its pur
 			<text>Deathtouch
 When this creature enters, surveil 2.
 {2}{G}, Exile this card from your graveyard: Surveil 2.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/171_Shroudpiercer.jpg" num="171">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/84.jpg" num="171">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1484,7 +1484,7 @@ When this creature enters, surveil 2.
 			<name>Trespass the Volwood</name>
 			<text>As long as this enchantment is on the battlefield, it&apos;s a Forest land in addition to its other types. (It has &quot;{T}: Add {G}.&quot;)
 As long as you&apos;re ancient, this enchantment is a 5/5 Treefolk creature in addition to its other types and it has vigilance, reach, and haste. (You&apos;re ancient as long as you have eight or more total lands in play or in your graveyard.)</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/176_Trespass the Volwood.jpg" num="176">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/85.jpg" num="176">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1501,7 +1501,7 @@ As long as you&apos;re ancient, this enchantment is a 5/5 Treefolk creature in a
 			<name>Find Your Prey</name>
 			<text>This spell costs {1} less to cast if it targets a Mercenary.
 Target creature gets +3/+3 and trample until end of turn.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/157_Find Your Prey.jpg" num="157">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/86.jpg" num="157">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1517,7 +1517,7 @@ Target creature gets +3/+3 and trample until end of turn.</text>
 		<card>
 			<name>Soulcage</name>
 			<text>Put a +1/+1 counter on target creature you control. Then cast a copy of that creature without paying its mana cost.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/211_Soulcage.jpg" num="211">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/87.jpg" num="211">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1534,7 +1534,7 @@ Target creature gets +3/+3 and trample until end of turn.</text>
 			<name>Overseer&apos;s Entrancer</name>
 			<text>Vigilance
 {W}, {T}: Tap target creature you don&apos;t control. You may tap an untapped creature token you control rather than paying {W} to activate this ability.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/22_Overseer&apos;s Entrancer.jpg" num="22">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/88.jpg" num="22">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1552,7 +1552,7 @@ Target creature gets +3/+3 and trample until end of turn.</text>
 			<name>Overseer&apos;s Chosen</name>
 			<text>When this creature enters, create an Acolyte token. (It&apos;s a 0/1 white and black Warlock creature with &quot;{1}, Sacrifice this: Surveil 1.&quot;)
 {1}, Sacrifice another creature: This creature gains indestructible until end of turn. Tap it. Activate only once each turn.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/21_Overseer&apos;s Chosen.jpg" num="21">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/89.jpg" num="21">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1569,7 +1569,7 @@ Target creature gets +3/+3 and trample until end of turn.</text>
 		<card>
 			<name>Outskirts Mentor</name>
 			<text>Muster — Whenever you cast a creature spell, target creature you control gains your choice of first strike, vigilance, or lifelink until end of turn.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/20_Outskirts Mentor.jpg" num="20">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/90.jpg" num="20">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1586,7 +1586,7 @@ Target creature gets +3/+3 and trample until end of turn.</text>
 		<card>
 			<name>Congregation Minister</name>
 			<text>When this creature enters, create an Acolyte token. (It&apos;s a 0/1 white and black Warlock creature with &quot;{1}, Sacrifice this: Surveil 1.&quot;)</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/11_Congregation Minister.jpg" num="11">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/91.jpg" num="11">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1604,7 +1604,7 @@ Target creature gets +3/+3 and trample until end of turn.</text>
 			<name>Malicious Throng</name>
 			<text>Vigilance, menace
 Whenever you cast a noncreature spell, create an Acolyte token. (It&apos;s a 0/1 white and black Warlock creature with &quot;{1}, Sacrifice this: Surveil 1.&quot;)</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/195_Malicious Throng.jpg" num="195">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/92.jpg" num="195">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1623,7 +1623,7 @@ Whenever you cast a noncreature spell, create an Acolyte token. (It&apos;s a 0/1
 			<text>When this creature enters, choose one —
 • Put a +1/+1 counter on each creature you control.
 • Create two 1/1 white Citizen creature tokens.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/4_Backalley Entertainer.jpg" num="4">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/93.jpg" num="4">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1642,7 +1642,7 @@ Whenever you cast a noncreature spell, create an Acolyte token. (It&apos;s a 0/1
 			<text>Enchant creature
 Enchanted creature can&apos;t attack or block.
 {3}{W}: Enchanted creature&apos;s controller sacrifices it. You gain 1 life and surveil 1.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/23_Overseer&apos;s Shackles.jpg" num="23">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/94.jpg" num="23">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1659,7 +1659,7 @@ Enchanted creature can&apos;t attack or block.
 			<name>Vicuro Informant</name>
 			<text>Ward {1}
 This creature can&apos;t be blocked as long as you control another Rogue.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/74_Vicuro Informant.jpg" num="74">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/95.jpg" num="74">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1677,7 +1677,7 @@ This creature can&apos;t be blocked as long as you control another Rogue.</text>
 			<name>Rooftop Runner</name>
 			<text>This creature enters with a +1/+1 counter on it if an opponent lost life this turn.
 Flying</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/64_Rooftop Runner.jpg" num="64">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/96.jpg" num="64">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1696,7 +1696,7 @@ Flying</text>
 			<text>Spectacle {1}{U}{U} (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
 This creature can&apos;t be blocked.
 Whenever this creature deals combat damage to a player, draw a card.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/42_Chandelier Slink.jpg" num="42">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/97.jpg" num="42">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1715,7 +1715,7 @@ Whenever this creature deals combat damage to a player, draw a card.</text>
 			<text>Menace, ward {1}
 This creature&apos;s power is equal to the number of cards put into your graveyard from anywhere this turn.
 Whenever this creature attacks, mill three cards.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/220_Volwood Defilers.jpg" num="220">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/98.jpg" num="220">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1733,7 +1733,7 @@ Whenever this creature attacks, mill three cards.</text>
 			<name>Observe the Pattern</name>
 			<text>When this enchantment enters, surveil 2.
 As long as you&apos;re ancient, creatures you don&apos;t control get -1/-0. (You&apos;re ancient as long as you have eight or more total lands in play or in your graveyard.)</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/57_Observe the Pattern.jpg" num="57">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/99.jpg" num="57">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1749,7 +1749,7 @@ As long as you&apos;re ancient, creatures you don&apos;t control get -1/-0. (You
 		<card>
 			<name>Shaper&apos;s Rites</name>
 			<text>Target creature you control gets +0/+2 and gains hexproof until end of turn. If it&apos;s a Druid, put a +1/+1 counter on it.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/68_Shaper&apos;s Rites.jpg" num="68">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/100.jpg" num="68">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1766,7 +1766,7 @@ As long as you&apos;re ancient, creatures you don&apos;t control get -1/-0. (You
 			<name>Make a Break For It</name>
 			<text>This spell costs {1} less to cast for each card type among cards in your graveyard.
 Discard your hand, then draw seven cards. Exile Make a Break For It.</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/124_Make a Break For It.jpg" num="124">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/101.jpg" num="124">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1783,7 +1783,7 @@ Discard your hand, then draw seven cards. Exile Make a Break For It.</text>
 			<name>Bedlam&apos;s Vessel</name>
 			<text>When this creature enters, if it entered from your graveyard or you cast it from your graveyard, exile it. If you do, create a 5/5 red Skeleton Dragon creature token with flying.
 Pursuit {3}{B}{B} (You may cast a copy of this card from your graveyard for its pursuit cost by exiling it and sacrificing a nonland permanent.)</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/77_Bedlam&apos;s Vessel.jpg" num="77">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/102.jpg" num="77">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1801,7 +1801,7 @@ Pursuit {3}{B}{B} (You may cast a copy of this card from your graveyard for its 
 			<name>Patient Executioner</name>
 			<text>Flying
 When this creature enters, search your library for a card with pursuit, put it into your graveyard, then shuffle.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/100_Patient Executioner.jpg" num="100">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/103.jpg" num="100">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1820,7 +1820,7 @@ When this creature enters, search your library for a card with pursuit, put it i
 			<text>Flying
 When this creature enters, each opponent discards a card and loses 2 life.
 Basic landcycling {1}{B} ({1}{B}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/102_Shriek of the Shroud.jpg" num="102">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/104.jpg" num="102">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1839,7 +1839,7 @@ Basic landcycling {1}{B} ({1}{B}, Discard this card: Search your library for a b
 			<text>Spectacle {2}{R}{R} (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
 Flying
 At the beginning of your end step, this creature deals 1 damage to each opponent and each permanent you don&apos;t control that was dealt damage this turn.</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/128_Reckless Show-Off.jpg" num="128">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/105.jpg" num="128">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1858,7 +1858,7 @@ At the beginning of your end step, this creature deals 1 damage to each opponent
 			<text>Flying
 Whenever another Warlock you control dies, each opponent loses 1 life and you gain 1 life.
 {T}, Sacrifice another creature: Surveil 1.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/86_Forsaken Shroudguard.jpg" num="86">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/106.jpg" num="86">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1875,7 +1875,7 @@ Whenever another Warlock you control dies, each opponent loses 1 life and you ga
 		<card>
 			<name>Skittering Striker</name>
 			<text>When this creature dies, if you control another Mercenary, return it to the battlefield under its owner&apos;s control with a +1/+1 counter on it and it loses all abilities.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/103_Skittering Striker.jpg" num="103">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/107.jpg" num="103">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1892,7 +1892,7 @@ Whenever another Warlock you control dies, each opponent loses 1 life and you ga
 		<card>
 			<name>Crypt Tiller</name>
 			<text>When this creature enters, you may have each player discard a card. Then if you discarded a nonland card this way, create an Acolyte token. (It&apos;s a 0/1 white and black Warlock creature with &quot;{1}, Sacrifice this: Surveil 1.&quot;)</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/82_Crypt Tiller.jpg" num="82">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/108.jpg" num="82">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1911,7 +1911,7 @@ Whenever another Warlock you control dies, each opponent loses 1 life and you ga
 			<text>This creature enters tapped with four stun counters on it.
 Whenever one or more cards leave your graveyard, untap this creature.
 {1}{B}, Exile two cards from your graveyard: You draw a card and lose 1 life. Activate only if this creature has a stun counter on it.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/107_Thing in the Dark.jpg" num="107">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/109.jpg" num="107">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1931,7 +1931,7 @@ Whenever one or more cards leave your graveyard, untap this creature.
 			<text>Spectacle—{1}{R}, Discard a card. (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
 Trample
 You may cast this spell from your graveyard for its spectacle cost. If you do, it enters tapped.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/142_Tenacious Thief.jpg" num="142">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/110.jpg" num="142">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1949,7 +1949,7 @@ You may cast this spell from your graveyard for its spectacle cost. If you do, i
 			<name>Wistful Strategist</name>
 			<text>Muster — Whenever you cast a creature spell, you may discard a card, then draw a card.
 Exile three cards from your graveyard: Put a +1/+1 counter on this creature. Activate only once each turn and only outside of combat.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/146_Wistful Strategist.jpg" num="146">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/111.jpg" num="146">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1967,7 +1967,7 @@ Exile three cards from your graveyard: Put a +1/+1 counter on this creature. Act
 			<name>Daring Escapees</name>
 			<text>Haste
 Whenever this creature or another Rogue you control enters, up to one target creature can&apos;t block this turn.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/114_Daring Escapees.jpg" num="114">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/112.jpg" num="114">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1985,7 +1985,7 @@ Whenever this creature or another Rogue you control enters, up to one target cre
 			<name>Scrawny Pursesnatcher</name>
 			<text>This creature has first strike during your turn.
 Whenever this creature attacks, create a Treasure token. At the beginning of your next end step, sacrifice that token.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/130_Scrawny Pursesnatcher.jpg" num="130">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/113.jpg" num="130">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2003,7 +2003,7 @@ Whenever this creature attacks, create a Treasure token. At the beginning of you
 			<name>Sieging Volleymage</name>
 			<text>Muster — Whenever you cast a creature spell, this creature deals 1 damage to each opponent.
 Whenever an opponent is dealt damage by one or more sources you control for the third time during each of your turns, put a +1/+1 counter on this creature.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/132_Sieging Volleymage.jpg" num="132">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/114.jpg" num="132">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2021,7 +2021,7 @@ Whenever an opponent is dealt damage by one or more sources you control for the 
 			<name>Tale of Bedlam</name>
 			<text>Create a 5/5 red Skeleton Dragon creature token with flying. You may have it fight target creature you don&apos;t control.
 {1}{RG}, Discard this card: You may create a Treasure token. If you don&apos;t, draw a card.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/214_Tale of Bedlam.jpg" num="214">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/115.jpg" num="214">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2037,7 +2037,7 @@ Whenever an opponent is dealt damage by one or more sources you control for the 
 		<card>
 			<name>Burn It All Down</name>
 			<text>Burn It All Down deals 3 damage to each creature. Surveil 3.</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/113_Burn It All Down.jpg" num="113">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/116.jpg" num="113">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2054,7 +2054,7 @@ Whenever an opponent is dealt damage by one or more sources you control for the 
 			<name>Culvert Inspector</name>
 			<text>This creature can&apos;t be blocked by creatures with power 2 or less.
 At the beginning of combat on your turn, if you&apos;re ancient, put a +1/+1 counter on target creature you control. (You&apos;re ancient as long as you have eight or more total lands in play or in your graveyard.)</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/151_Culvert Inspector.jpg" num="151">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/117.jpg" num="151">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2073,7 +2073,7 @@ At the beginning of combat on your turn, if you&apos;re ancient, put a +1/+1 cou
 			<text>Trample
 This creature has haste as long as it entered from or was cast from a graveyard this turn.
 Pursuit {3}{G}{G} (You may cast a copy of this card from your graveyard for its pursuit cost by exiling it and sacrificing a nonland permanent.)</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/178_Unerring Assailant.jpg" num="178">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/118.jpg" num="178">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2090,7 +2090,7 @@ Pursuit {3}{G}{G} (You may cast a copy of this card from your graveyard for its 
 		<card>
 			<name>Creeping Overgrowth</name>
 			<text>Return up to X target cards with different mana values from your graveyard to your hand. Exile Creeping Overgrowth.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/150_Creeping Overgrowth.jpg" num="150">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/119.jpg" num="150">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2107,7 +2107,7 @@ Pursuit {3}{G}{G} (You may cast a copy of this card from your graveyard for its 
 			<name>Volwood Deadeye</name>
 			<text>Reach
 Whenever another Mercenary you control enters, create a Weapon token. You may attach it to a creature you control. This ability triggers only once each turn. (It&apos;s an Equipment artifact with equip {2} and &quot;Equipped creature gets +1/+1.&quot;)</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/180_Volwood Deadeye.jpg" num="180">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/120.jpg" num="180">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2125,7 +2125,7 @@ Whenever another Mercenary you control enters, create a Weapon token. You may at
 			<name>End the Chase</name>
 			<text>Target creature you control deals damage equal to its power to target creature or planeswalker you don&apos;t control.
 Pursuit {3}{G}{G} (You may cast a copy of this card from your graveyard for its pursuit cost by exiling it and sacrificing a nonland permanent.)</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/155_End the Chase.jpg" num="155">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/121.jpg" num="155">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2142,7 +2142,7 @@ Pursuit {3}{G}{G} (You may cast a copy of this card from your graveyard for its 
 			<name>Herbalist&apos;s Satchel</name>
 			<text>When this artifact enters, you may search your library for a basic land card, reveal it, then shuffle and put that card on top.
 {8}, Sacrifice this artifact: Draw two cards. This ability costs {1} less to activate for each land you control and each land card in your graveyard.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/248_Herbalist&apos;s Satchel.jpg" num="248">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/122.jpg" num="248">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2157,7 +2157,7 @@ Pursuit {3}{G}{G} (You may cast a copy of this card from your graveyard for its 
 			<name>Volwood Stalwart</name>
 			<text>Lifelink
 Muster — Whenever you cast a creature spell, this creature deals 1 damage to any target.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/221_Volwood Stalwart.jpg" num="221">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/123.jpg" num="221">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2177,7 +2177,7 @@ Muster — Whenever you cast a creature spell, this creature deals 1 damage to a
 • Put a +1/+1 counter on target creature you control.
 • Surveil 2.
 • You gain 3 life.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/163_Life from Death.jpg" num="163">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/124.jpg" num="163">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2194,7 +2194,7 @@ Muster — Whenever you cast a creature spell, this creature deals 1 damage to a
 			<name>Guild Elite</name>
 			<text>Whenever this creature attacks, you may sacrifice another nonland permanent. If you do, it gets +2/+2 until end of turn.
 Pursuit {1}{B}{G} (You may cast a copy of this card from your graveyard for its pursuit cost by exiling it and sacrificing a nonland permanent.)</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/191_Guild Elite.jpg" num="191">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/125.jpg" num="191">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2212,7 +2212,7 @@ Pursuit {1}{B}{G} (You may cast a copy of this card from your graveyard for its 
 			<name>Kane, Unyielding</name>
 			<text>Muster — Whenever you cast a creature spell, you may pay {2}. If you do, copy that spell. (The copy becomes a token.)
 Nontoken creatures you control enter with X additional +1/+1 counters on them, where X is the number of other creatures you control with the same name.</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/194_Kane, Unyielding.jpg" num="194">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/126.jpg" num="194">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2229,7 +2229,7 @@ Nontoken creatures you control enter with X additional +1/+1 counters on them, w
 		<card>
 			<name>Rowdy Mob</name>
 			<text>Create two 1/1 white Citizen creature token, then create two Weapon tokens and attach one to each of those creatures. (They&apos;re Equipment artifacts with equip {2} and &quot;Equipped creature gets +1/+1.&quot;)</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/204_Rowdy Mob.jpg" num="204">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/127.jpg" num="204">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2246,7 +2246,7 @@ Nontoken creatures you control enter with X additional +1/+1 counters on them, w
 			<name>Starry-Eyed Scholar</name>
 			<text>Ward {1}
 Whenever you cast your second spell each turn, you gain 1 life and draw a card.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/212_Starry-Eyed Scholar.jpg" num="212">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/128.jpg" num="212">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2264,7 +2264,7 @@ Whenever you cast your second spell each turn, you gain 1 life and draw a card.<
 			<name>Profane Gathering</name>
 			<text>Create three Acolyte tokens. (They&apos;re 0/1 white and black Warlock creatures with &quot;{1}, Sacrifice this: Surveil 1.&quot;)
 Until end of turn, creature tokens you control get +1/+0.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/201_Profane Gathering.jpg" num="201">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/129.jpg" num="201">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2280,7 +2280,7 @@ Until end of turn, creature tokens you control get +1/+0.</text>
 		<card>
 			<name>Go for the Gut</name>
 			<text>Mill X cards, then up to one target creature gets -1/-1 for each card in your graveyard until end of turn.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/88_Go for the Gut.jpg" num="88">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/130.jpg" num="88">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2297,7 +2297,7 @@ Until end of turn, creature tokens you control get +1/+0.</text>
 			<name>Rally the Rabble</name>
 			<text>When this enchantment enters, it deals damage equal to the number of Rebels you control to any target.
 Nontoken creatures you control get +1/+1.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/203_Rally the Rabble.jpg" num="203">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/131.jpg" num="203">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2314,7 +2314,7 @@ Nontoken creatures you control get +1/+1.</text>
 			<name>Umber Grovetender</name>
 			<text>{T}: Surveil 1. You gain 1 life.
 Other Druids you control have &quot;{T}: Surveil 1. You gain 1 life.&quot;</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/217_Umber Grovetender.jpg" num="217">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/132.jpg" num="217">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2333,7 +2333,7 @@ Other Druids you control have &quot;{T}: Surveil 1. You gain 1 life.&quot;</text
 			<text>Flying
 When this creature enters, you gain 4 life.
 Basic landcycling {1}{W} ({1}{W}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/17_Midnight Warden.jpg" num="17">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/133.jpg" num="17">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2351,7 +2351,7 @@ Basic landcycling {1}{W} ({1}{W}, Discard this card: Search your library for a b
 			<name>Survivalist Mentor</name>
 			<text>Vigilance
 Whenever you cast your second spell each turn, create a 2/2 blue and green Druid creature token.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/70_Survivalist Mentor.jpg" num="70">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/134.jpg" num="70">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2370,7 +2370,7 @@ Whenever you cast your second spell each turn, create a 2/2 blue and green Druid
 			<text>Trample, haste
 Other Rebels you control have trample.
 Muster — Whenever you cast a creature spell, this creature gets +1/+1 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/118_Frontline Victor.jpg" num="118">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/135.jpg" num="118">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2388,7 +2388,7 @@ Muster — Whenever you cast a creature spell, this creature gets +1/+1 until en
 			<name>Concord Alchemist</name>
 			<text>Vigilance
 When this creature enters, surveil 2.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/227_Concord Alchemist.jpg" num="227">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/136.jpg" num="227">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2406,7 +2406,7 @@ When this creature enters, surveil 2.</text>
 			<name>Sanctum Deathspeaker</name>
 			<text>Other Warlocks you control get +1/+1.
 At the beginning of your end step, you may sacrifice another creature you control. If you do, put a +1/+1 counter on this creature.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/206_Sanctum Deathspeaker.jpg" num="206">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/137.jpg" num="206">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2424,7 +2424,7 @@ At the beginning of your end step, you may sacrifice another creature you contro
 			<name>Overprepared Accomplice</name>
 			<text>Whenever this creature attacks, up to one other target attacking creature gains menace until end of turn.
 Whenever a Rogue you control deals combat damage to a player, draw a card.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/199_Overprepared Accomplice.jpg" num="199">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/138.jpg" num="199">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2442,7 +2442,7 @@ Whenever a Rogue you control deals combat damage to a player, draw a card.</text
 			<name>Shroudwalker</name>
 			<text>Trample, haste
 Basic landcycling {1}{R} ({1}{R}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/131_Shroudwalker.jpg" num="131">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/139.jpg" num="131">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2461,7 +2461,7 @@ Basic landcycling {1}{R} ({1}{R}, Discard this card: Search your library for a b
 			<text>Spectacle {3}{R} (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
 Reach
 {T}: This creature deals 2 damage to each opponent.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/137_Streetwise Surveyor.jpg" num="137">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/140.jpg" num="137">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2479,7 +2479,7 @@ Reach
 			<name>Ancient Sentry</name>
 			<text>When this creature enters, create a Weapon token. (It&apos;s an Equipment artifact with equip {2} and &quot;Equipped creature gets +1/+1.&quot;)
 Equip abilities you activate cost {1} less to activate.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/240_Ancient Sentry.jpg" num="240">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/141.jpg" num="240">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2495,7 +2495,7 @@ Equip abilities you activate cost {1} less to activate.</text>
 			<name>Heart of Bedlam</name>
 			<text>Whenever you sacrifice a permanent, put a blood counter on this artifact.
 Remove five blood counters from this artifact: Create a 5/5 red Skeleton Dragon creature token with flying. Activate only as a sorcery.</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/247_Heart of Bedlam.jpg" num="247">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/142.jpg" num="247">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2509,7 +2509,7 @@ Remove five blood counters from this artifact: Create a 5/5 red Skeleton Dragon 
 		<card>
 			<name>Bounty Wall</name>
 			<text>Whenever this artifact enters or is put into a graveyard from the battlefield, create a tapped Treasure token.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/242_Bounty Wall.jpg" num="242">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/143.jpg" num="242">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2525,7 +2525,7 @@ Remove five blood counters from this artifact: Create a 5/5 red Skeleton Dragon 
 			<text>Equipped creature gets +2/+0.
 {6}, Sacrifice this Equipment: Destroy target creature or planeswalker.
 Equip {2}</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/243_Disposable Dagger.jpg" num="243">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/144.jpg" num="243">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2541,7 +2541,7 @@ Equip {2}</text>
 			<text>{T}: Add {C}.
 {2}, {T}: Create a tapped Treasure token.
 {W}{U}{B}{R}{G}, {T}, Sacrifice this land: Draw three cards.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/259_Bustling Marketplace.jpg" num="259">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/145.jpg" num="259">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2556,7 +2556,7 @@ Equip {2}</text>
 		<card>
 			<name>Strangle</name>
 			<text>Strangle deals 3 damage to target creature or planeswalker.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/136_Strangle.jpg" num="136">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/146.jpg" num="136">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2572,7 +2572,7 @@ Equip {2}</text>
 		<card>
 			<name>Furious Resolve</name>
 			<text>Target creature gets +3/+2 until end of turn. It and other Rebels you control gain trample until end of turn.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/119_Furious Resolve.jpg" num="119">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/147.jpg" num="119">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2589,7 +2589,7 @@ Equip {2}</text>
 			<name>Setral Mender</name>
 			<text>Reach
 When this creature enters, return target Druid or land card from your graveyard to your hand.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/168_Setral Mender.jpg" num="168">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/148.jpg" num="168">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2606,7 +2606,7 @@ When this creature enters, return target Druid or land card from your graveyard 
 		<card>
 			<name>Venomous Solution</name>
 			<text>Up to two target creatures each get +1/+1 and gain hexproof and deathtouch until end of turn.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/179_Venomous Solution.jpg" num="179">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/149.jpg" num="179">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2623,7 +2623,7 @@ When this creature enters, return target Druid or land card from your graveyard 
 			<name>Become the Hunted</name>
 			<text>Return target creature card with mana value 3 or less from your graveyard to the battlefield.
 Pursuit {1}{B}{B} (You may cast a copy of this card from your graveyard for its pursuit cost by exiling it and sacrificing a nonland permanent.)</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/76_Become the Hunted.jpg" num="76">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/150.jpg" num="76">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2642,7 +2642,7 @@ Pursuit {1}{B}{B} (You may cast a copy of this card from your graveyard for its 
 {1}{B}, Sacrifice a creature: Choose one —
 • Draw a card.
 • You gain 3 life.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/99_Offer Yourself.jpg" num="99">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/151.jpg" num="99">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2659,7 +2659,7 @@ Pursuit {1}{B}{B} (You may cast a copy of this card from your graveyard for its 
 			<name>Het&apos;s Call</name>
 			<text>This spell costs {3} less to cast if it targets a card with mana value 3 or less.
 Return target creature card from your graveyard to the battlefield. It can&apos;t block this turn.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/91_Het&apos;s Call.jpg" num="91">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/152.jpg" num="91">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2676,7 +2676,7 @@ Return target creature card from your graveyard to the battlefield. It can&apos;
 			<name>Madness of Ages</name>
 			<text>At the beginning of your upkeep, surveil 1.
 {2}{B}{B}, Sacrifice this enchantment: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/97_Madness of Ages.jpg" num="97">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/153.jpg" num="97">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2692,7 +2692,7 @@ Return target creature card from your graveyard to the battlefield. It can&apos;
 		<card>
 			<name>Jump the Gap</name>
 			<text>Exile target creature you own. For as long as that card remains exiled, you may cast it without paying its mana cost.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/53_Jump the Gap.jpg" num="53">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/154.jpg" num="53">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2709,7 +2709,7 @@ Return target creature card from your graveyard to the battlefield. It can&apos;
 			<name>Undergrowth Steward</name>
 			<text>As long as you&apos;re ancient, instant and sorcery spells you cast cost {1} less to cast. (You&apos;re ancient as long as you have eight or more total lands in play or in your graveyard.)
 {T}: Mill two cards.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/73_Undergrowth Steward.jpg" num="73">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/155.jpg" num="73">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2727,7 +2727,7 @@ Return target creature card from your graveyard to the battlefield. It can&apos;
 			<name>Call for Backup</name>
 			<text>As an additional cost to cast this spell, choose a creature type from among creatures you control.
 Reveal cards from the top of your library until you reveal a card of the chosen type, put it into your hand, then put the rest on the bottom of your library in a random order.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/6_Call for Backup.jpg" num="6">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/156.jpg" num="6">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2743,7 +2743,7 @@ Reveal cards from the top of your library until you reveal a card of the chosen 
 		<card>
 			<name>Into the Grove</name>
 			<text>Choose up to two target nonland permanents an opponent owns. They return one to their hand and put the other on the top or bottom of their library.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/52_Into the Grove.jpg" num="52">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/157.jpg" num="52">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2760,7 +2760,7 @@ Reveal cards from the top of your library until you reveal a card of the chosen 
 			<name>City&apos;s Memory</name>
 			<text>Create a 1/1 colorless Spirit creature token.
 {1}{W}{W}, Exile this card from your graveyard: Create two 1/1 colorless Spirit creature tokens. They can&apos;t block this turn.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/9_City&apos;s Memory.jpg" num="9">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/158.jpg" num="9">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2777,7 +2777,7 @@ Reveal cards from the top of your library until you reveal a card of the chosen 
 			<name>Veteran Hunter</name>
 			<text>When this creature enters, up to one target creature&apos;s controller sacrifices it unless that player pays 3 life and discards a card.
 Pursuit {1}{B}{B} (You may cast a copy of this card from your graveyard for its pursuit cost by exiling it and sacrificing a nonland permanent.)</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/109_Veteran Hunter.jpg" num="109">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/159.jpg" num="109">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2795,7 +2795,7 @@ Pursuit {1}{B}{B} (You may cast a copy of this card from your graveyard for its 
 			<name>Het, False God</name>
 			<text>Flying, lifelink
 Whenever a nontoken creature dies, you may pay 3 life. If you do, create a token that&apos;s a copy of it, except it&apos;s a 0/1 Warlock and it has &quot;{1}, Sacrifice this creature: Surveil 1.&quot;</text>
-			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/90_Het, False God.jpg" num="90">VLR</set>
+			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/160.jpg" num="90">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2812,7 +2812,7 @@ Whenever a nontoken creature dies, you may pay 3 life. If you do, create a token
 		<card>
 			<name>Mercenary VLR</name>
 			<text>Deathtouch</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/8t_Mercenary.jpg" num="8">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/161.jpg" num="8">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2833,7 +2833,7 @@ Whenever a nontoken creature dies, you may pay 3 life. If you do, create a token
 			<name>The Shrouded Seas</name>
 			<text>{T}: Add {C}.
 When this land is put into your graveyard from the battlefield, draw a card.</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/267_The Shrouded Seas.jpg" num="267">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/162.jpg" num="267">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2848,7 +2848,7 @@ When this land is put into your graveyard from the battlefield, draw a card.</te
 			<name>Valiant Firebrand</name>
 			<text>Hexproof from mana value 2 or less
 Whenever this creature is dealt damage, exile that many cards from the top of your library. You gain that much life. You may play one of those cards until the end of your next turn.</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/218_Valiant Firebrand.jpg" num="218">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/163.jpg" num="218">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2868,7 +2868,7 @@ Whenever this creature is dealt damage, exile that many cards from the top of yo
 [-2]: Create two 1/1 colorless Spirit creature tokens.
 [-3]: Choose two target nonland permanents controlled by the same player. That player exiles one of them of their choice.
 Pursuit {5} (You may cast a copy of this card from your graveyard for its pursuit cost by exiling it and sacrificing a nonland permanent.)</text>
-			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/1_Tesh, Fragmented Founder.jpg" num="1">VLR</set>
+			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/164.jpg" num="1">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2884,7 +2884,7 @@ Pursuit {5} (You may cast a copy of this card from your graveyard for its pursui
 			<name>Sahra, Siege Captain</name>
 			<text>Vigilance, menace
 Whenever you attack, you may cast a creature spell with mana value X or less from your hand without paying its mana cost, where X is the number of attacking Rebels you control. It enters tapped and attacking.</text>
-			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/237_Sahra, Siege Captain.jpg" num="237">VLR</set>
+			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/165.jpg" num="237">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2902,7 +2902,7 @@ Whenever you attack, you may cast a creature spell with mana value X or less fro
 			<name>Ascension Ritualist</name>
 			<text>First strike
 Whenever this creature attacks, you may sacrifice another creature you control. If you do, surveil 1 and put a +1/+1 counter on each creature you control.</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/3_Ascension Ritualist.jpg" num="3">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/166.jpg" num="3">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2920,7 +2920,7 @@ Whenever this creature attacks, you may sacrifice another creature you control. 
 			<name>Esteemed Exterminator</name>
 			<text>Whenever this or another creature you control enters, if that creature entered from your graveyard or you cast it from your graveyard, you may have that creature fight target creature you don&apos;t control.
 Pursuit {2}{G}{G} (You may cast a copy of this card from your graveyard for its pursuit cost by exiling it and sacrificing a nonland permanent.)</text>
-			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/156_Esteemed Exterminator.jpg" num="156">VLR</set>
+			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/167.jpg" num="156">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2938,7 +2938,7 @@ Pursuit {2}{G}{G} (You may cast a copy of this card from your graveyard for its 
 			<name>Ascendant Judge</name>
 			<text>Flying 
 Whenever this creature attacks, create an Acolyte token. (It&apos;s a 0/1 white and black Warlock creature with &quot;{1}, Sacrifice this: Surveil 1.&quot;)</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/2_Ascendant Judge.jpg" num="2">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/168.jpg" num="2">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2957,7 +2957,7 @@ Whenever this creature attacks, create an Acolyte token. (It&apos;s a 0/1 white 
 			<text>As this artifact enters, choose a creature type.
 Spells you cast of the chosen type cost {1} less to cast.
 {1}, {T}, Sacrifice this artifact: Return target card of the chosen type from your graveyard to your hand.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/246_Gathering Place.jpg" num="246">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/169.jpg" num="246">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2971,7 +2971,7 @@ Spells you cast of the chosen type cost {1} less to cast.
 		<card>
 			<name>Forsaken Penitents</name>
 			<text>Whenever a token you control enters, create an Acolyte token. This ability triggers only once each turn. (It&apos;s a 0/1 white and black Warlock creature with &quot;{1}, Sacrifice this: Surveil 1.&quot;)</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/14_Forsaken Penitents.jpg" num="14">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/170.jpg" num="14">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2989,7 +2989,7 @@ Spells you cast of the chosen type cost {1} less to cast.
 			<name>Encroaching Voidborn</name>
 			<text>Menace
 {1}{BR}, Exile two cards from your graveyard: This creature gets +2/+0 until end of turn. Activate only during your turn and only once each turn.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/228_Encroaching Voidborn.jpg" num="228">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/171.jpg" num="228">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3007,7 +3007,7 @@ Spells you cast of the chosen type cost {1} less to cast.
 			<name>Sunset Champion</name>
 			<text>Trample
 Whenever this creature enters or attacks, exile the top two cards of your library. You may play one of those cards until the end of your next turn. Creature spells you cast this way cost {1} less to cast.</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/139_Sunset Champion.jpg" num="139">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/172.jpg" num="139">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3027,7 +3027,7 @@ Whenever this creature enters or attacks, exile the top two cards of your librar
 {T}, Remove a loyalty counter from a permanent you control: Choose one —
 • Add one mana of any color.
 • Put a loyalty counter on target planeswalker.</text>
-			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/245_The Founder&apos;s Cage.jpg" num="245">VLR</set>
+			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/173.jpg" num="245">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3044,7 +3044,7 @@ Whenever this creature enters or attacks, exile the top two cards of your librar
 			<text>As this land enters, choose a creature type.
 {T}: Add {C}.
 {T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type or activate an ability of a creature or creature card of the chosen type.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/266_Secluded Courtyard.jpg" num="266">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/174.jpg" num="266">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3061,7 +3061,7 @@ Whenever this creature enters or attacks, exile the top two cards of your librar
 • Search your library for a card, put it into your hand, then shuffle.
 • Put a card you own from outside the game into your hand.
 Pursuit—{1}{B}{B}, Pay 3 life. (You may cast a copy of this card from your graveyard for its pursuit cost by exiling it and sacrificing a nonland permanent.)</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/87_The Founder&apos;s Hunt Begins.jpg" num="87">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/175.jpg" num="87">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3079,7 +3079,7 @@ Pursuit—{1}{B}{B}, Pay 3 life. (You may cast a copy of this card from your gra
 			<text>Vigilance
 Landfall — Whenever a land you control enters, put a +1/+1 counter on Ery.
 Whenever Ery or another Druid you control enters, reveal cards from the top of your library until you reveal a land card. Put that card onto the battlefield tapped, then shuffle. This ability triggers only once each turn.</text>
-			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/229_Ery, Leyfused.jpg" num="229">VLR</set>
+			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/176.jpg" num="229">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3098,7 +3098,7 @@ Whenever Ery or another Druid you control enters, reveal cards from the top of y
 			<text>Vigilance
 Whenever you sacrifice a land, add one mana of any color.
 {T}, Sacrifice a land: You gain 3 life.</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/167_Setral Arborist.jpg" num="167">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/177.jpg" num="167">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3116,7 +3116,7 @@ Whenever you sacrifice a land, add one mana of any color.
 			<name>Malicious Pactmaker</name>
 			<text>Whenever this creature enters or attacks, create an Acolyte token. (It&apos;s a 0/1 white and black Warlock creature with &quot;{1}, Sacrifice this: Surveil 1.&quot;)
 Whenever you surveil, put a +1/+1 counter on this creature. It gains menace until end of turn.</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/98_Malicious Pactmaker.jpg" num="98">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/178.jpg" num="98">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3134,7 +3134,7 @@ Whenever you surveil, put a +1/+1 counter on this creature. It gains menace unti
 			<name>League of Their Own</name>
 			<text>Menace
 Whenever this creature enters or attacks, exile up to one target card from a graveyard. If a creature card is exiled this way, you gain 3 life. If a land card is exiled this way, you create a Treasure token. If a noncreature, nonland card is exiled this way, draw a card..</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/95_League of Their Own.jpg" num="95">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/179.jpg" num="95">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3153,7 +3153,7 @@ Whenever this creature enters or attacks, exile up to one target card from a gra
 			<text>Flying
 Whenever Evrax enters or attacks, surveil 2.
 The first spell you cast each turn costs {X} less to cast, where X is the number of land cards in your graveyard.</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/187_Evrax, the Last.jpg" num="187">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/180.jpg" num="187">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3172,7 +3172,7 @@ The first spell you cast each turn costs {X} less to cast, where X is the number
 			<text>You may cast this spell as though it had flash as long as {U} is spent to cast it.
 Delias can&apos;t be blocked by creatures with power 1 or less.
 Whenever an opponent draws a card except the first one they draw in each of their draw steps, Delias deals 2 damage to them.</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/115_Delias, Savvy Smuggler.jpg" num="115">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/181.jpg" num="115">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3190,7 +3190,7 @@ Whenever an opponent draws a card except the first one they draw in each of thei
 			<name>Smolder Away</name>
 			<text>At the beginning of your upkeep, you may exile two cards from your graveyard. If you do, you draw a card and lose 2 life.
 At the beginning of your end step, you may exile two cards from your graveyard. If you do, this enchantment deals 2 damage to each opponent and you gain 2 life.</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/210_Smolder Away.jpg" num="210">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/182.jpg" num="210">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3208,7 +3208,7 @@ At the beginning of your end step, you may exile two cards from your graveyard. 
 			<text>Vigilance
 When this creature enters, create two Weapon tokens. You may attach each to a creature you control. (They&apos;re Equipment artifacts with equip {2} and &quot;Equipped creature gets +1/+1.&quot;)
 The first spell you cast on each of your turns has affinity for tokens. (They cost {1} less to cast for each token you control.)</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/223_Wharf Forgemaster.jpg" num="223">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/183.jpg" num="223">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3226,7 +3226,7 @@ The first spell you cast on each of your turns has affinity for tokens. (They co
 			<name>Wharf Vendor</name>
 			<text>Whenever a creature token you control enters, put a +1/+1 counter on it.
 Whenever a noncreature token you control enters, put a +1/+1 counter on this creature.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/224_Wharf Vendor.jpg" num="224">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/184.jpg" num="224">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3245,7 +3245,7 @@ Whenever a noncreature token you control enters, put a +1/+1 counter on this cre
 			<text>This land enters tapped.
 When this land enters, surveil 1.
 {T}: Add {W} or {U}.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/256_Apothecary&apos;s Quarters.jpg" num="256">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/185.jpg" num="256">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3263,7 +3263,7 @@ When this land enters, surveil 1.
 			<text>This land enters tapped.
 When this land enters, surveil 1.
 {T}: Add {U} or {B}.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/265_Schemer&apos;s Study.jpg" num="265">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/186.jpg" num="265">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3281,7 +3281,7 @@ When this land enters, surveil 1.
 			<text>This land enters tapped.
 When this land enters, surveil 1.
 {T}: Add {B} or {R}.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/268_Sketchy Slum.jpg" num="268">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/187.jpg" num="268">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3299,7 +3299,7 @@ When this land enters, surveil 1.
 			<text>This land enters tapped.
 When this land enters, surveil 1.
 {T}: Add {R} or {G}.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/257_Backalley Market.jpg" num="257">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/188.jpg" num="257">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3317,7 +3317,7 @@ When this land enters, surveil 1.
 			<text>This land enters tapped.
 When this land enters, surveil 1.
 {T}: Add {G} or {W}.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/261_Flourishing Garden.jpg" num="261">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/189.jpg" num="261">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3335,7 +3335,7 @@ When this land enters, surveil 1.
 			<text>This land enters tapped.
 When this land enters, surveil 1.
 {T}: Add {B} or {G}.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/255_Abandoned District.jpg" num="255">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/190.jpg" num="255">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3353,7 +3353,7 @@ When this land enters, surveil 1.
 			<text>This land enters tapped.
 When this land enters, surveil 1.
 {T}: Add {G} or {U}.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/270_Verdant Grotto.jpg" num="270">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/191.jpg" num="270">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3371,7 +3371,7 @@ When this land enters, surveil 1.
 			<text>Flash
 All creatures have shroud. (They can&apos;t be the targets of spells or abilities.)
 At the beginning of your upkeep, sacrifice this artifact. When you do, target creature you control can&apos;t be blocked this turn.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/252_Smoke Bomb.jpg" num="252">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/192.jpg" num="252">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3386,7 +3386,7 @@ At the beginning of your upkeep, sacrifice this artifact. When you do, target cr
 			<name>Scrounging Sensor</name>
 			<text>Menace
 When this creature enters, you may search your library for a basic land card, exile it, then shuffle. You may put that card on top of your library. If you don&apos;t, put it into your graveyard.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/251_Scrounging Sensor.jpg" num="251">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/193.jpg" num="251">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3401,7 +3401,7 @@ When this creature enters, you may search your library for a basic land card, ex
 		<card>
 			<name>Corner the Prey</name>
 			<text>Choose target creature you control. Draw cards equal to its power. Until end of turn, that creature gains trample and must be blocked if able.</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/149_Corner the Prey.jpg" num="149">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/194.jpg" num="149">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3418,7 +3418,7 @@ When this creature enters, you may search your library for a basic land card, ex
 			<name>Voice of the Old Grove</name>
 			<text>Vigilance
 At the beginning of combat on your turn, untap target land you control. Then if you&apos;re ancient, you may have it become a 4/4 Elemental creature with vigilance, haste, and indestructible until end of turn. It&apos;s still a land. (You&apos;re ancient as long as you have eight or more total lands in play or in your graveyard.)</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/219_Voice of the Old Grove.jpg" num="219">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/195.jpg" num="219">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3436,7 +3436,7 @@ At the beginning of combat on your turn, untap target land you control. Then if 
 			<name>Greedy Deserter</name>
 			<text>Spectacle {X}{U}{R} (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
 When this creature enters, exile the top card of your library. If its spectacle cost was paid, exile the top X cards of your library instead. You may play cards exiled this way until the end of your next turn.</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/190_Greedy Deserter.jpg" num="190">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/196.jpg" num="190">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3454,7 +3454,7 @@ When this creature enters, exile the top card of your library. If its spectacle 
 			<name>Duplicity</name>
 			<text>This spell can&apos;t be countered.
 Choose a creature type. For each creature you control of the chosen type, create a token that&apos;s a copy of it.</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/44_Duplicity.jpg" num="44">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/197.jpg" num="44">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3470,7 +3470,7 @@ Choose a creature type. For each creature you control of the chosen type, create
 		<card>
 			<name>Sunder the Cage</name>
 			<text>Sunder the Cage deals 5 damage divided as you choose among any number of targets.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/138_Sunder the Cage.jpg" num="138">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/198.jpg" num="138">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3487,7 +3487,7 @@ Choose a creature type. For each creature you control of the chosen type, create
 			<name>Spite of the Founder</name>
 			<text>Ward {2}
 When this enchantment enters, if it was cast, phase out all creatures until this enchantment leaves the battlefield. Permanents that phase in this way phase in tapped.</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/34_Spite of the Founder.jpg" num="34">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/199.jpg" num="34">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3503,7 +3503,7 @@ When this enchantment enters, if it was cast, phase out all creatures until this
 		<card>
 			<name>Spirit VLR</name>
 			<text></text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/2t_Spirit.jpg" num="2">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/200.jpg" num="2">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3522,7 +3522,7 @@ When this enchantment enters, if it was cast, phase out all creatures until this
 		<card>
 			<name>Druid VLR</name>
 			<text></text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/7t_Druid.jpg" num="7">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/201.jpg" num="7">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3541,7 +3541,7 @@ When this enchantment enters, if it was cast, phase out all creatures until this
 		<card>
 			<name>Treasure VLR</name>
 			<text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/9t_Treasure.jpg" num="9">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/202.jpg" num="9">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3573,7 +3573,7 @@ When this enchantment enters, if it was cast, phase out all creatures until this
 			<text>Spectacle {1}{U}{U} (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
 You may look at the top card of your library at any time.
 During your turn, you may play cards from the top of your library as long as an opponent lost life this turn.</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/63_Rooftop Observer.jpg" num="63">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/203.jpg" num="63">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3590,7 +3590,7 @@ During your turn, you may play cards from the top of your library as long as an 
 		<card>
 			<name>Innovative Alchemist</name>
 			<text>Whenever you cast a noncreature spell, surveil 1. Then, once each turn if you&apos;re ancient, you may copy that spell and choose new targets for the copy. (You&apos;re ancient as long as you have eight or more total lands in play or in your graveyard. A copy of a permanent spell becomes a token.)</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/50_Innovative Alchemist.jpg" num="50">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/204.jpg" num="50">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3607,7 +3607,7 @@ During your turn, you may play cards from the top of your library as long as an 
 		<card>
 			<name>Stand Ready</name>
 			<text>Put a +1/+1 counter on each creature you control. They gain indestructible until end of turn. Untap them.</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/36_Stand Ready.jpg" num="36">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/205.jpg" num="36">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3624,7 +3624,7 @@ During your turn, you may play cards from the top of your library as long as an 
 			<name>Split the Loot</name>
 			<text>Discard any number of cards, then draw that many cards plus one.
 Create two Treasure tokens.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/134_Split the Loot.jpg" num="134">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/206.jpg" num="134">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3641,7 +3641,7 @@ Create two Treasure tokens.</text>
 			<name>Reap the Rewards</name>
 			<text>Whenever one or more creatures you control deal combat damage to a player, create a Treasure token.
 {W}{U}{B}{R}{G}: Shuffle your library, then exile the top card. Until end of turn, you may play that card without paying its mana cost. Activate only as a sorcery.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/127_Reap the Rewards.jpg" num="127">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/207.jpg" num="127">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3657,7 +3657,7 @@ Create two Treasure tokens.</text>
 		<card>
 			<name>Solemn Procession</name>
 			<text>Choose a creature type. Return each creature card of the chosen type with mana value X or less from your graveyard to the battlefield. Exile Solemn Procession.</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/33_Solemn Procession.jpg" num="33">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/208.jpg" num="33">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3675,7 +3675,7 @@ Create two Treasure tokens.</text>
 			<text>At the beginning of your first main phase, you may mill three cards.
 You may play lands from your graveyard.
 {2}{G}, Exile five cards from your graveyard: Creatures you control get +1/+1 and gain trample until end of turn.</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/162_Leybound Ritualist.jpg" num="162">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/209.jpg" num="162">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3694,7 +3694,7 @@ You may play lands from your graveyard.
 			<text>Vigilance
 Muster — Whenever you cast a creature spell, tap target creature you don&apos;t control.
 At the beginning of your end step, you may return another creature you control to its owner&apos;s hand.</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/27_Renegade Recruiter.jpg" num="27">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/210.jpg" num="27">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3712,7 +3712,7 @@ At the beginning of your end step, you may return another creature you control t
 			<name>Blossoming Steward</name>
 			<text>Landfall — Whenever a land you control enters, you gain 1 life.
 Whenever a land card is put into your graveyard from anywhere during your turn, put a +1/+1 counter on this creature. This ability triggers only once each turn.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/148_Blossoming Steward.jpg" num="148">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/211.jpg" num="148">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3730,7 +3730,7 @@ Whenever a land card is put into your graveyard from anywhere during your turn, 
 			<name>Wharf Patrol</name>
 			<text>As this creature enters, choose a creature type.
 This creature has protection from the chosen type. (This creature can&apos;t be blocked, targeted, dealt damage, enchanted, or equipped by anything with that type.)</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/254_Wharf Patrol.jpg" num="254">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/212.jpg" num="254">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3747,7 +3747,7 @@ This creature has protection from the chosen type. (This creature can&apos;t be 
 			<text>Haste
 When Turen enters, tap target creature you don&apos;t control and put a stun counter on it.
 Whenever Turen becomes the target of a spell or ability, you may pay {1}. If you do, return it to its owner&apos;s hand.</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/216_Turen, Untouchable.jpg" num="216">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/213.jpg" num="216">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3766,7 +3766,7 @@ Whenever Turen becomes the target of a spell or ability, you may pay {1}. If you
 			<text>Menace, deathtouch, ward {2}
 Torvel can&apos;t be blocked by creatures with power 2 or less.
 Pursuit—{2}{B}{G}, Discard a card, Pay 3 life. (You may cast a copy of this card from your graveyard for its pursuit cost by exiling it and sacrificing a nonland permanent.)</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/215_Torvel, Scion of Rot.jpg" num="215">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/214.jpg" num="215">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3784,7 +3784,7 @@ Pursuit—{2}{B}{G}, Discard a card, Pay 3 life. (You may cast a copy of this ca
 			<name>Setral Shoresculptor</name>
 			<text>At the beginning of your first main phase, surveil 1.
 {1}{U}, Exile two cards from your graveyard: Put a +1/+1 counter on target Druid you control. Activate only as a sorcery.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/67_Setral Shoresculptor.jpg" num="67">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/215.jpg" num="67">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3802,7 +3802,7 @@ Pursuit—{2}{B}{G}, Discard a card, Pay 3 life. (You may cast a copy of this ca
 			<name>Sanctum Enforcer</name>
 			<text>Vigilance
 Whenever another creature you control dies, you gain 1 life.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/30_Sanctum Enforcer.jpg" num="30">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/217.jpg" num="30">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3823,7 +3823,7 @@ When this creature enters, choose one —
 • Create a Treasure token.
 • Exile target player&apos;s graveyard.
 • Put a +1/+1 counter on this creature.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/241_Autonomous Accomplice.jpg" num="241">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/219.jpg" num="241">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3840,7 +3840,7 @@ When this creature enters, choose one —
 			<text>Equipped creature has skulk. (That creature can&apos;t be blocked by creatures with greater power.)
 Whenever equipped creature attacks and isn&apos;t blocked, it gets +2/+0 until end of turn.
 Equip {1}</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/253_Stalker&apos;s Cowl.jpg" num="253">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/220.jpg" num="253">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3855,7 +3855,7 @@ Equip {1}</text>
 			<name>High Priestess Symi</name>
 			<text>Other creatures you control get +1/+0.
 {2}{W}: Exile target nonland permanent with mana value 3 or less from your graveyard. You may cast a copy of that card without paying its mana cost. Activate only once each turn and only as a sorcery.</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/92_High Priestess Symi.jpg" num="92">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/221.jpg" num="92">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3873,7 +3873,7 @@ Equip {1}</text>
 			<name>In Tune</name>
 			<text>At the beginning of your upkeep, draw two cards, then discard a card.
 Whenever you tap a land for mana, add one mana of any type that land produced.</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/192_In Tune.jpg" num="192">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/222.jpg" num="192">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3890,7 +3890,7 @@ Whenever you tap a land for mana, add one mana of any type that land produced.</
 			<name>Winding Assailant</name>
 			<text>Trample
 Whenever this creature deals combat damage to a player, create a Weapon token. You may attach it to a creature you control. (It&apos;s an Equipment artifact with equip {2} and &quot;Equipped creature gets +1/+1.&quot;)</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/183_Winding Assailant.jpg" num="183">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/223.jpg" num="183">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3908,7 +3908,7 @@ Whenever this creature deals combat damage to a player, create a Weapon token. Y
 			<name>Vie&apos;s Lieutenant</name>
 			<text>First strike
 Muster — Whenever you cast a creature spell, nontoken creatures you control get +1/+0 until end of turn.</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/145_Vie&apos;s Lieutenant.jpg" num="145">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/224.jpg" num="145">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3928,7 +3928,7 @@ Muster — Whenever you cast a creature spell, nontoken creatures you control ge
 Flying
 This creature can&apos;t block.
 When this creature enters, up to one target creature becomes a copy of it.</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/71_Swift-Step Robber.jpg" num="71">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/225.jpg" num="71">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3947,7 +3947,7 @@ When this creature enters, up to one target creature becomes a copy of it.</text
 			<text>Deathtouch
 When this creature enters, destroy up to one target nonland permanent with mana value 1 or less.
 When this creature dies, return up to one target permanent card with mana value 1 or less from your graveyard to your hand.</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/205_Ruthless Stalker.jpg" num="205">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/226.jpg" num="205">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3964,7 +3964,7 @@ When this creature dies, return up to one target permanent card with mana value 
 		<card>
 			<name>Acolyte VLR</name>
 			<text>{1}, Sacrifice this creature: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/6t_Acolyte.jpg" num="6">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/227.jpg" num="6">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3997,7 +3997,7 @@ When this creature dies, return up to one target permanent card with mana value 
 			<text>{T}, Sacrifice a creature: Choose one. If you sacrificed a creature with mana value 2 or greater to activate this ability, you may choose both instead. Activate only as a sorcery.
 • Create a Treasure token.
 • Draw a card.</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/80_Coffers Altar.jpg" num="80">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/228.jpg" num="80">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4015,7 +4015,7 @@ When this creature dies, return up to one target permanent card with mana value 
 			<text>Enchant creature
 Whenever enchanted creature deals combat damage to a player, surveil 1, then draw a card.
 Whenever enchanted creature becomes blocked, it gets +1/+1 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/48_Expert Infiltration.jpg" num="48">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/229.jpg" num="48">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4032,7 +4032,7 @@ Whenever enchanted creature becomes blocked, it gets +1/+1 until end of turn.</t
 			<name>Race for the Glory</name>
 			<text>As this enchantment enters, choose a creature type.
 Whenever a creature you control of the chosen type dies during your turn, you may return another target creature card of the chosen type with lesser mana value from your graveyard to the battlefield.</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/101_Race for the Glory.jpg" num="101">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/230.jpg" num="101">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4049,7 +4049,7 @@ Whenever a creature you control of the chosen type dies during your turn, you ma
 			<name>Unending Unrest</name>
 			<text>Choose a creature type. Creatures you control of the chosen type gain first strike, menace, and trample until end of turn. After this main phase, there is an additional combat phase.
 At the beginning of each combat this turn, untap all creatures that attacked this turn.</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/143_Unending Unrest.jpg" num="143">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/231.jpg" num="143">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4066,7 +4066,7 @@ At the beginning of each combat this turn, untap all creatures that attacked thi
 			<name>Heart of the Grove</name>
 			<text>As this enchantment enters, choose a creature type.
 At the beginning of your upkeep, reveal the top five cards of your library. You may put a creature card of the chosen type or a land card from among them onto the battlefield, then put the rest on the bottom of your library in a random order.</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/159_Heart of the Grove.jpg" num="159">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/232.jpg" num="159">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4083,7 +4083,7 @@ At the beginning of your upkeep, reveal the top five cards of your library. You 
 			<name>Profane Scripture</name>
 			<text>As an additional cost to cast this spell, sacrifice any number of creatures.
 Search your library for a card with mana value less than or equal to 1 plus the number of creatures sacrificed to cast this spell, exile it, then shuffle. You may cast the exiled card without paying its mana cost.</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/202_Profane Scripture.jpg" num="202">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/233.jpg" num="202">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4100,7 +4100,7 @@ Search your library for a card with mana value less than or equal to 1 plus the 
 			<name>Shroudwarder Phoenix</name>
 			<text>Flying, trample, haste
 At the beginning of your end step, you may exile another card with mana value 4 or greater from your graveyard. If you do, return this card from your graveyard to your hand.</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/207_Shroudwarder Phoenix.jpg" num="207">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/234.jpg" num="207">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4118,7 +4118,7 @@ At the beginning of your end step, you may exile another card with mana value 4 
 			<name>Prized Possession</name>
 			<text>Equipped creature gets +2/+2 and has flying.
 Equip {3}. This ability costs {1} less to activate for each time one or more sources you controlled dealt damage to an opponent this turn.</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/250_Prized Possession.jpg" num="250">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/235.jpg" num="250">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4133,7 +4133,7 @@ Equip {3}. This ability costs {1} less to activate for each time one or more sou
 			<name>It All Comes Together</name>
 			<text>Whenever you cast a noncreature spell, this enchantment deals 1 damage to target opponent. 
 Whenever an opponent is dealt damage by one or more sources you control for the third time each turn, draw a card.</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/193_It All Comes Together.jpg" num="193">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/236.jpg" num="193">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4151,7 +4151,7 @@ Whenever an opponent is dealt damage by one or more sources you control for the 
 			<text>When this enchantment enters, choose one. If you control a Mercenary, you may choose both instead.
 • Each opponent sacrifices a creature of their choice.
 • Each opponent sacrifices a noncreature, nonland permanent of their choice.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/198_Orliss&apos;s Edict.jpg" num="198">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/237.jpg" num="198">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4167,7 +4167,7 @@ Whenever an opponent is dealt damage by one or more sources you control for the 
 		<card>
 			<name>Wanton Destruction</name>
 			<text>Each player sacrifices all nonland permanents they control.</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/222_Wanton Destruction.jpg" num="222">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/238.jpg" num="222">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4185,7 +4185,7 @@ Whenever an opponent is dealt damage by one or more sources you control for the 
 			<text>Flying
 Opponents can&apos;t cast more than one spell each turn.
 The second spell you cast each turn costs {1} less to cast and can&apos;t be countered.</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/208_Silent Warden.jpg" num="208">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/239.jpg" num="208">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4203,7 +4203,7 @@ The second spell you cast each turn costs {1} less to cast and can&apos;t be cou
 			<name>The Great Singularity</name>
 			<text>Creatures you control have base power and toughness 1/1, have vigilance, and are Warlocks in addition to their other types.
 Whenever a creature you control dies, put a +1/+1 counter on each creature you control. This ability triggers only once each turn.</text>
-			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/15_The Great Singularity.jpg" num="15">VLR</set>
+			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/240.jpg" num="15">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4221,7 +4221,7 @@ Whenever a creature you control dies, put a +1/+1 counter on each creature you c
 			<text>This land enters tapped.
 When this land enters, surveil 1.
 {T}: Add {W} or {B}.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/260_Corrupted Sanctum.jpg" num="260">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/241.jpg" num="260">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4239,7 +4239,7 @@ When this land enters, surveil 1.
 			<text>Flash
 Flying
 When this creature enters, return up to one other target creature you control to its owner&apos;s hand. If you do, put a +1/+1 counter on this creature.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/28_Renegade Trueheart.jpg" num="28">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/242.jpg" num="28">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4257,7 +4257,7 @@ When this creature enters, return up to one other target creature you control to
 			<name>Arital, Grand Adjudicator</name>
 			<text>Flying, deathtouch, lifelink
 Whenever Arital attacks, you may sacrifice another creature. When you do, exile another target permanent card from your graveyard with mana value is 3 or less, then create a token that&apos;s a copy of it. If it&apos;s a Warlock, create two tokens that are copies of it instead.</text>
-			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/225_Arital, Grand Adjudicator.jpg" num="225">VLR</set>
+			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/243.jpg" num="225">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4276,7 +4276,7 @@ Whenever Arital attacks, you may sacrifice another creature. When you do, exile 
 			<text>Deathtouch
 Whenever you sacrifice another nonland permanent during your turn, put a +1/+1 counter on each creature you control. This ability triggers only once each turn.
 Whenever a creature dealt damage by a Mercenary you control this turn dies, create a tapped Treasure token.</text>
-			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/236_Orliss of the Elite.jpg" num="236">VLR</set>
+			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/244.jpg" num="236">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4294,7 +4294,7 @@ Whenever a creature dealt damage by a Mercenary you control this turn dies, crea
 			<name>Surola, Vile Preacher</name>
 			<text>{W}{B}, Sacrifice another creature: Put a +1/+1 counter on Surola. Draw a card.
 At the beginning of your end step, each opponent loses 1 life and you gain 1 life. If three or more creatures you controlled died this turn, instead each opponent loses 3 life and you gain 3 life.</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/213_Surola, Vile Preacher.jpg" num="213">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/245.jpg" num="213">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4311,7 +4311,7 @@ At the beginning of your end step, each opponent loses 1 life and you gain 1 lif
 		<card>
 			<name>On Top of the World</name>
 			<text>Choose a creature. Return all creatures not chosen this way to their owners&apos; hands.</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/58_On Top of the World.jpg" num="58">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/246.jpg" num="58">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4327,7 +4327,7 @@ At the beginning of your end step, each opponent loses 1 life and you gain 1 lif
 		<card>
 			<name>Memoriam</name>
 			<text>You mill four cards. When you do, return up to two target noncreature, nonland cards from your graveyard to your hand. Exile Memoriam.</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/197_Memoriam.jpg" num="197">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/247.jpg" num="197">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4344,7 +4344,7 @@ At the beginning of your end step, each opponent loses 1 life and you gain 1 lif
 			<name>Marle, Vicuro Head</name>
 			<text>If a source you control would deal damage to an opponent or a permanent an opponent controls, if it&apos;s noncombat damage or damage from a Rogue source, it deals that much damage plus 1 instead.
 Whenever Marle attacks, another target attacking creature with lesser power can&apos;t be blocked this turn.</text>
-			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/235_Marle, Vicuro Head.jpg" num="235">VLR</set>
+			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/248.jpg" num="235">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4362,7 +4362,7 @@ Whenever Marle attacks, another target attacking creature with lesser power can&
 			<name>Sprouting Sproutling</name>
 			<text>Affinity for tokens (This spell costs {1} less to cast for each token you control.)
 When this creature enters, up to two target creatures get +2/+2 and gain trample until end of turn.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/173_Sprouting Sproutling.jpg" num="173">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/249.jpg" num="173">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4380,7 +4380,7 @@ When this creature enters, up to two target creatures get +2/+2 and gain trample
 			<name>Herald of Emergence</name>
 			<text>Menace
 When this creature enters, if you cast it, create a token that&apos;s a copy of another target creature you control, except it has haste and &quot;At the beginning of your end step, sacrifice this creature.&quot;</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/120_Herald of Emergence.jpg" num="120">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/250.jpg" num="120">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4397,7 +4397,7 @@ When this creature enters, if you cast it, create a token that&apos;s a copy of 
 		<card>
 			<name>Reckless Smashing</name>
 			<text>Creatures you control get +2/+2 and gain trample until end of turn. Whenever one or more creatures you control deal combat damage to a player this turn, destroy target noncreature, nonland permanent that player controls.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/165_Reckless Smashing.jpg" num="165">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/251.jpg" num="165">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4415,7 +4415,7 @@ When this creature enters, if you cast it, create a token that&apos;s a copy of 
 			<text>Haste
 Players can&apos;t gain life.
 Whenever a creature an opponent controls leaves the battlefield, this creature deals 1 damage to that player.</text>
-			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/112_Brazen Burglar.jpg" num="112">VLR</set>
+			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/252.jpg" num="112">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4434,7 +4434,7 @@ Whenever a creature an opponent controls leaves the battlefield, this creature d
 			<text>Choose one —
 • Counter target spell.
 • Draw three cards, then discard a card.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/72_Tireless Refutation.jpg" num="72">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/253.jpg" num="72">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4453,7 +4453,7 @@ Whenever a creature an opponent controls leaves the battlefield, this creature d
 {B}, Sacrifice another creature: Surveil 1. Put a loyalty counter on Siurne. Then you may transform her. Activate only as a sorcery.
 ---
 (Back): Siurne, Covetous Creation</text>
-			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/32_Siurne, Eternal Sentinel_front.jpg" num="32a">VLR</set>
+			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/254_front.jpg" num="32a">VLR</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -4477,7 +4477,7 @@ Whenever a creature an opponent controls leaves the battlefield, this creature d
 [-X]: Exile target nonland permanent with mana value X.
 ---
 (Front): Siurne, Eternal Sentinel</text>
-			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/32_Siurne, Eternal Sentinel_back.jpg" num="32b">VLR</set>
+			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/254_back.jpg" num="32b">VLR</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -4497,7 +4497,7 @@ Whenever a creature an opponent controls leaves the battlefield, this creature d
 Whenever Leiowen deals combat damage to a player, draw a card, then discard a card. Put a loyalty counter on her. Then you may pay {R}. If you do, transform her.
 ---
 (Back): Leiowen, Ghost of Vicuro</text>
-			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/55_Leiowen, Escape Artist_front.jpg" num="55a">VLR</set>
+			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/255_front.jpg" num="55a">VLR</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -4521,7 +4521,7 @@ Whenever Leiowen deals combat damage to a player, draw a card, then discard a ca
 [-2]: Exile any number of cards from your graveyard. When you do, Leiowen deals that much damage to any nonplayer target.
 ---
 (Front): Leiowen, Escape Artist</text>
-			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/55_Leiowen, Escape Artist_back.jpg" num="55b">VLR</set>
+			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/255_back.jpg" num="55b">VLR</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -4542,7 +4542,7 @@ Whenever Soya enters or attacks, you may sacrifice another nonland permanent. If
 {1}{G}: Transform Soya. Activate only as a sorcery and only if there is a loyalty counter on her.
 ---
 (Back): Soya, Guild Pariah</text>
-			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/106_Soya, Nal Executioner_front.jpg" num="106a">VLR</set>
+			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/256_front.jpg" num="106a">VLR</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -4566,7 +4566,7 @@ Whenever Soya enters or attacks, you may sacrifice another nonland permanent. If
 [-2]: Create a 1/1 black and green Mercenary creature token with deathtouch.
 ---
 (Front): Soya, Nal Executioner</text>
-			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/106_Soya, Nal Executioner_back.jpg" num="106b">VLR</set>
+			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/256_back.jpg" num="106b">VLR</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -4586,7 +4586,7 @@ Whenever Soya enters or attacks, you may sacrifice another nonland permanent. If
 {1}{W}: Prevent all damage that would be dealt to Vie this turn. At the beginning of your next main phase, transform her. Activate only if there&apos;s a loyalty counter on Vie.
 ---
 (Back): Vie, Fallen Hope</text>
-			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/144_Vie, the First Hero_front.jpg" num="144a">VLR</set>
+			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/257_front.jpg" num="144a">VLR</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -4610,7 +4610,7 @@ Whenever Soya enters or attacks, you may sacrifice another nonland permanent. If
 [-3]: Exile the top three cards of your library. You may play those cards until the end of your next turn.
 ---
 (Front): Vie, the First Hero</text>
-			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/144_Vie, the First Hero_back.jpg" num="144b">VLR</set>
+			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/257_back.jpg" num="144b">VLR</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -4630,7 +4630,7 @@ Whenever Soya enters or attacks, you may sacrifice another nonland permanent. If
 {2}{U}: Transform this creature. Activate only as a sorcery.
 ---
 (Back): Juni, Shaper Unbound</text>
-			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/169_The Setral Shaper_front.jpg" num="169a">VLR</set>
+			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/258_front.jpg" num="169a">VLR</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -4654,7 +4654,7 @@ Whenever Soya enters or attacks, you may sacrifice another nonland permanent. If
 [-2]: Create an X/X green Elemental creature token, where X is the number of lands you control.
 ---
 (Front): The Setral Shaper</text>
-			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/169_The Setral Shaper_back.jpg" num="169b">VLR</set>
+			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/258_back.jpg" num="169b">VLR</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -4671,7 +4671,7 @@ Whenever Soya enters or attacks, you may sacrifice another nonland permanent. If
 		<card>
 			<name>Shape the Pattern</name>
 			<text>Search your library for a basic land card. If you&apos;re ancient, instead search your library for a creature or land card. Reveal that card, put it into your hand, then shuffle. (You&apos;re ancient as long as you have eight or more total lands in play or in your graveyard.)</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/170_Shape the Pattern.jpg" num="170">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/259.jpg" num="170">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4687,7 +4687,7 @@ Whenever Soya enters or attacks, you may sacrifice another nonland permanent. If
 		<card>
 			<name>Mountain_VLR</name>
 			<text></text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/275_Mountain_VLR.jpg" num="275">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/260.jpg" num="275">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4702,7 +4702,7 @@ Whenever Soya enters or attacks, you may sacrifice another nonland permanent. If
 		<card>
 			<name>Swamp_VLR</name>
 			<text></text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/274_Swamp_VLR.jpg" num="274">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/261.jpg" num="274">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4717,7 +4717,7 @@ Whenever Soya enters or attacks, you may sacrifice another nonland permanent. If
 		<card>
 			<name>Plains_VLR</name>
 			<text></text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/272_Plains_VLR.jpg" num="272">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/262.jpg" num="272">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4732,7 +4732,7 @@ Whenever Soya enters or attacks, you may sacrifice another nonland permanent. If
 		<card>
 			<name>Island_VLR</name>
 			<text></text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/273_Island_VLR.jpg" num="273">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/263.jpg" num="273">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4747,7 +4747,7 @@ Whenever Soya enters or attacks, you may sacrifice another nonland permanent. If
 		<card>
 			<name>Forest_VLR</name>
 			<text></text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/276_Forest_VLR.jpg" num="276">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/264.jpg" num="276">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4763,7 +4763,7 @@ Whenever Soya enters or attacks, you may sacrifice another nonland permanent. If
 			<name>Humming Furnace</name>
 			<text>You may have this land enter tapped. When you do, create a Weapon token. (It&apos;s an Equipment artifact with equip {2} and &quot;Equipped creature gets +1/+1.&quot;)
 {T}: Add {C}.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/264_Humming Furnace.jpg" num="264">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/265.jpg" num="264">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4777,7 +4777,7 @@ Whenever Soya enters or attacks, you may sacrifice another nonland permanent. If
 		<card>
 			<name>Copy VLR</name>
 			<text>This token can be used to represent a copy of something else.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/1t_Copy.jpg" num="1">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/266.jpg" num="1">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4812,7 +4812,7 @@ Whenever Soya enters or attacks, you may sacrifice another nonland permanent. If
 		<card>
 			<name>Skeleton Dragon VLR</name>
 			<text>Flying</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/4t_Skeleton Dragon.jpg" num="4">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/267.jpg" num="4">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4834,7 +4834,7 @@ Whenever Soya enters or attacks, you may sacrifice another nonland permanent. If
 			<name>Fell the Nonbeliever</name>
 			<text>This spell has lifelink as long as you control a Warlock.
 Fell the Nonbeliever deals 4 damage to target attacking or blocking creature.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/13_Fell the Nonbeliever.jpg" num="13">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/268.jpg" num="13">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4852,7 +4852,7 @@ Fell the Nonbeliever deals 4 damage to target attacking or blocking creature.</t
 			<text>Imprint — When this land enters, you may exile a nonland card with one or more colors from your hand.
 {T}: Add {C}. If a card is exiled with this land, you may add one mana of any of the exiled card&apos;s colors instead.
 {T}: Return the exiled card to its owner&apos;s hand.</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/269_Tomb of the Founder.jpg" num="269">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/270.jpg" num="269">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4867,7 +4867,7 @@ Fell the Nonbeliever deals 4 damage to target attacking or blocking creature.</t
 			<name>Memorial to the First Shaper</name>
 			<text>Tokens and nonbasic lands enter tapped.
 Players can&apos;t create more than one token each turn.</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/249_Memorial to the First Shaper.jpg" num="249">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/271.jpg" num="249">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4882,7 +4882,7 @@ Players can&apos;t create more than one token each turn.</text>
 			<name>Lucrative Larcenist</name>
 			<text>Spectacle {1}{UR} (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
 When this creature enters, you may discard a card. If you do, draw a card.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/234_Lucrative Larcenist.jpg" num="234">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/272.jpg" num="234">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4899,7 +4899,7 @@ When this creature enters, you may discard a card. If you do, draw a card.</text
 		<card>
 			<name>Steady Flurry</name>
 			<text>Steady Flurry deals 2 damage divided as you chose among up to one target opponent and up to one nonplayer target.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/135_Steady Flurry.jpg" num="135">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/273.jpg" num="135">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4917,7 +4917,7 @@ When this creature enters, you may discard a card. If you do, draw a card.</text
 			<text>Vigilance
 If you would draw a card, instead you may mill three cards, then return a noncreature card from your graveyard to your hand.
 If a nonland card would be put into your graveyard from anywhere other than your library, exile it instead.</text>
-			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/62_Restoration Specialist.jpg" num="62">VLR</set>
+			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/276.jpg" num="62">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4938,7 +4938,7 @@ Whenever this creature enters or attacks, choose two —
 • Discard your hand, then draw two cards.
 • Sacrifice a land, then create two Treasure tokens.
 • You lose 2 life. Avarice deals 2 damage to each of up to two targets.</text>
-			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/184_Avarice.jpg" num="184">VLR</set>
+			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/277.jpg" num="184">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4957,7 +4957,7 @@ Whenever this creature enters or attacks, choose two —
 			<text>Vigilance
 Landfall — Whenever a land you control enters, draw a card.
 {2}{G}: Return target land card from your graveyard to the battlefield tapped. Activate only as a sorcery.</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/56_Loresk, Ever-Curious.jpg" num="56">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/279.jpg" num="56">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4976,7 +4976,7 @@ Landfall — Whenever a land you control enters, draw a card.
 			<text>Haste
 Waylen can&apos;t be blocked by more than one creature, and must be blocked by a creature with a bounty counter on it if able.
 {B}: Put a bounty counter on another target creature. It gains &quot;When this creature dies, each opponent draws a card and creates a Treasure token.&quot; Activate only as a sorcery.</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/182_Waylen, Bloodhunter.jpg" num="182">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/280.jpg" num="182">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4994,7 +4994,7 @@ Waylen can&apos;t be blocked by more than one creature, and must be blocked by a
 			<name>Ivari, Liberated Mentor</name>
 			<text>If you casting a creature spell would cause a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
 As an additional cost to cast creature spells, you may pay {R}. If you do, that spell can&apos;t be countered and it gains haste.</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/16_Ivari, Liberated Mentor.jpg" num="16">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/281.jpg" num="16">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5011,7 +5011,7 @@ As an additional cost to cast creature spells, you may pay {R}. If you do, that 
 		<card>
 			<name>Makeshift Justice</name>
 			<text>Target creature you control gets +X/+0 and gains first strike until end of turn, where X is the number of spells you&apos;ve cast this turn.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/125_Makeshift Justice.jpg" num="125">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/282.jpg" num="125">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5027,7 +5027,7 @@ As an additional cost to cast creature spells, you may pay {R}. If you do, that 
 		<card>
 			<name>Volwood Warder</name>
 			<text>Muster — Whenever you cast a creature spell, you gain 1 life. If this is the second time this ability resolved this turn, draw a card. If this is the third time this ability resolved this turn, put two +1/+1 counters on this creature.</text>
-			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/38_Volwood Warder.jpg" num="38">VLR</set>
+			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/283.jpg" num="38">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5045,7 +5045,7 @@ As an additional cost to cast creature spells, you may pay {R}. If you do, that 
 			<name>Planar Archives</name>
 			<text>{2}, {T}, Exile a card from your graveyard: Draw a card.
 {5}, {T}, Exile this artifact: Take an extra turn after this one. Activate only as a sorcery and only if there are five or more cards exiled with this artifact.</text>
-			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/61_Planar Archives.jpg" num="61">VLR</set>
+			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/284.jpg" num="61">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5061,7 +5061,7 @@ As an additional cost to cast creature spells, you may pay {R}. If you do, that 
 		<card>
 			<name>Divine Liberation</name>
 			<text>Untap and gain control of target nonland permanent until end of turn. It gains haste until end of turn. At the beginning of the next end step, exile it.</text>
-			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/186_Divine Liberation.jpg" num="186">VLR</set>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/285.jpg" num="186">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5079,7 +5079,7 @@ As an additional cost to cast creature spells, you may pay {R}. If you do, that 
 			<text>This land enters tapped.
 When this land enters, surveil 1.
 {T}: Add {U} or {R}.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/258_Boundless Coffers.jpg" num="258">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/286.jpg" num="258">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5097,7 +5097,7 @@ When this land enters, surveil 1.
 			<text>This land enters tapped.
 When this land enters, surveil 1.
 {T}: Add {R} or {W}.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/263_Hidden Corridor.jpg" num="263">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/287.jpg" num="263">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5114,7 +5114,7 @@ When this land enters, surveil 1.
 			<name>Weapon VLR</name>
 			<text>Equipped creature gets +1/+1.
 Equip {2}</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/10t_Weapon.jpg" num="10">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/288.jpg" num="10">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5138,7 +5138,7 @@ Equip {2}</text>
 		<card>
 			<name>Citizen VLR</name>
 			<text></text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/3t_Citizen.jpg" num="3">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/289.jpg" num="3">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5159,7 +5159,7 @@ Equip {2}</text>
 		<card>
 			<name>Siurne&apos;s Betrayal</name>
 			<text>Choose up to two target creature cards with mana value 3 or less in your graveyard. Return one to the battlefield and the other to your hand.</text>
-			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/209_Siurne&apos;s Betrayal.jpg" num="209">VLR</set>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/290.jpg" num="209">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5175,7 +5175,7 @@ Equip {2}</text>
 		<card>
 			<name>Elemental VLR</name>
 			<text></text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/5t_Elemental.jpg" num="5">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/291.jpg" num="5">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

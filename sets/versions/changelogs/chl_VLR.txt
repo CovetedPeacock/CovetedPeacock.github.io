@@ -1,4 +1,572 @@
-﻿VERSION 15 CHANGELOG
+﻿VERSION 16 CHANGELOG
+====================
+
+
+
+Fledgling Sycophant
+
+Blessed Procession
+
+Sunset Sentries
+
+Chapel Crasher
+
+Reclaimed Convert
+
+Enigmatic Apothecary
+
+Renegade Banneret
+
+Clash of Courage
+
+Preacher of Singularity
+
+Chapel Specter
+
+Stand as One
+
+One Quiet Moment
+
+Bond the Sundered Souls
+
+Renegade's Intercession
+
+Offer the Faithless
+
+Consult the Offerings
+
+Semari Pilferer
+
+Beneath the Tide
+
+Setral Sentry
+
+Blinded Arbiter
+
+Vicuro Pathmaker
+
+Shroud Scholar
+
+Heist Lookout
+
+Intangibility
+
+Eavesdrop
+
+Covet
+
+Juniper's Awakening
+
+Founder's Malice
+
+Perfect Plan
+
+Pickpocket
+
+Aspiring Shaper
+
+Attuned Rebuttal
+
+Semari Weaponsmith
+
+Petty Larceny
+
+South-Street Scoundrel
+
+Disciple of Surola
+
+Killer-for-Hire
+
+Hand of the Overseer
+
+Beyond the Shroud
+
+Slinking Swiftblade
+
+Crypt Caretaker
+
+Elite Aspirant
+
+Volwood Proselytizer
+
+Evasive Flourish
+
+With Impunity
+
+It's Just Business
+
+Tragic Accident
+
+Bloodletting
+
+Hymn of the Overseer
+
+Done Deal
+
+Listen In
+
+Founder's Echo
+
+The Volwood
+
+Sunset Recruit
+
+Patrol Veteran
+
+Impatient Bandits
+
+Incursion Vanguard
+
+Disgruntled Crook
+
+Impromptu Exit
+
+Liberated Convert
+
+Thoroughfare Busker
+
+Subtle Touch
+
+Forgotten Foundation
+
+Tear Down
+
+Friendly Misdirection
+
+Spice of Life
+
+Yoink!
+
+Scatter Records
+
+Melodious Mallard
+
+Dormant Godkiller
+
+Leonin Revivalist
+
+Spit Venom
+
+Outskirts Steward
+
+Kindly Tavernkeep
+
+Volwood Sentry
+
+Toxin Peddler
+
+Ruthless Duo
+
+Titanic Mycoid
+
+Hired Hand
+
+Dockside Hawker
+
+Gutter Rat
+
+Defend the Groves
+
+Due Reward
+
+Unbridled Flourishing
+
+Shroudpiercer
+
+Trespass the Volwood
+
+Find Your Prey
+
+Soulcage
+
+Overseer's Entrancer
+
+Overseer's Chosen
+
+Outskirts Mentor
+
+Congregation Minister
+
+Malicious Throng
+
+Backalley Entertainer
+
+Overseer's Shackles
+
+Vicuro Informant
+
+Rooftop Runner
+
+Chandelier Slink
+
+Volwood Defilers
+
+Observe the Pattern
+
+Shaper's Rites
+
+Make a Break For It
+
+Bedlam's Vessel
+
+Patient Executioner
+
+Shriek of the Shroud
+
+Reckless Show-Off
+
+Forsaken Shroudguard
+
+Skittering Striker
+
+Crypt Tiller
+
+Thing in the Dark
+
+Tenacious Thief
+
+Wistful Strategist
+
+Daring Escapees
+
+Scrawny Pursesnatcher
+
+Sieging Volleymage
+
+Tale of Bedlam
+
+Burn It All Down
+
+Culvert Inspector
+
+Unerring Assailant
+
+Creeping Overgrowth
+
+Volwood Deadeye
+
+End the Chase
+
+Herbalist's Satchel
+
+Volwood Stalwart
+
+Life from Death
+
+Guild Elite
+
+Kane, Unyielding
+
+Rowdy Mob
+
+Starry-Eyed Scholar
+
+Profane Gathering
+
+Go for the Gut
+
+Rally the Rabble
+
+Umber Grovetender
+
+Midnight Warden
+
+Survivalist Mentor
+
+Frontline Victor
+
+Concord Alchemist
+
+Sanctum Deathspeaker
+
+Overprepared Accomplice
+
+Shroudwalker
+
+Streetwise Surveyor
+
+Ancient Sentry
+
+Heart of Bedlam
+
+Bounty Wall
+
+Disposable Dagger
+
+Bustling Marketplace
+
+Strangle
+
+Furious Resolve
+
+Setral Mender
+
+Venomous Solution
+
+Become the Hunted
+
+Offer Yourself
+
+Het's Call
+
+Madness of Ages
+
+Jump the Gap
+
+Undergrowth Steward
+
+Call for Backup
+
+Into the Grove
+
+City's Memory
+
+Veteran Hunter
+
+Het, False God
+
+Mercenary
+
+The Shrouded Seas
+
+Valiant Firebrand
+
+Tesh, Fragmented Founder
+
+Sahra, Siege Captain
+
+Ascension Ritualist
+
+Esteemed Exterminator
+
+Ascendant Judge
+
+Gathering Place
+
+Forsaken Penitents
+
+Encroaching Voidborn
+
+Sunset Champion
+
+The Founder's Cage
+
+Secluded Courtyard
+
+The Founder's Hunt Begins
+
+Ery, Leyfused
+
+Setral Arborist
+
+Malicious Pactmaker
+
+League of Their Own
+
+Evrax, the Last
+
+Delias, Savvy Smuggler
+
+Smolder Away
+
+Wharf Forgemaster
+
+Wharf Vendor
+
+Apothecary's Quarters
+
+Schemer's Study
+
+Sketchy Slum
+
+Backalley Market
+
+Flourishing Garden
+
+Abandoned District
+
+Verdant Grotto
+
+Smoke Bomb
+
+Scrounging Sensor
+
+Corner the Prey
+
+Voice of the Old Grove
+
+Greedy Deserter
+
+Duplicity
+
+Sunder the Cage
+
+Spite of the Founder
+
+Spirit
+
+Druid
+
+Treasure
+
+Rooftop Observer
+
+Innovative Alchemist
+
+Stand Ready
+
+Split the Loot
+
+Reap the Rewards
+
+Solemn Procession
+
+Leybound Ritualist
+
+Renegade Recruiter
+
+Blossoming Steward
+
+Wharf Patrol
+
+Turen, Untouchable
+
+Torvel, Scion of Rot
+
+Setral Shoresculptor
+
+Sanctum Enforcer
+
+Autonomous Accomplice
+
+Stalker's Cowl
+
+High Priestess Symi
+
+In Tune
+
+Winding Assailant
+
+Vie's Lieutenant
+
+Swift-Step Robber
+
+Ruthless Stalker
+
+Acolyte
+
+Coffers Altar
+
+Expert Infiltration
+
+Race for the Glory
+
+Unending Unrest
+
+Heart of the Grove
+
+Profane Scripture
+
+Shroudwarder Phoenix
+
+Prized Possession
+
+It All Comes Together
+
+Orliss's Edict
+
+Wanton Destruction
+
+Silent Warden
+
+The Great Singularity
+
+Corrupted Sanctum
+
+Renegade Trueheart
+
+Arital, Grand Adjudicator
+
+Orliss of the Elite
+
+Surola, Vile Preacher
+
+On Top of the World
+
+Memoriam
+
+Marle, Vicuro Head
+
+Sprouting Sproutling
+
+Herald of Emergence
+
+Reckless Smashing
+
+Brazen Burglar
+
+Tireless Refutation
+
+Siurne, Eternal Sentinel
+
+Leiowen, Escape Artist
+
+Soya, Nal Executioner
+
+Vie, the First Hero
+
+The Setral Shaper
+
+Shape the Pattern
+
+Humming Furnace
+
+Copy
+
+Skeleton Dragon
+
+Fell the Nonbeliever
+
+Tomb of the Founder
+
+Memorial to the First Shaper
+
+Lucrative Larcenist
+
+Steady Flurry
+
+Restoration Specialist
+
+Avarice
+
+Loresk, Ever-Curious
+
+Waylen, Bloodhunter
+
+Ivari, Liberated Mentor
+
+Makeshift Justice
+
+Volwood Warder
+
+Planar Archives
+
+Divine Liberation
+
+Boundless Coffers
+
+Hidden Corridor
+
+Weapon
+
+Citizen
+
+Siurne's Betrayal
+
+Elemental
+
+
+VERSION 15 CHANGELOG
 ====================
 
 
