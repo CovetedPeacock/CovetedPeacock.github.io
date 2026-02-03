@@ -5,7 +5,7 @@
 			<name>VLR</name>
 			<longname>Valir: The Banished Isle</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-02-01</releasedate>
+			<releasedate>2026-02-02</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -43,7 +43,6 @@
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="2">Acolyte VLR</related>
 		</card>
 		<card>
 			<name>Sunset Sentries</name>
@@ -287,13 +286,12 @@ Exile target creature or planeswalker.</text>
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related>Copy VLR</related>
 		</card>
 		<card>
 			<name>Semari Pilferer</name>
 			<text>Flash
 Flying
-When this creature enters, tap or untap target nonland permanent.</text>
+When this creature enters, tap up to one target nonland permanent.</text>
 			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/65_Semari Pilferer.jpg" num="65">VLR</set>
 			<prop>
 				<layout>normal</layout>
@@ -481,7 +479,6 @@ Draw two cards.</text>
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related>green Elemental XXVLR</related>
 		</card>
 		<card>
 			<name>Founder&apos;s Malice</name>
@@ -584,12 +581,11 @@ Whenever you cast your second spell each turn, create a Weapon token. You may at
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Weapon VLR</related>
 		</card>
 		<card>
 			<name>Petty Larceny</name>
 			<text>Spectacle {U}{R} (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
-Draw two cards, then discard a card. When you discard a nonland card this way, Petty Larceny deals 4 damage to target creature or planeswalker.</text>
+Draw two cards, then discard a card. When you discard a nonland card this way, Petty Larceny deals 4 damage to up to one target creature or planeswalker.</text>
 			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/200_Petty Larceny.jpg" num="200">VLR</set>
 			<prop>
 				<layout>normal</layout>
@@ -638,7 +634,6 @@ Draw two cards, then discard a card. When you discard a nonland card this way, P
 				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Acolyte VLR</related>
 		</card>
 		<card>
 			<name>Killer-for-Hire</name>
@@ -657,7 +652,6 @@ When this creature enters, create a Treasure token.</text>
 				<pt>3/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Treasure VLR</related>
 		</card>
 		<card>
 			<name>Hand of the Overseer</name>
@@ -711,7 +705,6 @@ Pursuit {2}{B} (You may cast a copy of this card from your graveyard for its pur
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Copy VLR</related>
 		</card>
 		<card>
 			<name>Crypt Caretaker</name>
@@ -730,7 +723,6 @@ Whenever another creature you control dies, put a +1/+1 counter on this creature
 				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Acolyte VLR</related>
 		</card>
 		<card>
 			<name>Elite Aspirant</name>
@@ -748,7 +740,6 @@ Whenever another creature you control dies, put a +1/+1 counter on this creature
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Treasure VLR</related>
 		</card>
 		<card>
 			<name>Volwood Proselytizer</name>
@@ -818,7 +809,6 @@ Pursuit {2}{B} (You may cast a copy of this card from your graveyard for its pur
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related>Copy VLR</related>
 		</card>
 		<card>
 			<name>Tragic Accident</name>
@@ -835,7 +825,6 @@ Pursuit {2}{B} (You may cast a copy of this card from your graveyard for its pur
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related>Treasure VLR</related>
 		</card>
 		<card>
 			<name>Bloodletting</name>
@@ -885,7 +874,6 @@ You draw two cards, gain 2 life, and create a Weapon token. (It&apos;s an Equipm
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related>Weapon VLR</related>
 		</card>
 		<card>
 			<name>Listen In</name>
@@ -1097,7 +1085,7 @@ Destroy up to one target artifact. Impromptu Exit deals 1 damage to any number o
 		<card>
 			<name>Forgotten Foundation</name>
 			<text>This land enters tapped. When it does, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
-{T}, Sacrifice this land: Search your library and/or graveyard for a basic land card, put it onto the battlefield, then shuffle.</text>
+{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield, then shuffle.</text>
 			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/262_Forgotten Foundation.jpg" num="262">VLR</set>
 			<prop>
 				<layout>normal</layout>
@@ -1297,7 +1285,6 @@ Target creature you control gets +2/+0 until end of turn. It deals damage equal 
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>white Citizen 11VLR</related>
 		</card>
 		<card>
 			<name>Volwood Sentry</name>
@@ -1352,7 +1339,6 @@ When this creature enters, create a 1/1 black and green Mercenary creature token
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>black and green Mercenary 11VLR</related>
 		</card>
 		<card>
 			<name>Titanic Mycoid</name>
@@ -1389,7 +1375,6 @@ Pursuit {3}{G} (You may cast a copy of this card from your graveyard for its pur
 				<pt>4/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Copy VLR</related>
 		</card>
 		<card>
 			<name>Dockside Hawker</name>
@@ -1407,7 +1392,6 @@ Pursuit {3}{G} (You may cast a copy of this card from your graveyard for its pur
 				<pt>1/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Weapon VLR</related>
 		</card>
 		<card>
 			<name>Gutter Rat</name>
@@ -1460,7 +1444,6 @@ Pursuit {1}{G} (You may cast a copy of this card from your graveyard for its pur
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related>Copy VLR</related>
 		</card>
 		<card>
 			<name>Unbridled Flourishing</name>
@@ -1546,7 +1529,6 @@ Target creature gets +3/+3 and trample until end of turn.</text>
 				<coloridentity>WU</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related>Copy VLR</related>
 		</card>
 		<card>
 			<name>Overseer&apos;s Entrancer</name>
@@ -1583,7 +1565,6 @@ Target creature gets +3/+3 and trample until end of turn.</text>
 				<pt>3/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Acolyte VLR</related>
 		</card>
 		<card>
 			<name>Outskirts Mentor</name>
@@ -1618,7 +1599,6 @@ Target creature gets +3/+3 and trample until end of turn.</text>
 				<pt>1/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Acolyte VLR</related>
 		</card>
 		<card>
 			<name>Malicious Throng</name>
@@ -1637,7 +1617,6 @@ Whenever you cast a noncreature spell, create an Acolyte token. (It&apos;s a 0/1
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Acolyte VLR</related>
 		</card>
 		<card>
 			<name>Backalley Entertainer</name>
@@ -1657,7 +1636,6 @@ Whenever you cast a noncreature spell, create an Acolyte token. (It&apos;s a 0/1
 				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="2">white Citizen 11VLR</related>
 		</card>
 		<card>
 			<name>Overseer&apos;s Shackles</name>
@@ -1818,8 +1796,6 @@ Pursuit {3}{B}{B} (You may cast a copy of this card from your graveyard for its 
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Copy VLR</related>
-			<related> red Skeleton Dragon 55VLR</related>
 		</card>
 		<card>
 			<name>Patient Executioner</name>
@@ -1929,7 +1905,6 @@ Whenever another Warlock you control dies, each opponent loses 1 life and you ga
 				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Acolyte VLR</related>
 		</card>
 		<card>
 			<name>Thing in the Dark</name>
@@ -1949,6 +1924,7 @@ Whenever one or more cards leave your graveyard, untap this creature.
 				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<cipt>1</cipt>
 		</card>
 		<card>
 			<name>Tenacious Thief</name>
@@ -2022,7 +1998,6 @@ Whenever this creature attacks, create a Treasure token. At the beginning of you
 				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Treasure VLR</related>
 		</card>
 		<card>
 			<name>Sieging Volleymage</name>
@@ -2058,8 +2033,6 @@ Whenever an opponent is dealt damage by one or more sources you control for the 
 				<coloridentity>RG</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related>Treasure VLR</related>
-			<related> red Skeleton Dragon 55VLR</related>
 		</card>
 		<card>
 			<name>Burn It All Down</name>
@@ -2113,7 +2086,6 @@ Pursuit {3}{G}{G} (You may cast a copy of this card from your graveyard for its 
 				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Copy VLR</related>
 		</card>
 		<card>
 			<name>Creeping Overgrowth</name>
@@ -2148,7 +2120,6 @@ Whenever another Mercenary you control enters, create a Weapon token. You may at
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Weapon VLR</related>
 		</card>
 		<card>
 			<name>End the Chase</name>
@@ -2236,7 +2207,6 @@ Pursuit {1}{B}{G} (You may cast a copy of this card from your graveyard for its 
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Copy VLR</related>
 		</card>
 		<card>
 			<name>Kane, Unyielding</name>
@@ -2255,7 +2225,6 @@ Nontoken creatures you control enter with X additional +1/+1 counters on them, w
 				<pt>2/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Copy VLR</related>
 		</card>
 		<card>
 			<name>Rowdy Mob</name>
@@ -2272,8 +2241,6 @@ Nontoken creatures you control enter with X additional +1/+1 counters on them, w
 				<coloridentity>WG</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="2">white Citizen 11VLR</related>
-			<related count="2"> Weapon VLR</related>
 		</card>
 		<card>
 			<name>Starry-Eyed Scholar</name>
@@ -2309,7 +2276,6 @@ Until end of turn, creature tokens you control get +1/+0.</text>
 				<coloridentity>WB</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="3">Acolyte VLR</related>
 		</card>
 		<card>
 			<name>Go for the Gut</name>
@@ -2398,7 +2364,6 @@ Whenever you cast your second spell each turn, create a 2/2 blue and green Druid
 				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>green and blue Druid 22VLR</related>
 		</card>
 		<card>
 			<name>Frontline Victor</name>
@@ -2525,7 +2490,6 @@ Equip abilities you activate cost {1} less to activate.</text>
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Weapon VLR</related>
 		</card>
 		<card>
 			<name>Heart of Bedlam</name>
@@ -2541,7 +2505,6 @@ Remove five blood counters from this artifact: Create a 5/5 red Skeleton Dragon 
 				<cmc>2</cmc>
 			</prop>
 			<tablerow>1</tablerow>
-			<related>red Skeleton Dragon 55VLR</related>
 		</card>
 		<card>
 			<name>Bounty Wall</name>
@@ -2556,7 +2519,6 @@ Remove five blood counters from this artifact: Create a 5/5 red Skeleton Dragon 
 				<cmc>2</cmc>
 			</prop>
 			<tablerow>1</tablerow>
-			<related>Treasure VLR</related>
 		</card>
 		<card>
 			<name>Disposable Dagger</name>
@@ -2590,7 +2552,6 @@ Equip {2}</text>
 				<coloridentity>WUBRG</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
-			<related>Treasure VLR</related>
 		</card>
 		<card>
 			<name>Strangle</name>
@@ -2693,7 +2654,6 @@ Pursuit {1}{B}{B} (You may cast a copy of this card from your graveyard for its 
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related>Acolyte VLR</related>
 		</card>
 		<card>
 			<name>Het&apos;s Call</name>
@@ -2714,7 +2674,7 @@ Return target creature card from your graveyard to the battlefield. It can&apos;
 		</card>
 		<card>
 			<name>Madness of Ages</name>
-			<text>At the beginning of your first main phase, surveil 1.
+			<text>At the beginning of your upkeep, surveil 1.
 {2}{B}{B}, Sacrifice this enchantment: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery.</text>
 			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/97_Madness of Ages.jpg" num="97">VLR</set>
 			<prop>
@@ -2812,8 +2772,6 @@ Reveal cards from the top of your library until you reveal a card of the chosen 
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related>colorless Spirit 11VLR</related>
-			<related count="2"> colorless Spirit 11VLR</related>
 		</card>
 		<card>
 			<name>Veteran Hunter</name>
@@ -2832,7 +2790,6 @@ Pursuit {1}{B}{B} (You may cast a copy of this card from your graveyard for its 
 				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Copy VLR</related>
 		</card>
 		<card>
 			<name>Het, False God</name>
@@ -2851,12 +2808,11 @@ Whenever a nontoken creature dies, you may pay 3 life. If you do, create a token
 				<pt>6/6</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Copy VLR</related>
 		</card>
 		<card>
-			<name>black and green Mercenary 11VLR VLR</name>
+			<name>Mercenary VLR</name>
 			<text>Deathtouch</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/8t_black and green Mercenary 11VLR.jpg" num="8">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/8t_Mercenary.jpg" num="8">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2870,6 +2826,8 @@ Whenever a nontoken creature dies, you may pay 3 life. If you do, create a token
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
+			<reverse_related>Soya, Guild Pariah</reverse_related>
+			<reverse_related>Ruthless Duo</reverse_related>
 		</card>
 		<card>
 			<name>The Shrouded Seas</name>
@@ -2903,7 +2861,6 @@ Whenever this creature is dealt damage, exile that many cards from the top of yo
 				<pt>4/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Copy VLR</related>
 		</card>
 		<card>
 			<name>Tesh, Fragmented Founder</name>
@@ -2922,8 +2879,6 @@ Pursuit {5} (You may cast a copy of this card from your graveyard for its pursui
 				<loyalty>5</loyalty>
 			</prop>
 			<tablerow>1</tablerow>
-			<related count="2">colorless Spirit 11VLR</related>
-			<related> Copy VLR</related>
 		</card>
 		<card>
 			<name>Sahra, Siege Captain</name>
@@ -2978,7 +2933,6 @@ Pursuit {2}{G}{G} (You may cast a copy of this card from your graveyard for its 
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Copy VLR</related>
 		</card>
 		<card>
 			<name>Ascendant Judge</name>
@@ -2997,7 +2951,6 @@ Whenever this creature attacks, create an Acolyte token. (It&apos;s a 0/1 white 
 				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Acolyte VLR</related>
 		</card>
 		<card>
 			<name>Gathering Place</name>
@@ -3031,7 +2984,6 @@ Spells you cast of the chosen type cost {1} less to cast.
 				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Acolyte VLR</related>
 		</card>
 		<card>
 			<name>Encroaching Voidborn</name>
@@ -3177,7 +3129,6 @@ Whenever you surveil, put a +1/+1 counter on this creature. It gains menace unti
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Acolyte VLR</related>
 		</card>
 		<card>
 			<name>League of Their Own</name>
@@ -3196,7 +3147,6 @@ Whenever this creature enters or attacks, exile up to one target card from a gra
 				<pt>4/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Treasure VLR</related>
 		</card>
 		<card>
 			<name>Evrax, the Last</name>
@@ -3271,7 +3221,6 @@ The first spell you cast on each of your turns has affinity for tokens. (They co
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="2">Weapon VLR</related>
 		</card>
 		<card>
 			<name>Wharf Vendor</name>
@@ -3517,7 +3466,6 @@ Choose a creature type. For each creature you control of the chosen type, create
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="X">Copy VLR</related>
 		</card>
 		<card>
 			<name>Sunder the Cage</name>
@@ -3553,9 +3501,9 @@ When this enchantment enters, if it was cast, phase out all creatures until this
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>colorless Spirit 11VLR VLR</name>
+			<name>Spirit VLR</name>
 			<text></text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/2t_colorless Spirit 11VLR.jpg" num="2">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/2t_Spirit.jpg" num="2">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3567,11 +3515,14 @@ When this enchantment enters, if it was cast, phase out all creatures until this
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
+			<reverse_related count="2">Tesh, Fragmented Founder</reverse_related>
+			<reverse_related>City&apos;s Memory</reverse_related>
+			<reverse_related count="2">City&apos;s Memory</reverse_related>
 		</card>
 		<card>
-			<name>green and blue Druid 22VLR VLR</name>
+			<name>Druid VLR</name>
 			<text></text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/7t_green and blue Druid 22VLR.jpg" num="7">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/7t_Druid.jpg" num="7">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3585,11 +3536,12 @@ When this enchantment enters, if it was cast, phase out all creatures until this
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
+			<reverse_related>Survivalist Mentor</reverse_related>
 		</card>
 		<card>
-			<name>Treasure VLR VLR</name>
+			<name>Treasure VLR</name>
 			<text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/9t_Treasure VLR.jpg" num="9">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/9t_Treasure.jpg" num="9">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3600,6 +3552,21 @@ When this enchantment enters, if it was cast, phase out all creatures until this
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
+			<reverse_related>Coffers Altar</reverse_related>
+			<reverse_related>Elite Aspirant</reverse_related>
+			<reverse_related>League of Their Own</reverse_related>
+			<reverse_related>Tragic Accident</reverse_related>
+			<reverse_related>Reap the Rewards</reverse_related>
+			<reverse_related>Scrawny Pursesnatcher</reverse_related>
+			<reverse_related count="2">Split the Loot</reverse_related>
+			<reverse_related>Waylen, Bloodhunter</reverse_related>
+			<reverse_related count="2">Avarice</reverse_related>
+			<reverse_related>Tale of Bedlam</reverse_related>
+			<reverse_related>Killer-for-Hire</reverse_related>
+			<reverse_related>Orliss of the Elite</reverse_related>
+			<reverse_related>Autonomous Accomplice</reverse_related>
+			<reverse_related>Bounty Wall</reverse_related>
+			<reverse_related>Bustling Marketplace</reverse_related>
 		</card>
 		<card>
 			<name>Rooftop Observer</name>
@@ -3636,19 +3603,17 @@ During your turn, you may play cards from the top of your library as long as an 
 				<pt>2/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Copy VLR</related>
 		</card>
 		<card>
 			<name>Stand Ready</name>
-			<text>This spell costs {2} less to cast during your turn.
-Put a +1/+1 counter on each creature you control. They gain indestructible until end of turn. Untap them.</text>
+			<text>Put a +1/+1 counter on each creature you control. They gain indestructible until end of turn. Untap them.</text>
 			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/36_Stand Ready.jpg" num="36">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>3W</manacost>
+				<manacost>2WW</manacost>
 				<cmc>4</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
@@ -3671,7 +3636,6 @@ Create two Treasure tokens.</text>
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="2">Treasure VLR</related>
 		</card>
 		<card>
 			<name>Reap the Rewards</name>
@@ -3689,7 +3653,6 @@ Create two Treasure tokens.</text>
 				<coloridentity>WUBRG</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related>Treasure VLR</related>
 		</card>
 		<card>
 			<name>Solemn Procession</name>
@@ -3816,7 +3779,6 @@ Pursuit—{2}{B}{G}, Discard a card, Pay 3 life. (You may cast a copy of this ca
 				<pt>7/7</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Copy VLR</related>
 		</card>
 		<card>
 			<name>Setral Shoresculptor</name>
@@ -3872,7 +3834,6 @@ When this creature enters, choose one —
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Treasure VLR</related>
 		</card>
 		<card>
 			<name>Stalker&apos;s Cowl</name>
@@ -3907,7 +3868,6 @@ Equip {1}</text>
 				<pt>3/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Copy VLR</related>
 		</card>
 		<card>
 			<name>In Tune</name>
@@ -3943,7 +3903,6 @@ Whenever this creature deals combat damage to a player, create a Weapon token. Y
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Weapon VLR</related>
 		</card>
 		<card>
 			<name>Vie&apos;s Lieutenant</name>
@@ -4003,9 +3962,9 @@ When this creature dies, return up to one target permanent card with mana value 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Acolyte VLR VLR</name>
+			<name>Acolyte VLR</name>
 			<text>{1}, Sacrifice this creature: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/6t_Acolyte VLR.jpg" num="6">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/6t_Acolyte.jpg" num="6">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4019,6 +3978,19 @@ When this creature dies, return up to one target permanent card with mana value 
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
+			<reverse_related>Ascendant Judge</reverse_related>
+			<reverse_related count="2">Blessed Procession</reverse_related>
+			<reverse_related>Congregation Minister</reverse_related>
+			<reverse_related>Forsaken Penitents</reverse_related>
+			<reverse_related>Overseer&apos;s Chosen</reverse_related>
+			<reverse_related count="2">Siurne, Covetous Creation</reverse_related>
+			<reverse_related>Crypt Caretaker</reverse_related>
+			<reverse_related>Crypt Tiller</reverse_related>
+			<reverse_related>Disciple of Surola</reverse_related>
+			<reverse_related>Malicious Pactmaker</reverse_related>
+			<reverse_related>Offer Yourself</reverse_related>
+			<reverse_related>Malicious Throng</reverse_related>
+			<reverse_related count="3">Profane Gathering</reverse_related>
 		</card>
 		<card>
 			<name>Coffers Altar</name>
@@ -4037,7 +4009,6 @@ When this creature dies, return up to one target permanent card with mana value 
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related>Treasure VLR</related>
 		</card>
 		<card>
 			<name>Expert Infiltration</name>
@@ -4299,7 +4270,6 @@ Whenever Arital attacks, you may sacrifice another creature. When you do, exile 
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Copy VLR</related>
 		</card>
 		<card>
 			<name>Orliss of the Elite</name>
@@ -4319,7 +4289,6 @@ Whenever a creature dealt damage by a Mercenary you control this turn dies, crea
 				<pt>1/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Treasure VLR</related>
 		</card>
 		<card>
 			<name>Surola, Vile Preacher</name>
@@ -4424,7 +4393,6 @@ When this creature enters, if you cast it, create a token that&apos;s a copy of 
 				<pt>3/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Copy VLR</related>
 		</card>
 		<card>
 			<name>Reckless Smashing</name>
@@ -4498,7 +4466,6 @@ Whenever a creature an opponent controls leaves the battlefield, this creature d
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="2">Acolyte VLR</related>
 			<related attach="transform">Siurne, Covetous Creation</related>
 		</card>
 		<card>
@@ -4522,7 +4489,6 @@ Whenever a creature an opponent controls leaves the battlefield, this creature d
 				<coloridentity>WB</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related count="2">Acolyte VLR</related>
 			<related attach="transform">Siurne, Eternal Sentinel</related>
 		</card>
 		<card>
@@ -4589,7 +4555,6 @@ Whenever Soya enters or attacks, you may sacrifice another nonland permanent. If
 				<pt>3/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>black and green Mercenary 11VLR</related>
 			<related attach="transform">Soya, Guild Pariah</related>
 		</card>
 		<card>
@@ -4613,7 +4578,6 @@ Whenever Soya enters or attacks, you may sacrifice another nonland permanent. If
 				<coloridentity>BG</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related>black and green Mercenary 11VLR</related>
 			<related attach="transform">Soya, Nal Executioner</related>
 		</card>
 		<card>
@@ -4635,7 +4599,6 @@ Whenever Soya enters or attacks, you may sacrifice another nonland permanent. If
 				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>red and white Rebel 11VLR</related>
 			<related attach="transform">Vie, Fallen Hope</related>
 		</card>
 		<card>
@@ -4659,7 +4622,6 @@ Whenever Soya enters or attacks, you may sacrifice another nonland permanent. If
 				<coloridentity>WR</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related>red and white Rebel 11VLR</related>
 			<related attach="transform">Vie, the First Hero</related>
 		</card>
 		<card>
@@ -4681,7 +4643,6 @@ Whenever Soya enters or attacks, you may sacrifice another nonland permanent. If
 				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>green Elemental XXVLR</related>
 			<related attach="transform">Juni, Shaper Unbound</related>
 		</card>
 		<card>
@@ -4705,7 +4666,6 @@ Whenever Soya enters or attacks, you may sacrifice another nonland permanent. If
 				<coloridentity>UG</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related>green Elemental XXVLR</related>
 			<related attach="transform">The Setral Shaper</related>
 		</card>
 		<card>
@@ -4813,12 +4773,11 @@ Whenever Soya enters or attacks, you may sacrifice another nonland permanent. If
 				<cmc>0</cmc>
 			</prop>
 			<tablerow>0</tablerow>
-			<related>Weapon VLR</related>
 		</card>
 		<card>
-			<name>Copy VLR VLR</name>
+			<name>Copy VLR</name>
 			<text>This token can be used to represent a copy of something else.</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/1t_Copy VLR.jpg" num="1">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/1t_Copy.jpg" num="1">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4829,11 +4788,31 @@ Whenever Soya enters or attacks, you may sacrifice another nonland permanent. If
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
+			<reverse_related>Tesh, Fragmented Founder</reverse_related>
+			<reverse_related>Consult the Offerings</reverse_related>
+			<reverse_related count="X">Duplicity</reverse_related>
+			<reverse_related>Innovative Alchemist</reverse_related>
+			<reverse_related>Bedlam&apos;s Vessel</reverse_related>
+			<reverse_related>Het, False God</reverse_related>
+			<reverse_related>High Priestess Symi</reverse_related>
+			<reverse_related>It&apos;s Just Business</reverse_related>
+			<reverse_related>Slinking Swiftblade</reverse_related>
+			<reverse_related>Veteran Hunter</reverse_related>
+			<reverse_related>Herald of Emergence</reverse_related>
+			<reverse_related>Due Reward</reverse_related>
+			<reverse_related>Esteemed Exterminator</reverse_related>
+			<reverse_related>Hired Hand</reverse_related>
+			<reverse_related>Unerring Assailant</reverse_related>
+			<reverse_related>Guild Elite</reverse_related>
+			<reverse_related>Kane, Unyielding</reverse_related>
+			<reverse_related>Soulcage</reverse_related>
+			<reverse_related>Torvel, Scion of Rot</reverse_related>
+			<reverse_related>Arital, Grand Adjudicator</reverse_related>
 		</card>
 		<card>
-			<name>red Skeleton Dragon 55VLR VLR</name>
+			<name>Skeleton Dragon VLR</name>
 			<text>Flying</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/4t_red Skeleton Dragon 55VLR.jpg" num="4">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/4t_Skeleton Dragon.jpg" num="4">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4847,6 +4826,9 @@ Whenever Soya enters or attacks, you may sacrifice another nonland permanent. If
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
+			<reverse_related>Bedlam&apos;s Vessel</reverse_related>
+			<reverse_related>Tale of Bedlam</reverse_related>
+			<reverse_related>Heart of Bedlam</reverse_related>
 		</card>
 		<card>
 			<name>Fell the Nonbeliever</name>
@@ -4969,7 +4951,6 @@ Whenever this creature enters or attacks, choose two —
 				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="2">Treasure VLR</related>
 		</card>
 		<card>
 			<name>Loresk, Ever-Curious</name>
@@ -5008,7 +4989,6 @@ Waylen can&apos;t be blocked by more than one creature, and must be blocked by a
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Treasure VLR</related>
 		</card>
 		<card>
 			<name>Ivari, Liberated Mentor</name>
@@ -5087,8 +5067,8 @@ As an additional cost to cast creature spells, you may pay {R}. If you do, that 
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>1RW</manacost>
-				<cmc>3</cmc>
+				<manacost>2RW</manacost>
+				<cmc>4</cmc>
 				<colors>WR</colors>
 				<coloridentity>WR</coloridentity>
 			</prop>
@@ -5131,10 +5111,10 @@ When this land enters, surveil 1.
 			<cipt>1</cipt>
 		</card>
 		<card>
-			<name>Weapon VLR VLR</name>
+			<name>Weapon VLR</name>
 			<text>Equipped creature gets +1/+1.
 Equip {2}</text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/10t_Weapon VLR.jpg" num="10">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/10t_Weapon.jpg" num="10">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5145,11 +5125,20 @@ Equip {2}</text>
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
+			<reverse_related>Semari Weaponsmith</reverse_related>
+			<reverse_related>Done Deal</reverse_related>
+			<reverse_related>Dockside Hawker</reverse_related>
+			<reverse_related>Volwood Deadeye</reverse_related>
+			<reverse_related>Winding Assailant</reverse_related>
+			<reverse_related count="2">Rowdy Mob</reverse_related>
+			<reverse_related count="2">Wharf Forgemaster</reverse_related>
+			<reverse_related>Ancient Sentry</reverse_related>
+			<reverse_related>Humming Furnace</reverse_related>
 		</card>
 		<card>
-			<name>white Citizen 11VLR VLR</name>
+			<name>Citizen VLR</name>
 			<text></text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/3t_white Citizen 11VLR.jpg" num="3">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/3t_Citizen.jpg" num="3">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5163,6 +5152,9 @@ Equip {2}</text>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
+			<reverse_related count="2">Backalley Entertainer</reverse_related>
+			<reverse_related count="2">Rowdy Mob</reverse_related>
+			<reverse_related>Kindly Tavernkeep</reverse_related>
 		</card>
 		<card>
 			<name>Siurne&apos;s Betrayal</name>
@@ -5181,9 +5173,9 @@ Equip {2}</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>green Elemental XXVLR VLR</name>
+			<name>Elemental VLR</name>
 			<text></text>
-			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/5t_green Elemental XXVLR.jpg" num="5">VLR</set>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/VLR-files/img/5t_Elemental.jpg" num="5">VLR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5197,6 +5189,8 @@ Equip {2}</text>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
+			<reverse_related>Juniper&apos;s Awakening</reverse_related>
+			<reverse_related>Juni, Shaper Unbound</reverse_related>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

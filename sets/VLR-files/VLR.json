@@ -42,7 +42,7 @@
             "loyalty": "",
             "artist": "Even Amundsen",
             "alias": "",
-            "notes": "!tokens Acolyte VLR<2>;"
+            "notes": ""
         },
         {
             "card_name": "Sunset Sentries",
@@ -308,7 +308,7 @@
             "loyalty": "",
             "artist": "Angelika Blieweis",
             "alias": "",
-            "notes": "!tokens Copy VLR;"
+            "notes": ""
         },
         {
             "card_name": "Semari Pilferer",
@@ -318,7 +318,7 @@
             "number": 65,
             "color_identity": "U",
             "cost": "{U}",
-            "rules_text": "Flash\nFlying\nWhen this creature enters, tap or untap target nonland permanent.",
+            "rules_text": "Flash\nFlying\nWhen this creature enters, tap up to one target nonland permanent.",
             "flavor_text": "[i]\u201cIf they wanted to keep it, they shouldn't leave it lying around.\u201d[/i]",
             "pt": "1/1",
             "special_text": "",
@@ -517,7 +517,7 @@
             "loyalty": "",
             "artist": "Vitor Scienza",
             "alias": "",
-            "notes": "!tokens green Elemental XXVLR;"
+            "notes": ""
         },
         {
             "card_name": "Founder's Malice",
@@ -631,7 +631,7 @@
             "loyalty": "",
             "artist": "Felipe Fornitani",
             "alias": "",
-            "notes": "!tokens Weapon VLR;"
+            "notes": ""
         },
         {
             "card_name": "Petty Larceny",
@@ -641,7 +641,7 @@
             "number": 200,
             "color_identity": "UR",
             "cost": "{2}{U}{R}",
-            "rules_text": "Spectacle {U}{R} [i](You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)[/i]\nDraw two cards, then discard a card. When you discard a nonland card this way, Petty Larceny deals 4 damage to target creature or planeswalker.",
+            "rules_text": "Spectacle {U}{R} [i](You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)[/i]\nDraw two cards, then discard a card. When you discard a nonland card this way, Petty Larceny deals 4 damage to up to one target creature or planeswalker.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -688,7 +688,7 @@
             "loyalty": "",
             "artist": "Jason Chen",
             "alias": "",
-            "notes": "!tokens Acolyte VLR;"
+            "notes": ""
         },
         {
             "card_name": "Killer-for-Hire",
@@ -707,7 +707,7 @@
             "loyalty": "",
             "artist": "Timi Honkanen",
             "alias": "",
-            "notes": "!tokens Treasure VLR;"
+            "notes": ""
         },
         {
             "card_name": "Hand of the Overseer",
@@ -764,7 +764,7 @@
             "loyalty": "",
             "artist": "Olie Boldador",
             "alias": "",
-            "notes": "!tokens Copy VLR;"
+            "notes": ""
         },
         {
             "card_name": "Crypt Caretaker",
@@ -783,7 +783,7 @@
             "loyalty": "",
             "artist": "Marina Ryats",
             "alias": "",
-            "notes": "!tokens Acolyte VLR;"
+            "notes": ""
         },
         {
             "card_name": "Elite Aspirant",
@@ -802,7 +802,7 @@
             "loyalty": "",
             "artist": "Tatiana Pavlova",
             "alias": "",
-            "notes": "!tokens Treasure VLR;"
+            "notes": ""
         },
         {
             "card_name": "Volwood Proselytizer",
@@ -878,7 +878,7 @@
             "loyalty": "",
             "artist": "Olie Boldador",
             "alias": "",
-            "notes": "!tokens Copy VLR;"
+            "notes": ""
         },
         {
             "card_name": "Tragic Accident",
@@ -897,7 +897,7 @@
             "loyalty": "",
             "artist": "Joe Latham",
             "alias": "",
-            "notes": "!tokens Treasure VLR;"
+            "notes": ""
         },
         {
             "card_name": "Bloodletting",
@@ -954,7 +954,7 @@
             "loyalty": "",
             "artist": "Muhammet Ali Parlagi",
             "alias": "",
-            "notes": "!tokens Weapon VLR;"
+            "notes": ""
         },
         {
             "card_name": "Listen In",
@@ -1192,7 +1192,7 @@
             "number": 262,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "This land enters tapped. When it does, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]\n{T}, Sacrifice this land: Search your library and/or graveyard for a basic land card, put it onto the battlefield, then shuffle.",
+            "rules_text": "This land enters tapped. When it does, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]\n{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield, then shuffle.",
             "flavor_text": "[i]Echoes of a gentler society, turned to waste.[/i]",
             "pt": "",
             "special_text": "",
@@ -1410,7 +1410,7 @@
             "loyalty": "",
             "artist": "Claudiu-Antoniu Magherusan",
             "alias": "",
-            "notes": "!tokens white Citizen 11VLR;"
+            "notes": ""
         },
         {
             "card_name": "Volwood Sentry",
@@ -1467,7 +1467,7 @@
             "loyalty": "",
             "artist": "Liquid Feather",
             "alias": "",
-            "notes": "!tokens black and green Mercenary 11VLR;"
+            "notes": ""
         },
         {
             "card_name": "Titanic Mycoid",
@@ -1505,7 +1505,7 @@
             "loyalty": "",
             "artist": "Arghawana Rim",
             "alias": "",
-            "notes": "!tokens Copy VLR;"
+            "notes": ""
         },
         {
             "card_name": "Dockside Hawker",
@@ -1524,7 +1524,7 @@
             "loyalty": "",
             "artist": "Lena B Wolf",
             "alias": "",
-            "notes": "!tokens Weapon VLR;"
+            "notes": ""
         },
         {
             "card_name": "Gutter Rat",
@@ -1581,7 +1581,7 @@
             "loyalty": "",
             "artist": "Joseph Weston",
             "alias": "",
-            "notes": "!tokens Copy VLR;"
+            "notes": ""
         },
         {
             "card_name": "Unbridled Flourishing",
@@ -1676,7 +1676,7 @@
             "loyalty": "",
             "artist": "Lana Ansay",
             "alias": "",
-            "notes": "!tokens Copy VLR;\n!tag wishlist"
+            "notes": "!tag wishlist"
         },
         {
             "card_name": "Overseer's Entrancer",
@@ -1714,7 +1714,7 @@
             "loyalty": "",
             "artist": "Christian da Luz Novelli",
             "alias": "",
-            "notes": "!tokens Acolyte VLR;"
+            "notes": ""
         },
         {
             "card_name": "Outskirts Mentor",
@@ -1752,7 +1752,7 @@
             "loyalty": "",
             "artist": "Rogier van de Beek",
             "alias": "",
-            "notes": "!tokens Acolyte VLR;"
+            "notes": ""
         },
         {
             "card_name": "Malicious Throng",
@@ -1771,7 +1771,7 @@
             "loyalty": "",
             "artist": "Michal Zacharek",
             "alias": "",
-            "notes": "!tokens Acolyte VLR;"
+            "notes": ""
         },
         {
             "card_name": "Backalley Entertainer",
@@ -1790,7 +1790,7 @@
             "loyalty": "",
             "artist": "Tony Foti",
             "alias": "",
-            "notes": "!tokens white Citizen 11VLR<2>;"
+            "notes": ""
         },
         {
             "card_name": "Overseer's Shackles",
@@ -1961,7 +1961,7 @@
             "loyalty": "",
             "artist": "Tatiana Krstic",
             "alias": "",
-            "notes": "!tokens Copy VLR; red Skeleton Dragon 55VLR;"
+            "notes": ""
         },
         {
             "card_name": "Patient Executioner",
@@ -2075,7 +2075,7 @@
             "loyalty": "",
             "artist": "Gustavo Barreira",
             "alias": "",
-            "notes": "!tokens Acolyte VLR;"
+            "notes": ""
         },
         {
             "card_name": "Thing in the Dark",
@@ -2094,7 +2094,7 @@
             "loyalty": "",
             "artist": "Atanas Lozansk",
             "alias": "",
-            "notes": ""
+            "notes": "!tapped"
         },
         {
             "card_name": "Tenacious Thief",
@@ -2170,7 +2170,7 @@
             "loyalty": "",
             "artist": "Earl Toribio",
             "alias": "",
-            "notes": "!tokens Treasure VLR;"
+            "notes": ""
         },
         {
             "card_name": "Sieging Volleymage",
@@ -2208,7 +2208,7 @@
             "loyalty": "",
             "artist": "Karin Wittig",
             "alias": "",
-            "notes": "!tokens Treasure VLR; red Skeleton Dragon 55VLR;"
+            "notes": ""
         },
         {
             "card_name": "Burn It All Down",
@@ -2265,7 +2265,7 @@
             "loyalty": "",
             "artist": "Sabrina Tobal",
             "alias": "",
-            "notes": "!tokens Copy VLR;"
+            "notes": ""
         },
         {
             "card_name": "Creeping Overgrowth",
@@ -2303,7 +2303,7 @@
             "loyalty": "",
             "artist": "Tiago Alexandre",
             "alias": "",
-            "notes": "!tokens Weapon VLR;"
+            "notes": ""
         },
         {
             "card_name": "End the Chase",
@@ -2398,7 +2398,7 @@
             "loyalty": "",
             "artist": "Von Milano",
             "alias": "",
-            "notes": "!tokens Copy VLR;"
+            "notes": ""
         },
         {
             "card_name": "Kane, Unyielding",
@@ -2417,7 +2417,7 @@
             "loyalty": "",
             "artist": "Laura Sava",
             "alias": "",
-            "notes": "!tokens Copy VLR;"
+            "notes": ""
         },
         {
             "card_name": "Rowdy Mob",
@@ -2436,7 +2436,7 @@
             "loyalty": "",
             "artist": "Kaia Adams",
             "alias": "",
-            "notes": "!tokens white Citizen 11VLR<2>; Weapon VLR<2>;"
+            "notes": ""
         },
         {
             "card_name": "Starry-Eyed Scholar",
@@ -2474,7 +2474,7 @@
             "loyalty": "",
             "artist": "Stefan Djukic",
             "alias": "",
-            "notes": "!tokens Acolyte VLR<3>;"
+            "notes": ""
         },
         {
             "card_name": "Go for the Gut",
@@ -2569,7 +2569,7 @@
             "loyalty": "",
             "artist": "Christina Kraus",
             "alias": "",
-            "notes": "!tokens green and blue Druid 22VLR;"
+            "notes": ""
         },
         {
             "card_name": "Frontline Victor",
@@ -2702,7 +2702,7 @@
             "loyalty": "",
             "artist": "Jason Nguyen",
             "alias": "",
-            "notes": "!tokens Weapon VLR;"
+            "notes": ""
         },
         {
             "card_name": "Heart of Bedlam",
@@ -2721,7 +2721,7 @@
             "loyalty": "",
             "artist": "Zolt\u00e1n D\u00f3cs",
             "alias": "",
-            "notes": "!tokens red Skeleton Dragon 55VLR;"
+            "notes": ""
         },
         {
             "card_name": "Bounty Wall",
@@ -2740,7 +2740,7 @@
             "loyalty": "",
             "artist": "Shunding Lin",
             "alias": "",
-            "notes": "!tokens Treasure VLR;"
+            "notes": ""
         },
         {
             "card_name": "Disposable Dagger",
@@ -2778,7 +2778,7 @@
             "loyalty": "",
             "artist": "Alvin Ho",
             "alias": "",
-            "notes": "!tokens Treasure VLR;"
+            "notes": ""
         },
         {
             "card_name": "Strangle",
@@ -2892,7 +2892,7 @@
             "loyalty": "",
             "artist": "Artur Treffner",
             "alias": "",
-            "notes": "!tokens Acolyte VLR;"
+            "notes": ""
         },
         {
             "card_name": "Het's Call",
@@ -2921,7 +2921,7 @@
             "number": 97,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "At the beginning of your first main phase, surveil 1.\n{2}{B}{B}, Sacrifice this enchantment: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery.",
+            "rules_text": "At the beginning of your upkeep, surveil 1.\n{2}{B}{B}, Sacrifice this enchantment: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery.",
             "flavor_text": "[i]\u201cThis world has always been too loud.\u201d\n\u2014Het, the Overseer[/i]",
             "pt": "",
             "special_text": "",
@@ -3025,7 +3025,7 @@
             "loyalty": "",
             "artist": "Florian Herold",
             "alias": "",
-            "notes": "!tokens colorless Spirit 11VLR; colorless Spirit 11VLR<2>;"
+            "notes": ""
         },
         {
             "card_name": "Veteran Hunter",
@@ -3044,7 +3044,7 @@
             "loyalty": "",
             "artist": "Alexander Lyzhin",
             "alias": "",
-            "notes": "!tokens Copy VLR;"
+            "notes": ""
         },
         {
             "card_name": "Het, False God",
@@ -3063,10 +3063,10 @@
             "loyalty": "",
             "artist": "Ming Chang",
             "alias": "",
-            "notes": "!tokens Copy VLR;"
+            "notes": ""
         },
         {
-            "card_name": "black and green Mercenary 11VLR",
+            "card_name": "Mercenary",
             "color": "BG",
             "rarity": "common",
             "type": "Token Creature \u2014 Mercenary",
@@ -3082,7 +3082,7 @@
             "loyalty": "",
             "artist": "Renee Gross",
             "alias": "",
-            "notes": "!exportname black and green Mercenary 11VLR"
+            "notes": "!related Soya, Guild Pariah;Ruthless Duo"
         },
         {
             "card_name": "The Shrouded Seas",
@@ -3120,7 +3120,7 @@
             "loyalty": "",
             "artist": "Grafit Studio",
             "alias": "",
-            "notes": "!tokens Copy VLR;\n!tag wishlist"
+            "notes": "!tag wishlist"
         },
         {
             "card_name": "Tesh, Fragmented Founder",
@@ -3139,7 +3139,7 @@
             "loyalty": "5",
             "artist": "John Stone",
             "alias": "",
-            "notes": "!tokens colorless Spirit 11VLR<2>; Copy VLR;"
+            "notes": ""
         },
         {
             "card_name": "Sahra, Siege Captain",
@@ -3196,7 +3196,7 @@
             "loyalty": "",
             "artist": "Andrew Clark",
             "alias": "",
-            "notes": "!tokens Copy VLR;"
+            "notes": ""
         },
         {
             "card_name": "Ascendant Judge",
@@ -3215,7 +3215,7 @@
             "loyalty": "",
             "artist": "Aurelien Rantet",
             "alias": "",
-            "notes": "!tokens Acolyte VLR;"
+            "notes": ""
         },
         {
             "card_name": "Gathering Place",
@@ -3253,7 +3253,7 @@
             "loyalty": "",
             "artist": "Tatiana Pavlova",
             "alias": "",
-            "notes": "!tokens Acolyte VLR;"
+            "notes": ""
         },
         {
             "card_name": "Encroaching Voidborn",
@@ -3405,7 +3405,7 @@
             "loyalty": "",
             "artist": "David Astruga",
             "alias": "",
-            "notes": "!tokens Acolyte VLR;"
+            "notes": ""
         },
         {
             "card_name": "League of Their Own",
@@ -3424,7 +3424,7 @@
             "loyalty": "",
             "artist": "Gino Zhang Yuan",
             "alias": "",
-            "notes": "!tokens Treasure VLR;"
+            "notes": ""
         },
         {
             "card_name": "Evrax, the Last",
@@ -3500,7 +3500,7 @@
             "loyalty": "",
             "artist": "Liza Bokova",
             "alias": "",
-            "notes": "!tokens Weapon VLR<2>;"
+            "notes": ""
         },
         {
             "card_name": "Wharf Vendor",
@@ -3766,7 +3766,7 @@
             "loyalty": "",
             "artist": "Luis Aguirre G\u00e1rate",
             "alias": "",
-            "notes": "!tokens Copy VLR<X>;"
+            "notes": ""
         },
         {
             "card_name": "Sunder the Cage",
@@ -3807,7 +3807,7 @@
             "notes": ""
         },
         {
-            "card_name": "colorless Spirit 11VLR",
+            "card_name": "Spirit",
             "color": "",
             "rarity": "common",
             "type": "Token Creature \u2014 Spirit",
@@ -3823,10 +3823,10 @@
             "loyalty": "",
             "artist": "Yerlik Zharylgapov",
             "alias": "",
-            "notes": "!exportname colorless Spirit 11VLR"
+            "notes": "!related Tesh, Fragmented Founder<2>;City's Memory;City's Memory<2>"
         },
         {
-            "card_name": "green and blue Druid 22VLR",
+            "card_name": "Druid",
             "color": "UG",
             "rarity": "common",
             "type": "Token Creature \u2014 Druid",
@@ -3842,10 +3842,10 @@
             "loyalty": "",
             "artist": "Bruna Machado",
             "alias": "",
-            "notes": "!exportname green and blue Druid 22VLR"
+            "notes": "!related Survivalist Mentor"
         },
         {
-            "card_name": "Treasure VLR",
+            "card_name": "Treasure",
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2014 Treasure",
@@ -3861,7 +3861,7 @@
             "loyalty": "",
             "artist": "Dominic Barrios",
             "alias": "",
-            "notes": "!exportname Treasure VLR"
+            "notes": "!related Coffers Altar;Elite Aspirant;League of Their Own;Tragic Accident;Reap the Rewards;Scrawny Pursesnatcher;Split the Loot<2>;Waylen, Bloodhunter;Avarice<2>;Tale of Bedlam;Killer-for-Hire;Orliss of the Elite;Autonomous Accomplice;Bounty Wall;Bustling Marketplace"
         },
         {
             "card_name": "Rooftop Observer",
@@ -3899,7 +3899,7 @@
             "loyalty": "",
             "artist": "Aleksandra Wojtas",
             "alias": "",
-            "notes": "!tokens Copy VLR;"
+            "notes": ""
         },
         {
             "card_name": "Stand Ready",
@@ -3908,8 +3908,8 @@
             "type": "Instant",
             "number": 36,
             "color_identity": "W",
-            "cost": "{3}{W}",
-            "rules_text": "This spell costs {2} less to cast during your turn.\nPut a +1/+1 counter on each creature you control. They gain indestructible until end of turn. Untap them.",
+            "cost": "{2}{W}{W}",
+            "rules_text": "Put a +1/+1 counter on each creature you control. They gain indestructible until end of turn. Untap them.",
             "flavor_text": "[i]\u201cAlone, we live. United, we thrive.\u201d\n\u2014Kane, Volwood defender[/i]",
             "pt": "",
             "special_text": "",
@@ -3937,7 +3937,7 @@
             "loyalty": "",
             "artist": "Matt Sellers",
             "alias": "",
-            "notes": "!tokens Treasure VLR<2>;"
+            "notes": ""
         },
         {
             "card_name": "Reap the Rewards",
@@ -3956,7 +3956,7 @@
             "loyalty": "",
             "artist": "Kira Radaru",
             "alias": "",
-            "notes": "!tokens Treasure VLR;"
+            "notes": ""
         },
         {
             "card_name": "Solemn Procession",
@@ -4089,7 +4089,7 @@
             "loyalty": "",
             "artist": "Tyler Ellis",
             "alias": "",
-            "notes": "!tokens Copy VLR;"
+            "notes": ""
         },
         {
             "card_name": "Setral Shoresculptor",
@@ -4146,7 +4146,7 @@
             "loyalty": "",
             "artist": "Lucas \u00c1lvaro",
             "alias": "",
-            "notes": "!tokens Treasure VLR;"
+            "notes": ""
         },
         {
             "card_name": "Stalker's Cowl",
@@ -4184,7 +4184,7 @@
             "loyalty": "",
             "artist": "Luiza de Carvalho",
             "alias": "",
-            "notes": "!tokens Copy VLR;"
+            "notes": ""
         },
         {
             "card_name": "In Tune",
@@ -4222,7 +4222,7 @@
             "loyalty": "",
             "artist": "Cindy Avelino",
             "alias": "",
-            "notes": "!tokens Weapon VLR;"
+            "notes": ""
         },
         {
             "card_name": "Vie's Lieutenant",
@@ -4282,7 +4282,7 @@
             "notes": ""
         },
         {
-            "card_name": "Acolyte VLR",
+            "card_name": "Acolyte",
             "color": "WB",
             "rarity": "common",
             "type": "Token Creature \u2014 Warlock",
@@ -4298,7 +4298,7 @@
             "loyalty": "",
             "artist": "Rizal Akbar Fauzi",
             "alias": "",
-            "notes": "!exportname Acolyte VLR"
+            "notes": "!related Ascendant Judge;Blessed Procession<2>;Congregation Minister;Forsaken Penitents;Overseer's Chosen;Siurne, Covetous Creation<2>;Crypt Caretaker;Crypt Tiller;Disciple of Surola;Malicious Pactmaker;Offer Yourself;Malicious Throng;Profane Gathering<3>"
         },
         {
             "card_name": "Coffers Altar",
@@ -4317,7 +4317,7 @@
             "loyalty": "",
             "artist": "Bruno Balixa",
             "alias": "",
-            "notes": "!tokens Treasure VLR;"
+            "notes": ""
         },
         {
             "card_name": "Expert Infiltration",
@@ -4602,7 +4602,7 @@
             "loyalty": "",
             "artist": "Maxime Minard",
             "alias": "",
-            "notes": "!tokens Copy VLR;"
+            "notes": ""
         },
         {
             "card_name": "Orliss of the Elite",
@@ -4621,7 +4621,7 @@
             "loyalty": "",
             "artist": "Timi Honkanen",
             "alias": "",
-            "notes": "!tokens Treasure VLR;"
+            "notes": ""
         },
         {
             "card_name": "Surola, Vile Preacher",
@@ -4735,7 +4735,7 @@
             "loyalty": "",
             "artist": "Vladimir Matyukhin",
             "alias": "",
-            "notes": "!tokens Copy VLR;"
+            "notes": ""
         },
         {
             "card_name": "Reckless Smashing",
@@ -4822,7 +4822,7 @@
             "loyalty2": "",
             "artist2": "Billy Christian",
             "alias2": "",
-            "notes": "!tokens Acolyte VLR<2>;"
+            "notes": ""
         },
         {
             "card_name": "Leiowen, Escape Artist",
@@ -4882,7 +4882,7 @@
             "loyalty2": "",
             "artist2": "Day Paint Studio",
             "alias2": "",
-            "notes": "!tokens black and green Mercenary 11VLR;"
+            "notes": ""
         },
         {
             "card_name": "Vie, the First Hero",
@@ -4912,7 +4912,7 @@
             "loyalty2": "",
             "artist2": "Julia Mato",
             "alias2": "",
-            "notes": "!tokens red and white Rebel 11VLR;"
+            "notes": ""
         },
         {
             "card_name": "The Setral Shaper",
@@ -4942,7 +4942,7 @@
             "loyalty2": "",
             "artist2": "Joe Neeves",
             "alias2": "",
-            "notes": "!tokens green Elemental XXVLR;"
+            "notes": ""
         },
         {
             "card_name": "Shape the Pattern",
@@ -5075,10 +5075,10 @@
             "loyalty": "",
             "artist": "Tetiana Svirska",
             "alias": "",
-            "notes": "!tokens Weapon VLR;"
+            "notes": ""
         },
         {
-            "card_name": "Copy VLR",
+            "card_name": "Copy",
             "color": "",
             "rarity": "common",
             "type": "Token",
@@ -5094,10 +5094,10 @@
             "loyalty": "",
             "artist": "Vanette Kosman",
             "alias": "",
-            "notes": "!exportname Copy VLR"
+            "notes": "!related Tesh, Fragmented Founder;Consult the Offerings;Duplicity<X>;Innovative Alchemist;Bedlam's Vessel;Het, False God;High Priestess Symi;It's Just Business;Slinking Swiftblade;Veteran Hunter;Herald of Emergence;Due Reward;Esteemed Exterminator;Hired Hand;Unerring Assailant;Guild Elite;Kane, Unyielding;Soulcage;Torvel, Scion of Rot;Arital, Grand Adjudicator"
         },
         {
-            "card_name": "red Skeleton Dragon 55VLR",
+            "card_name": "Skeleton Dragon",
             "color": "R",
             "rarity": "common",
             "type": "Token Creature \u2014 Skeleton Dragon",
@@ -5113,7 +5113,7 @@
             "loyalty": "",
             "artist": "Kerem Beyit",
             "alias": "",
-            "notes": "!exportname red Skeleton Dragon 55VLR"
+            "notes": "!related Bedlam's Vessel;Tale of Bedlam;Heart of Bedlam"
         },
         {
             "card_name": "Fell the Nonbeliever",
@@ -5246,7 +5246,7 @@
             "loyalty": "",
             "artist": "Jack W",
             "alias": "",
-            "notes": "!tokens Treasure VLR<2>;"
+            "notes": ""
         },
         {
             "card_name": "Loresk, Ever-Curious",
@@ -5284,7 +5284,7 @@
             "loyalty": "",
             "artist": "Dire Wolf Digital",
             "alias": "",
-            "notes": "!tokens Treasure VLR;"
+            "notes": ""
         },
         {
             "card_name": "Ivari, Liberated Mentor",
@@ -5369,7 +5369,7 @@
             "type": "Sorcery",
             "number": 186,
             "color_identity": "WR",
-            "cost": "{1}{R}{W}",
+            "cost": "{2}{R}{W}",
             "rules_text": "Untap and gain control of target nonland permanent until end of turn. It gains haste until end of turn. At the beginning of the next end step, exile it.",
             "flavor_text": "[i]With the cult's conditioning burned from her mind, Vie formed her first memory: an angel, burning bright, offering salvation.[/i]",
             "pt": "",
@@ -5420,7 +5420,7 @@
             "notes": "!tapped"
         },
         {
-            "card_name": "Weapon VLR",
+            "card_name": "Weapon",
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2014 Equipment Weapon",
@@ -5436,10 +5436,10 @@
             "loyalty": "",
             "artist": "Sara Contreras",
             "alias": "",
-            "notes": "!exportname Weapon VLR"
+            "notes": "!related Semari Weaponsmith;Done Deal;Dockside Hawker;Volwood Deadeye;Winding Assailant;Rowdy Mob<2>;Wharf Forgemaster<2>;Ancient Sentry;Humming Furnace"
         },
         {
-            "card_name": "white Citizen 11VLR",
+            "card_name": "Citizen",
             "color": "W",
             "rarity": "common",
             "type": "Token Creature \u2014 Citizen",
@@ -5455,7 +5455,7 @@
             "loyalty": "",
             "artist": "Nard H",
             "alias": "",
-            "notes": "!exportname white Citizen 11VLR"
+            "notes": "!related Backalley Entertainer<2>;Rowdy Mob<2>;Kindly Tavernkeep"
         },
         {
             "card_name": "Siurne's Betrayal",
@@ -5477,7 +5477,7 @@
             "notes": ""
         },
         {
-            "card_name": "green Elemental XXVLR",
+            "card_name": "Elemental",
             "color": "G",
             "rarity": "common",
             "type": "Token Creature \u2014 Elemental",
@@ -5493,8 +5493,8 @@
             "loyalty": "",
             "artist": "Marcos Poncio",
             "alias": "",
-            "notes": "!exportname green Elemental XXVLR"
+            "notes": "!related Juniper's Awakening;Juni, Shaper Unbound"
         }
     ],
-    "version": 13
+    "version": 15
 }

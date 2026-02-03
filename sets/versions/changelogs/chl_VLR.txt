@@ -1,4 +1,358 @@
-﻿VERSION 13 CHANGELOG
+﻿VERSION 15 CHANGELOG
+====================
+
+
+
+Blessed Procession
+
+Consult the Offerings
+
+Juniper's Awakening
+
+Semari Weaponsmith
+
+Disciple of Surola
+
+Killer-for-Hire
+
+Slinking Swiftblade
+
+Crypt Caretaker
+
+Elite Aspirant
+
+It's Just Business
+
+Tragic Accident
+
+Done Deal
+
+Kindly Tavernkeep
+
+Ruthless Duo
+
+Hired Hand
+
+Dockside Hawker
+
+Due Reward
+
+Soulcage
+
+Overseer's Chosen
+
+Congregation Minister
+
+Malicious Throng
+
+Backalley Entertainer
+
+Bedlam's Vessel
+
+Crypt Tiller
+
+Thing in the Dark
+
+Scrawny Pursesnatcher
+
+Tale of Bedlam
+
+Unerring Assailant
+
+Volwood Deadeye
+
+Guild Elite
+
+Kane, Unyielding
+
+Rowdy Mob
+
+Profane Gathering
+
+Survivalist Mentor
+
+Ancient Sentry
+
+Heart of Bedlam
+
+Bounty Wall
+
+Bustling Marketplace
+
+Offer Yourself
+
+City's Memory
+
+Veteran Hunter
+
+Het, False God
+
+Mercenary
+
+Valiant Firebrand
+
+Tesh, Fragmented Founder
+
+Esteemed Exterminator
+
+Ascendant Judge
+
+Forsaken Penitents
+
+Malicious Pactmaker
+
+League of Their Own
+
+Wharf Forgemaster
+
+Duplicity
+
+Spirit
+
+Druid
+
+Treasure
+
+Innovative Alchemist
+
+Split the Loot
+
+Reap the Rewards
+
+Torvel, Scion of Rot
+
+Autonomous Accomplice
+
+High Priestess Symi
+
+Winding Assailant
+
+Acolyte
+
+Coffers Altar
+
+Arital, Grand Adjudicator
+
+Orliss of the Elite
+
+Herald of Emergence
+
+Siurne, Eternal Sentinel
+
+Soya, Nal Executioner
+
+The Setral Shaper
+
+Humming Furnace
+
+Copy
+
+Skeleton Dragon
+
+Avarice
+
+Waylen, Bloodhunter
+
+Weapon
+
+Citizen
+
+Elemental
+
+
+VERSION 14 CHANGELOG
+====================
+
+Mercenary added.
+Spirit added.
+Druid added.
+Treasure added.
+Acolyte added.
+Copy added.
+Skeleton Dragon added.
+Weapon added.
+Citizen added.
+Elemental added.
+
+black and green Mercenary 11VLR removed.
+colorless Spirit 11VLR removed.
+green and blue Druid 22VLR removed.
+Treasure VLR removed.
+Acolyte VLR removed.
+Copy VLR removed.
+red Skeleton Dragon 55VLR removed.
+Weapon VLR removed.
+white Citizen 11VLR removed.
+green Elemental XXVLR removed.
+
+Blessed Procession
+
+Consult the Offerings
+
+Semari Pilferer
+rules_text: Flash
+Flying
+When this creature enters, tap or untap target nonland permanent. => Flash
+Flying
+When this creature enters, tap up to one target nonland permanent.
+
+Juniper's Awakening
+
+Semari Weaponsmith
+
+Petty Larceny
+rules_text: Spectacle {U}{R} [i](You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)[/i]
+Draw two cards, then discard a card. When you discard a nonland card this way, Petty Larceny deals 4 damage to target creature or planeswalker. => Spectacle {U}{R} [i](You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)[/i]
+Draw two cards, then discard a card. When you discard a nonland card this way, Petty Larceny deals 4 damage to up to one target creature or planeswalker.
+
+Disciple of Surola
+
+Killer-for-Hire
+
+Slinking Swiftblade
+
+Crypt Caretaker
+
+Elite Aspirant
+
+It's Just Business
+
+Tragic Accident
+
+Done Deal
+
+Forgotten Foundation
+rules_text: This land enters tapped. When it does, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+{T}, Sacrifice this land: Search your library and/or graveyard for a basic land card, put it onto the battlefield, then shuffle. => This land enters tapped. When it does, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+
+Kindly Tavernkeep
+
+Ruthless Duo
+
+Hired Hand
+
+Dockside Hawker
+
+Due Reward
+
+Soulcage
+
+Overseer's Chosen
+
+Congregation Minister
+
+Malicious Throng
+
+Backalley Entertainer
+
+Bedlam's Vessel
+
+Crypt Tiller
+
+Scrawny Pursesnatcher
+
+Tale of Bedlam
+
+Unerring Assailant
+
+Volwood Deadeye
+
+Guild Elite
+
+Kane, Unyielding
+
+Rowdy Mob
+
+Profane Gathering
+
+Survivalist Mentor
+
+Ancient Sentry
+
+Heart of Bedlam
+
+Bounty Wall
+
+Bustling Marketplace
+
+Offer Yourself
+
+Madness of Ages
+rules_text: At the beginning of your first main phase, surveil 1.
+{2}{B}{B}, Sacrifice this enchantment: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery. => At the beginning of your upkeep, surveil 1.
+{2}{B}{B}, Sacrifice this enchantment: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery.
+
+City's Memory
+
+Veteran Hunter
+
+Het, False God
+
+Valiant Firebrand
+
+Tesh, Fragmented Founder
+
+Esteemed Exterminator
+
+Ascendant Judge
+
+Forsaken Penitents
+
+Malicious Pactmaker
+
+League of Their Own
+
+Wharf Forgemaster
+
+Duplicity
+
+Innovative Alchemist
+
+Stand Ready
+cost: {3}{W} => {2}{W}{W}
+rules_text: This spell costs {2} less to cast during your turn.
+Put a +1/+1 counter on each creature you control. They gain indestructible until end of turn. Untap them. => Put a +1/+1 counter on each creature you control. They gain indestructible until end of turn. Untap them.
+
+Split the Loot
+
+Reap the Rewards
+
+Torvel, Scion of Rot
+
+Autonomous Accomplice
+
+High Priestess Symi
+
+Winding Assailant
+
+Coffers Altar
+
+Arital, Grand Adjudicator
+
+Orliss of the Elite
+
+Herald of Emergence
+
+Siurne, Eternal Sentinel
+
+Soya, Nal Executioner
+
+Vie, the First Hero
+
+The Setral Shaper
+
+Humming Furnace
+
+Avarice
+
+Waylen, Bloodhunter
+
+Divine Liberation
+cost: {1}{R}{W} => {2}{R}{W}
+
+
+VERSION 13 CHANGELOG
 ====================
 
 Solemn Procession added.

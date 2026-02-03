@@ -2364,7 +2364,7 @@
     },
     "a->token",
     {
-        "card_name": "Copy VLR",
+        "card_name": "Copy",
         "number": 1,
         "shape": "token",
         "set": "VLR",
@@ -2372,7 +2372,7 @@
         "position": ""
     },
     {
-        "card_name": "colorless Spirit 11VLR",
+        "card_name": "Spirit",
         "number": 2,
         "shape": "token",
         "set": "VLR",
@@ -2380,7 +2380,7 @@
         "position": ""
     },
     {
-        "card_name": "Treasure VLR",
+        "card_name": "Treasure",
         "number": 9,
         "shape": "token",
         "set": "VLR",
@@ -2388,7 +2388,7 @@
         "position": ""
     },
     {
-        "card_name": "Weapon VLR",
+        "card_name": "Weapon",
         "number": 10,
         "shape": "token",
         "set": "VLR",
@@ -2396,7 +2396,7 @@
         "position": ""
     },
     {
-        "card_name": "white Citizen 11VLR",
+        "card_name": "Citizen",
         "number": 3,
         "shape": "token",
         "set": "VLR",
@@ -2404,7 +2404,7 @@
         "position": ""
     },
     {
-        "card_name": "red Skeleton Dragon 55VLR",
+        "card_name": "Skeleton Dragon",
         "number": 4,
         "shape": "token",
         "set": "VLR",
@@ -2412,7 +2412,7 @@
         "position": ""
     },
     {
-        "card_name": "green Elemental XXVLR",
+        "card_name": "Elemental",
         "number": 5,
         "shape": "token",
         "set": "VLR",
@@ -2420,7 +2420,7 @@
         "position": ""
     },
     {
-        "card_name": "Acolyte VLR",
+        "card_name": "Acolyte",
         "number": 6,
         "shape": "token",
         "set": "VLR",
@@ -2428,7 +2428,7 @@
         "position": ""
     },
     {
-        "card_name": "green and blue Druid 22VLR",
+        "card_name": "Druid",
         "number": 7,
         "shape": "token",
         "set": "VLR",
@@ -2436,7 +2436,7 @@
         "position": ""
     },
     {
-        "card_name": "black and green Mercenary 11VLR",
+        "card_name": "Mercenary",
         "number": 8,
         "shape": "token",
         "set": "VLR",
