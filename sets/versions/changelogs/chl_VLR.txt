@@ -1,4 +1,561 @@
-﻿VERSION 17 CHANGELOG
+﻿VERSION 18 CHANGELOG
+====================
+
+Depart added.
+Glimpse the Worldsoul added.
+Scatter Evidence added.
+Desperate Ambusher added.
+Pick Your Poison added.
+Morbid Missive added.
+Evrax, Enlightened Endling added.
+Memorial to the First Shaper added.
+Grand Larceny added.
+
+One Quiet Moment removed.
+Bond the Sundered Souls removed.
+Petty Larceny removed.
+Scatter Records removed.
+Skittering Striker removed.
+Venomous Solution removed.
+Gathering Place removed.
+Evrax, the Last removed.
+Druid removed.
+
+Blessed Proselytism
+
+Chapel Specter
+rules_text: Flying
+Whenever this creature attacks, exile up to three target cards from a graveyard. You gain 1 life for each card exiled this way. => Flying
+Whenever a card or token is put into your graveyard from anywhere, you gain 1 life.
+pt: 3/3 => 3/4
+
+Offer the Faithless
+type: Instant => Enchantment
+cost: {3}{W} => {B}
+rules_text: Affinity for Warlocks [i](This spell costs {1} less to cast for each Warlock you control.)[/i]
+Exile target creature or planeswalker. => When this enchantment enters, create an Acolyte token. [i](It's a 0/1 white and black Warlock creature with “{1}, Sacrifice this: Surveil 1.”)[/i]
+{1}{B}, Pay 1 life, Sacrifice a creature: Surveil 1. Draw a card.
+
+Juniper's Awakening
+rules_text: At the beginning of your end step, create an X/X green Elemental creature token, where X is the greatest amount of mana you spent to cast a noncreature spell this turn. => At the beginning of your end step, create an X/X green Elemental creature token, where X is the amount of mana you spent to cast noncreature spells this turn.
+
+Founder's Malice
+cost: {1}{U}{B} => {U}{B}
+rules_text: You draw a card and gain 2 life. Each opponent discards a card and loses 2 life.
+Flashback {3}{U}{B} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => You draw a card and gain 2 life. Each opponent discards a card and loses 2 life.
+Flashback {2}{U}{B} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Perfect Plan
+cost: {2}{U} => {2}{U}{U}
+
+Pickpocket
+rules_text: Counter target spell. That spell's controller reveals their hand and the top card of their library. => Counter target spell. That spell's owner can't cast spells with the same name as that spell until the end of their next turn.
+
+Hand of the Overseer
+cost: {2}{B}{B} => {3}{B}{B}
+rules_text: If you would mill or surveil a number of cards, you may mill or surveil that many cards plus one instead.
+Whenever this creature attacks, surveil 1. => When this creature enters, you draw a card and lose 2 life.
+At the beginning of each end step, each opponent loses 2 life and you gain 2 life if another Warlock you controlled died this turn.
+pt: 3/4 => 3/5
+
+Eyes of the Overseer
+
+Done Deal
+cost: {1}{B} => {2}{B}{B}
+rules_text: As an additional cost to cast this spell, sacrifice a nonland permanent.
+You draw two cards, gain 2 life, and create a Weapon token. [i](It's an Equipment artifact with equip {2} and “Equipped creature gets +1/+1.”)[/i] => Draw two cards and lose 2 life. You create two Treasure tokens.
+
+Listen In
+rules_text: Choose a nonland card type. Target opponent reveals their hand. You choose a card of that type from it. Exile that card. You lose 1 life. => Target opponent reveals their hand. You choose a creature, enchantment, or battle card from it, then choose a creature, enchantment, or battle card from their graveyard. Exile the chosen cards.
+
+The Volwood
+rules_text: {T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to cast spells from anywhere other than your hand.
+{3}, {T}: You mill three cards. => {T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to cast spells from anywhere other than your hand.
+{3}, {T}: Surveil 1.
+
+Patrol Veteran
+rules_text: When this creature enters, exile the top two cards of your library. You may play one of those cards until the end of your next turn. => At the beginning of your first main phase, add {R}{R}. This mana can't be spent to cast noncreature spells.
+pt: 4/2 => 3/4
+
+Disgruntled Crook
+rules_text: When this creature enters, it deals 2 damage to any noncreature target. => When this creature enters, it deals 2 damage to target player or planeswalker.
+
+Spice of Life
+
+Spit Venom
+type: Sorcery => Instant
+cost: {3}{G} => {2}{G}
+rules_text: As an additional cost to cast this spell, you may exile three cards from your graveyard. If you do, this spell costs {2} less to cast.
+Target creature you control gets +2/+0 until end of turn. It deals damage equal to its power to target creature you don't control. => Target creature you control gets +1/+0 and gains deathtouch until end of turn. Up to one target creature you don't control blocks it this turn if able.
+
+Pattern's Abundance
+
+Soulcage
+rules_text: Put a +1/+1 counter on target creature you control. Then cast a copy of that creature without paying its mana cost. => Put a +1/+1 counter on target creature you control. Then cast a copy of that creature without paying its mana cost. It enters with an additional +1/+1 counter on it.
+
+Overseer's Entrancer
+rules_text: Vigilance
+{W}, {T}: Tap target creature you don't control. You may tap an untapped creature token you control rather than paying {W} to activate this ability. => Vigilance
+Whenever this creature attacks, tap up to one target creature. If you control three or more Warlocks, put a stun counter on that creature.
+
+Overseer's Chosen
+rules_text: When this creature enters, create an Acolyte token. [i](It's a 0/1 white and black Warlock creature with “{1}, Sacrifice this: Surveil 1.”)[/i]
+{1}, Sacrifice another creature: This creature gains indestructible until end of turn. Tap it. Activate only once each turn. => {1}, Sacrifice another creature: This creature gains indestructible until end of turn. Tap it. Surveil 1.
+
+Outskirts Mentor
+rules_text: [i]Muster[/i] — Whenever you cast a creature spell, target creature you control gains your choice of first strike, vigilance, or lifelink until end of turn. => [i]Muster[/i] — Whenever you cast a creature spell, put a +1/+1 counter on up to one target creature you control. That creature gains first strike until end of turn.
+pt: 3/2 => 3/1
+
+Backalley Minstrel
+
+Overseer's Shackles
+rules_text: Enchant creature
+Enchanted creature can't attack or block.
+{3}{W}: Enchanted creature's controller sacrifices it. You gain 1 life and surveil 1. => Enchant creature
+Enchanted creature can't attack or block.
+{4}{W}: Enchanted creature's controller sacrifices it. You gain 2 life and surveil 2.
+
+Vicuro Informant
+rules_text: Ward {1}
+This creature can't be blocked as long as you control another Rogue. => Ward {1}
+This creature can't be blocked.
+
+Rooftop Runner
+rules_text: This creature enters with a +1/+1 counter on it if an opponent lost life this turn.
+Flying => This creature enters with a +1/+1 counter on it if an opponent lost life this turn.
+Flying
+As long as an opponent lost life this turn, each other Rogue you control enters with an additional +1/+1 counter on it.
+pt: 1/2 => 1/1
+
+Volwood Defilers
+cost: {2}{U}{B} => {1}{U}{B}
+pt: */4 => */3
+
+Bedlam's Vessel
+cost: {B} => {2}{B}{B}
+rules_text: When this creature enters, if it entered from your graveyard or you cast it from your graveyard, exile it. If you do, create a 5/5 red Skeleton Dragon creature token with flying.
+Pursuit {3}{B}{B} [i](You may cast a copy of this card from your graveyard for its pursuit cost by exiling it and sacrificing a nonland permanent.)[/i] => When this creature dies, create a 5/5 red Skeleton Dragon creature token with flying.
+pt: 1/1 => 2/1
+
+Patient Executioner
+cost: {3}{B}{B} => {2}{B}
+rules_text: Flying
+When this creature enters, search your library for a card with pursuit, put it into your graveyard, then shuffle. => When this creature enters, each player sacrifices a creature or planeswalker of their choice.
+Pursuit {1}{B}{B} [i](You may cast a copy of this card from your graveyard for its pursuit cost by exiling it and sacrificing a nonland permanent.)[/i]
+pt: 3/5 => 3/1
+
+Reckless Show-Off
+rules_text: Spectacle {3}{R}{R} [i](You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)[/i]
+Flying, haste
+When this creature enters, if its spectacle cost was paid, it deals 4 damage to up to one nonplayer target. => Spectacle {3}{R}{R} [i](You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)[/i]
+Flying, haste
+When this creature enters, if its spectacle cost was paid, it deals 4 damage to up to one target creature or planeswalker.
+
+Forsaken Shroudguard
+rules_text: Flying
+Whenever another Warlock you control dies, each opponent loses 1 life and you gain 1 life.
+{T}, Sacrifice another creature: Surveil 1. => Flying
+This creature can't block.
+Sacrifice another creature: Add {B}. Activate only once each turn and only during your turn.
+pt: 2/2 => 2/3
+
+Unerring Killer
+
+Volwood Stalwart
+rules_text: Vigilance
+Rebel spells you cast cost {1} less to cast. => Vigilance
+At the beginning of each of your main phases, add {R} or {W}. Spend this mana only to cast Rebel spells.
+pt: 3/4 => 4/3
+
+Life from Death
+rules_text: Whenever you sacrifice another permanent, choose one that hasn't been chosen this turn —
+• Put a +1/+1 counter on target creature you control.
+• Surveil 2.
+• You gain 3 life. => Whenever one or more cards leave your graveyard, put a +1/+1 counter on target creature you control.
+When you sacrifice this enchantment as an additional cost to cast a creature spell, that creature enters with an additional +1/+1 counter on it.
+
+Guild Elite
+
+Kane, Unyielding
+rules_text: [i]Muster[/i] — Whenever you cast a creature spell, you may pay {2}. If you do, copy that spell. [i](The copy becomes a token.)[/i]
+Nontoken creatures you control enter with X additional +1/+1 counters on them, where X is the number of other creatures you control with the same name. => [i]Muster[/i] — Whenever you cast a creature spell, you may pay {2}. If you do, copy that spell. [i](The copy becomes a token.)[/i]
+Other Rebels you control enters with an additional +1/+1 counter on them for each other creature you controlled that entered this turn.
+
+Umber Grovetender
+cost: {2}{G}{U} => {1}{G}{U}
+rules_text: {T}: Add {G} or {U}.
+Other Druids you control have “{T}: Add {G} or {U}.” => Whenever this creature or another Druid you control enters, look at the top card of your library. If it's a land card, you may put it onto the battlefield tapped. If you don't put the card onto the battlefield, put it into your hand.
+pt: 2/3 => 1/1
+
+Survivalist Mentor
+rules_text: Vigilance
+Whenever you cast your second spell each turn, create a 2/2 blue and green Druid creature token. => Vigilance
+Whenever this creature or another Druid you control enters, you may draw a card. If you do, discard a card.
+pt: 2/3 => 2/4
+
+Frontline Victor
+rules_text: Trample, haste
+Other Rebels you control have trample.
+[i]Muster[/i] — Whenever you cast a creature spell, this creature gets +1/+1 until end of turn. => Trample, haste
+At the beginning of your second main phase, you may return target Rebel you control to its owner's hand. If you do, the next spell you cast this turn costs {2} less to cast.
+
+Streetwise Surveyor
+rules_text: Spectacle {3}{R} [i](You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)[/i]
+Reach
+{T}: This creature deals 2 damage to each opponent. => Spectacle {2}{R} [i](You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)[/i]
+When this creature enters, exile the top card of your library. You may play it until the end of your next turn.
+pt: 3/5 => 3/3
+
+Bustling Marketplace
+rules_text: {T}: Add {C}.
+{3}, {T}: Create a Treasure token.
+{W}{U}{B}{R}{G}, {T}, Sacrifice this land: Draw three cards. => {T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+{1}, {T}, Tap an untapped creature you control: Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Strangle
+
+Setral Mender
+pt: 2/4 => 4/3
+
+Offer Yourself
+cost: {B} => {W}
+rules_text: When this enchantment enters, create an Acolyte token. [i](It's a 0/1 white and black Warlock creature with “{1}, Sacrifice this: Surveil 1.”)[/i]
+{1}{B}, Sacrifice a creature: Choose one —
+• Draw a card.
+• You gain 3 life. => When this enchantment enters, create an Acolyte token. [i](It's a 0/1 white and black Warlock creature with “{1}, Sacrifice this: Surveil 1.”)[/i]
+{1}{W}, Sacrifice a creature: Surveil 1. You gain 3 life.
+
+Call for Backup
+
+Valiant Firebrand
+rules_text: Hexproof from mana value 2 or less
+Creature tokens can't block.
+Whenever this creature is dealt damage, if it's attacking, you gain that much life. => Creature tokens can't block.
+Whenever you attack, you may discard a card. If you do, draw a card.
+Whenever you discard a creature card, you may cast it from your graveyard until end of turn.
+
+Tesh, Fragmented Founder
+cost: {7} => {8}
+rules_text: Emerge from planeswalker {8} [i](You may cast this spell by sacrificing a planeswalker and paying the emerge cost reduced by that planeswalker's mana value.)[/i]
+[+2]: Tesh deals 3 damage to any target and you gain 3 life.
+[-3]: Each opponent discards two cards and you draw two cards.
+[-5]: For each opponent, choose up to one target nonland permanent that player controls. Gain control of those permanents. => When Tesh enters, exile all double-faced nonland permanents.
+[+2]: Tesh deals 3 damage to any target. You gain 3 life.
+[-3]: Each opponent discards two cards and you draw two cards.
+[-5]: For each opponent, choose up to one target nonland permanent that player controls. Gain control of those permanents.
+special_text: Emerge from planeswalker {8} [i](You may cast this spell by sacrificing a planeswalker and paying the emerge cost reduced by that planeswalker's mana value.)[/i]
+[+2]: Tesh deals 3 damage to any target and you gain 3 life.
+[-3]: Each opponent discards two cards and you draw two cards.
+[-5]: For each opponent, choose up to one target nonland permanent that player controls. Gain control of those permanents. => When Tesh enters, exile all double-faced nonland permanents.
+[+2]: Tesh deals 3 damage to any target. You gain 3 life.
+[-3]: Each opponent discards two cards and you draw two cards.
+[-5]: For each opponent, choose up to one target nonland permanent that player controls. Gain control of those permanents.
+
+Sahra, Siege Captain
+rules_text: Vigilance
+Whenever you attack, you may cast a creature spell with mana value X or less from your hand without paying its mana cost, where X is the number of attacking Rebels you control. It enters tapped and attacking. => Sahra's power is equal to the number of nontoken creatures you control.
+Whenever Sahra attacks, you may cast a creature spell with mana value 2 or less from your hand without paying its mana cost. It enters tapped and attacking.
+pt: 3/4 => */4
+
+Esteemed Exterminator
+cost: {3}{G}{G} => {2}{G}{G}
+rules_text: This spell can't be countered.
+Hexproof from instants
+Creatures you control have trample and can't be blocked by creatures with power 2 or less. => This spell can't be countered.
+Hexproof from instants
+This creature can't be blocked by creatures with power 2 or less.
+
+The Founder's Cage
+
+Ery, Leyfused
+rules_text: Vigilance
+Whenever Ery or another Druid you control enters, look at the top card of your library. If it's a land card, you may put it onto the battlefield tapped. If you don't put the card onto the battlefield, put it into your hand. => Vigilance, reach
+You may cast spells as though they have flash.
+At the beginning of your end step, untap all lands you control if you're ancient. [i](You're ancient as long as you have eight or more total lands in play or in your graveyard.)[/i]
+pt: 3/3 => 4/4
+
+League of Their Own
+pt: 4/5 => 5/5
+
+Delias, Savvy Smuggler
+rules_text: You may cast this spell as though it had flash as long as {U} is spent to cast it.
+Delias can't be blocked by creatures with power 1 or less.
+Whenever an opponent draws a card except the first one they draw in each of their draw steps, Delias deals 2 damage to them. => You may cast this spell as though it had flash as long as {U} is spent to cast it.
+Delias can't be blocked by creatures with power 1 or less.
+Whenever an opponent draws a card, Delias deals 1 damage to them.
+
+Pool of Light
+
+Flooded Morass
+
+Lavatorn Fields
+
+Flourishing Crevasse
+
+Heart of the Glade
+
+Fungal Mire
+
+Lush Oasis
+
+Voice of the Old Grove
+rules_text: Vigilance
+At the beginning of combat on your turn, untap target land you control. Then if you're ancient, you may have it become a 4/4 Elemental creature with vigilance, haste, and indestructible until end of turn. It's still a land. [i](You're ancient as long as you have eight or more total lands in play or in your graveyard.)[/i] => Vigilance
+[i]Landfall[/i] — Whenever a land you control enters, put a +1/+1 counter on target creature you control. If you're ancient, put four +1/+1 counters on that creature instead. [i](You're ancient as long as you have eight or more total lands in play or in your graveyard.)[/i]
+pt: 1/3 => 1/1
+
+Spirit
+
+Treasure
+
+Rooftop Observer
+
+Innovative Alchemist
+
+Stand Ready
+cost: {2}{W} => {3}{W}
+rules_text: Creatures you control gain indestructible until end of turn. Untap them. => Put a +1/+1 counter on each creature you control. Untap them.
+Prevent all damage that would be dealt to you and permanents you control this turn by sources you don't control
+
+Split the Loot
+cost: {2}{R}{R} => {4}{R}{R}
+rules_text: Discard any number of cards, then draw that many cards plus one.
+Create two tapped Treasure tokens. => Target creature fights another target creature. Whenever one of those creatures dies this turn, create a Treasure token. [i](Each deals damage equal to its power to the other.)[/i]
+
+Reap the Rewards
+
+Solemn Procession
+cost: {X}{W} => {X}{W}{W}
+
+Leybound Ritualist
+rules_text: At the beginning of your end step, you may exile a card from your graveyard. If a creature card is exiled this way, you gain 3 life.
+You may play land cards you own exiled with this creature. => Lands you control enter untapped.
+{3}{G}{G}{G}: Reveal the top four cards of your library. Put any number of permanent card from among them into your hand and the rest on the bottom of your library in a random order.
+pt: 2/3 => 3/3
+
+Renegade Recruiter
+cost: {1}{W} => {2}{W}{W}
+rules_text: Vigilance
+[i]Muster[/i] — Whenever you cast a creature spell, tap target creature you don't control.
+At the beginning of your end step, you may return another creature you control to its owner's hand. => Vigilance
+[i]Muster[/i] — Whenever you cast a creature spell, tap target creature you don't control.
+{1}{W}: Return another target creature you control to its owner's hand.
+pt: 2/2 => 4/4
+
+Blossoming Steward
+rules_text: [i]Landfall[/i] — Whenever a land you control enters, you gain 1 life.
+Whenever a land card is put into your graveyard from anywhere during your turn, put a +1/+1 counter on this creature. This ability triggers only once each turn. => [i]Landfall[/i] — Whenever a land you control enters, you gain 1 life.
+{1}, {T}, Sacrifice a land: Return target land card from your graveyard to the battlefield tapped.
+pt: 1/2 => 2/2
+
+Wharf Patrol
+
+Turen, Untouchable
+rules_text: Haste
+When Turen enters, tap target creature you don't control and put a stun counter on it.
+Whenever Turen becomes the target of a spell or ability, you may pay {1}. If you do, return it to its owner's hand. => Haste
+When Turen enters, tap target creature you don't control.
+Whenever a Rogue you control deals combat damage to a player or becomes blocked, you may return it to its owner's hand.
+
+Torvel, Scion of Rot
+cost: {4}{B}{G} => {3}{B}{G}
+rules_text: Menace, deathtouch, ward {2}
+Torvel can't be blocked by creatures with power 2 or less.
+Pursuit—{2}{B}{G}, Discard a card, Pay 3 life. [i](You may cast a copy of this card from your graveyard for its pursuit cost by exiling it and sacrificing a nonland permanent.)[/i] => This spell can't be countered.
+Trample, haste
+Whenever Torvel or another Mercenary you control enters, put a +1/+1 counter on that creature for each nonland permanent you've sacrificed this turn.
+pt: 7/7 => 4/4
+
+Setral Shoresculptor
+rules_text: At the beginning of your upkeep, surveil 1.
+{1}{U}, Exile two cards from your graveyard: Put a +1/+1 counter on target Druid you control. Activate only as a sorcery. => At the beginning of your upkeep, surveil 1.
+Whenever a land card is put into your graveyard from anywhere, you may tap target creature and put a stun counter on it. Do this only once each turn.
+
+Sanctum Enforcer
+
+Autonomous Accomplice
+
+Stalker's Cowl
+
+High Priestess Symi
+rules_text: Other creatures you control get +1/+0.
+{2}{W}: Exile target nonland permanent with mana value 3 or less from your graveyard. You may cast a copy of that card without paying its mana cost. Activate only once each turn and only as a sorcery. => Creature tokens you control get +1/+1 and have deathtouch.
+Whenever another nontoken creature you control dies, you may pay {1}{W}. If you do, create a token that's a copy of it.
+
+In Tune
+
+Winding Assailant
+
+Vie's Lieutenant
+
+Swift-Step Robber
+
+Ruthless Stalker
+rules_text: Menace
+When this creature enters, destroy up to one target nonland permanent with mana value 2 or less.
+When this creature dies, return up to one target permanent card with mana value 2 or less from your graveyard to your hand. => Menace, trample
+Pursuit {B}{G} [i](You may cast a copy of this card from your graveyard for its pursuit cost by exiling it and sacrificing a nonland permanent.)[/i]
+pt: 2/2 => 4/4
+
+Acolyte
+
+Coffers Altar
+
+Expert Infiltration
+
+Race for the Glory
+
+Unending Unrest
+cost: {3}{R}{R} => {2}{R}{R}
+
+Heart of the Grove
+
+Profane Scripture
+
+Shroudwarder Phoenix
+rules_text: Flying, trample, haste
+At the beginning of your end step, you may exile another card with mana value 4 or greater from your graveyard. If you do, return this card from your graveyard to your hand. => Flying, trample, haste
+Whenever you attack, if you cast a spell with mana value 4 or greater this turn, you may return this card from your graveyard to the battlefield tapped and attacking with a finality counter on it. [i](If a creature with a finality counter on it would die, exile it instead.)[/i]
+
+Prized Possession
+cost: {3} => {2}
+rules_text: Whenever a creature you control deals combat damage to a player, you may attach this Equipment to it.
+Equipped creature gets +2/+2 and has flying.
+Equip {3} => Whenever a creature deals combat damage to you, its controller gains control of this Equipment. Unattach it.
+Equipped creature gets +2/+2 and has “Whenever this creature deals combat damage to a player, draw two cards.”
+Equip {2}
+
+It All Comes Together
+
+Orliss's Edict
+rules_text: When this enchantment enters, choose one. If you control a Mercenary, you may choose both instead.
+• Each opponent sacrifices a creature of their choice.
+• Each opponent sacrifices a noncreature, nonland permanent of their choice. => When this enchantment enters, choose a nonland card type. Each opponent sacrifices a permanent of their choice of that type.
+{1}{B}{G}, Sacrifice this enchantment: Choose a nonland card type. Each opponent sacrifices a permanent of their choice of that type. Activate only as a sorcery and only if you control a Mercenary.
+
+Wanton Destruction
+rules_text: Each player sacrifices all nonland permanents they control. You may return a permanent you own sacrificed this way from your graveyard to your hand. => Each player sacrifices all nonland permanents they control. You may return a permanent card you own sacrificed this way from your graveyard to your hand.
+
+Silent Warden
+
+The Great Singularity
+
+Gloomcover Steppe
+
+Renegade Trueheart
+
+Arital, Grand Adjudicator
+rules_text: Flying, deathtouch, lifelink
+Whenever another creature you control dies, put a +1/+1 counter on each Warlock you control. => Flying, lifelink
+When Arital enters, you may sacrifice any number of other creatures you control, then draw that many cards. Put a +1/+1 counter on each other creature you control.
+pt: 3/3 => 5/5
+
+Orliss of the Elite
+rules_text: Deathtouch
+Whenever Orliss or another Mercenary you control enters, create a Treasure token.
+Whenever you attack, you may sacrifice a nonland permanent. If you do, target attacking creature gains indestructible until end of turn and must be blocked this turn if able. => Deathtouch
+At the beginning of your end step, for each card type among nonland permanents you've sacrificed this turn, each opponent loses 2 life unless they sacrifice a permanent of that type of their choice.
+pt: 1/5 => 2/5
+
+Surola, Vile Preacher
+cost: {1}{W}{B} => {W}{B}
+rules_text: {W}{B}, Sacrifice another creature: Put a +1/+1 counter on Surola. Draw a card.
+At the beginning of your end step, each opponent loses 1 life and you gain 1 life. If three or more creatures you controlled died this turn, instead each opponent loses 3 life and you gain 3 life. => Whenever another Warlock you control dies, each opponent loses 1 life and you gain 1 life.
+At the beginning of your end step, draw a card if you've gained 3 or more life this turn.
+pt: 1/3 => 2/2
+
+On Top of the World
+
+Memoriam
+rules_text: You mill four cards. When you do, return up to two target noncreature, nonland cards from your graveyard to your hand. Exile Memoriam. => You mill four cards. When you do, return up to two target noncreature, nonland cards from your graveyard to your hand.
+Exile Memoriam.
+
+Marle, Vicuro Head
+rules_text: If a source you control would deal damage to an opponent or a permanent an opponent controls, if it's noncombat damage or damage from a Rogue source, it deals that much damage plus 1 instead.
+Whenever Marle attacks, another target attacking creature with lesser power can't be blocked this turn. => If you would draw one or more cards except the first one you draw in each of your draw steps, draw that many cards plus one instead.
+If another source you control would deal damage to an opponent or a permanent an opponent controls, it deals that much damage plus 1 instead.
+pt: 3/3 => 3/2
+
+Sprouting Sproutling
+
+Herald of Emergence
+
+Reckless Smashing
+
+Brazen Burglar
+
+Tireless Refutation
+
+Siurne, Eternal Sentinel
+
+Leiowen, Escape Artist
+
+Soya, Nal Executioner
+
+Vie, the First Hero
+
+The Setral Shaper
+
+Shape the Pattern
+
+Humming Furnace
+
+Copy
+
+Skeleton Dragon
+
+Fell the Nonbeliever
+
+Tomb of the Founder
+
+Lucrative Larcenist
+
+Blade Flourish
+
+Restoration Specialist
+
+Avarice
+
+Loresk, Ever-Curious
+
+Waylen, Bloodhunter
+
+Ivari, Liberated Mentor
+cost: {2}{W}{W} => {1}{W}
+rules_text: If you casting a creature spell would cause a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+Creature spells you cast can't be countered and gain haste if {R} was spent to cast them. => If you casting a creature spell would cause a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+As you cast creature spells, you may pay an additional {R}. If you do, that spell can't be countered and gains haste.
+pt: 4/4 => 2/3
+
+Makeshift Justice
+
+Volwood Warder
+rules_text: [i]Muster[/i] — Whenever you cast a creature spell, you gain 1 life. If this is the second time this ability resolved this turn, draw a card. If this is the third time this ability resolved this turn, put two +1/+1 counters on this creature. => [i]Muster[/i] — Whenever you cast a creature spell, surveil 1 if this is the first time this ability resolved this turn. If this is the second time this ability resolved this turn, draw a card. If this is the third time this ability resolved this turn, put two +1/+1 counters on this creature.
+
+Planar Archives
+
+Divine Liberation
+
+Frostfire Geysers
+
+Spiraling Canyon
+
+Weapon
+
+Citizen
+
+Siurne's Betrayal
+
+Elemental
+
+Exultant Shepherd
+type: Creature — Human Warlock => Creature — Spirit Warlock
+
+
+VERSION 17 CHANGELOG
 ====================
 
 Blessed Proselytism added.

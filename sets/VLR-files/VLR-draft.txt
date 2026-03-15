@@ -111,21 +111,21 @@
 			}
 		},
 		{
-			"name": "One Quiet Moment",
+			"name": "Depart",
 			"rarity": "uncommon",
-			"mana_cost": "{4}{W}",
-			"type": "Sorcery",
-			"collector_number": "19",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "13",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/11.jpg"
 			}
 		},
 		{
-			"name": "Bond the Sundered Souls",
+			"name": "Glimpse the Worldsoul",
 			"rarity": "uncommon",
 			"mana_cost": "{G}{U}",
-			"type": "Instant",
-			"collector_number": "186",
+			"type": "Sorcery",
+			"collector_number": "190",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/12.jpg"
 			}
@@ -143,9 +143,9 @@
 		{
 			"name": "Offer the Faithless",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{W}",
-			"type": "Instant",
-			"collector_number": "18",
+			"mana_cost": "{B}",
+			"type": "Enchantment",
+			"collector_number": "102",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/14.jpg"
 			}
@@ -273,9 +273,9 @@
 		{
 			"name": "Founder's Malice",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{U}{B}",
+			"mana_cost": "{U}{B}",
 			"type": "Sorcery",
-			"collector_number": "190",
+			"collector_number": "189",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/27.jpg"
 			}
@@ -283,7 +283,7 @@
 		{
 			"name": "Perfect Plan",
 			"rarity": "rare",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{2}{U}{U}",
 			"type": "Enchantment",
 			"collector_number": "59",
 			"image_uris": {
@@ -331,16 +331,6 @@
 			}
 		},
 		{
-			"name": "Petty Larceny",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{U}{R}",
-			"type": "Sorcery",
-			"collector_number": "201",
-			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/33.jpg"
-			}
-		},
-		{
 			"name": "South-Street Scoundrel",
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
@@ -355,7 +345,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Snake Warlock",
-			"collector_number": "83",
+			"collector_number": "84",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/35.jpg"
 			}
@@ -373,9 +363,9 @@
 		{
 			"name": "Hand of the Overseer",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{B}{B}",
+			"mana_cost": "{3}{B}{B}",
 			"type": "Creature — Azra Warlock",
-			"collector_number": "91",
+			"collector_number": "92",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/37.jpg"
 			}
@@ -415,7 +405,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Cat Mercenary",
-			"collector_number": "85",
+			"collector_number": "86",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/41.jpg"
 			}
@@ -425,7 +415,7 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Creature — Human Warlock",
-			"collector_number": "87",
+			"collector_number": "88",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/42.jpg"
 			}
@@ -455,7 +445,7 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Enchantment",
-			"collector_number": "96",
+			"collector_number": "97",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/45.jpg"
 			}
@@ -485,7 +475,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "95",
+			"collector_number": "96",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/48.jpg"
 			}
@@ -493,9 +483,9 @@
 		{
 			"name": "Done Deal",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{B}",
+			"mana_cost": "{2}{B}{B}",
 			"type": "Instant",
-			"collector_number": "84",
+			"collector_number": "85",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/49.jpg"
 			}
@@ -505,7 +495,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "98",
+			"collector_number": "99",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/50.jpg"
 			}
@@ -515,7 +505,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Creature — Horror Shapeshifter",
-			"collector_number": "189",
+			"collector_number": "188",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/51.jpg"
 			}
@@ -671,7 +661,7 @@
 			}
 		},
 		{
-			"name": "Scatter Records",
+			"name": "Scatter Evidence",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Sorcery",
@@ -685,7 +675,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{G}",
 			"type": "Creature — Bird Bard",
-			"collector_number": "197",
+			"collector_number": "198",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/68.jpg"
 			}
@@ -712,10 +702,10 @@
 		},
 		{
 			"name": "Spit Venom",
-			"rarity": "common",
-			"mana_cost": "{3}{G}",
-			"type": "Sorcery",
-			"collector_number": "174",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "175",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/71.jpg"
 			}
@@ -755,7 +745,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Bird Mercenary",
-			"collector_number": "177",
+			"collector_number": "178",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/75.jpg"
 			}
@@ -765,7 +755,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Mercenary",
-			"collector_number": "168",
+			"collector_number": "169",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/76.jpg"
 			}
@@ -775,7 +765,7 @@
 			"rarity": "common",
 			"mana_cost": "{6}{G}",
 			"type": "Creature — Fungus Giant",
-			"collector_number": "176",
+			"collector_number": "177",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/77.jpg"
 			}
@@ -845,7 +835,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Creature — Horror",
-			"collector_number": "173",
+			"collector_number": "174",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/84.jpg"
 			}
@@ -855,7 +845,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment",
-			"collector_number": "178",
+			"collector_number": "179",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/85.jpg"
 			}
@@ -925,7 +915,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Creature — Human Warlock",
-			"collector_number": "196",
+			"collector_number": "197",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/92.jpg"
 			}
@@ -983,7 +973,7 @@
 		{
 			"name": "Volwood Defilers",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{U}{B}",
+			"mana_cost": "{1}{U}{B}",
 			"type": "Creature — Dog Horror",
 			"collector_number": "221",
 			"image_uris": {
@@ -1023,7 +1013,7 @@
 		{
 			"name": "Bedlam's Vessel",
 			"rarity": "uncommon",
-			"mana_cost": "{B}",
+			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Azra Mercenary",
 			"collector_number": "77",
 			"image_uris": {
@@ -1033,9 +1023,9 @@
 		{
 			"name": "Patient Executioner",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{B}{B}",
+			"mana_cost": "{2}{B}",
 			"type": "Creature — Bird Mercenary",
-			"collector_number": "102",
+			"collector_number": "103",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/103.jpg"
 			}
@@ -1045,7 +1035,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Creature — Horror",
-			"collector_number": "104",
+			"collector_number": "105",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/104.jpg"
 			}
@@ -1065,17 +1055,17 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Bird Warlock",
-			"collector_number": "88",
+			"collector_number": "89",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/106.jpg"
 			}
 		},
 		{
-			"name": "Skittering Striker",
+			"name": "Desperate Ambusher",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{B}",
+			"mana_cost": "{B}",
 			"type": "Creature — Rat Mercenary",
-			"collector_number": "105",
+			"collector_number": "83",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/107.jpg"
 			}
@@ -1185,7 +1175,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Human Mercenary",
-			"collector_number": "179",
+			"collector_number": "180",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/118.jpg"
 			}
@@ -1225,7 +1215,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "249",
+			"collector_number": "248",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/122.jpg"
 			}
@@ -1255,7 +1245,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{G}",
 			"type": "Creature — Human Mercenary Noble",
-			"collector_number": "192",
+			"collector_number": "193",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/125.jpg"
 			}
@@ -1265,7 +1255,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Legendary Creature — Treefolk Rebel",
-			"collector_number": "195",
+			"collector_number": "196",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/126.jpg"
 			}
@@ -1305,7 +1295,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{X}{B}",
 			"type": "Sorcery",
-			"collector_number": "90",
+			"collector_number": "91",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/130.jpg"
 			}
@@ -1323,7 +1313,7 @@
 		{
 			"name": "Umber Grovetender",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{G}{U}",
+			"mana_cost": "{1}{G}{U}",
 			"type": "Creature — Snake Druid",
 			"collector_number": "218",
 			"image_uris": {
@@ -1335,7 +1325,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{W}{W}",
 			"type": "Creature — Angel",
-			"collector_number": "17",
+			"collector_number": "18",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/133.jpg"
 			}
@@ -1385,7 +1375,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "200",
+			"collector_number": "201",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/138.jpg"
 			}
@@ -1425,7 +1415,7 @@
 			"rarity": "rare",
 			"mana_cost": "{6}",
 			"type": "Artifact",
-			"collector_number": "248",
+			"collector_number": "247",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/142.jpg"
 			}
@@ -1452,7 +1442,7 @@
 		},
 		{
 			"name": "Bustling Marketplace",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "256",
@@ -1462,7 +1452,7 @@
 		},
 		{
 			"name": "Strangle",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Sorcery",
 			"collector_number": "137",
@@ -1485,17 +1475,17 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Creature — Treefolk Druid",
-			"collector_number": "170",
+			"collector_number": "171",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/148.jpg"
 			}
 		},
 		{
-			"name": "Venomous Solution",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{G}",
-			"type": "Instant",
-			"collector_number": "180",
+			"name": "Pick Your Poison",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "167",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/149.jpg"
 			}
@@ -1513,9 +1503,9 @@
 		{
 			"name": "Offer Yourself",
 			"rarity": "uncommon",
-			"mana_cost": "{B}",
+			"mana_cost": "{W}",
 			"type": "Enchantment",
-			"collector_number": "101",
+			"collector_number": "19",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/151.jpg"
 			}
@@ -1525,7 +1515,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Instant",
-			"collector_number": "93",
+			"collector_number": "94",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/152.jpg"
 			}
@@ -1535,7 +1525,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment",
-			"collector_number": "99",
+			"collector_number": "100",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/153.jpg"
 			}
@@ -1605,7 +1595,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{5}{B}{B}",
 			"type": "Legendary Creature — Elder Spirit",
-			"collector_number": "92",
+			"collector_number": "93",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/160.jpg"
 			}
@@ -1615,7 +1605,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Mercenary",
-			"collector_number": "8",
+			"collector_number": "7",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/161.jpg"
 			}
@@ -1643,7 +1633,7 @@
 		{
 			"name": "Tesh, Fragmented Founder",
 			"rarity": "mythic",
-			"mana_cost": "{7}",
+			"mana_cost": "{8}",
 			"type": "Legendary Planeswalker — Tesh",
 			"collector_number": "1",
 			"image_uris": {
@@ -1673,7 +1663,7 @@
 		{
 			"name": "Esteemed Exterminator",
 			"rarity": "mythic",
-			"mana_cost": "{3}{G}{G}",
+			"mana_cost": "{2}{G}{G}",
 			"type": "Creature — Human Mercenary",
 			"collector_number": "157",
 			"image_uris": {
@@ -1691,11 +1681,11 @@
 			}
 		},
 		{
-			"name": "Gathering Place",
+			"name": "Morbid Missive",
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "247",
+			"collector_number": "250",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/169.jpg"
 			}
@@ -1705,7 +1695,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Warlock",
-			"collector_number": "14",
+			"collector_number": "15",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/170.jpg"
 			}
@@ -1755,7 +1745,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "89",
+			"collector_number": "90",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/175.jpg"
 			}
@@ -1775,7 +1765,7 @@
 			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "Creature — Cat Druid",
-			"collector_number": "169",
+			"collector_number": "170",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/177.jpg"
 			}
@@ -1785,7 +1775,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Warlock",
-			"collector_number": "100",
+			"collector_number": "101",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/178.jpg"
 			}
@@ -1795,17 +1785,17 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Creature — Human Mercenary",
-			"collector_number": "97",
+			"collector_number": "98",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/179.jpg"
 			}
 		},
 		{
-			"name": "Evrax, the Last",
+			"name": "Evrax, Enlightened Endling",
 			"rarity": "rare",
-			"mana_cost": "{3}{G}{U}",
+			"mana_cost": "{5}{G}{U}",
 			"type": "Legendary Creature — Dragon Druid",
-			"collector_number": "188",
+			"collector_number": "187",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/180.jpg"
 			}
@@ -1965,7 +1955,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Creature — Rat Rogue",
-			"collector_number": "191",
+			"collector_number": "192",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/196.jpg"
 			}
@@ -2011,23 +2001,13 @@
 			}
 		},
 		{
-			"name": "Druid",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Druid",
-			"collector_number": "7",
-			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/201.jpg"
-			}
-		},
-		{
 			"name": "Treasure",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure",
-			"collector_number": "9",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/202.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/201.jpg"
 			}
 		},
 		{
@@ -2037,7 +2017,7 @@
 			"type": "Creature — Cat Rogue",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/203.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/202.jpg"
 			}
 		},
 		{
@@ -2047,27 +2027,27 @@
 			"type": "Creature — Human Druid",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/204.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/203.jpg"
 			}
 		},
 		{
 			"name": "Stand Ready",
 			"rarity": "rare",
-			"mana_cost": "{2}{W}",
+			"mana_cost": "{3}{W}",
 			"type": "Instant",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/205.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/204.jpg"
 			}
 		},
 		{
 			"name": "Split the Loot",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{R}{R}",
+			"mana_cost": "{4}{R}{R}",
 			"type": "Instant",
 			"collector_number": "136",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/206.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/205.jpg"
 			}
 		},
 		{
@@ -2077,17 +2057,17 @@
 			"type": "Enchantment",
 			"collector_number": "129",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/207.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/206.jpg"
 			}
 		},
 		{
 			"name": "Solemn Procession",
 			"rarity": "rare",
-			"mana_cost": "{X}{W}",
+			"mana_cost": "{X}{W}{W}",
 			"type": "Sorcery",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/208.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/207.jpg"
 			}
 		},
 		{
@@ -2097,17 +2077,17 @@
 			"type": "Creature — Treefolk Druid",
 			"collector_number": "163",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/209.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/208.jpg"
 			}
 		},
 		{
 			"name": "Renegade Recruiter",
 			"rarity": "rare",
-			"mana_cost": "{1}{W}",
+			"mana_cost": "{2}{W}{W}",
 			"type": "Creature — Human Rebel",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/210.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/209.jpg"
 			}
 		},
 		{
@@ -2117,7 +2097,7 @@
 			"type": "Creature — Treefolk Druid",
 			"collector_number": "149",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/211.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/210.jpg"
 			}
 		},
 		{
@@ -2127,7 +2107,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "255",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/212.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/211.jpg"
 			}
 		},
 		{
@@ -2137,17 +2117,17 @@
 			"type": "Legendary Creature — Azra Rogue",
 			"collector_number": "217",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/213.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/212.jpg"
 			}
 		},
 		{
 			"name": "Torvel, Scion of Rot",
 			"rarity": "rare",
-			"mana_cost": "{4}{B}{G}",
+			"mana_cost": "{3}{B}{G}",
 			"type": "Legendary Creature — Treefolk Mercenary",
 			"collector_number": "216",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/214.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/213.jpg"
 			}
 		},
 		{
@@ -2157,7 +2137,7 @@
 			"type": "Creature — Human Druid",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/215.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/214.jpg"
 			}
 		},
 		{
@@ -2167,7 +2147,7 @@
 			"type": "Creature — Human Warlock",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/217.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/216.jpg"
 			}
 		},
 		{
@@ -2177,7 +2157,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "242",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/219.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/218.jpg"
 			}
 		},
 		{
@@ -2187,7 +2167,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "254",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/220.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/219.jpg"
 			}
 		},
 		{
@@ -2195,9 +2175,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Legendary Creature — Human Warlock",
-			"collector_number": "94",
+			"collector_number": "95",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/221.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/220.jpg"
 			}
 		},
 		{
@@ -2205,9 +2185,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{U}",
 			"type": "Enchantment",
-			"collector_number": "193",
+			"collector_number": "194",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/222.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/221.jpg"
 			}
 		},
 		{
@@ -2217,7 +2197,7 @@
 			"type": "Creature — Snake Mercenary",
 			"collector_number": "184",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/223.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/222.jpg"
 			}
 		},
 		{
@@ -2227,7 +2207,7 @@
 			"type": "Creature — Cat Rebel",
 			"collector_number": "146",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/224.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/223.jpg"
 			}
 		},
 		{
@@ -2237,7 +2217,7 @@
 			"type": "Creature — Human Rogue",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/225.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/224.jpg"
 			}
 		},
 		{
@@ -2247,7 +2227,7 @@
 			"type": "Creature — Rat Mercenary",
 			"collector_number": "206",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/226.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/225.jpg"
 			}
 		},
 		{
@@ -2257,7 +2237,7 @@
 			"type": "Token Creature — Warlock",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/227.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/226.jpg"
 			}
 		},
 		{
@@ -2267,7 +2247,7 @@
 			"type": "Artifact",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/228.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/227.jpg"
 			}
 		},
 		{
@@ -2277,7 +2257,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/229.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/228.jpg"
 			}
 		},
 		{
@@ -2285,19 +2265,19 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Enchantment",
-			"collector_number": "103",
+			"collector_number": "104",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/230.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/229.jpg"
 			}
 		},
 		{
 			"name": "Unending Unrest",
 			"rarity": "rare",
-			"mana_cost": "{3}{R}{R}",
+			"mana_cost": "{2}{R}{R}",
 			"type": "Enchantment",
 			"collector_number": "144",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/231.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/230.jpg"
 			}
 		},
 		{
@@ -2307,7 +2287,7 @@
 			"type": "Enchantment",
 			"collector_number": "160",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/232.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/231.jpg"
 			}
 		},
 		{
@@ -2317,7 +2297,7 @@
 			"type": "Sorcery",
 			"collector_number": "203",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/233.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/232.jpg"
 			}
 		},
 		{
@@ -2327,17 +2307,17 @@
 			"type": "Creature — Phoenix",
 			"collector_number": "208",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/234.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/233.jpg"
 			}
 		},
 		{
 			"name": "Prized Possession",
 			"rarity": "rare",
-			"mana_cost": "{3}",
+			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
 			"collector_number": "251",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/235.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/234.jpg"
 			}
 		},
 		{
@@ -2345,9 +2325,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{R}",
 			"type": "Enchantment",
-			"collector_number": "194",
+			"collector_number": "195",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/236.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/235.jpg"
 			}
 		},
 		{
@@ -2355,9 +2335,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Enchantment",
-			"collector_number": "199",
+			"collector_number": "200",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/237.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/236.jpg"
 			}
 		},
 		{
@@ -2367,7 +2347,7 @@
 			"type": "Sorcery",
 			"collector_number": "223",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/238.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/237.jpg"
 			}
 		},
 		{
@@ -2377,7 +2357,7 @@
 			"type": "Creature — Angel",
 			"collector_number": "209",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/239.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/238.jpg"
 			}
 		},
 		{
@@ -2385,9 +2365,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}{W}{W}",
 			"type": "Legendary Enchantment",
-			"collector_number": "15",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/240.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/239.jpg"
 			}
 		},
 		{
@@ -2397,7 +2377,7 @@
 			"type": "Land — Plains Swamp",
 			"collector_number": "262",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/241.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/240.jpg"
 			}
 		},
 		{
@@ -2407,7 +2387,7 @@
 			"type": "Creature — Bird Rebel",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/242.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/241.jpg"
 			}
 		},
 		{
@@ -2417,7 +2397,7 @@
 			"type": "Legendary Creature — Bird Warlock",
 			"collector_number": "226",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/243.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/242.jpg"
 			}
 		},
 		{
@@ -2427,17 +2407,17 @@
 			"type": "Legendary Creature — Snake Mercenary Noble",
 			"collector_number": "237",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/244.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/243.jpg"
 			}
 		},
 		{
 			"name": "Surola, Vile Preacher",
 			"rarity": "rare",
-			"mana_cost": "{1}{W}{B}",
+			"mana_cost": "{W}{B}",
 			"type": "Legendary Creature — Rat Warlock",
 			"collector_number": "214",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/245.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/244.jpg"
 			}
 		},
 		{
@@ -2447,7 +2427,7 @@
 			"type": "Sorcery",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/246.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/245.jpg"
 			}
 		},
 		{
@@ -2455,9 +2435,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{B}",
 			"type": "Instant",
-			"collector_number": "198",
+			"collector_number": "199",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/247.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/246.jpg"
 			}
 		},
 		{
@@ -2467,7 +2447,7 @@
 			"type": "Legendary Creature — Human Rogue",
 			"collector_number": "236",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/248.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/247.jpg"
 			}
 		},
 		{
@@ -2475,9 +2455,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{G}{G}",
 			"type": "Creature — Plant",
-			"collector_number": "175",
+			"collector_number": "176",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/249.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/248.jpg"
 			}
 		},
 		{
@@ -2487,7 +2467,7 @@
 			"type": "Creature — Horror",
 			"collector_number": "122",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/250.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/249.jpg"
 			}
 		},
 		{
@@ -2495,9 +2475,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Sorcery",
-			"collector_number": "167",
+			"collector_number": "168",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/251.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/250.jpg"
 			}
 		},
 		{
@@ -2507,7 +2487,7 @@
 			"type": "Creature — Human Rogue",
 			"collector_number": "114",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/252.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/251.jpg"
 			}
 		},
 		{
@@ -2517,7 +2497,7 @@
 			"type": "Instant",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/253.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/252.jpg"
 			}
 		},
 		{
@@ -2530,11 +2510,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/254_back.jpg"
+					"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/253_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/254_front.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/253_front.jpg"
 			}
 		},
 		{
@@ -2547,11 +2527,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/255_back.jpg"
+					"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/254_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/255_front.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/254_front.jpg"
 			}
 		},
 		{
@@ -2564,11 +2544,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/256_back.jpg"
+					"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/255_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/256_front.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/255_front.jpg"
 			}
 		},
 		{
@@ -2581,6 +2561,23 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
+					"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/256_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/256_front.jpg"
+			}
+		},
+		{
+			"name": "The Setral Shaper",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Azra Druid",
+			"collector_number": "172",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
 					"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/257_back.jpg"
 				}
 			},
@@ -2589,30 +2586,13 @@
 			}
 		},
 		{
-			"name": "The Setral Shaper",
-			"rarity": "mythic",
-			"mana_cost": "{1}{G}",
-			"type": "Legendary Creature — Azra Druid",
-			"collector_number": "171",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/258_back.jpg"
-				}
-			},
-			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/258_front.jpg"
-			}
-		},
-		{
 			"name": "Shape the Pattern",
 			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "Sorcery",
-			"collector_number": "172",
+			"collector_number": "173",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/259.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/258.jpg"
 			}
 		},
 		{
@@ -2622,7 +2602,7 @@
 			"type": "Basic Land — Mountain",
 			"collector_number": "276",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/260.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/259.jpg"
 			}
 		},
 		{
@@ -2632,7 +2612,7 @@
 			"type": "Basic Land — Swamp",
 			"collector_number": "275",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/261.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/260.jpg"
 			}
 		},
 		{
@@ -2642,7 +2622,7 @@
 			"type": "Basic Land — Plains",
 			"collector_number": "273",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/262.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/261.jpg"
 			}
 		},
 		{
@@ -2652,7 +2632,7 @@
 			"type": "Basic Land — Island",
 			"collector_number": "274",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/263.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/262.jpg"
 			}
 		},
 		{
@@ -2662,17 +2642,17 @@
 			"type": "Basic Land — Forest",
 			"collector_number": "277",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/264.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/263.jpg"
 			}
 		},
 		{
 			"name": "Humming Furnace",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "264",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/265.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/264.jpg"
 			}
 		},
 		{
@@ -2682,7 +2662,7 @@
 			"type": "Token",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/266.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/265.jpg"
 			}
 		},
 		{
@@ -2692,7 +2672,7 @@
 			"type": "Token Creature — Skeleton Dragon",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/267.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/266.jpg"
 			}
 		},
 		{
@@ -2700,9 +2680,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "13",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/268.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/267.jpg"
 			}
 		},
 		{
@@ -2711,6 +2691,16 @@
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "271",
+			"image_uris": {
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/269.jpg"
+			}
+		},
+		{
+			"name": "Memorial to the First Shaper",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "249",
 			"image_uris": {
 				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/270.jpg"
 			}
@@ -2722,17 +2712,17 @@
 			"type": "Creature — Cat Rogue",
 			"collector_number": "235",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/272.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/271.jpg"
 			}
 		},
 		{
 			"name": "Blade Flourish",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Instant",
 			"collector_number": "113",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/273.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/272.jpg"
 			}
 		},
 		{
@@ -2742,7 +2732,7 @@
 			"type": "Creature — Human Druid",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/276.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/275.jpg"
 			}
 		},
 		{
@@ -2752,7 +2742,7 @@
 			"type": "Creature — Incarnation",
 			"collector_number": "185",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/277.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/276.jpg"
 			}
 		},
 		{
@@ -2762,7 +2752,7 @@
 			"type": "Legendary Creature — Treefolk Druid",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/279.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/278.jpg"
 			}
 		},
 		{
@@ -2772,17 +2762,17 @@
 			"type": "Legendary Creature — Cat Mercenary",
 			"collector_number": "183",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/280.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/279.jpg"
 			}
 		},
 		{
 			"name": "Ivari, Liberated Mentor",
 			"rarity": "rare",
-			"mana_cost": "{2}{W}{W}",
+			"mana_cost": "{1}{W}",
 			"type": "Legendary Creature — Snake Rebel",
-			"collector_number": "16",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/281.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/280.jpg"
 			}
 		},
 		{
@@ -2792,7 +2782,7 @@
 			"type": "Instant",
 			"collector_number": "127",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/282.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/281.jpg"
 			}
 		},
 		{
@@ -2802,7 +2792,7 @@
 			"type": "Creature — Treefolk Rebel",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/283.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/282.jpg"
 			}
 		},
 		{
@@ -2812,7 +2802,7 @@
 			"type": "Artifact",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/284.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/283.jpg"
 			}
 		},
 		{
@@ -2820,9 +2810,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Sorcery",
-			"collector_number": "187",
+			"collector_number": "186",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/285.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/284.jpg"
 			}
 		},
 		{
@@ -2832,7 +2822,7 @@
 			"type": "Land — Island Mountain",
 			"collector_number": "260",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/286.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/285.jpg"
 			}
 		},
 		{
@@ -2842,7 +2832,7 @@
 			"type": "Land — Mountain Plains",
 			"collector_number": "270",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/287.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/286.jpg"
 			}
 		},
 		{
@@ -2850,9 +2840,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Equipment Weapon",
-			"collector_number": "10",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/288.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/287.jpg"
 			}
 		},
 		{
@@ -2862,7 +2852,7 @@
 			"type": "Token Creature — Citizen",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/289.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/288.jpg"
 			}
 		},
 		{
@@ -2872,7 +2862,7 @@
 			"type": "Sorcery",
 			"collector_number": "210",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/290.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/289.jpg"
 			}
 		},
 		{
@@ -2882,17 +2872,27 @@
 			"type": "Token Creature — Elemental",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/291.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/290.jpg"
 			}
 		},
 		{
 			"name": "Exultant Shepherd",
 			"rarity": "mythic",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Human Warlock",
-			"collector_number": "86",
+			"type": "Creature — Spirit Warlock",
+			"collector_number": "87",
 			"image_uris": {
-				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/294.jpg"
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/293.jpg"
+			}
+		},
+		{
+			"name": "Grand Larceny",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://CovetedPeacock.github.io/sets/VLR-files/img/296.jpg"
 			}
 		}
 	]
@@ -2922,7 +2922,7 @@
 	2 Setral Arborist
 	2 Malicious Pactmaker
 	2 League of Their Own
-	2 Evrax, the Last
+	2 Evrax, Enlightened Endling
 	2 Delias, Savvy Smuggler
 	2 Smolder Away
 	2 Wharf Forgemaster
@@ -2969,6 +2969,7 @@
 	1 The Setral Shaper
 	2 Shape the Pattern
 	2 Tomb of the Founder
+	2 Memorial to the First Shaper
 	1 Restoration Specialist
 	1 Avarice
 	2 Loresk, Ever-Curious
@@ -2981,14 +2982,13 @@
 [uncommon(3)]
 	4 Chapel Crasher
 	4 Chapel Specter
-	4 One Quiet Moment
-	4 Bond the Sundered Souls
+	4 Depart
+	4 Glimpse the Worldsoul
 	4 Offer the Faithless
 	4 Consult the Offerings
 	4 Founder's Malice
 	4 Pickpocket
 	4 Semari Weaponsmith
-	4 Petty Larceny
 	4 Hand of the Overseer
 	4 Evasive Flourish
 	4 Bloodletting
@@ -2997,9 +2997,10 @@
 	4 Founder's Echo
 	4 The Volwood
 	4 Friendly Misdirection
-	4 Scatter Records
+	4 Scatter Evidence
 	4 Melodious Mallard
 	4 Dormant Godkiller
+	4 Spit Venom
 	4 Ruthless Duo
 	4 Shroudpiercer
 	4 Trespass the Volwood
@@ -3016,7 +3017,7 @@
 	4 Bedlam's Vessel
 	4 Patient Executioner
 	4 Forsaken Shroudguard
-	4 Skittering Striker
+	4 Desperate Ambusher
 	4 Crypt Tiller
 	4 Thing in the Dark
 	4 Tenacious Thief
@@ -3045,10 +3046,7 @@
 	4 Sanctum Deathspeaker
 	4 Overprepared Accomplice
 	4 Ancient Sentry
-	4 Bustling Marketplace
-	4 Strangle
 	4 Setral Mender
-	4 Venomous Solution
 	4 Become the Hunted
 	4 Offer Yourself
 	4 Madness of Ages
@@ -3058,7 +3056,7 @@
 	4 Into the Grove
 	4 City's Memory
 	4 Ascendant Judge
-	4 Gathering Place
+	4 Morbid Missive
 	4 Secluded Courtyard
 	4 Wharf Vendor
 	4 Smoke Bomb
@@ -3077,8 +3075,11 @@
 	4 Herald of Emergence
 	4 Reckless Smashing
 	4 Tireless Refutation
+	4 Humming Furnace
+	4 Blade Flourish
 	4 Makeshift Justice
 	4 Siurne's Betrayal
+	4 Grand Larceny
 [common(6)]
 	8 Fledgling Sycophant
 	8 Blessed Proselytism
@@ -3128,7 +3129,6 @@
 	8 Spice of Life
 	8 Yoink!
 	8 Leonin Revivalist
-	8 Spit Venom
 	8 Outskirts Steward
 	8 Kindly Tavernkeep
 	8 Volwood Sentry
@@ -3151,7 +3151,10 @@
 	8 Streetwise Surveyor
 	8 Bounty Wall
 	8 Disposable Dagger
+	8 Bustling Marketplace
+	8 Strangle
 	8 Furious Resolve
+	8 Pick Your Poison
 	8 Het's Call
 	8 Encroaching Voidborn
 	8 Pool of Light
@@ -3165,10 +3168,8 @@
 	8 Sanctum Enforcer
 	8 Autonomous Accomplice
 	8 Gloomcover Steppe
-	8 Humming Furnace
 	8 Fell the Nonbeliever
 	8 Lucrative Larcenist
-	8 Blade Flourish
 	8 Frostfire Geysers
 	8 Spiraling Canyon
 [common | masterpiece(1)]
@@ -3220,7 +3221,6 @@
 	8 Spice of Life
 	8 Yoink!
 	8 Leonin Revivalist
-	8 Spit Venom
 	8 Outskirts Steward
 	8 Kindly Tavernkeep
 	8 Volwood Sentry
@@ -3243,7 +3243,10 @@
 	8 Streetwise Surveyor
 	8 Bounty Wall
 	8 Disposable Dagger
+	8 Bustling Marketplace
+	8 Strangle
 	8 Furious Resolve
+	8 Pick Your Poison
 	8 Het's Call
 	8 Encroaching Voidborn
 	8 Pool of Light
@@ -3257,10 +3260,8 @@
 	8 Sanctum Enforcer
 	8 Autonomous Accomplice
 	8 Gloomcover Steppe
-	8 Humming Furnace
 	8 Fell the Nonbeliever
 	8 Lucrative Larcenist
-	8 Blade Flourish
 	8 Frostfire Geysers
 	8 Spiraling Canyon
 [foil(1)]
@@ -3275,8 +3276,8 @@
 	12 Preacher of Singularity
 	6 Chapel Specter
 	12 Stand as One
-	6 One Quiet Moment
-	6 Bond the Sundered Souls
+	6 Depart
+	6 Glimpse the Worldsoul
 	12 Renegade's Intercession
 	6 Offer the Faithless
 	6 Consult the Offerings
@@ -3297,7 +3298,6 @@
 	12 Aspiring Shaper
 	12 Attuned Rebuttal
 	6 Semari Weaponsmith
-	6 Petty Larceny
 	12 South-Street Scoundrel
 	12 Disciple of Surola
 	12 Killer-for-Hire
@@ -3331,11 +3331,11 @@
 	6 Friendly Misdirection
 	12 Spice of Life
 	12 Yoink!
-	6 Scatter Records
+	6 Scatter Evidence
 	6 Melodious Mallard
 	6 Dormant Godkiller
 	12 Leonin Revivalist
-	12 Spit Venom
+	6 Spit Venom
 	12 Outskirts Steward
 	12 Kindly Tavernkeep
 	12 Volwood Sentry
@@ -3371,7 +3371,7 @@
 	12 Shriek of the Shroud
 	2 Reckless Show-Off
 	6 Forsaken Shroudguard
-	6 Skittering Striker
+	6 Desperate Ambusher
 	6 Crypt Tiller
 	6 Thing in the Dark
 	6 Tenacious Thief
@@ -3409,11 +3409,11 @@
 	2 Heart of Bedlam
 	12 Bounty Wall
 	12 Disposable Dagger
-	6 Bustling Marketplace
-	6 Strangle
+	12 Bustling Marketplace
+	12 Strangle
 	12 Furious Resolve
 	6 Setral Mender
-	6 Venomous Solution
+	12 Pick Your Poison
 	6 Become the Hunted
 	6 Offer Yourself
 	12 Het's Call
@@ -3432,7 +3432,7 @@
 	2 Ascension Ritualist
 	1 Esteemed Exterminator
 	6 Ascendant Judge
-	6 Gathering Place
+	6 Morbid Missive
 	2 Forsaken Penitents
 	12 Encroaching Voidborn
 	2 Sunset Champion
@@ -3443,7 +3443,7 @@
 	2 Setral Arborist
 	2 Malicious Pactmaker
 	2 League of Their Own
-	2 Evrax, the Last
+	2 Evrax, Enlightened Endling
 	2 Delias, Savvy Smuggler
 	2 Smolder Away
 	2 Wharf Forgemaster
@@ -3517,11 +3517,12 @@
 	1 Vie, the First Hero
 	1 The Setral Shaper
 	2 Shape the Pattern
-	12 Humming Furnace
+	6 Humming Furnace
 	12 Fell the Nonbeliever
 	2 Tomb of the Founder
+	2 Memorial to the First Shaper
 	12 Lucrative Larcenist
-	12 Blade Flourish
+	6 Blade Flourish
 	1 Restoration Specialist
 	1 Avarice
 	2 Loresk, Ever-Curious
@@ -3535,6 +3536,7 @@
 	12 Spiraling Canyon
 	6 Siurne's Betrayal
 	1 Exultant Shepherd
+	6 Grand Larceny
 [wildcard(1)]
 	6 Fledgling Sycophant
 	6 Blessed Proselytism
@@ -3547,8 +3549,8 @@
 	6 Preacher of Singularity
 	15 Chapel Specter
 	6 Stand as One
-	15 One Quiet Moment
-	15 Bond the Sundered Souls
+	15 Depart
+	15 Glimpse the Worldsoul
 	6 Renegade's Intercession
 	15 Offer the Faithless
 	15 Consult the Offerings
@@ -3569,7 +3571,6 @@
 	6 Aspiring Shaper
 	6 Attuned Rebuttal
 	15 Semari Weaponsmith
-	15 Petty Larceny
 	6 South-Street Scoundrel
 	6 Disciple of Surola
 	6 Killer-for-Hire
@@ -3603,11 +3604,11 @@
 	15 Friendly Misdirection
 	6 Spice of Life
 	6 Yoink!
-	15 Scatter Records
+	15 Scatter Evidence
 	15 Melodious Mallard
 	15 Dormant Godkiller
 	6 Leonin Revivalist
-	6 Spit Venom
+	15 Spit Venom
 	6 Outskirts Steward
 	6 Kindly Tavernkeep
 	6 Volwood Sentry
@@ -3643,7 +3644,7 @@
 	6 Shriek of the Shroud
 	7 Reckless Show-Off
 	15 Forsaken Shroudguard
-	15 Skittering Striker
+	15 Desperate Ambusher
 	15 Crypt Tiller
 	15 Thing in the Dark
 	15 Tenacious Thief
@@ -3681,11 +3682,11 @@
 	7 Heart of Bedlam
 	6 Bounty Wall
 	6 Disposable Dagger
-	15 Bustling Marketplace
-	15 Strangle
+	6 Bustling Marketplace
+	6 Strangle
 	6 Furious Resolve
 	15 Setral Mender
-	15 Venomous Solution
+	6 Pick Your Poison
 	15 Become the Hunted
 	15 Offer Yourself
 	6 Het's Call
@@ -3704,7 +3705,7 @@
 	7 Ascension Ritualist
 	4 Esteemed Exterminator
 	15 Ascendant Judge
-	15 Gathering Place
+	15 Morbid Missive
 	7 Forsaken Penitents
 	6 Encroaching Voidborn
 	7 Sunset Champion
@@ -3715,7 +3716,7 @@
 	7 Setral Arborist
 	7 Malicious Pactmaker
 	7 League of Their Own
-	7 Evrax, the Last
+	7 Evrax, Enlightened Endling
 	7 Delias, Savvy Smuggler
 	7 Smolder Away
 	7 Wharf Forgemaster
@@ -3789,11 +3790,12 @@
 	4 Vie, the First Hero
 	4 The Setral Shaper
 	7 Shape the Pattern
-	6 Humming Furnace
+	15 Humming Furnace
 	6 Fell the Nonbeliever
 	7 Tomb of the Founder
+	7 Memorial to the First Shaper
 	6 Lucrative Larcenist
-	6 Blade Flourish
+	15 Blade Flourish
 	4 Restoration Specialist
 	4 Avarice
 	7 Loresk, Ever-Curious
@@ -3807,3 +3809,4 @@
 	6 Spiraling Canyon
 	15 Siurne's Betrayal
 	4 Exultant Shepherd
+	15 Grand Larceny
