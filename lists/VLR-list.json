@@ -5,15 +5,15 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "239"
+        "position": "235"
     },
     {
         "card_name": "Leiowen, Escape Artist",
-        "number": 55,
+        "number": 54,
         "shape": "transform double faced",
         "set": "VLR",
         "rotated": false,
-        "position": "254"
+        "position": "250"
     },
     {
         "card_name": "Exultant Shepherd",
@@ -21,7 +21,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "293"
+        "position": "289"
     },
     {
         "card_name": "Brazen Burglar",
@@ -29,15 +29,15 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "251"
+        "position": "247"
     },
     {
         "card_name": "Esteemed Exterminator",
-        "number": 157,
+        "number": 158,
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "167"
+        "position": "165"
     },
     {
         "card_name": "Siurne, Eternal Sentinel",
@@ -45,15 +45,15 @@
         "shape": "transform double faced",
         "set": "VLR",
         "rotated": false,
-        "position": "253"
+        "position": "249"
     },
     {
         "card_name": "Planar Archives",
-        "number": 61,
+        "number": 60,
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "283"
+        "position": "279"
     },
     {
         "card_name": "Het, False God",
@@ -61,7 +61,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "160"
+        "position": "158"
     },
     {
         "card_name": "Vie, the First Hero",
@@ -69,7 +69,7 @@
         "shape": "transform double faced",
         "set": "VLR",
         "rotated": false,
-        "position": "256"
+        "position": "252"
     },
     {
         "card_name": "The Setral Shaper",
@@ -77,7 +77,7 @@
         "shape": "transform double faced",
         "set": "VLR",
         "rotated": false,
-        "position": "257"
+        "position": "253"
     },
     {
         "card_name": "Volwood Warder",
@@ -85,15 +85,15 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "282"
+        "position": "278"
     },
     {
-        "card_name": "Restoration Specialist",
-        "number": 62,
+        "card_name": "Prodigious Cultivator",
+        "number": 61,
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "275"
+        "position": "271"
     },
     {
         "card_name": "Soya, Nal Executioner",
@@ -101,7 +101,7 @@
         "shape": "transform double faced",
         "set": "VLR",
         "rotated": false,
-        "position": "255"
+        "position": "251"
     },
     {
         "card_name": "Burn It All Down",
@@ -109,15 +109,15 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "116"
+        "position": "114"
     },
     {
-        "card_name": "Corner the Prey",
+        "card_name": "Call of the Grove",
         "number": 150,
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "194"
+        "position": "227"
     },
     {
         "card_name": "Ascension Ritualist",
@@ -125,15 +125,15 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "166"
+        "position": "164"
     },
     {
         "card_name": "Innovative Alchemist",
-        "number": 50,
+        "number": 49,
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "203"
+        "position": "200"
     },
     {
         "card_name": "Coffers Altar",
@@ -141,7 +141,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "227"
+        "position": "223"
     },
     {
         "card_name": "Delias, Savvy Smuggler",
@@ -149,15 +149,15 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "181"
+        "position": "179"
     },
     {
-        "card_name": "Heart of the Grove",
-        "number": 160,
+        "card_name": "Corner the Prey",
+        "number": 151,
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "231"
+        "position": "192"
     },
     {
         "card_name": "Forsaken Penitents",
@@ -165,15 +165,15 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "170"
+        "position": "168"
     },
     {
         "card_name": "Juniper's Awakening",
-        "number": 54,
+        "number": 53,
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "26"
+        "position": "25"
     },
     {
         "card_name": "The Founder's Hunt Begins",
@@ -181,7 +181,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "175"
+        "position": "173"
     },
     {
         "card_name": "Make a Break For It",
@@ -189,7 +189,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "101"
+        "position": "99"
     },
     {
         "card_name": "Leybound Ritualist",
@@ -197,7 +197,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "208"
+        "position": "205"
     },
     {
         "card_name": "Ivari, Liberated Mentor",
@@ -205,15 +205,15 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "280"
+        "position": "276"
     },
     {
         "card_name": "Loresk, Ever-Curious",
-        "number": 56,
+        "number": 55,
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "278"
+        "position": "274"
     },
     {
         "card_name": "High Priestess Symi",
@@ -221,7 +221,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "220"
+        "position": "217"
     },
     {
         "card_name": "Reckless Show-Off",
@@ -229,7 +229,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "105"
+        "position": "103"
     },
     {
         "card_name": "Setral Arborist",
@@ -237,7 +237,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "177"
+        "position": "175"
     },
     {
         "card_name": "Renegade Recruiter",
@@ -245,15 +245,15 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "209"
+        "position": "206"
     },
     {
         "card_name": "On Top of the World",
-        "number": 58,
+        "number": 57,
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "245"
+        "position": "241"
     },
     {
         "card_name": "League of Their Own",
@@ -261,7 +261,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "179"
+        "position": "177"
     },
     {
         "card_name": "Sunset Champion",
@@ -269,7 +269,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "172"
+        "position": "170"
     },
     {
         "card_name": "Shape the Pattern",
@@ -277,7 +277,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "258"
+        "position": "254"
     },
     {
         "card_name": "Solemn Procession",
@@ -285,15 +285,15 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "207"
+        "position": "204"
     },
     {
         "card_name": "Perfect Plan",
-        "number": 59,
+        "number": 58,
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "28"
+        "position": "27"
     },
     {
         "card_name": "Malicious Pactmaker",
@@ -301,7 +301,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "178"
+        "position": "176"
     },
     {
         "card_name": "Unending Unrest",
@@ -309,7 +309,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "230"
+        "position": "226"
     },
     {
         "card_name": "Waylen, Bloodhunter",
@@ -317,7 +317,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "279"
+        "position": "275"
     },
     {
         "card_name": "Spite of the Founder",
@@ -325,15 +325,15 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "199"
+        "position": "197"
     },
     {
         "card_name": "Rooftop Observer",
-        "number": 63,
+        "number": 62,
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "202"
+        "position": "199"
     },
     {
         "card_name": "Race for the Glory",
@@ -341,7 +341,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "229"
+        "position": "225"
     },
     {
         "card_name": "Vie's Lieutenant",
@@ -349,7 +349,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "223"
+        "position": "220"
     },
     {
         "card_name": "Winding Assailant",
@@ -357,7 +357,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "222"
+        "position": "219"
     },
     {
         "card_name": "Stand Ready",
@@ -365,7 +365,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "204"
+        "position": "201"
     },
     {
         "card_name": "Swift-Step Robber",
@@ -373,7 +373,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "224"
+        "position": "221"
     },
     {
         "card_name": "Veteran Hunter",
@@ -381,7 +381,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "159"
+        "position": "157"
     },
     {
         "card_name": "Blade Flourish",
@@ -389,7 +389,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "272"
+        "position": "268"
     },
     {
         "card_name": "Blossoming Steward",
@@ -397,7 +397,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "210"
+        "position": "207"
     },
     {
         "card_name": "Ascendant Judge",
@@ -405,7 +405,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "168"
+        "position": "166"
     },
     {
         "card_name": "Chandelier Slink",
@@ -413,7 +413,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "97"
+        "position": "95"
     },
     {
         "card_name": "Become the Hunted",
@@ -421,7 +421,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "150"
+        "position": "148"
     },
     {
         "card_name": "Daring Escapees",
@@ -429,50 +429,10 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "112"
+        "position": "110"
     },
     {
         "card_name": "Creeping Overgrowth",
-        "number": 151,
-        "shape": "normal",
-        "set": "VLR",
-        "rotated": false,
-        "position": "119"
-    },
-    {
-        "card_name": "Backalley Minstrel",
-        "number": 4,
-        "shape": "normal",
-        "set": "VLR",
-        "rotated": false,
-        "position": "93"
-    },
-    {
-        "card_name": "Duplicity",
-        "number": 44,
-        "shape": "normal",
-        "set": "VLR",
-        "rotated": false,
-        "position": "197"
-    },
-    {
-        "card_name": "Bedlam's Vessel",
-        "number": 77,
-        "shape": "normal",
-        "set": "VLR",
-        "rotated": false,
-        "position": "102"
-    },
-    {
-        "card_name": "Friendly Misdirection",
-        "number": 119,
-        "shape": "normal",
-        "set": "VLR",
-        "rotated": false,
-        "position": "64"
-    },
-    {
-        "card_name": "Culvert Inspector",
         "number": 152,
         "shape": "normal",
         "set": "VLR",
@@ -480,20 +440,60 @@
         "position": "117"
     },
     {
+        "card_name": "Backalley Minstrel",
+        "number": 4,
+        "shape": "normal",
+        "set": "VLR",
+        "rotated": false,
+        "position": "91"
+    },
+    {
+        "card_name": "Chicanery",
+        "number": 43,
+        "shape": "normal",
+        "set": "VLR",
+        "rotated": false,
+        "position": "195"
+    },
+    {
+        "card_name": "Bedlam's Vessel",
+        "number": 77,
+        "shape": "normal",
+        "set": "VLR",
+        "rotated": false,
+        "position": "100"
+    },
+    {
+        "card_name": "Friendly Misdirection",
+        "number": 119,
+        "shape": "normal",
+        "set": "VLR",
+        "rotated": false,
+        "position": "62"
+    },
+    {
+        "card_name": "Culvert Inspector",
+        "number": 153,
+        "shape": "normal",
+        "set": "VLR",
+        "rotated": false,
+        "position": "115"
+    },
+    {
         "card_name": "Call for Backup",
         "number": 6,
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "156"
+        "position": "154"
     },
     {
         "card_name": "Evasive Flourish",
-        "number": 47,
+        "number": 46,
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "43"
+        "position": "42"
     },
     {
         "card_name": "Bloodletting",
@@ -501,7 +501,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "47"
+        "position": "46"
     },
     {
         "card_name": "Frontline Victor",
@@ -509,15 +509,15 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "135"
+        "position": "133"
     },
     {
         "card_name": "End the Chase",
-        "number": 156,
+        "number": 157,
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "121"
+        "position": "119"
     },
     {
         "card_name": "Chapel Crasher",
@@ -529,11 +529,11 @@
     },
     {
         "card_name": "Expert Infiltration",
-        "number": 48,
+        "number": 47,
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "228"
+        "position": "224"
     },
     {
         "card_name": "Crypt Tiller",
@@ -541,7 +541,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "108"
+        "position": "106"
     },
     {
         "card_name": "Herald of Emergence",
@@ -549,7 +549,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "249"
+        "position": "245"
     },
     {
         "card_name": "Life from Death",
@@ -557,7 +557,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "124"
+        "position": "122"
     },
     {
         "card_name": "Chapel Specter",
@@ -569,11 +569,11 @@
     },
     {
         "card_name": "Into the Grove",
-        "number": 52,
+        "number": 51,
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "157"
+        "position": "155"
     },
     {
         "card_name": "Desperate Ambusher",
@@ -581,7 +581,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "107"
+        "position": "105"
     },
     {
         "card_name": "Makeshift Justice",
@@ -589,7 +589,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "281"
+        "position": "277"
     },
     {
         "card_name": "Reckless Smashing",
@@ -597,7 +597,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "250"
+        "position": "246"
     },
     {
         "card_name": "City's Memory",
@@ -605,15 +605,15 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "158"
+        "position": "156"
     },
     {
         "card_name": "Jump the Gap",
-        "number": 53,
+        "number": 52,
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "154"
+        "position": "152"
     },
     {
         "card_name": "Done Deal",
@@ -621,7 +621,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "49"
+        "position": "48"
     },
     {
         "card_name": "Reap the Rewards",
@@ -629,7 +629,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "206"
+        "position": "203"
     },
     {
         "card_name": "Ruthless Duo",
@@ -637,7 +637,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "76"
+        "position": "74"
     },
     {
         "card_name": "Consult the Offerings",
@@ -649,11 +649,11 @@
     },
     {
         "card_name": "Observe the Pattern",
-        "number": 57,
+        "number": 56,
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "99"
+        "position": "97"
     },
     {
         "card_name": "Forsaken Shroudguard",
@@ -661,7 +661,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "106"
+        "position": "104"
     },
     {
         "card_name": "Scatter Evidence",
@@ -669,7 +669,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "67"
+        "position": "65"
     },
     {
         "card_name": "Setral Mender",
@@ -677,7 +677,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "148"
+        "position": "146"
     },
     {
         "card_name": "Depart",
@@ -689,11 +689,11 @@
     },
     {
         "card_name": "Pickpocket",
-        "number": 60,
+        "number": 59,
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "29"
+        "position": "28"
     },
     {
         "card_name": "Go for the Gut",
@@ -701,7 +701,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "130"
+        "position": "128"
     },
     {
         "card_name": "Scrawny Pursesnatcher",
@@ -709,7 +709,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "113"
+        "position": "111"
     },
     {
         "card_name": "Shroudpiercer",
@@ -717,7 +717,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "84"
+        "position": "82"
     },
     {
         "card_name": "Offer Yourself",
@@ -725,15 +725,15 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "151"
+        "position": "149"
     },
     {
         "card_name": "Rooftop Runner",
-        "number": 64,
+        "number": 63,
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "96"
+        "position": "94"
     },
     {
         "card_name": "Hand of the Overseer",
@@ -741,7 +741,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "37"
+        "position": "36"
     },
     {
         "card_name": "Sieging Volleymage",
@@ -749,7 +749,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "114"
+        "position": "112"
     },
     {
         "card_name": "Spit Venom",
@@ -757,7 +757,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "71"
+        "position": "69"
     },
     {
         "card_name": "Outskirts Mentor",
@@ -765,15 +765,15 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "90"
+        "position": "88"
     },
     {
         "card_name": "Setral Shoresculptor",
-        "number": 67,
+        "number": 66,
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "214"
+        "position": "211"
     },
     {
         "card_name": "Listen In",
@@ -781,7 +781,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "50"
+        "position": "49"
     },
     {
         "card_name": "Split the Loot",
@@ -789,7 +789,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "205"
+        "position": "202"
     },
     {
         "card_name": "Sprouting Sproutling",
@@ -797,7 +797,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "248"
+        "position": "244"
     },
     {
         "card_name": "Overseer's Chosen",
@@ -805,7 +805,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "89"
+        "position": "87"
     },
     {
         "card_name": "Survivalist Mentor",
@@ -813,7 +813,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "134"
+        "position": "132"
     },
     {
         "card_name": "Madness of Ages",
@@ -821,7 +821,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "153"
+        "position": "151"
     },
     {
         "card_name": "Sunder the Cage",
@@ -829,7 +829,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "198"
+        "position": "196"
     },
     {
         "card_name": "Trespass the Volwood",
@@ -837,7 +837,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "85"
+        "position": "83"
     },
     {
         "card_name": "Overseer's Entrancer",
@@ -845,7 +845,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "88"
+        "position": "86"
     },
     {
         "card_name": "Tireless Refutation",
@@ -853,7 +853,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "252"
+        "position": "248"
     },
     {
         "card_name": "Offer the Faithless",
@@ -869,7 +869,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "110"
+        "position": "108"
     },
     {
         "card_name": "Unerring Killer",
@@ -877,7 +877,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "118"
+        "position": "116"
     },
     {
         "card_name": "Renegade Trueheart",
@@ -885,7 +885,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "241"
+        "position": "237"
     },
     {
         "card_name": "Undergrowth Steward",
@@ -893,7 +893,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "155"
+        "position": "153"
     },
     {
         "card_name": "Patient Executioner",
@@ -901,7 +901,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "103"
+        "position": "101"
     },
     {
         "card_name": "Wistful Strategist",
@@ -909,7 +909,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "111"
+        "position": "109"
     },
     {
         "card_name": "Volwood Deadeye",
@@ -917,7 +917,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "120"
+        "position": "118"
     },
     {
         "card_name": "Semari Weaponsmith",
@@ -925,7 +925,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "32"
+        "position": "31"
     },
     {
         "card_name": "Vicuro Informant",
@@ -933,7 +933,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "95"
+        "position": "93"
     },
     {
         "card_name": "Thing in the Dark",
@@ -941,7 +941,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "109"
+        "position": "107"
     },
     {
         "card_name": "Disgruntled Crook",
@@ -949,15 +949,15 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "57"
+        "position": "55"
     },
     {
         "card_name": "Defend the Groves",
-        "number": 153,
+        "number": 154,
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "81"
+        "position": "79"
     },
     {
         "card_name": "Blessed Proselytism",
@@ -973,7 +973,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "30"
+        "position": "29"
     },
     {
         "card_name": "Beyond the Shroud",
@@ -981,7 +981,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "38"
+        "position": "37"
     },
     {
         "card_name": "Furious Resolve",
@@ -989,15 +989,15 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "147"
+        "position": "145"
     },
     {
         "card_name": "Dockside Hawker",
-        "number": 154,
+        "number": 155,
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "79"
+        "position": "77"
     },
     {
         "card_name": "Clash of Courage",
@@ -1013,7 +1013,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "31"
+        "position": "30"
     },
     {
         "card_name": "Crypt Caretaker",
@@ -1021,7 +1021,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "40"
+        "position": "39"
     },
     {
         "card_name": "Impatient Bandits",
@@ -1029,15 +1029,15 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "55"
+        "position": "53"
     },
     {
         "card_name": "Due Reward",
-        "number": 155,
+        "number": 156,
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "82"
+        "position": "80"
     },
     {
         "card_name": "Congregation Minister",
@@ -1045,7 +1045,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "91"
+        "position": "89"
     },
     {
         "card_name": "Beneath the Tide",
@@ -1061,7 +1061,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "35"
+        "position": "34"
     },
     {
         "card_name": "Impromptu Exit",
@@ -1069,15 +1069,15 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "58"
+        "position": "56"
     },
     {
         "card_name": "Find Your Prey",
-        "number": 158,
+        "number": 159,
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "86"
+        "position": "84"
     },
     {
         "card_name": "Fell the Nonbeliever",
@@ -1085,15 +1085,15 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "267"
+        "position": "263"
     },
     {
         "card_name": "Covet",
-        "number": 43,
+        "number": 44,
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "25"
+        "position": "24"
     },
     {
         "card_name": "Elite Aspirant",
@@ -1101,7 +1101,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "41"
+        "position": "40"
     },
     {
         "card_name": "Liberated Convert",
@@ -1109,15 +1109,15 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "59"
+        "position": "57"
     },
     {
         "card_name": "Gutter Rat",
-        "number": 159,
+        "number": 160,
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "80"
+        "position": "78"
     },
     {
         "card_name": "Midnight Warden",
@@ -1125,15 +1125,15 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "133"
+        "position": "131"
     },
     {
-        "card_name": "Eavesdrop",
+        "card_name": "Enigmatic Apothecary",
         "number": 45,
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "24"
+        "position": "5"
     },
     {
         "card_name": "Eyes of the Overseer",
@@ -1141,7 +1141,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "42"
+        "position": "41"
     },
     {
         "card_name": "Patrol Veteran",
@@ -1149,7 +1149,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "54"
+        "position": "298"
     },
     {
         "card_name": "Hired Hand",
@@ -1157,7 +1157,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "78"
+        "position": "76"
     },
     {
         "card_name": "Overseer's Shackles",
@@ -1165,15 +1165,15 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "94"
+        "position": "92"
     },
     {
-        "card_name": "Enigmatic Apothecary",
-        "number": 46,
+        "card_name": "Heist Lookout",
+        "number": 48,
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "5"
+        "position": "22"
     },
     {
         "card_name": "Het's Call",
@@ -1181,7 +1181,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "152"
+        "position": "150"
     },
     {
         "card_name": "Shroudwalker",
@@ -1189,7 +1189,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "139"
+        "position": "137"
     },
     {
         "card_name": "Leonin Revivalist",
@@ -1197,7 +1197,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "70"
+        "position": "68"
     },
     {
         "card_name": "Preacher of Singularity",
@@ -1208,12 +1208,12 @@
         "position": "8"
     },
     {
-        "card_name": "Heist Lookout",
-        "number": 49,
+        "card_name": "Intangibility",
+        "number": 50,
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "22"
+        "position": "299"
     },
     {
         "card_name": "Hymn of the Overseer",
@@ -1221,7 +1221,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "48"
+        "position": "47"
     },
     {
         "card_name": "Spice of Life",
@@ -1229,7 +1229,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "65"
+        "position": "63"
     },
     {
         "card_name": "Outskirts Steward",
@@ -1237,7 +1237,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "72"
+        "position": "70"
     },
     {
         "card_name": "Reclaimed Convert",
@@ -1248,12 +1248,12 @@
         "position": "4"
     },
     {
-        "card_name": "Intangibility",
-        "number": 51,
+        "card_name": "Semari Pilferer",
+        "number": 64,
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "23"
+        "position": "16"
     },
     {
         "card_name": "It's Just Business",
@@ -1261,7 +1261,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "45"
+        "position": "44"
     },
     {
         "card_name": "Strangle",
@@ -1269,7 +1269,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "146"
+        "position": "144"
     },
     {
         "card_name": "Pattern's Abundance",
@@ -1277,7 +1277,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "83"
+        "position": "81"
     },
     {
         "card_name": "Renegade Banneret",
@@ -1288,12 +1288,12 @@
         "position": "6"
     },
     {
-        "card_name": "Semari Pilferer",
+        "card_name": "Setral Sentry",
         "number": 65,
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "16"
+        "position": "18"
     },
     {
         "card_name": "Shriek of the Shroud",
@@ -1301,7 +1301,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "104"
+        "position": "102"
     },
     {
         "card_name": "Streetwise Surveyor",
@@ -1309,7 +1309,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "140"
+        "position": "138"
     },
     {
         "card_name": "Pick Your Poison",
@@ -1317,7 +1317,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "149"
+        "position": "147"
     },
     {
         "card_name": "Renegade's Intercession",
@@ -1328,12 +1328,12 @@
         "position": "13"
     },
     {
-        "card_name": "Setral Sentry",
-        "number": 66,
+        "card_name": "Shaper's Rites",
+        "number": 67,
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "18"
+        "position": "98"
     },
     {
         "card_name": "Slinking Swiftblade",
@@ -1341,7 +1341,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "39"
+        "position": "38"
     },
     {
         "card_name": "Sunset Recruit",
@@ -1349,7 +1349,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "53"
+        "position": "52"
     },
     {
         "card_name": "Titanic Mycoid",
@@ -1357,7 +1357,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "77"
+        "position": "75"
     },
     {
         "card_name": "Sanctum Enforcer",
@@ -1365,15 +1365,15 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "216"
+        "position": "213"
     },
     {
-        "card_name": "Shaper's Rites",
+        "card_name": "Slip Through the Streets",
         "number": 68,
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "100"
+        "position": "23"
     },
     {
         "card_name": "South-Street Scoundrel",
@@ -1381,7 +1381,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "34"
+        "position": "33"
     },
     {
         "card_name": "Tear Down",
@@ -1389,7 +1389,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "63"
+        "position": "61"
     },
     {
         "card_name": "Toxin Peddler",
@@ -1397,7 +1397,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "75"
+        "position": "73"
     },
     {
         "card_name": "Stand as One",
@@ -1413,7 +1413,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "61"
+        "position": "59"
     },
     {
         "card_name": "Tragic Accident",
@@ -1421,7 +1421,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "46"
+        "position": "45"
     },
     {
         "card_name": "Yoink!",
@@ -1429,7 +1429,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "66"
+        "position": "64"
     },
     {
         "card_name": "Volwood Sentry",
@@ -1437,7 +1437,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "74"
+        "position": "72"
     },
     {
         "card_name": "Sunset Sentries",
@@ -1461,7 +1461,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "44"
+        "position": "43"
     },
     {
         "card_name": "e"
@@ -1484,11 +1484,11 @@
     "a->gold",
     {
         "card_name": "Silent Warden",
-        "number": 209,
+        "number": 208,
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "238"
+        "position": "234"
     },
     {
         "card_name": "Memoriam",
@@ -1496,7 +1496,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "246"
+        "position": "242"
     },
     {
         "card_name": "Avarice",
@@ -1504,15 +1504,15 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "276"
+        "position": "272"
     },
     {
         "card_name": "Shroudwarder Phoenix",
-        "number": 208,
+        "number": 207,
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "233"
+        "position": "229"
     },
     {
         "card_name": "Wharf Forgemaster",
@@ -1520,7 +1520,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "183"
+        "position": "181"
     },
     {
         "card_name": "Soulcage",
@@ -1528,23 +1528,23 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "87"
+        "position": "85"
     },
     {
         "card_name": "Founder's Malice",
-        "number": 189,
+        "number": 190,
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "27"
+        "position": "26"
     },
     {
         "card_name": "Smolder Away",
-        "number": 211,
+        "number": 210,
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "182"
+        "position": "180"
     },
     {
         "card_name": "Melodious Mallard",
@@ -1552,15 +1552,15 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "68"
+        "position": "66"
     },
     {
         "card_name": "Rowdy Mob",
-        "number": 205,
+        "number": 204,
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "127"
+        "position": "125"
     },
     {
         "card_name": "Starry-Eyed Scholar",
@@ -1568,7 +1568,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "128"
+        "position": "126"
     },
     {
         "card_name": "Volwood Defilers",
@@ -1576,15 +1576,15 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "98"
+        "position": "96"
     },
     {
         "card_name": "Founder's Echo",
-        "number": 188,
+        "number": 189,
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "51"
+        "position": "50"
     },
     {
         "card_name": "Tale of Bedlam",
@@ -1592,7 +1592,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "115"
+        "position": "113"
     },
     {
         "card_name": "Wharf Vendor",
@@ -1600,7 +1600,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "184"
+        "position": "182"
     },
     {
         "card_name": "Blinded Arbiter",
@@ -1620,11 +1620,11 @@
     },
     {
         "card_name": "Siurne's Betrayal",
-        "number": 210,
+        "number": 209,
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "289"
+        "position": "285"
     },
     {
         "card_name": "Thoroughfare Busker",
@@ -1632,7 +1632,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "60"
+        "position": "58"
     },
     {
         "card_name": "Kindly Tavernkeep",
@@ -1640,7 +1640,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "73"
+        "position": "71"
     },
     {
         "card_name": "e"
@@ -1654,7 +1654,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "171"
+        "position": "169"
     },
     {
         "card_name": "e"
@@ -1683,7 +1683,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "242"
+        "position": "238"
     },
     {
         "card_name": "Marle, Vicuro Head",
@@ -1691,7 +1691,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "247"
+        "position": "243"
     },
     {
         "card_name": "Orliss of the Elite",
@@ -1699,7 +1699,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "243"
+        "position": "239"
     },
     {
         "card_name": "Sahra, Siege Captain",
@@ -1707,7 +1707,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "165"
+        "position": "163"
     },
     {
         "card_name": "Ery, Leyfused",
@@ -1715,7 +1715,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "176"
+        "position": "174"
     },
     {
         "card_name": "Malicious Throng",
@@ -1723,23 +1723,23 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "92"
+        "position": "90"
     },
     {
         "card_name": "Greedy Deserter",
-        "number": 192,
+        "number": 193,
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "196"
+        "position": "194"
     },
     {
         "card_name": "Ruthless Stalker",
-        "number": 206,
+        "number": 205,
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "225"
+        "position": "302"
     },
     {
         "card_name": "Divine Liberation",
@@ -1747,31 +1747,31 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "284"
+        "position": "280"
     },
     {
         "card_name": "Evrax, Enlightened Endling",
-        "number": 187,
+        "number": 188,
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "180"
+        "position": "178"
     },
     {
         "card_name": "Profane Scripture",
-        "number": 203,
+        "number": 202,
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "232"
+        "position": "228"
     },
     {
-        "card_name": "It All Comes Together",
-        "number": 195,
+        "card_name": "Smooth Operation",
+        "number": 211,
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "235"
+        "position": "231"
     },
     {
         "card_name": "Torvel, Scion of Rot",
@@ -1779,7 +1779,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "213"
+        "position": "210"
     },
     {
         "card_name": "Kane, Unyielding",
@@ -1787,15 +1787,15 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "126"
+        "position": "124"
     },
     {
         "card_name": "In Tune",
-        "number": 194,
+        "number": 195,
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "221"
+        "position": "218"
     },
     {
         "card_name": "Surola, Vile Preacher",
@@ -1803,7 +1803,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "244"
+        "position": "240"
     },
     {
         "card_name": "Turen, Untouchable",
@@ -1811,7 +1811,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "212"
+        "position": "209"
     },
     {
         "card_name": "Wanton Destruction",
@@ -1819,7 +1819,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "237"
+        "position": "233"
     },
     {
         "card_name": "Valiant Firebrand",
@@ -1827,7 +1827,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "163"
+        "position": "161"
     },
     {
         "card_name": "Voice of the Old Grove",
@@ -1835,43 +1835,43 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "195"
+        "position": "193"
     },
     {
-        "card_name": "Profane Gathering",
-        "number": 202,
+        "card_name": "Eerie Gathering",
+        "number": 187,
+        "shape": "normal",
+        "set": "VLR",
+        "rotated": false,
+        "position": "127"
+    },
+    {
+        "card_name": "Grand Larceny",
+        "number": 192,
+        "shape": "normal",
+        "set": "VLR",
+        "rotated": false,
+        "position": "290"
+    },
+    {
+        "card_name": "Guild Elite",
+        "number": 194,
+        "shape": "normal",
+        "set": "VLR",
+        "rotated": false,
+        "position": "123"
+    },
+    {
+        "card_name": "Rally the Rabble",
+        "number": 203,
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
         "position": "129"
     },
     {
-        "card_name": "Grand Larceny",
-        "number": 191,
-        "shape": "normal",
-        "set": "VLR",
-        "rotated": false,
-        "position": "296"
-    },
-    {
-        "card_name": "Guild Elite",
-        "number": 193,
-        "shape": "normal",
-        "set": "VLR",
-        "rotated": false,
-        "position": "125"
-    },
-    {
-        "card_name": "Rally the Rabble",
-        "number": 204,
-        "shape": "normal",
-        "set": "VLR",
-        "rotated": false,
-        "position": "131"
-    },
-    {
         "card_name": "Glimpse the Worldsoul",
-        "number": 190,
+        "number": 191,
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
@@ -1879,11 +1879,11 @@
     },
     {
         "card_name": "Sanctum Deathspeaker",
-        "number": 207,
+        "number": 206,
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "137"
+        "position": "135"
     },
     {
         "card_name": "Overprepared Accomplice",
@@ -1891,7 +1891,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "138"
+        "position": "136"
     },
     {
         "card_name": "Orliss's Edict",
@@ -1899,7 +1899,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "236"
+        "position": "232"
     },
     {
         "card_name": "Volwood Stalwart",
@@ -1907,7 +1907,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "123"
+        "position": "121"
     },
     {
         "card_name": "Umber Grovetender",
@@ -1915,7 +1915,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "132"
+        "position": "130"
     },
     {
         "card_name": "Fledgling Sycophant",
@@ -1931,7 +1931,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "271"
+        "position": "267"
     },
     {
         "card_name": "Killer-for-Hire",
@@ -1939,7 +1939,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "36"
+        "position": "35"
     },
     {
         "card_name": "Incursion Vanguard",
@@ -1947,7 +1947,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "56"
+        "position": "54"
     },
     {
         "card_name": "Concord Alchemist",
@@ -1955,7 +1955,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "136"
+        "position": "134"
     },
     {
         "card_name": "er"
@@ -1976,7 +1976,7 @@
         "shape": "planeswalker",
         "set": "VLR",
         "rotated": false,
-        "position": "164"
+        "position": "162"
     },
     {
         "card_name": "The Founder's Cage",
@@ -1984,7 +1984,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "173"
+        "position": "171"
     },
     {
         "card_name": "Heart of Bedlam",
@@ -1992,7 +1992,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "142"
+        "position": "140"
     },
     {
         "card_name": "Memorial to the First Shaper",
@@ -2000,7 +2000,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "270"
+        "position": "266"
     },
     {
         "card_name": "Prized Possession",
@@ -2008,7 +2008,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "234"
+        "position": "230"
     },
     {
         "card_name": "Ancient Sentry",
@@ -2016,7 +2016,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "141"
+        "position": "139"
     },
     {
         "card_name": "Dormant Godkiller",
@@ -2024,7 +2024,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "69"
+        "position": "67"
     },
     {
         "card_name": "Herbalist's Satchel",
@@ -2032,7 +2032,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "122"
+        "position": "120"
     },
     {
         "card_name": "Morbid Missive",
@@ -2040,7 +2040,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "169"
+        "position": "167"
     },
     {
         "card_name": "Smoke Bomb",
@@ -2048,7 +2048,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "192"
+        "position": "190"
     },
     {
         "card_name": "Stalker's Cowl",
@@ -2056,7 +2056,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "219"
+        "position": "216"
     },
     {
         "card_name": "Wharf Patrol",
@@ -2064,7 +2064,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "211"
+        "position": "208"
     },
     {
         "card_name": "Autonomous Accomplice",
@@ -2072,7 +2072,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "218"
+        "position": "215"
     },
     {
         "card_name": "Bounty Wall",
@@ -2080,7 +2080,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "143"
+        "position": "141"
     },
     {
         "card_name": "Disposable Dagger",
@@ -2088,7 +2088,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "144"
+        "position": "142"
     },
     {
         "card_name": "Scrounging Sensor",
@@ -2096,7 +2096,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "193"
+        "position": "191"
     },
     {
         "card_name": "e"
@@ -2131,15 +2131,15 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "185"
+        "position": "183"
     },
     {
         "card_name": "Flooded Morass",
-        "number": 257,
+        "number": 256,
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "186"
+        "position": "184"
     },
     {
         "card_name": "Lavatorn Fields",
@@ -2147,23 +2147,23 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "187"
+        "position": "185"
     },
     {
         "card_name": "Flourishing Crevasse",
-        "number": 258,
+        "number": 257,
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "188"
+        "position": "186"
     },
     {
         "card_name": "Heart of the Glade",
-        "number": 263,
+        "number": 262,
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "189"
+        "position": "187"
     },
     {
         "card_name": "er"
@@ -2182,27 +2182,27 @@
     },
     {
         "card_name": "Gloomcover Steppe",
-        "number": 262,
-        "shape": "normal",
-        "set": "VLR",
-        "rotated": false,
-        "position": "240"
-    },
-    {
-        "card_name": "Frostfire Geysers",
-        "number": 260,
-        "shape": "normal",
-        "set": "VLR",
-        "rotated": false,
-        "position": "285"
-    },
-    {
-        "card_name": "Fungal Mire",
         "number": 261,
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "190"
+        "position": "236"
+    },
+    {
+        "card_name": "Frostfire Geysers",
+        "number": 259,
+        "shape": "normal",
+        "set": "VLR",
+        "rotated": false,
+        "position": "281"
+    },
+    {
+        "card_name": "Fungal Mire",
+        "number": 260,
+        "shape": "normal",
+        "set": "VLR",
+        "rotated": false,
+        "position": "188"
     },
     {
         "card_name": "Spiraling Canyon",
@@ -2210,7 +2210,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "286"
+        "position": "282"
     },
     {
         "card_name": "Lush Oasis",
@@ -2218,7 +2218,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "191"
+        "position": "189"
     },
     {
         "card_name": "er"
@@ -2241,7 +2241,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "162"
+        "position": "160"
     },
     {
         "card_name": "Tomb of the Founder",
@@ -2249,15 +2249,15 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "269"
+        "position": "265"
     },
     {
         "card_name": "Humming Furnace",
-        "number": 264,
+        "number": 263,
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "264"
+        "position": "260"
     },
     {
         "card_name": "Secluded Courtyard",
@@ -2265,7 +2265,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "174"
+        "position": "172"
     },
     {
         "card_name": "The Volwood",
@@ -2273,23 +2273,23 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "52"
-    },
-    {
-        "card_name": "Bustling Marketplace",
-        "number": 256,
-        "shape": "normal",
-        "set": "VLR",
-        "rotated": false,
-        "position": "145"
+        "position": "51"
     },
     {
         "card_name": "Forgotten Foundation",
-        "number": 259,
+        "number": 258,
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "62"
+        "position": "60"
+    },
+    {
+        "card_name": "Illicit Marketplace",
+        "number": 264,
+        "shape": "normal",
+        "set": "VLR",
+        "rotated": false,
+        "position": "143"
     },
     {
         "card_name": "e"
@@ -2321,7 +2321,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "259"
+        "position": "255"
     },
     {
         "card_name": "Swamp",
@@ -2329,7 +2329,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "260"
+        "position": "256"
     },
     {
         "card_name": "Plains",
@@ -2337,7 +2337,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "261"
+        "position": "257"
     },
     {
         "card_name": "Island",
@@ -2345,7 +2345,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "262"
+        "position": "258"
     },
     {
         "card_name": "Forest",
@@ -2353,7 +2353,7 @@
         "shape": "normal",
         "set": "VLR",
         "rotated": false,
-        "position": "263"
+        "position": "259"
     },
     {
         "card_name": "er"
@@ -2374,7 +2374,7 @@
         "shape": "token",
         "set": "VLR",
         "rotated": false,
-        "position": "265"
+        "position": "261"
     },
     {
         "card_name": "Spirit",
@@ -2382,7 +2382,7 @@
         "shape": "token",
         "set": "VLR",
         "rotated": false,
-        "position": "200"
+        "position": "198"
     },
     {
         "card_name": "Treasure",
@@ -2390,7 +2390,7 @@
         "shape": "token",
         "set": "VLR",
         "rotated": false,
-        "position": "201"
+        "position": "301"
     },
     {
         "card_name": "Weapon",
@@ -2398,7 +2398,7 @@
         "shape": "token",
         "set": "VLR",
         "rotated": false,
-        "position": "287"
+        "position": "283"
     },
     {
         "card_name": "Citizen",
@@ -2406,7 +2406,7 @@
         "shape": "token",
         "set": "VLR",
         "rotated": false,
-        "position": "288"
+        "position": "284"
     },
     {
         "card_name": "Skeleton Dragon",
@@ -2414,7 +2414,7 @@
         "shape": "token",
         "set": "VLR",
         "rotated": false,
-        "position": "266"
+        "position": "262"
     },
     {
         "card_name": "Elemental",
@@ -2422,7 +2422,7 @@
         "shape": "token",
         "set": "VLR",
         "rotated": false,
-        "position": "290"
+        "position": "286"
     },
     {
         "card_name": "Acolyte",
@@ -2430,7 +2430,7 @@
         "shape": "token",
         "set": "VLR",
         "rotated": false,
-        "position": "226"
+        "position": "222"
     },
     {
         "card_name": "Mercenary",
@@ -2438,7 +2438,7 @@
         "shape": "token",
         "set": "VLR",
         "rotated": false,
-        "position": "161"
+        "position": "159"
     },
     {
         "card_name": "e"

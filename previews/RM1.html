@@ -1,0 +1,899 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="../sets/RM1-files/icon.png"/>
+	<link rel="stylesheet" href="../resources/header.css">
+	<title>RM1 visual preview</title>
+	<script title="root">
+		const rootPath = "..";
+	</script>
+	<style>
+		@font-face {
+			font-family: Beleren;
+			src: url('../resources/beleren.ttf');
+		}
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			opacity: 0;
+			transform: rotateY(0deg) rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+			border-radius: 3.733% / 2.677%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+			border-radius: 3.733% / 2.677%;
+		}
+		.close-btn {
+			background: url('../img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('../img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+			border-radius: 3.733% / 2.677%;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 80px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+			border-radius: 3.733% / 2.677%;
+		}
+		.flip-btn {
+			background: url('../img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('../img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.dropdown {
+			background: rgba(23, 23, 23, 0.8);
+			border-radius: 8px;
+			position: absolute;
+			left: 5%;
+			width: fit-content;
+			max-width: 90%;
+			margin: 20px 0;
+			padding: 5px 0;
+			display: grid;
+			grid-template-columns: 1fr;
+			z-index: 3;
+		}
+		.dropdown .set-bar {
+			font-family: Beleren;
+			font-size: 20px;
+			text-decoration: none;
+			color: #e3e3e3;
+			display: flex;
+			gap: 10px;
+			align-items: center;
+			padding: 0 12px;
+			margin: 5px;
+		}
+		.dropdown .set-bar:hover {
+			background: rgba(163, 163, 163, 0.5);
+			color: #f3f3f3;
+		}
+		.dropdown .set-bar img {
+			width: 32px;
+		}
+		.dropdown .inactive {
+			height: 0px;
+			overflow: hidden;
+			margin: 0px 5px;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		.addenda-container {
+			text-align: center;
+			width: fit-content;
+			max-width: 1200px;
+			padding: 0 5%;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="../img/dot.png" />
+	<img class="preload-hidden" src="../sets/RM1-files/logo.png" />
+	<img class="preload-hidden" src="../sets/RM1-files/icon.png" />
+		<img class="preload-hidden" src="../sets/VLR-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
+			<img class="sg-icon" id="header-search" onclick="goToSearch()">
+			<div style="position: relative; width: 100%;">
+				<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
+			</div>
+			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deck" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
+		</div>
+	</div>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
+			document.getElementById("header-search").src = rootPath + "/img/search.png";
+			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
+			document.getElementById("header-deck").src = rootPath + "/img/deck.png";
+			document.getElementById("header-random").src = rootPath + "/img/random.png";
+		});
+
+		function goToSearch() {
+			window.location.href = rootPath + "/search";
+		}
+	</script>
+
+	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	
+		<a class="set-bar" href="../previews/RM1"><img src="../sets/RM1-files/icon.png">Revolution Masters</a>
+	
+		<a class="set-bar inactive" href="../previews/VLR"><img src="../sets/VLR-files/icon.png">Valir: The Banished Isle</a>
+	
+		</div>
+		<div class="banner">
+		<img class="logo" src="../sets/RM1-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+					<div class="container"><img loading="lazy" alt="sets\RM1-files\img\140.jpg" id="RM1_140" data-flag="@X" onclick="openSidebar('RM1_140',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\139.jpg" id="RM1_139" data-flag="@X" onclick="openSidebar('RM1_139',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\145.jpg" id="RM1_145" data-flag="@X" onclick="openSidebar('RM1_145',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\146.jpg" id="RM1_146" data-flag="@X" onclick="openSidebar('RM1_146',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\147.jpg" id="RM1_147" data-flag="@X" onclick="openSidebar('RM1_147',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\142.jpg" id="RM1_142" data-flag="@X" onclick="openSidebar('RM1_142',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\113.jpg" id="RM1_113" data-flag="@X" onclick="openSidebar('RM1_113',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\138.jpg" id="RM1_138" data-flag="@X" onclick="openSidebar('RM1_138',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\143.jpg" id="RM1_143" data-flag="@X" onclick="openSidebar('RM1_143',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\110.jpg" id="RM1_110" data-flag="@X" onclick="openSidebar('RM1_110',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\151.jpg" id="RM1_151" data-flag="@X" onclick="openSidebar('RM1_151',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\144.jpg" id="RM1_144" data-flag="@X" onclick="openSidebar('RM1_144',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\114.jpg" id="RM1_114" data-flag="@X" onclick="openSidebar('RM1_114',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\115.jpg" id="RM1_115" data-flag="@X" onclick="openSidebar('RM1_115',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\148.jpg" id="RM1_148" data-flag="@X" onclick="openSidebar('RM1_148',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\152.jpg" id="RM1_152" data-flag="@X" onclick="openSidebar('RM1_152',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\269.jpg" id="RM1_269" data-flag="@X" onclick="openSidebar('RM1_269',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\236.jpg" id="RM1_236" data-flag="@X" onclick="openSidebar('RM1_236',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\210.jpg" id="RM1_210" data-flag="@X" onclick="openSidebar('RM1_210',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\287.jpg" id="RM1_287" data-flag="@X" onclick="openSidebar('RM1_287',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\153.jpg" id="RM1_153" data-flag="@X" onclick="openSidebar('RM1_153',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\267.jpg" id="RM1_267" data-flag="@X" onclick="openSidebar('RM1_267',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\241.jpg" id="RM1_241" data-flag="@X" onclick="openSidebar('RM1_241',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\207.jpg" id="RM1_207" data-flag="@X" onclick="openSidebar('RM1_207',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\161.jpg" id="RM1_161" data-flag="@X" onclick="openSidebar('RM1_161',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\156.jpg" id="RM1_156" data-flag="@X" onclick="openSidebar('RM1_156',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\270.jpg" id="RM1_270" data-flag="@X" onclick="openSidebar('RM1_270',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\238.jpg" id="RM1_238" data-flag="@X" onclick="openSidebar('RM1_238',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\208.jpg" id="RM1_208" data-flag="@X" onclick="openSidebar('RM1_208',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\177.jpg" id="RM1_177" data-flag="@X" onclick="openSidebar('RM1_177',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\118.jpg" id="RM1_118" data-flag="@X" onclick="openSidebar('RM1_118',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\158.jpg" id="RM1_158" data-flag="@X" onclick="openSidebar('RM1_158',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\239.jpg" id="RM1_239" data-flag="@X" onclick="openSidebar('RM1_239',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\205.jpg" id="RM1_205" data-flag="@X" onclick="openSidebar('RM1_205',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\179.jpg" id="RM1_179" data-flag="@X" onclick="openSidebar('RM1_179',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\157.jpg" id="RM1_157" data-flag="@X" onclick="openSidebar('RM1_157',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\268.jpg" id="RM1_268" data-flag="@X" onclick="openSidebar('RM1_268',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\159.jpg" id="RM1_159" data-flag="@X" onclick="openSidebar('RM1_159',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\206.jpg" id="RM1_206" data-flag="@X" onclick="openSidebar('RM1_206',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\176.jpg" id="RM1_176" data-flag="@X" onclick="openSidebar('RM1_176',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\154.jpg" id="RM1_154" data-flag="@X" onclick="openSidebar('RM1_154',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\272.jpg" id="RM1_272" data-flag="@X" onclick="openSidebar('RM1_272',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\237.jpg" id="RM1_237" data-flag="@X" onclick="openSidebar('RM1_237',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\160.jpg" id="RM1_160" data-flag="@X" onclick="openSidebar('RM1_160',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\120.jpg" id="RM1_120" data-flag="@X" onclick="openSidebar('RM1_120',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\155.jpg" id="RM1_155" data-flag="@X" onclick="openSidebar('RM1_155',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\286.jpg" id="RM1_286" data-flag="@X" onclick="openSidebar('RM1_286',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\119.jpg" id="RM1_119" data-flag="@X" onclick="openSidebar('RM1_119',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\204.jpg" id="RM1_204" data-flag="@X" onclick="openSidebar('RM1_204',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\175.jpg" id="RM1_175" data-flag="@X" onclick="openSidebar('RM1_175',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\149.jpg" id="RM1_149" data-flag="@X" onclick="openSidebar('RM1_149',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\271.jpg" id="RM1_271" data-flag="@X" onclick="openSidebar('RM1_271',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\240.jpg" id="RM1_240" data-flag="@X" onclick="openSidebar('RM1_240',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\209.jpg" id="RM1_209" data-flag="@X" onclick="openSidebar('RM1_209',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\178.jpg" id="RM1_178" data-flag="@X" onclick="openSidebar('RM1_178',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\48.jpg" id="RM1_48" data-flag="@X" onclick="openSidebar('RM1_48',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\263.jpg" id="RM1_263" data-flag="@X" onclick="openSidebar('RM1_263',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\54.jpg" id="RM1_54" data-flag="@X" onclick="openSidebar('RM1_54',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\194.jpg" id="RM1_194" data-flag="@X" onclick="openSidebar('RM1_194',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\172.jpg" id="RM1_172" data-flag="@X" onclick="openSidebar('RM1_172',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\59.jpg" id="RM1_59" data-flag="@X" onclick="openSidebar('RM1_59',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\255.jpg" id="RM1_255" data-flag="@X" onclick="openSidebar('RM1_255',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\232.jpg" id="RM1_232" data-flag="@X" onclick="openSidebar('RM1_232',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\201.jpg" id="RM1_201" data-flag="@X" onclick="openSidebar('RM1_201',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\163.jpg" id="RM1_163" data-flag="@X" onclick="openSidebar('RM1_163',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\57.jpg" id="RM1_57" data-flag="@X" onclick="openSidebar('RM1_57',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\257.jpg" id="RM1_257" data-flag="@X" onclick="openSidebar('RM1_257',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\224.jpg" id="RM1_224" data-flag="@X" onclick="openSidebar('RM1_224',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\197.jpg" id="RM1_197" data-flag="@X" onclick="openSidebar('RM1_197',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\169.jpg" id="RM1_169" data-flag="@X" onclick="openSidebar('RM1_169',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\58.jpg" id="RM1_58" data-flag="@X" onclick="openSidebar('RM1_58',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\258.jpg" id="RM1_258" data-flag="@X" onclick="openSidebar('RM1_258',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\230.jpg" id="RM1_230" data-flag="@X" onclick="openSidebar('RM1_230',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\55.jpg" id="RM1_55" data-flag="@X" onclick="openSidebar('RM1_55',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\56.jpg" id="RM1_56" data-flag="@X" onclick="openSidebar('RM1_56',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\42.jpg" id="RM1_42" data-flag="@X" onclick="openSidebar('RM1_42',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\260.jpg" id="RM1_260" data-flag="@X" onclick="openSidebar('RM1_260',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\229.jpg" id="RM1_229" data-flag="@X" onclick="openSidebar('RM1_229',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\195.jpg" id="RM1_195" data-flag="@X" onclick="openSidebar('RM1_195',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\164.jpg" id="RM1_164" data-flag="@X" onclick="openSidebar('RM1_164',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\43.jpg" id="RM1_43" data-flag="@X" onclick="openSidebar('RM1_43',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\256.jpg" id="RM1_256" data-flag="@X" onclick="openSidebar('RM1_256',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\233.jpg" id="RM1_233" data-flag="@X" onclick="openSidebar('RM1_233',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\192.jpg" id="RM1_192" data-flag="@X" onclick="openSidebar('RM1_192',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\165.jpg" id="RM1_165" data-flag="@X" onclick="openSidebar('RM1_165',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\44.jpg" id="RM1_44" data-flag="@X" onclick="openSidebar('RM1_44',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\261.jpg" id="RM1_261" data-flag="@X" onclick="openSidebar('RM1_261',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\228.jpg" id="RM1_228" data-flag="@X" onclick="openSidebar('RM1_228',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\193.jpg" id="RM1_193" data-flag="@X" onclick="openSidebar('RM1_193',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\166.jpg" id="RM1_166" data-flag="@X" onclick="openSidebar('RM1_166',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\47.jpg" id="RM1_47" data-flag="@X" onclick="openSidebar('RM1_47',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\265.jpg" id="RM1_265" data-flag="@X" onclick="openSidebar('RM1_265',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\226.jpg" id="RM1_226" data-flag="@X" onclick="openSidebar('RM1_226',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\199.jpg" id="RM1_199" data-flag="@X" onclick="openSidebar('RM1_199',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\168.jpg" id="RM1_168" data-flag="@X" onclick="openSidebar('RM1_168',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\51.jpg" id="RM1_51" data-flag="@X" onclick="openSidebar('RM1_51',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\254.jpg" id="RM1_254" data-flag="@X" onclick="openSidebar('RM1_254',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\234.jpg" id="RM1_234" data-flag="@X" onclick="openSidebar('RM1_234',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\203.jpg" id="RM1_203" data-flag="@X" onclick="openSidebar('RM1_203',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\167.jpg" id="RM1_167" data-flag="@X" onclick="openSidebar('RM1_167',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\50.jpg" id="RM1_50" data-flag="@X" onclick="openSidebar('RM1_50',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\53.jpg" id="RM1_53" data-flag="@X" onclick="openSidebar('RM1_53',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\231.jpg" id="RM1_231" data-flag="@X" onclick="openSidebar('RM1_231',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\200.jpg" id="RM1_200" data-flag="@X" onclick="openSidebar('RM1_200',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\171.jpg" id="RM1_171" data-flag="@X" onclick="openSidebar('RM1_171',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\45.jpg" id="RM1_45" data-flag="@X" onclick="openSidebar('RM1_45',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\259.jpg" id="RM1_259" data-flag="@X" onclick="openSidebar('RM1_259',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\223.jpg" id="RM1_223" data-flag="@X" onclick="openSidebar('RM1_223',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\191.jpg" id="RM1_191" data-flag="@X" onclick="openSidebar('RM1_191',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\162.jpg" id="RM1_162" data-flag="@X" onclick="openSidebar('RM1_162',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\46.jpg" id="RM1_46" data-flag="@X" onclick="openSidebar('RM1_46',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\262.jpg" id="RM1_262" data-flag="@X" onclick="openSidebar('RM1_262',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\227.jpg" id="RM1_227" data-flag="@X" onclick="openSidebar('RM1_227',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\202.jpg" id="RM1_202" data-flag="@X" onclick="openSidebar('RM1_202',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\174.jpg" id="RM1_174" data-flag="@X" onclick="openSidebar('RM1_174',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\52.jpg" id="RM1_52" data-flag="@X" onclick="openSidebar('RM1_52',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\266.jpg" id="RM1_266" data-flag="@X" onclick="openSidebar('RM1_266',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\235.jpg" id="RM1_235" data-flag="@X" onclick="openSidebar('RM1_235',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\196.jpg" id="RM1_196" data-flag="@X" onclick="openSidebar('RM1_196',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\173.jpg" id="RM1_173" data-flag="@X" onclick="openSidebar('RM1_173',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\49.jpg" id="RM1_49" data-flag="@X" onclick="openSidebar('RM1_49',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\264.jpg" id="RM1_264" data-flag="@X" onclick="openSidebar('RM1_264',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\225.jpg" id="RM1_225" data-flag="@X" onclick="openSidebar('RM1_225',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\198.jpg" id="RM1_198" data-flag="@X" onclick="openSidebar('RM1_198',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\170.jpg" id="RM1_170" data-flag="@X" onclick="openSidebar('RM1_170',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\0.jpg" id="RM1_0" data-flag="@X" onclick="openSidebar('RM1_0',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\278.jpg" id="RM1_278" data-flag="@X" onclick="openSidebar('RM1_278',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\248.jpg" id="RM1_248" data-flag="@X" onclick="openSidebar('RM1_248',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\214.jpg" id="RM1_214" data-flag="@X" onclick="openSidebar('RM1_214',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\285.jpg" id="RM1_285" data-flag="@X" onclick="openSidebar('RM1_285',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\1.jpg" id="RM1_1" data-flag="@X" onclick="openSidebar('RM1_1',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\282.jpg" id="RM1_282" data-flag="@X" onclick="openSidebar('RM1_282',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\245.jpg" id="RM1_245" data-flag="@X" onclick="openSidebar('RM1_245',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\213.jpg" id="RM1_213" data-flag="@X" onclick="openSidebar('RM1_213',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\189.jpg" id="RM1_189" data-flag="@X" onclick="openSidebar('RM1_189',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\4.jpg" id="RM1_4" data-flag="@X" onclick="openSidebar('RM1_4',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\273.jpg" id="RM1_273" data-flag="@X" onclick="openSidebar('RM1_273',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\247.jpg" id="RM1_247" data-flag="@X" onclick="openSidebar('RM1_247',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\219.jpg" id="RM1_219" data-flag="@X" onclick="openSidebar('RM1_219',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\184.jpg" id="RM1_184" data-flag="@X" onclick="openSidebar('RM1_184',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\2.jpg" id="RM1_2" data-flag="@X" onclick="openSidebar('RM1_2',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\276.jpg" id="RM1_276" data-flag="@X" onclick="openSidebar('RM1_276',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\244.jpg" id="RM1_244" data-flag="@X" onclick="openSidebar('RM1_244',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\212.jpg" id="RM1_212" data-flag="@X" onclick="openSidebar('RM1_212',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\188.jpg" id="RM1_188" data-flag="@X" onclick="openSidebar('RM1_188',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\5.jpg" id="RM1_5" data-flag="@X" onclick="openSidebar('RM1_5',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\279.jpg" id="RM1_279" data-flag="@X" onclick="openSidebar('RM1_279',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\251.jpg" id="RM1_251" data-flag="@X" onclick="openSidebar('RM1_251',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\218.jpg" id="RM1_218" data-flag="@X" onclick="openSidebar('RM1_218',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\180.jpg" id="RM1_180" data-flag="@X" onclick="openSidebar('RM1_180',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\8.jpg" id="RM1_8" data-flag="@X" onclick="openSidebar('RM1_8',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\284.jpg" id="RM1_284" data-flag="@X" onclick="openSidebar('RM1_284',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\249.jpg" id="RM1_249" data-flag="@X" onclick="openSidebar('RM1_249',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\222.jpg" id="RM1_222" data-flag="@X" onclick="openSidebar('RM1_222',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\182.jpg" id="RM1_182" data-flag="@X" onclick="openSidebar('RM1_182',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\7.jpg" id="RM1_7" data-flag="@X" onclick="openSidebar('RM1_7',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\274.jpg" id="RM1_274" data-flag="@X" onclick="openSidebar('RM1_274',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\250.jpg" id="RM1_250" data-flag="@X" onclick="openSidebar('RM1_250',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\15.jpg" id="RM1_15" data-flag="@X" onclick="openSidebar('RM1_15',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\187.jpg" id="RM1_187" data-flag="@X" onclick="openSidebar('RM1_187',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\9.jpg" id="RM1_9" data-flag="@X" onclick="openSidebar('RM1_9',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\283.jpg" id="RM1_283" data-flag="@X" onclick="openSidebar('RM1_283',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\252.jpg" id="RM1_252" data-flag="@X" onclick="openSidebar('RM1_252',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\220.jpg" id="RM1_220" data-flag="@X" onclick="openSidebar('RM1_220',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\185.jpg" id="RM1_185" data-flag="@X" onclick="openSidebar('RM1_185',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\6.jpg" id="RM1_6" data-flag="@X" onclick="openSidebar('RM1_6',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\281.jpg" id="RM1_281" data-flag="@X" onclick="openSidebar('RM1_281',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\243.jpg" id="RM1_243" data-flag="@X" onclick="openSidebar('RM1_243',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\216.jpg" id="RM1_216" data-flag="@X" onclick="openSidebar('RM1_216',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\186.jpg" id="RM1_186" data-flag="@X" onclick="openSidebar('RM1_186',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\11.jpg" id="RM1_11" data-flag="@X" onclick="openSidebar('RM1_11',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\275.jpg" id="RM1_275" data-flag="@X" onclick="openSidebar('RM1_275',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\246.jpg" id="RM1_246" data-flag="@X" onclick="openSidebar('RM1_246',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\215.jpg" id="RM1_215" data-flag="@X" onclick="openSidebar('RM1_215',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\183.jpg" id="RM1_183" data-flag="@X" onclick="openSidebar('RM1_183',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\3.jpg" id="RM1_3" data-flag="@X" onclick="openSidebar('RM1_3',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\13.jpg" id="RM1_13" data-flag="@X" onclick="openSidebar('RM1_13',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\14.jpg" id="RM1_14" data-flag="@X" onclick="openSidebar('RM1_14',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\217.jpg" id="RM1_217" data-flag="@X" onclick="openSidebar('RM1_217',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\190.jpg" id="RM1_190" data-flag="@X" onclick="openSidebar('RM1_190',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\12.jpg" id="RM1_12" data-flag="@X" onclick="openSidebar('RM1_12',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\280.jpg" id="RM1_280" data-flag="@X" onclick="openSidebar('RM1_280',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\242.jpg" id="RM1_242" data-flag="@X" onclick="openSidebar('RM1_242',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\211.jpg" id="RM1_211" data-flag="@X" onclick="openSidebar('RM1_211',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\181.jpg" id="RM1_181" data-flag="@X" onclick="openSidebar('RM1_181',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\10.jpg" id="RM1_10" data-flag="@X" onclick="openSidebar('RM1_10',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\277.jpg" id="RM1_277" data-flag="@X" onclick="openSidebar('RM1_277',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\253.jpg" id="RM1_253" data-flag="@X" onclick="openSidebar('RM1_253',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\221.jpg" id="RM1_221" data-flag="@X" onclick="openSidebar('RM1_221',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\16.jpg" id="RM1_16" data-flag="@X" onclick="openSidebar('RM1_16',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RM1_er" data-flag="@E" onclick="openSidebar('RM1_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RM1_er" data-flag="@E" onclick="openSidebar('RM1_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RM1_er" data-flag="@E" onclick="openSidebar('RM1_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RM1_er" data-flag="@E" onclick="openSidebar('RM1_er',false)"></div>
+				<div id="gold" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\121.jpg" id="RM1_121" data-flag="@X" onclick="openSidebar('RM1_121',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\135.jpg" id="RM1_135" data-flag="@X" onclick="openSidebar('RM1_135',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\123.jpg" id="RM1_123" data-flag="@X" onclick="openSidebar('RM1_123',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\137.jpg" id="RM1_137" data-flag="@X" onclick="openSidebar('RM1_137',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\136.jpg" id="RM1_136" data-flag="@X" onclick="openSidebar('RM1_136',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\23.jpg" id="RM1_23" data-flag="@X" onclick="openSidebar('RM1_23',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\122.jpg" id="RM1_122" data-flag="@X" onclick="openSidebar('RM1_122',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\34.jpg" id="RM1_34" data-flag="@X" onclick="openSidebar('RM1_34',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\35.jpg" id="RM1_35" data-flag="@X" onclick="openSidebar('RM1_35',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\124.jpg" id="RM1_124" data-flag="@X" onclick="openSidebar('RM1_124',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\32.jpg" id="RM1_32" data-flag="@X" onclick="openSidebar('RM1_32',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\24.jpg" id="RM1_24" data-flag="@X" onclick="openSidebar('RM1_24',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\66.jpg" id="RM1_66" data-flag="@X" onclick="openSidebar('RM1_66',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\105.jpg" id="RM1_105" data-flag="@X" onclick="openSidebar('RM1_105',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\68.jpg" id="RM1_68" data-flag="@X" onclick="openSidebar('RM1_68',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\64.jpg" id="RM1_64" data-flag="@X" onclick="openSidebar('RM1_64',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\33.jpg" id="RM1_33" data-flag="@X" onclick="openSidebar('RM1_33',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\25.jpg" id="RM1_25" data-flag="@X" onclick="openSidebar('RM1_25',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\67.jpg" id="RM1_67" data-flag="@X" onclick="openSidebar('RM1_67',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\288.jpg" id="RM1_288" data-flag="@X" onclick="openSidebar('RM1_288',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RM1_e" data-flag="@E" onclick="openSidebar('RM1_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\65.jpg" id="RM1_65" data-flag="@X" onclick="openSidebar('RM1_65',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RM1_e" data-flag="@E" onclick="openSidebar('RM1_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\26.jpg" id="RM1_26" data-flag="@X" onclick="openSidebar('RM1_26',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\36.jpg" id="RM1_36" data-flag="@X" onclick="openSidebar('RM1_36',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RM1_er" data-flag="@E" onclick="openSidebar('RM1_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RM1_er" data-flag="@E" onclick="openSidebar('RM1_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RM1_er" data-flag="@E" onclick="openSidebar('RM1_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RM1_er" data-flag="@E" onclick="openSidebar('RM1_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RM1_er" data-flag="@E" onclick="openSidebar('RM1_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\112.jpg" id="RM1_112" data-flag="@X" onclick="openSidebar('RM1_112',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\126.jpg" id="RM1_126" data-flag="@X" onclick="openSidebar('RM1_126',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\134.jpg" id="RM1_134" data-flag="@X" onclick="openSidebar('RM1_134',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\111.jpg" id="RM1_111" data-flag="@X" onclick="openSidebar('RM1_111',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\129.jpg" id="RM1_129" data-flag="@X" onclick="openSidebar('RM1_129',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\125.jpg" id="RM1_125" data-flag="@X" onclick="openSidebar('RM1_125',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\38.jpg" id="RM1_38" data-flag="@X" onclick="openSidebar('RM1_38',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\127.jpg" id="RM1_127" data-flag="@X" onclick="openSidebar('RM1_127',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\128.jpg" id="RM1_128" data-flag="@X" onclick="openSidebar('RM1_128',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\41.jpg" id="RM1_41" data-flag="@X" onclick="openSidebar('RM1_41',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\69.jpg" id="RM1_69" data-flag="@X" onclick="openSidebar('RM1_69',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\289.jpg" id="RM1_289" data-flag="@X" onclick="openSidebar('RM1_289',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\70.jpg" id="RM1_70" data-flag="@X" onclick="openSidebar('RM1_70',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\71.jpg" id="RM1_71" data-flag="@X" onclick="openSidebar('RM1_71',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\31.jpg" id="RM1_31" data-flag="@X" onclick="openSidebar('RM1_31',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\37.jpg" id="RM1_37" data-flag="@X" onclick="openSidebar('RM1_37',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\28.jpg" id="RM1_28" data-flag="@X" onclick="openSidebar('RM1_28',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\39.jpg" id="RM1_39" data-flag="@X" onclick="openSidebar('RM1_39',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\40.jpg" id="RM1_40" data-flag="@X" onclick="openSidebar('RM1_40',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\72.jpg" id="RM1_72" data-flag="@X" onclick="openSidebar('RM1_72',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\27.jpg" id="RM1_27" data-flag="@X" onclick="openSidebar('RM1_27',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RM1_e" data-flag="@E" onclick="openSidebar('RM1_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\29.jpg" id="RM1_29" data-flag="@X" onclick="openSidebar('RM1_29',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\30.jpg" id="RM1_30" data-flag="@X" onclick="openSidebar('RM1_30',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RM1_e" data-flag="@E" onclick="openSidebar('RM1_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RM1_er" data-flag="@E" onclick="openSidebar('RM1_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RM1_er" data-flag="@E" onclick="openSidebar('RM1_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RM1_er" data-flag="@E" onclick="openSidebar('RM1_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RM1_er" data-flag="@E" onclick="openSidebar('RM1_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RM1_er" data-flag="@E" onclick="openSidebar('RM1_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\116.jpg" id="RM1_116" data-flag="@X" onclick="openSidebar('RM1_116',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\130.jpg" id="RM1_130" data-flag="@X" onclick="openSidebar('RM1_130',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\133.jpg" id="RM1_133" data-flag="@X" onclick="openSidebar('RM1_133',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\131.jpg" id="RM1_131" data-flag="@X" onclick="openSidebar('RM1_131',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\132.jpg" id="RM1_132" data-flag="@X" onclick="openSidebar('RM1_132',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RM1_er" data-flag="@E" onclick="openSidebar('RM1_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RM1_er" data-flag="@E" onclick="openSidebar('RM1_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RM1_er" data-flag="@E" onclick="openSidebar('RM1_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RM1_er" data-flag="@E" onclick="openSidebar('RM1_er',false)"></div>
+				<div id="colorless" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\117.jpg" id="RM1_117" data-flag="@X" onclick="openSidebar('RM1_117',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\141.jpg" id="RM1_141" data-flag="@X" onclick="openSidebar('RM1_141',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\106.jpg" id="RM1_106" data-flag="@X" onclick="openSidebar('RM1_106',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\109.jpg" id="RM1_109" data-flag="@X" onclick="openSidebar('RM1_109',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\107.jpg" id="RM1_107" data-flag="@X" onclick="openSidebar('RM1_107',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\108.jpg" id="RM1_108" data-flag="@X" onclick="openSidebar('RM1_108',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\150.jpg" id="RM1_150" data-flag="@X" onclick="openSidebar('RM1_150',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\98.jpg" id="RM1_98" data-flag="@X" onclick="openSidebar('RM1_98',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\101.jpg" id="RM1_101" data-flag="@X" onclick="openSidebar('RM1_101',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\100.jpg" id="RM1_100" data-flag="@X" onclick="openSidebar('RM1_100',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\99.jpg" id="RM1_99" data-flag="@X" onclick="openSidebar('RM1_99',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\103.jpg" id="RM1_103" data-flag="@X" onclick="openSidebar('RM1_103',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\104.jpg" id="RM1_104" data-flag="@X" onclick="openSidebar('RM1_104',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\102.jpg" id="RM1_102" data-flag="@X" onclick="openSidebar('RM1_102',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\62.jpg" id="RM1_62" data-flag="@X" onclick="openSidebar('RM1_62',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\61.jpg" id="RM1_61" data-flag="@X" onclick="openSidebar('RM1_61',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\83.jpg" id="RM1_83" data-flag="@X" onclick="openSidebar('RM1_83',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\60.jpg" id="RM1_60" data-flag="@X" onclick="openSidebar('RM1_60',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\22.jpg" id="RM1_22" data-flag="@X" onclick="openSidebar('RM1_22',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RM1_e" data-flag="@E" onclick="openSidebar('RM1_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RM1_er" data-flag="@E" onclick="openSidebar('RM1_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RM1_er" data-flag="@E" onclick="openSidebar('RM1_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RM1_er" data-flag="@E" onclick="openSidebar('RM1_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RM1_er" data-flag="@E" onclick="openSidebar('RM1_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RM1_er" data-flag="@E" onclick="openSidebar('RM1_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\90.jpg" id="RM1_90" data-flag="@X" onclick="openSidebar('RM1_90',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\88.jpg" id="RM1_88" data-flag="@X" onclick="openSidebar('RM1_88',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\97.jpg" id="RM1_97" data-flag="@X" onclick="openSidebar('RM1_97',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\89.jpg" id="RM1_89" data-flag="@X" onclick="openSidebar('RM1_89',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\91.jpg" id="RM1_91" data-flag="@X" onclick="openSidebar('RM1_91',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\79.jpg" id="RM1_79" data-flag="@X" onclick="openSidebar('RM1_79',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\74.jpg" id="RM1_74" data-flag="@X" onclick="openSidebar('RM1_74',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\80.jpg" id="RM1_80" data-flag="@X" onclick="openSidebar('RM1_80',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\82.jpg" id="RM1_82" data-flag="@X" onclick="openSidebar('RM1_82',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\75.jpg" id="RM1_75" data-flag="@X" onclick="openSidebar('RM1_75',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RM1_er" data-flag="@E" onclick="openSidebar('RM1_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RM1_er" data-flag="@E" onclick="openSidebar('RM1_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RM1_er" data-flag="@E" onclick="openSidebar('RM1_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RM1_er" data-flag="@E" onclick="openSidebar('RM1_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RM1_er" data-flag="@E" onclick="openSidebar('RM1_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\93.jpg" id="RM1_93" data-flag="@X" onclick="openSidebar('RM1_93',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\92.jpg" id="RM1_92" data-flag="@X" onclick="openSidebar('RM1_92',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\95.jpg" id="RM1_95" data-flag="@X" onclick="openSidebar('RM1_95',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\94.jpg" id="RM1_94" data-flag="@X" onclick="openSidebar('RM1_94',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\96.jpg" id="RM1_96" data-flag="@X" onclick="openSidebar('RM1_96',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\76.jpg" id="RM1_76" data-flag="@X" onclick="openSidebar('RM1_76',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\78.jpg" id="RM1_78" data-flag="@X" onclick="openSidebar('RM1_78',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\77.jpg" id="RM1_77" data-flag="@X" onclick="openSidebar('RM1_77',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\81.jpg" id="RM1_81" data-flag="@X" onclick="openSidebar('RM1_81',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\73.jpg" id="RM1_73" data-flag="@X" onclick="openSidebar('RM1_73',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RM1_er" data-flag="@E" onclick="openSidebar('RM1_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RM1_er" data-flag="@E" onclick="openSidebar('RM1_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RM1_er" data-flag="@E" onclick="openSidebar('RM1_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RM1_er" data-flag="@E" onclick="openSidebar('RM1_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RM1_er" data-flag="@E" onclick="openSidebar('RM1_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\87.jpg" id="RM1_87" data-flag="@X" onclick="openSidebar('RM1_87',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\85.jpg" id="RM1_85" data-flag="@X" onclick="openSidebar('RM1_85',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\84.jpg" id="RM1_84" data-flag="@X" onclick="openSidebar('RM1_84',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\86.jpg" id="RM1_86" data-flag="@X" onclick="openSidebar('RM1_86',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RM1-files\img\63.jpg" id="RM1_63" data-flag="@X" onclick="openSidebar('RM1_63',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RM1_er" data-flag="@E" onclick="openSidebar('RM1_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RM1_er" data-flag="@E" onclick="openSidebar('RM1_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RM1_er" data-flag="@E" onclick="openSidebar('RM1_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RM1_er" data-flag="@E" onclick="openSidebar('RM1_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RM1_er" data-flag="@E" onclick="openSidebar('RM1_er',false)"></div>
+	</div>
+	</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch(rootPath + '/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch(rootPath + '/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+				let all_tags = new Set();
+				card_list_arrayified.forEach(card => {
+					if (card.notes) {
+						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
+						for (const match of tagMatches) {
+							all_tags.add(match[1]);
+						}
+					}
+				});
+
+				const searchInput = document.getElementById("search");
+				const tagDropdown = document.getElementById("tag-dropdown");
+
+				// Create a mirror element for position calculation
+				const mirror = document.createElement("div");
+				Object.assign(mirror.style, {
+					position: "absolute",
+					visibility: "hidden",
+					whiteSpace: "pre",
+					font: getComputedStyle(searchInput).font,
+					padding: "0", // No padding for pure text measurement
+					border: "none",
+					boxSizing: "content-box"
+				});
+				document.body.appendChild(mirror);
+
+				if (searchInput && tagDropdown) {
+					tagDropdown.style.width = "auto";
+					tagDropdown.style.minWidth = "75px";
+					tagDropdown.style.maxWidth = "300px";
+					tagDropdown.style.maxHeight = "200px";
+					tagDropdown.style.overflowY = "auto";
+
+					const updateDropdown = function() {
+						const value = searchInput.value;
+						const cursorPosition = searchInput.selectionStart;
+						
+						// Find the tag: prefix immediately preceding the cursor
+						const lastTagIndex = value.substring(0, cursorPosition).lastIndexOf("tag:");
+						
+						if (lastTagIndex !== -1) {
+							const queryStart = lastTagIndex + 4;
+							const query = value.substring(queryStart, cursorPosition);
+							
+							if (!query.includes(" ")) {
+								const filteredTags = Array.from(all_tags).filter(tag => tag.toLowerCase().startsWith(query.toLowerCase())).sort();
+								if (filteredTags.length > 0) {
+									tagDropdown.innerHTML = "";
+									filteredTags.forEach(tag => {
+										const div = document.createElement("div");
+										div.innerText = tag;
+										div.style.padding = "5px 10px";
+										div.style.cursor = "pointer";
+										div.style.whiteSpace = "nowrap";
+										div.onmouseover = () => div.style.background = "#f0f0f0";
+										div.onmouseout = () => div.style.background = "white";
+										div.onclick = () => {
+											const newValue = value.substring(0, queryStart) + tag + " " + value.substring(cursorPosition);
+											searchInput.value = newValue;
+											tagDropdown.style.display = "none";
+											searchInput.focus();
+											const newCursorPos = queryStart + tag.length + 1;
+											searchInput.setSelectionRange(newCursorPos, newCursorPos);
+										};
+										tagDropdown.appendChild(div);
+									});
+
+									// Calculate position
+									mirror.textContent = value.substring(0, lastTagIndex + 4);
+									const textWidth = mirror.getBoundingClientRect().width;
+									const inputPaddingLeft = parseFloat(getComputedStyle(searchInput).paddingLeft) || 0;
+									
+									tagDropdown.style.left = Math.min(textWidth + inputPaddingLeft, searchInput.offsetWidth - tagDropdown.offsetWidth) + "px";
+									tagDropdown.style.display = "block";
+									return;
+								}
+							}
+						}
+						tagDropdown.style.display = "none";
+					};
+
+					searchInput.addEventListener("input", updateDropdown);
+					searchInput.addEventListener("click", updateDropdown);
+					searchInput.addEventListener("keyup", updateDropdown);
+
+					document.addEventListener("click", function(e) {
+						if (e.target !== searchInput && e.target !== tagDropdown) {
+							tagDropdown.style.display = "none";
+						}
+					});
+				}
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = rootPath + '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = rootPath + '/' + img.alt;
+				if (img.dataset.alt_src) {
+					img.dataset.alt_src = rootPath + '/' + img.dataset.alt_src;
+				}
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		const img = document.getElementById(num);
+		const seconds = 0.2;
+		const rotated_img = document.getElementById('sidebar_h_img');
+
+        img.style.transition = seconds.toString() + "s";
+        img.style.transform = "rotateY(90deg)";
+
+        if (num == 'sidebar_img')
+		{
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(90deg) rotate(90deg)";
+
+           		if (rotated_img.style.opacity != "0") {
+		            setTimeout(() => {
+		                rotated_img.style.opacity = "0";
+		                img.style.filter = "none";
+		            }, (seconds / 2) * 1000);
+		        }
+		        else {
+		        	setTimeout(() => {
+		                rotated_img.style.opacity = "1";
+		                img.style.filter = "blur(2px) brightness(0.7)";
+		            }, (seconds / 2) * 1000);
+		        }
+            }
+		}
+
+         setTimeout(function() {
+            tmp = document.getElementById(num).src;
+			document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+			document.getElementById(num).dataset.alt_src = tmp;
+
+            img.style.transition = seconds.toString() + "s";
+            img.style.transform = "rotateY(0deg)";
+
+            if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(0deg) rotate(90deg)";
+            }
+        }, seconds * 1000);
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.style.transition = "none";
+		rotated_img.style.transition = "none";
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.opacity = "1";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.opacity = "0";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	function rolldown() {
+		dropdown.style.gridTemplateColumns = "repeat(3, 1fr)";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "auto";
+			set.style.margin = "5px";
+		}
+	}
+
+	function rollup() {
+		dropdown.style.gridTemplateColumns = "1fr";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "0px";
+			set.style.margin = "0px 5px";
+		}
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL(rootPath + '/search', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url.pathname + url.search;
+	}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+
+				window.location.href = url.pathname + url.search;
+			}
+	</script>
+</body>
+</html>

@@ -1,0 +1,5002 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>RM1</name>
+			<longname>Revolution Masters</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-08-06</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Binding Whisper</name>
+			<text>Flash
+Multitude {3}{W}{W} (You may cast this for {3}{W}{W}. When you do, copy it.)
+Flying
+When this creature enters, tap target creature you don&apos;t control.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/0.jpg" num="3">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bravewing Hero</name>
+			<text>Flying
+Whenever another creature you control enters, you may have this creature dare 2. (It becomes a legendary Rebel with base power and toughness 2/2 in addition to its other types until end of turn.)</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/1.jpg" num="4">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Courtless Spiritcaller</name>
+			<text>When this creature enters, create a 1/1 white Spirit creature token with flying.
+{4}{W}, Sacrifice this creature: Create two 1/1 white Spirit creature tokens with flying.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/2.jpg" num="9">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Silver Rose Visionary</name>
+			<text>When this creature enters, draw a card.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/3.jpg" num="34">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cliffwalker</name>
+			<text>When this creature enters, return a permanent you control to its owner&apos;s hand.
+Wander {1}{W} (You may cast this from the battlefield for its wander cost.)</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/4.jpg" num="7">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dazzling Noble</name>
+			<text>When this creature enters, crystallize. (Put a +1/+1 counter on a creature you control or create a Treasure token.)</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/5.jpg" num="10">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Paladin of the Crownguard</name>
+			<text>When this creature enters, you gain 3 life.
+This creature has first strike as long as it&apos;s your turn.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/6.jpg" num="24">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mokar Warband</name>
+			<text>Vigilance
+Whenever this creature attacks, create a 1/1 white Human creature token that&apos;s attacking. (It&apos;s untapped.)</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/7.jpg" num="18">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Griffin Taming</name>
+			<text>Enchant creature
+When this Aura enters, create a 1/1 white Nomad creature token with vigilance.
+Enchanted creature gets +1/+1 and has flying.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/8.jpg" num="17">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Omen of Victory</name>
+			<text>Flash
+When this enchantment enters, create a 0/0 white Army creature token, then put two +1/+1 counters on it.
+{2}{W}, Sacrifice this enchantment: Scry 2.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/9.jpg" num="21">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Walk the Dead&apos;s Path</name>
+			<text>Choose one —
+• Walk the Dead&apos;s Path deals 3 damage to target attacking or blocking creature.
+• Destroy target enchantment.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/10.jpg" num="39">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sealing Strike</name>
+			<text>When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/11.jpg" num="33">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Survey What&apos;s Left</name>
+			<text>Exile two target creatures, enchantments, and/or lands you control, then return those cards to the battlefield under their owner&apos;s control.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/12.jpg" num="35">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Skyward Magus</name>
+			<text>Whenever you cast an instant or sorcery spell, this creature gets +1/+1 and gains flying until end of turn.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/13.jpg" num="69">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tartok Wanderer</name>
+			<text>When this creature dies, create a 1/1 black Spirit creature token with flying.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/14.jpg" num="111">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Glitch Out</name>
+			<text>Glitch Out deals X plus 1 damage to target creature.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/15.jpg" num="132">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XR</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Wildcourt Conserver</name>
+			<text>Multitude {4}{G}{G} (You may cast this for {4}{G}{G}. When you do, copy it.)
+Whenever a token you control enters, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/16.jpg" num="190">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Transcendent Effigy</name>
+			<text>Defender, reach
+{1}, {T}: You gain 1 life.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/22.jpg" num="260">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Social Engineering</name>
+			<text>Return target creature to its owner&apos;s hand. If you controlled it, create a token that&apos;s a copy of it. Otherwise, create a 0/0 colorless Robot artifact creature token with a +1/+1 counter on it.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/23.jpg" num="223">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Clutch of the Pale Moon</name>
+			<text>Return up to one target creature card from your graveyard to the battlefield, then return up to one target noncreature card from your graveyard to your hand. Exile Clutch of the Pale Moon.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/24.jpg" num="198">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4UB</manacost>
+				<cmc>6</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Skophos Conqueror</name>
+			<text>As an additional cost to cast this spell, sacrifice a creature.
+When this creature enters, draw a card. This creature deals 2 damage to each opponent.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/25.jpg" num="242">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Minotaur Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2B/R</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Proletarian Rabble</name>
+			<text>Trample, haste</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/26.jpg" num="241">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>3R/G</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>4/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Escorted Captain</name>
+			<text>When this creature enters or dies, create a 1/1 colorless Cyborg artifact creature token.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/27.jpg" num="235">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2W/B</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Possibility Savant</name>
+			<text>Noncreature spells you cast cost {1} less to cast.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/28.jpg" num="240">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Minotaur Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1U/RU/R</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lonesome Afterimage</name>
+			<text>When this creature enters, mill two cards.
+{2}{BG}{BG}, Exile this card from your graveyard: Return target creature or enchantment card from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/29.jpg" num="238">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>2B/G</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Catch Constable</name>
+			<text>{2}{RW}: This creature gets +2/+0 until end of turn.
+When this creature dies, create a 1/1 white Citizen creature token.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/30.jpg" num="233">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>R/W</manacost>
+				<cmc>1</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sparkling Serpent</name>
+			<text>When this creature enters, if four or more colors of mana were spent to cast it, crystallize. (Put a +1/+1 counter on a creature you control or create a Treasure token.)
+Whenever you cast a spell, if four or more colors of mana were spent to cast it, crystallize.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/31.jpg" num="224">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Serpent</type>
+				<maintype>Creature</maintype>
+				<manacost>4GU</manacost>
+				<cmc>6</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>7/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ukina, Aethersong Basker</name>
+			<text>When Ukina enters, create a 1/1 blue Bird creature token with flying.
+Flow — {5}{WU}: Look at the top two cards of your library. Put one into your hand and the other on the bottom of your library. (Each creature you tap while activating pays for {1}.)</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/32.jpg" num="229">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ghastly Spirit</name>
+			<text>Flying
+When this creature enters, mill four cards, then return a nonland card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/33.jpg" num="210">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Creation&apos;s Combustion</name>
+			<text>As an additional cost to cast this spell, sacrifice an artifact or creature, or pay 3 life.
+Destroy target creature or planeswalker.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/34.jpg" num="203">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Nesting Hellkite</name>
+			<text>Flying
+When this creature enters, create an 0/1 green Egg creature token with defender and &quot;When this creature dies, reveal cards from the top of your library until you reveal a Dragon creature card. Put that card onto the battlefield and the rest on the bottom of your library in a random order.&quot;</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/35.jpg" num="217">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>4RG</manacost>
+				<cmc>6</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Estrathian Philanthropist</name>
+			<text>Lifelink
+When this creature enters, put a +1/+1 counter on target creature.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/36.jpg" num="236">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>2G/W</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pero, Puppet of Erebos</name>
+			<text>Flying, lifelink
+Whenever a creature dies, put a +1/+1 counter on Pero, Puppet of Erebos, then each player loses 1 life.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/37.jpg" num="218">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment Creature — Demigod</type>
+				<maintype>Creature</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Android Stunner</name>
+			<text>Flying
+Whenever you amp it up, Android Stunner deals 1 damage to any target. If a permanent was dealt damage this way, tap it and put a stun counter on it. (You amp it up by casting your second spell each turn and/or by attacking with three or more creatures.)</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/38.jpg" num="193">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Faerie</type>
+				<maintype>Creature</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sporeback Jargah</name>
+			<text>As an additional cost to cast this spell, exile any number of permanent cards from your graveyard. This spell costs less {1} to cast for each card exiled this way.
+Deathtouch
+When this creature dies, return a card exiled with it of an opponent&apos;s choice to its owner&apos;s hand.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/39.jpg" num="227">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fungus Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>4BG</manacost>
+				<cmc>6</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Breakbot</name>
+			<text>Haste
+Whenever you amp it up, put a +1/+1 counter on this creature. It gains first strike until end of turn. (You amp it up by casting your second spell each turn and/or by attacking with three or more creatures.)</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/40.jpg" num="196">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Coalition Encampment</name>
+			<text>Enchant land
+Whenever enchanted land is tapped for mana, its controller adds an additional mana of any color.
+{3}{G}{U}: You gain 2 life and draw a card.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/41.jpg" num="199">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Getaway Proxy</name>
+			<text>Flash
+When this creature enters, you may choose another creature you control. Move any number of counters from that creature onto this creature. Attach to this creature any number of Auras that are attached to that creature. Then return that creature to its owner&apos;s hand.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/42.jpg" num="16">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ofuda Mistress</name>
+			<text>Whenever this creature becomes tapped, exile up to one target card from an opponent&apos;s graveyard.
+{3}{W}, {T}: Create a 1/1 white Monk creature token with vigilance.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/43.jpg" num="20">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Overbearing Researcher</name>
+			<text>When this creature enters, put a +1/+1 counter on target creature.
+Each creature you control has ward {X}, where X is the number of counters on that creature.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/44.jpg" num="22">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Riftguard Knight</name>
+			<text>First strike, vigilance
+Ward—Tap an untapped creature you control. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player taps an untapped creature they control.)</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/45.jpg" num="31">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Screeching Grauku</name>
+			<text>Flying
+Creatures you control with base power 1 or less get +1/+0.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/46.jpg" num="32">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Griffin Elk</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Overwhelmed Sentry</name>
+			<text>Vigilance
+When this creature dies, create two 1/1 white Warrior creature tokens.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/47.jpg" num="23">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cecile&apos;s Suppressor</name>
+			<text>Each player can&apos;t cast more than one spell or activate more than one activated ability that isn&apos;t a mana ability each turn.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/48.jpg" num="6">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thundermane Fox</name>
+			<text>Flash
+Whenever this creature enters or attacks, target creature you control gains double strike until end of turn.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/49.jpg" num="37">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fox</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Qhan&apos;Arai Banisher</name>
+			<text>When this creature enters, exile up to one target creature with power 3 or greater.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/50.jpg" num="27">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Prevail</name>
+			<text>Choose any target. The next time damage would be dealt to it this turn, prevent that damage.
+Scry 1.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/51.jpg" num="26">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Symbol of Hope</name>
+			<text>When this artifact enters, create two 1/1 white Soldier creature tokens with lifelink.
+Creatures you control get +1/+1 as long as you&apos;ve had a creature you control enter this turn.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/52.jpg" num="36">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Shaman of Rime&apos;s Fury</name>
+			<text>When this creature enters, create a 0/0 colorless Spirit creature token. Put a number of +1/+1 counters on that token equal to the total number of instant and/or sorcery cards you own in exile and in your graveyard.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/53.jpg" num="67">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Afterlife Augur</name>
+			<text>{1}{B}, {T}, Sacrifice this creature:
+Return target creature card from your graveyard to the battlefield. It can&apos;t block this turn.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/54.jpg" num="78">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Minion</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cartel Muscle</name>
+			<text>Whenever you disturb the peace, this creature deals 2 damage to each opponent. (Casting a spell on an opponent&apos;s turn and one or more creatures dealing combat damage to an opponent disturb the peace.)</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/55.jpg" num="122">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Azra Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dawnglade Wildbear</name>
+			<text>Trample
+Whenever this creature deals combat damage to a player, return a permanent you control to its owner&apos;s hand.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/56.jpg" num="158">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bear Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Drift Off</name>
+			<text>Multitude {4}{W}{W} (You may cast this for {4}{W}{W}. When you do, copy it.)
+When this enchantment enters, exile target nonland permanent you don&apos;t control until this enchantment leaves the battlefield.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/57.jpg" num="12">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Event Horizon</name>
+			<text>Exile target nonland permanent if its mana value is less than or equal to the greatest number of nonland permanents controlled by a single player.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/58.jpg" num="13">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Course of Correction</name>
+			<text>When this Rift enters or is traversed, you gain 3 life if you have less life than an opponent. If you control fewer creatures than an opponent, create two tapped 1/1 colorless Reflection creature tokens. If you have fewer cards in hand than an opponent, draw a card.
+Traverse 3 (Tap any number of creatures you control with total power 3 or more: Traverse this Rift, then sacrifice it. Traverse only as a sorcery.)</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/59.jpg" num="8">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Rift</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Tracker&apos;s Cigar</name>
+			<text>When this Equipment enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+Equipped creature gets +1/+1.
+Equip {1}</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/60.jpg" num="259">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Colossus of Trax</name>
+			<text>This spell costs less to cast, where X is your greatest devotion to a single color. (Each colored mana symbol in the mana costs of permanents you control count towards devotion to that color.)
+Menace</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/61.jpg" num="245">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>7</manacost>
+				<cmc>7</cmc>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Chroma Collector</name>
+			<text>This creature gets +1/+1 for each color among permanents you control.
+{2}: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/62.jpg" num="244">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Haven of the Wild Ones</name>
+			<text>Vigilance
+{T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+Spellcharge 2 (At the beginning of combat on your turn, if you&apos;ve spent at least two mana to cast spells this turn, you may have this become a land creature until end of turn.)</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/63.jpg" num="269">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Ruin</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Daemonmage</name>
+			<text>When this creature enters, create a 2/2 blue Bird enchantment creature token with flying.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/64.jpg" num="234">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2W/UW/U</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Phantom_Interrupt</name>
+			<text>Flash
+{1}{UB}, Discard this card: Surveil 1, then draw a card.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/65.jpg" num="239">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Error</type>
+				<maintype>Creature</maintype>
+				<manacost>5U/BU/B</manacost>
+				<cmc>7</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Devoted Lackeys</name>
+			<text>Deathtouch
+When you sacrifice this creature as a cost to cast a spell or activate an ability that isn&apos;t a mana ability, copy that spell or ability. You may choose new targets for the copy. (A copy of a permanent spell becomes a token.)</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/66.jpg" num="205">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Assassin</type>
+				<maintype>Creature</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Speaker of Endless Winter</name>
+			<text>{T}: Add one mana of any color.
+At the beginning of combat on your turn, if you&apos;ve spent at least five mana to cast spells this turn, untap this creature and put a +1/+1 counter on it.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/67.jpg" num="226">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Yeti Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Collector of the Lost</name>
+			<text>Multitude {4}{G}{W} (You may cast this for {4}{G}{W}. When you do, copy it.)
+Creature tokens you control get +1/+1 and have vigilance.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/68.jpg" num="200">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Half-Heart&apos;s Claim</name>
+			<text>(Whenever you attack, put a strategy counter on one of this card&apos;s modes. Sacrifice it after all are marked.)
+When this Campaign enters, each opponent loses 3 life and you gain 3 life.
+I — Return target creature card with mana value 3 or less from your graveyard to the battlefield.
+II — You may sacrifice a creature. When you do, destroy target nonland permanent with mana value 3 or less.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/69.jpg" num="211">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Campaign</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Commune with the Veil</name>
+			<text>Surveil 1. When you do, return target card from your graveyard to your hand. Exile Commune with the Veil.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/70.jpg" num="201">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Assemble the Mob</name>
+			<text>Create two 1/1 red Soldier creature tokens.
+Revolt — If a permanent you controlled left the battlefield this turn, those tokens get +1/+1 and gain haste until end of turn.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/71.jpg" num="195">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Imposing Serpent</name>
+			<text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+This creature enters with X +1/+1 counters on it.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/72.jpg" num="237">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Serpent</type>
+				<maintype>Creature</maintype>
+				<manacost>XG/U</manacost>
+				<cmc>1</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Chimeric Soulpace</name>
+			<text>({T}: Add {G} or {U}.)
+This land enters tapped.
+{2}{G}{U}, {T}: Surveil 1.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/73.jpg" num="263">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Forest Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Eidetic Soulspace</name>
+			<text>({T}: Add {U} or {B}.)
+This land enters tapped.
+{2}{U}{B}, {T}: Surveil 1.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/74.jpg" num="264">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Island Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Hopeful Soulspace</name>
+			<text>({T}: Add {G} or {W}.)
+This land enters tapped.
+{2}{G}{W}, {T}: Surveil 1.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/75.jpg" num="270">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Forest Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Lonely Soulspace</name>
+			<text>({T}: Add {W} or {B}.)
+This land enters tapped.
+{2}{W}{B}, {T}: Surveil 1.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/76.jpg" num="272">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Plains Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Macabre Soulspace</name>
+			<text>({T}: Add {B} or {G}.)
+This land enters tapped.
+{2}{B}{G}, {T}: Surveil 1.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/77.jpg" num="273">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Swamp Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Nostalgic Soulspace</name>
+			<text>({T}: Add {U} or {R}.)
+This land enters tapped.
+{2}{U}{R}, {T}: Surveil 1.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/78.jpg" num="277">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Island Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Soaring Soulspace</name>
+			<text>({T}: Add {W} or {U}.)
+This land enters tapped.
+{2}{W}{U}, {T}: Surveil 1.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/79.jpg" num="280">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Plains Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Vindictive Soulspace</name>
+			<text>({T}: Add {B} or {R}.)
+This land enters tapped.
+{2}{B}{R}, {T}: Surveil 1.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/80.jpg" num="284">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Swamp Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Zealous Soulspace</name>
+			<text>({T}: Add {R} or {W}.)
+This land enters tapped.
+{2}{R}{W}, {T}: Surveil 1.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/81.jpg" num="285">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Mountain Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Footloose Soulspace</name>
+			<text>({T}: Add {R} or {G}.)
+This land enters tapped.
+{2}{R}{G}, {T}: Surveil 1.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/82.jpg" num="266">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Mountain Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Monument to the Thirty</name>
+			<text>(Mastered by Curator of Myth.)
+This Monument enters tapped.
+{T}: Add X mana of any one color, where X is the number of Monuments you control.
+A deck can have up to thirty cards named Monument to the Thirty.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/83.jpg" num="254">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Monument</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Primal Fissure</name>
+			<text>This land enters tapped unless you control two or fewer other lands.
+{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/84.jpg" num="278">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Gilded Court</name>
+			<text>{T}: Add {C}.
+{T}: Choose a basic land type. This land gains that type. (This effect lasts indefinitely.)</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/85.jpg" num="268">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Timeworn Crags</name>
+			<text>{T}: Add {C}.
+{4}, {T}, Sacrifice this land: Destroy target nonbasic land. This ability costs {1} less to activate for each nonbasic land you don&apos;t control.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/86.jpg" num="282">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Steadfast Gatekeepers</name>
+			<text>Vigilance
+{T}: Add {C}.
+{T}: Add {C}{C}. Activate only if this Ruin is a creature.
+Spellcharge 3 (At the beginning of combat on your turn, if you&apos;ve spent at least three mana to cast spells this turn, you may have this become a land creature until end of turn.)</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/87.jpg" num="281">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Ruin</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Ephemeral Mire</name>
+			<text>This land enters tapped.
+{T}: Add {U} or {B}.
+{4}{UB}: Until end of turn, this land becomes a 3/2 black and blue Horror creature and can&apos;t be blocked. It&apos;s still a land. This ability costs {X} less to activate, where X is your devotion to blue and black. Activate only once each turn.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/88.jpg" num="265">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Nessian Woods</name>
+			<text>This land enters tapped.
+{T}: Add {R} or {G}.
+{6}{RG}: This land becomes a 5/4 red and green Dryad creature with trample until end of turn. It&apos;s still a land. This ability costs {X} less to activate, where X is your devotion to red and green. Activate only once each turn.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/89.jpg" num="275">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Hundred-Handed Pillars</name>
+			<text>This land enters tapped.
+{T}: Add {W} or {U}.
+{7}{WU}: This land becomes a 4/6 white and blue Giant creature with vigilance until end of turn. It&apos;s still a land. This ability costs {X} less to activate, where X is your devotion to white and blue. Activate only once each turn.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/90.jpg" num="271">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Buried Colossus</name>
+			<text>This land enters tapped.
+{T}: Add {G} or {W}.
+{8}{GW}: This land becomes a 8/8 green and white Cyclops creature until end of turn. It&apos;s still a land. This ability costs {X} less to activate, where X is your devotion to green and white. Activate only once each turn.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/91.jpg" num="262">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Nimbus of Thought</name>
+			<text>This land enters tapped.
+{T}: Add {U} or {R}.
+{4}{UR}: Until end of turn, this land becomes a 3/3 blue and red Elemental creature with &quot;Whenever this creature becomes tapped, you may discard a card. If you do, draw a card.&quot; It&apos;s still a land. This ability costs less to activate, where X is your devotion to blue and red. Activate only once each turn.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/92.jpg" num="276">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Gates to the Underworld</name>
+			<text>This land enters tapped.
+{T}: Add {W} or {B}.
+{5}{WB}: This land becomes a 3/4 white and black Construct creature with lifelink until end of turn. It&apos;s still a land. This ability costs {X} less to activate, where X is your devotion to white and black. Activate only once each turn.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/93.jpg" num="267">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Titan&apos;s Stairs</name>
+			<text>This land enters tapped.
+{T}: Add {R} or {W}.
+{3}{RW}: This land becomes a 2/2 red and white Archon creature with flying until end of turn. It&apos;s still a land. This ability costs {X} less to activate, where X is your devotion to red and white. Activate only once each turn.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/94.jpg" num="283">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Miasmic Cove</name>
+			<text>This land enters tapped.
+{T}: Add {B} or {G}.
+{4}{BG}: This land becomes a 2/3 black and green Snake creature with deathtouch until end of turn. It&apos;s still a land. This ability costs {X} less to activate, where X is your devotion to black and green. Activate only once each turn.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/95.jpg" num="274">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Shell Cove</name>
+			<text>This land enters tapped.
+{T}: Add {G} or {U}.
+{9}{GU}: This land becomes a 7/7 green and blue Leviathan creature with ward {3} until end of turn. It&apos;s still a land. This ability costs {X} less to activate, where X is your devotion to green and blue. Activate only once each turn.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/96.jpg" num="279">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Barren Ashlands</name>
+			<text>This land enters tapped.
+{T}: Add {B} or {R}.
+{5}{BR}: This land becomes a 3/3 black and red creature with first strike until end of turn. It&apos;s still a land. This ability costs {X} less to activate, where X is your devotion to black and red. Activate only once each turn.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/97.jpg" num="261">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Curator of Myth</name>
+			<text>Master of Monument to the Thirty (When this enters, you may put Monument to the Thirty into your hand from your library, then shuffle.)
+{30}: This creature deals 30 damage to any target.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/98.jpg" num="246">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Monument Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Karina&apos;s Substitute</name>
+			<text>You may have this creature enter as a copy of a creature you control, except it&apos;s 1/4 and a Toy in addition to its other types.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/99.jpg" num="250">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Toy</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Helen&apos;s Failsafe</name>
+			<text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+Whenever this creature attacks, destroy up to one target nonland permanent.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/100.jpg" num="249">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>9</manacost>
+				<cmc>9</cmc>
+				<pt>12/10</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Faces of the Faceless</name>
+			<text>Cards can&apos;t leave graveyards. (Including by being cast.)
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/101.jpg" num="248">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Tactical Skis</name>
+			<text>Equipped creature has haste and ward {2}. (Whenever it becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+Equip {0}</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/102.jpg" num="257">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Missile Silo</name>
+			<text>This artifact enters with two charge counters on it.
+{T}: Put a charge counter on this artifact.
+{T}, Sacrifice this artifact: It deals damage equal to the number of charge counters on it to any target.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/103.jpg" num="253">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Recursive Cogitator</name>
+			<text>{1}, {T}: Return target permanent you control to its owner&apos;s hand. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/104.jpg" num="256">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Burning Roots</name>
+			<text>Search your library for a basic land card, put that card onto the battlefield, then shuffle. Burning Roots deals X damage to any target, where X is the number of basic land types among lands you control.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/105.jpg" num="197">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2RG</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Buried Oathbreaker</name>
+			<text>All spells cost more to cast.
+Spellcharge 6 (At the beginning of combat on your turn, if you&apos;ve spent at least six mana to cast spells this turn, you may have this become an artifact creature until end of turn.)</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/106.jpg" num="243">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Ruin</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>6/4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Keening Belltower</name>
+			<text>Whenever you draw a card, each opponent loses 1 life and you gain 1 life.
+{T}: Each player draws a card.
+{2}, {T}: Draw a card.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/107.jpg" num="251">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Magnetling</name>
+			<text>{1}: Untap this creature.
+{1}: This creature can&apos;t be blocked by creatures with power 2 or less this turn.
+{1}: Choose a card type. This creature loses that type until end of turn.
+{1}: This creature gets +1/-1 or -1/+1 until end of turn.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/108.jpg" num="252">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Digital Lotus</name>
+			<text>{T}: Add three mana of different colors.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/109.jpg" num="247">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Iroshi, Blade of the Old Ways</name>
+			<text>Flash
+As long as Iroshi entered this turn, you may activate their loyalty abilities any time you could cast an instant.
+[+1]: You may return a creature you control to its owner&apos;s hand. If you do, draw a card.
+[-1]: Create a 2/2 green Ninja creature token.
+[-2]: Target creature you control deals damage equal to its power to target creature or planeswalker.</text>
+			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/110.jpg" num="166">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Iroshi</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ameret, Hope of Night</name>
+			<text>At the beginning of combat on your turn, if there are seven or more loyalty counters on Ameret, they become a 5/5 Angel creature with flying and indestructible until end of turn.
+[+1]: Create a 1/1 red and white Cleric creature token with lifelink and haste.
+[-X]: Ameret deals X damage to any target. You gain X life.</text>
+			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/111.jpg" num="192">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Ameret</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2RW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sanaito, Voidsinger</name>
+			<text>[+1]: Up to one target nonland permanent gets -1/-1 and loses all abilities until your next turn.
+[0]: Target creature you control gets +2/+2 and gains lifelink until your next turn.
+[-1]: Each player discards a card. Then you may pay 2 life. If you do, draw a card.
+[-3]: You and target opponent&apos;s life totals each become equal to half your combined life totals, rounded down.</text>
+			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/112.jpg" num="220">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Sanaito</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Marilye, Dreaming Big</name>
+			<text>Sacrifice a Treasure: Put a loyalty counter on Marilye.
+[+1]: Draw a card, then discard a card. If you discarded a nonland card this way, create a tapped Treasure token.
+[-3]: Gain control of target artifact. It becomes a Treasure artifact, loses all other types, and loses all abilities except for activated mana abilities. (It doesn&apos;t sacrifice for mana.)
+[-8]: Target opponent chooses a nonland permanent they control. You gain control of the rest.</text>
+			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/113.jpg" num="59">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Marilye</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Glauna, Decadent Demon</name>
+			<text>Indulgence (You indulge at the beginning of your end step if you gained 3 or more life and/or drew two or more cards this turn.)
+Whenever you indulge, put a loyalty counter on Glauna.
+[-1]: Create a 2/1 black Imp creature token with flying and &quot;This creature can&apos;t block.&quot;
+[-2]: Destroy target creature or planeswalker. Its controller loses 2 life.</text>
+			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/114.jpg" num="94">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Glauna</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Solara, Sun Speaker</name>
+			<text>[+1]: Add {R}{R}. You may discard a card. If you do, draw a card.
+[-X]: Solara deals X damage to each other creature and planeswalker.
+[-8]: Solara deals damage to each opponent equal to twice the number of {R} in the mana cost of cards in your graveyard.</text>
+			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/115.jpg" num="147">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Solara</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2RRR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<loyalty>5</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>As&apos;Ahai, the Warsong</name>
+			<text>Whenever you cast a spell that targets an attacking or blocking creature, copy that spell. You may choose new targets for the copy.
+[+1]: Create two 1/1 white Soldier creature tokens with lifelink.
+[-3]: Choose first strike, flying, or trample. You get an emblem with &quot;Creatures you control get +1/+1 and have the chosen ability.&quot;
+[-8]: For each other permanent you control, create a token that&apos;s a copy of that permanent.</text>
+			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/116.jpg" num="194">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — As&apos;Ahai</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2GWU</manacost>
+				<cmc>5</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Moresso, Infuser of Light</name>
+			<text>(Spend a different color of mana on each {V}.)
+This creature is all colors.
+Hexproof from monocolored
+Whenever you cast a spell with four or more mana symbols in its mana cost, add four mana of different colors. This ability triggers only once each turn.</text>
+			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/117.jpg" num="1">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>VVVV</manacost>
+				<cmc>4</cmc>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Genotype Splicer</name>
+			<text>At the beginning of combat on your turn, you may pay {1}. When you do, choose up to X. Each mode must have different targets.
+• Teach target creature flying. (To teach a keyword, put a counter of that kind on it. If it already has that keyword, put a +1/+1 counter on it instead.)
+• Teach target creature lifelink.
+• Teach target creature vigilance.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/118.jpg" num="15">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thin the Veil</name>
+			<text>Search your library for a nonland card not named Thin the Veil, exile it, then shuffle. If it has mana value less than or equal to the number of card types among cards in your graveyard, you may cast it without paying its mana cost. If you don&apos;t, put it into your hand.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/119.jpg" num="112">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Starfouled Cervid</name>
+			<text>Trample
+Whenever this creature attacks or dies, reveal the top seven cards of your library. You may put a non-Elk creature card from among them onto the battlefield. Put the rest on the bottom of your library in a random order.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/120.jpg" num="181">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elk Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>4GGG</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>In Search of Peace</name>
+			<text>Whenever you cast a spell, exile up to one other target permanent you control. Return that card to the battlefield under your control at the beginning of the next end step.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/121.jpg" num="213">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ys, Trace Talker</name>
+			<text>Menace
+Whenever this creature attacks, exile up to one target creature card from your graveyard. This creature becomes a copy of that card, except it has this ability and menace.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/122.jpg" num="232">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elf Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Speaker of Ash</name>
+			<text>Menace
+When this creature enters, you may sacrifice a nonland permanent or discard a card. If you do, each opponent sacrifices a nonland permanent with mana value equal to the sacrificed permanent or discarded card&apos;s mana value.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/123.jpg" num="225">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Herald of the Wildcourt</name>
+			<text>You can&apos;t cast noncreature spells.
+Whenever you cast a creature spell, copy it. (The copy resolves as a token.)</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/124.jpg" num="212">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elf Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>2GW</manacost>
+				<cmc>4</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Frankie &quot;the Spider&quot; Lorre</name>
+			<text>When this creature enters, create two 1/1 black Warrior creature tokens.
+Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/125.jpg" num="208">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3WB</manacost>
+				<cmc>5</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lightspeed Launcher</name>
+			<text>Attacking creatures you control have first strike.
+Whenever you amp it up, draw a card. (You amp it up by casting your second spell each turn and/or by attacking with three or more creatures.)</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/126.jpg" num="215">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Evelyn Snakewood, Dark Druid</name>
+			<text>Endgame (If you control eight or more tapped permanents, enter your endgame for the rest of the game.)
+{T}: Add {B} or {G}.
+{T}, Sacrifice this creature: Return target creature card from your graveyard to the battlefield tapped. Activate only if you&apos;re in your endgame.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/127.jpg" num="207">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elf Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Underground Sensation</name>
+			<text>At the beginning of your upkeep, create a 1/1 red Fan creature token. Then if you control two or more Fans, create another one of those tokens. Then if you control five or more Fans, Underground Sensation deals 2 damage to any target and you gain 2 life.
+{3}{R}{W}: Create a 1/1 red Fan creature token.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/128.jpg" num="230">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2RW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Safe and Sound</name>
+			<text>Reveal the top six cards of your library. Put all land cards from among them onto the battlefield, then an opponent separates the remaining cards into two piles. Put one pile into your hand and the other into your graveyard.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/129.jpg" num="219">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3GU</manacost>
+				<cmc>5</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Coup D&apos;Etat</name>
+			<text>Choose up to X target creatures. Switch their power and toughness until end of turn.
+All creatures get -3/-3 until end of turn.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/130.jpg" num="202">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XUBR</manacost>
+				<cmc>3</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Kugaq&apos;s Brood</name>
+			<text>Flash
+Flying, vigilance
+When this creature enters, you may return another target spell or nonland permanent to its owner&apos;s hand. Then each opponent discards a card.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/131.jpg" num="214">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Drake</type>
+				<maintype>Creature</maintype>
+				<manacost>2WUB</manacost>
+				<cmc>5</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUB</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wilderkin Behemoth</name>
+			<text>This spell can&apos;t be countered.
+Trample
+Hexproof from mana value 3 or less (This creature can&apos;t be the target of spells or abilities your opponents control with mana value 3 or less.)</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/132.jpg" num="231">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>1RGW</manacost>
+				<cmc>4</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Freightyard Scrappers</name>
+			<text>As an additional cost to cast this spell, you may sacrifice a nonland permanent. If you do, it costs {X} less to cast, where X is that permanent&apos;s mana value.
+Ward—Sacrifice a nonland permanent.
+Whenever this creature attacks, each opponent sacrifices a nonland permanent.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/133.jpg" num="209">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dwarf Goblin Human</type>
+				<maintype>Creature</maintype>
+				<manacost>4BRG</manacost>
+				<cmc>7</cmc>
+				<colors>BRG</colors>
+				<coloridentity>BRG</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Skotha, Titan of Eternal Dark</name>
+			<text>Whenever this creature enters or attacks, each opponent discards a card. Then you may return a permanent card with mana value 3 or less from your graveyard to the battlefield.
+{B}{B}{G}{G}: Return this creature from your graveyard to the battlefield, then put it on the bottom of its owner&apos;s library. Activate only as a sorcery.</text>
+			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/134.jpg" num="222">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elder Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>4BG</manacost>
+				<cmc>6</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scrapyard Mecha</name>
+			<text>Whenever one or more creatures you control deal combat damage to a player, you may draw that many cards. If you do, discard a card.
+Exile two creature cards from your graveyard: This vehicle becomes an artifact creature until end of turn. Activate only as a sorcery.
+Crew 2</text>
+			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/135.jpg" num="221">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Michal, the Anointed</name>
+			<text>Flying, vigilance, trample, lifelink
+Spells and abilities your opponents control can&apos;t cause you to sacrifice permanents.</text>
+			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/136.jpg" num="216">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Centaur Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>3GW</manacost>
+				<cmc>5</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tyrant of Tributes</name>
+			<text>Flying
+When this creature enters, target opponent sacrifices X permanents, where X is half the number of permanents they control, rounded up. You gain X life.</text>
+			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/137.jpg" num="228">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>6RG</manacost>
+				<cmc>8</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Feast of the Crows</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I, II — All creatures get -1/-1 for each lore counter on Feast of the Crows.
+III — You may return a creature card from your graveyard to your hand.
+​</text>
+			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/138.jpg" num="90">RM1</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Captivating Dreams</name>
+			<text>Take an extra turn after this one. Put Captivating Dreams on the bottom of your library.
+If Captivating Dreams would be put into a graveyard from anywhere, exile it instead.</text>
+			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/139.jpg" num="41">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>5UU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Planar Exodus</name>
+			<text>When this Rift enters or is traversed, exile any number of other nonland permanents you both own and control. Return those cards to the battlefield at the beginning of the next end step.
+Traverse 6 (Tap any number of creatures you control with total power 6 or more: Traverse this Rift, then sacrifice it. Traverse only as a sorcery.)</text>
+			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/140.jpg" num="25">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Rift</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Takashi, City on the Wind</name>
+			<text>Flying
+Whenever Takashi attacks, draw a card for each creature that crewed it this turn. Then you may put any number of land cards from your hand onto the battlefield tapped.
+Crew 2</text>
+			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/141.jpg" num="258">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Renowned Roughrider</name>
+			<text>When this creature enters or leaves the battlefield, create a 1/1 white Human creature token. Then if you control four or more creatures, put a +1/+1 counter on a creature you control.
+Wander {4}{W}{W} (You may cast this from the battlefield for its wander cost.)</text>
+			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/142.jpg" num="28">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shimmering Dunekite</name>
+			<text>Flying
+Whenever this creature or another creature you control enters, if you cast that creature from your hand, you may create a token that&apos;s a copy of that creature, except it has haste and &quot;At the beginning of the end step, sacrifice this creature.&quot;</text>
+			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/143.jpg" num="144">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Opulent Roughrider</name>
+			<text>When this creature enters or leaves the battlefield, surveil 1, then you may reveal the top card of your library. If that card has the same name as a permanent you control or a card in your graveyard, put it into your hand.
+Wander {4}{U}{U} (You may cast this from the battlefield for its wander cost.)</text>
+			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/144.jpg" num="61">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Barbarous Roughrider</name>
+			<text>When this creature enters or leaves the battlefield, each opponent loses 2 life unless they sacrifice a nontoken creature.
+Wander {4}{B}{B} (You may cast this from the battlefield for its wander cost.)</text>
+			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/145.jpg" num="82">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Audacious Roughrider</name>
+			<text>When this creature enters or leaves the battlefield, exile the top card of your library. Then you may discard a card. If you do, put the exiled card into your hand. If you don&apos;t, create a Treasure token.
+Wander {4}{R}{R} (You may cast this from the battlefield for its wander cost.)</text>
+			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/146.jpg" num="118">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hearty Roughrider</name>
+			<text>When this creature enters or leaves the battlefield, you gain life equal to the greatest toughness among creatures you control.
+Wander {4}{G}{G} (You may cast this from the battlefield for its wander cost.)</text>
+			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/147.jpg" num="165">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Resource_Inversion</name>
+			<text>You may cast permanent spells as though they had flash.
+During your second main phase, pay {Q} rather than {T} to activate abilities. ({Q} is the untap symbol.)</text>
+			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/148.jpg" num="172">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Error</type>
+				<maintype>Creature</maintype>
+				<manacost>5GGG</manacost>
+				<cmc>8</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>9/10</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Voice of Utopia</name>
+			<text>Vigilance
+Level up—{1}, Tap an untapped creature you control. [1/2]
+[level 1-5] Vigilance
+This creature gets +1/+1 for each level counter on it. [1/2]
+[level 6+] Vigilance
+Creatures you control get +1/+1 for each level counter on this creature. [1/2]</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/149.jpg" num="38">RM1</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Creature — Human Bard</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Prismborn Emergent</name>
+			<text>This creature enters with X +1/+1 counters on it.
+{1}, {T}: Put a +1/+1 counter on this creature.
+When this creature dies, create a Treasure token for each +1/+1 counter on it.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/150.jpg" num="255">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>XX</manacost>
+				<cmc>0</cmc>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Auspicious Return</name>
+			<text>When this enchantment enters, if it was cast, return target creature card from your graveyard to the battlefield.
+At the beginning of your end step, exile up to one target creature you control, then return that card to the battlefield under its owner&apos;s control.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/151.jpg" num="2">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Bring the House Down</name>
+			<text>{1}{W}{W}, Exile this card from your hand: At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost. Activate only as a sorcery.
+Destroy all creatures.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/152.jpg" num="5">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Destari Skylord</name>
+			<text>Flying, vigilance
+Other creatures you control have vigilance.
+Tap two other untapped creatures you control: This creature gains indestructible until end of turn.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/153.jpg" num="11">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Griffin</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Revolutionary Recruiter</name>
+			<text>Revolt — When this creature enters, draw a card. If a permanent you controlled left the battlefield this turn, you may instead search your library for a creature with power or toughness 1 or less, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/154.jpg" num="29">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rial, Silver Rose General</name>
+			<text>First strike
+Creatures you control attacking cause abilities of that creature to trigger as though it entered.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/155.jpg" num="30">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elf Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Fall of Trax</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Exile up to one target permanent with mana value 4 or greater.
+II — Create two 1/1 white Human creature tokens.
+III — Each player gains control of all permanents they own. If you gained control of no permanents this way, draw a card.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/156.jpg" num="14">RM1</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Narzi, Hero of the Mokar</name>
+			<text>Flash
+When Narzi enters, up to one other target creature gets +1/+1 and gains indestructible until end of turn. If she wandered, other creatures you control get +1/+1 and gain indestructible until end of turn instead.
+Wander {4}{W}{W} (You may cast this from the battlefield for its wander cost.)</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/157.jpg" num="19">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Maiden of the Waters</name>
+			<text>Flow — {3}{U}: Copy target triggered ability you control. You may choose new targets for the copy. (Each creature you tap while activating pays for {1}.)</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/158.jpg" num="58">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Omen Skulker</name>
+			<text>Whenever you cast a white, blue, red, or green spell, you draw a card and lose 1 life.
+Whenever this creature attacks, create a Treasure token.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/159.jpg" num="104">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Skeleton</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Savvy Smith</name>
+			<text>Whenever you cast an instant or sorcery spell, choose one that hasn&apos;t been chosen this turn —
+• Create a 1/1 colorless Construct artifact creature token.
+• Discard a card, then draw a card.
+• Add one mana of any type.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/160.jpg" num="143">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Evaldi, Genesis of Hope</name>
+			<text>At the beginning of your upkeep, return a permanent you control to its owner&apos;s hand.
+You may play an additional land on each of your turns.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/161.jpg" num="162">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elf Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sillaman Regrafter</name>
+			<text>When this creature enters, put a +1/+1 counter on target creature you control.
+Whenever a creature you control dies, you may move a counter from it onto another target creature.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/162.jpg" num="178">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bizarre Menagerie</name>
+			<text>When this enchantment enters, create a 4/4 green Mutant creature token.
+{6}{G}{G}: Create a 4/4 green Mutant creature token.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/163.jpg" num="155">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dazzling Frontiers</name>
+			<text>When this enchantment enters, crystallize. (Put a +1/+1 counter on a creature you control or create a Treasure token.)
+Whenever you cast a spell, if four or more colors of mana were spent to cast it, draw a card.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/164.jpg" num="159">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Harrow</name>
+			<text>As an additional cost to cast this spell, sacrifice a land.
+Search your library for up to two basic land cards, put them onto the battlefield, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/165.jpg" num="164">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Living Replica</name>
+			<text>Create a token that&apos;s a copy of target creature you control. It can&apos;t block this turn.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/166.jpg" num="167">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Scourge of Capitalism</name>
+			<text>Trample
+When this creature enters, it fights target creature with the greatest power or tied for the greatest power among creatures you don&apos;t control. Excess damage is dealt to that creature&apos;s controller instead.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/167.jpg" num="175">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant Insect Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>7G</manacost>
+				<cmc>8</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>8/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Master the Old Ways</name>
+			<text>Enchant creature
+Enchanted creature gets +2/+0 and has trample.
+Escape—{1}{G}, Exile two other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/168.jpg" num="168">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Club Promoter</name>
+			<text>Drop — When this creature enters, choose one. If you didn&apos;t cast any creature spells during your last turn, you may choose both instead.
+• Destroy target artifact or enchantment.
+• Put two +1/+1 counters on this creature.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/169.jpg" num="156">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wistful Fox</name>
+			<text>When this creature enters, reveal the top eight cards of your library. You may put a creature card from among them into your hand. Put the rest on the bottom of your library in a random order.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/170.jpg" num="191">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fox</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scout Ahead</name>
+			<text>As an additional cost to cast this spell, return a creature you control to its owner&apos;s hand or pay {2}.
+You may play an additional land this turn. If you do, it enters tapped.
+Draw a card.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/171.jpg" num="176">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ancestor&apos;s Guidance</name>
+			<text>Whenever a nontoken creature you control enters, surveil 1.
+{G}, Exile this enchantment: Return target card from your graveyard to your hand. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/172.jpg" num="154">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ukshu Reclaimer</name>
+			<text>Flash
+When this creature enters, if four or more colors of mana were spent to cast it, you may return target card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/173.jpg" num="188">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stoic Sentinel</name>
+			<text>When this creature enters, surveil 2.
+{T}, Exile a card from your graveyard: Add one mana of any color.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/174.jpg" num="182">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Storm of Monstrosities</name>
+			<text>Reveal the top seven cards of your library. You may put a creature card from among them onto the battlefield. If you do, create a token that&apos;s a copy of it. Put the rest into your graveyard.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/175.jpg" num="183">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5GG</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Morbid Bloomer</name>
+			<text>Ward {1}
+Whenever this creature deals combat damage, you may pay {1}. When you do, return up to one other target permanent card from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/176.jpg" num="171">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fungus</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Familial Roots</name>
+			<text>When this enchantment enters, create a 1/1 green Elf creature token.
+At the beginning of your upkeep, create a token that&apos;s a copy of target token you control.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/177.jpg" num="163">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Uncanny Woodghast</name>
+			<text>This creature has all activated abilities of all lands you control.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/178.jpg" num="189">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Menagerie Mechanic</name>
+			<text>Whenever this creature deals combat damage to a player, create an X/X colorless Construct artifact creature token, where X is 1 plus the number of counters on this creature.
+{1}, Sacrifice an artifact or enchantment: Put a +1/+1 counter on this creature. It gains trample and indestructible until end of turn.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/179.jpg" num="169">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rootwalker</name>
+			<text>When this creature enters, create a 4/4 green Elemental creature token with reach.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/180.jpg" num="174">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thundering Serpent</name>
+			<text>Vigilance, reach
+When this creature enters, you gain 6 life.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/181.jpg" num="187">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Serpent</type>
+				<maintype>Creature</maintype>
+				<manacost>5GG</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scruffy Rascal</name>
+			<text>When this creature enters, mill three cards. You may put a permanent card from among the cards milled this way into your hand. If you don&apos;t, create a Treasure token.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/182.jpg" num="177">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Raccoon</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Suspicious Merchant</name>
+			<text>Reach, deathtouch</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/183.jpg" num="185">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fox Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Momentous Strike</name>
+			<text>Target creature you control deals damage equal to its power to target creature or planeswalker an opponent controls.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/184.jpg" num="170">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Splinter Seer</name>
+			<text>When this creature enters, crystallize. (Put a +1/+1 counter on a creature you control or create a Treasure token.)</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/185.jpg" num="180">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Strange Space</name>
+			<text>When this Rift enters or is traversed, search your library for a basic land card and put it onto the battlefield, then shuffle.
+Traverse 4 (Tap any number of creatures you control with total power 4 or more: Traverse this Rift, then sacrifice it. Traverse only as a sorcery.)</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/186.jpg" num="184">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Rift</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Slumbering Grove</name>
+			<text>When this Ruin enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+Spellcharge 8 (At the beginning of combat on your turn, if you&apos;ve spent at least eight mana to cast spells this turn, you may have this become an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/187.jpg" num="179">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Ruin</type>
+				<maintype>Artifact</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>8/8</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rise to the Occasion</name>
+			<text>Put two +1/+1 counters on target creature you control. It fights up to one target creature an opponent controls. You gain 4 life.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/188.jpg" num="173">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ensconce</name>
+			<text>Put a +1/+1 counter on target creature you control. It gains hexproof until end of turn.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/189.jpg" num="161">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Telhedo Saboteur</name>
+			<text>Deathtouch
+{1}, Sacrifice this creature: Destroy target artifact or enchantment.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/190.jpg" num="186">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Minotaur Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rose Court Mentor</name>
+			<text>Whenever you cast a noncreature or Wizard spell, this creature deals 1 damage to any target.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/191.jpg" num="142">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Emgaran Duelist</name>
+			<text>First strike
+Whenever this creature deals combat damage to an opponent, crystallize. (Put a +1/+1 counter on a creature you control or create a Treasure token.)</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/192.jpg" num="128">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Error Tide</name>
+			<text>Error Tide deals 2 damage to any target. If you control a permanent with mana value 4 or greater, it deals 3 damage to that target instead.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/193.jpg" num="129">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ace Trainer</name>
+			<text>Non-Human creatures you control get +1/+0.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/194.jpg" num="116">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Ranger</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Emblazoned Hooligan</name>
+			<text>Whenever you amp it up, target creature can&apos;t block this turn. (You amp it up by casting your second spell each turn and/or by attacking with three or more creatures.)</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/195.jpg" num="127">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Smolderwing</name>
+			<text>Flying, haste
+At the beginning of combat on your turn, if you&apos;ve cast an instant or sorcery spell with mana value 4 or greater this turn, you may return this card from your graveyard to the battlefield.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/196.jpg" num="146">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phoenix</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Calamity Cat</name>
+			<text>{T}, Discard a card: Put a +1/+1 counter on another target creature you control and untap it. It gains haste until end of turn. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/197.jpg" num="121">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Solara&apos;s Machinations</name>
+			<text>When this enchantment enters, create two 1/1 black Spirit creature tokens with flying.
+Sacrifice a creature: Exile the top two cards of your library. You may play one of them this turn. Activate this ability only once each turn. (The other remains exiled.)</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/198.jpg" num="148">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Greed of Dragons</name>
+			<text>If you control two or more Treasures, create a 4/4 red Dragon creature token with flying. Otherwise, create two Treasure tokens.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/199.jpg" num="133">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Rites of Ignea</name>
+			<text>As an additional cost to cast this spell, sacrifice an artifact or creature.
+Create three 1/1 red Elemental creature tokens.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/200.jpg" num="140">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Braise</name>
+			<text>Braise deals 5 damage to target creature or planeswalker. When it dies this turn, its controller creates a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/201.jpg" num="120">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Skill Link</name>
+			<text>Whenever an opponent is dealt damage by one or more sources you control for the second time each turn, draw a card.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/202.jpg" num="145">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Momentous Charge</name>
+			<text>Cast this spell only during your turn.
+Target creature gets +2/+0 and gains haste until end of turn. If it&apos;s attacking, instead it gets +2/+0 and gains trample until end of turn.
+Flashback {1}{R}</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/203.jpg" num="137">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Thraxes, Sire of Dragons</name>
+			<text>Flying, haste
+Instant and sorcery spells cost {2} less to cast.
+Whenever an opponent casts their second spell each turn, create a 5/5 red Dragon enchantment creature token with flying.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/204.jpg" num="150">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Into the Breach</name>
+			<text>Creatures you control have haste.
+At the beginning of your upkeep, you may put a creature card from your hand onto the battlefield. Sacrifice it at the beginning of the next end step.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/205.jpg" num="135">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Molten Slagmaw</name>
+			<text>Flying
+Whenever this creature enters or attacks, each opponent sacrifices an artifact or nonbasic land.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/206.jpg" num="136">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>6/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Destructive Force</name>
+			<text>Each player sacrifices five lands. Destructive Force deals 5 damage to each creature.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/207.jpg" num="125">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5RR</manacost>
+				<cmc>7</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Impulsive Underling</name>
+			<text>Damned — Whenever this creature attacks, put a +1/+1 counter on it if you&apos;ve sacrificed a permanent this turn.
+When this creature dies, it deals damage equal to its power to each opponent.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/208.jpg" num="134">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vanguard Assault</name>
+			<text>Once each turn, when a creature you control attacks alone, you may untap target attacking creature, and after this combat, there&apos;s an additional combat step.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/209.jpg" num="151">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Conjoined Irradiant</name>
+			<text>Trample
+When this creature enters, you may discard up to two cards. If you discard one or more cards, draw that many cards, then crystallize. (Put a +1/+1 counter on a creature you control or create a Treasure token.)</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/210.jpg" num="124">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vicious Backstab</name>
+			<text>Vicious Backstab deals 5 damage to target creature.
+Cycling {1}{R} ({1}{R}, Discard this card: Draw a card.)
+When you cycle this card, you may discard a card. If you do, draw a card.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/211.jpg" num="152">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Elderflame Pilgrims</name>
+			<text>When this creature enters, it deals 2 damage to target player or planeswalker.
+Wander {5}{R} (You may cast this from the battlefield for its wander cost.)</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/212.jpg" num="126">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Battlefield Tactician</name>
+			<text>{2}, Sacrifice a creature: Teach target creature menace. (Put a menace counter on it. If it already has menace, put a +1/+1 counter on it instead.)</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/213.jpg" num="119">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aspirants as One</name>
+			<text>Create a tapped 2/1 red Human Warrior creature token.
+Flashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/214.jpg" num="117">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Roiling Rift</name>
+			<text>When this Rift enters or is traversed, create two 1/1 red Elemental creature tokens with haste.
+Traverse 4 (Tap any number of creatures you control with total power 4 or more: Traverse this Rift, then sacrifice it. Traverse only as a sorcery.)</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/215.jpg" num="141">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Rift</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Resourceful Hireling</name>
+			<text>When this creature enters, choose one —
+• Create a 0/0 colorless Robot artifact creature token with a +1/+1 counter on it.
+• Create a Treasure token.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/216.jpg" num="139">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Surge Protector</name>
+			<text>Defender
+{T}: This creature deals 1 damage to target player.
+Whenever you cast a noncreature spell, untap this creature.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/217.jpg" num="149">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Firestorm Breaker</name>
+			<text>Trample
+When this creature enters, if a creature died this turn, it deals 5 damage to target opponent.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/218.jpg" num="130">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cinderhorn Calf</name>
+			<text>This creature can&apos;t block.
+{1}{R}: This creature gains menace until end of turn.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/219.jpg" num="123">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Minotaur Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Newborn Oni</name>
+			<text>Pay 1 life: This creature gets +1/+0 until end of turn. Activate only once each turn and only as a sorcery.
+When this creature dies, if its power was 2 or greater, create a Treasure token.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/220.jpg" num="138">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Violent Discharge</name>
+			<text>This spell costs less to cast if you&apos;ve disturbed the peace this turn. (Casting a spell on an opponent&apos;s turn and one or more creatures dealing combat damage to an opponent disturb the peace.)
+Violent Discharge deals 3 damage to any target.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/221.jpg" num="153">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Flaring Despair</name>
+			<text>Gain control of target creature with power 4 or less until end of turn. Untap that creature. It gains haste until end of turn.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/222.jpg" num="131">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Majesty of Undeath</name>
+			<text>Return target creature card from your graveyard to your hand.
+Escape—{2}{B}, Exile four other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/223.jpg" num="98">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Arduous Miners</name>
+			<text>When this creature enters, you may have all players discard a card.
+Whenever one or more cards leave your graveyard, create a tapped Treasure token.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/224.jpg" num="80">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rose Court Ambitions</name>
+			<text>Whenever you cast a black spell, each opponent loses X life, where X is the number of colors spent to cast it. If X is four or more, each opponent sacrifices a creature.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/225.jpg" num="109">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Grognard</name>
+			<text>This creature enters tapped.
+Level up {2}{B} ({2}{B}: Put a level counter on this. Level up only as a sorcery.) [2/2]
+[level 1-2] This creature gets +1/+1 for each creature and/or enchantment card in your graveyard. [2/2]
+[level 3+] This creature gets +1/+1 for each creature and/or enchantment card in all graveyards. [2/2]</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/226.jpg" num="95">RM1</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Noxious Conditions</name>
+			<text>All creatures get -2/-2 until end of turn. Until end of turn, whenever one of those creatures die, create a tapped Treasure token.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/227.jpg" num="102">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gilded Death</name>
+			<text>Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life.
+{B}{B}, Exile this card and six other cards from your graveyard: Create a tapped token that&apos;s a copy of this card.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/228.jpg" num="93">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Skeleton</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Do_Not_Respond</name>
+			<text>You may pay {1}{B} rather than pay this spell&apos;s mana cost. When you do, target opponent creates two 1/1 white Citizen creature tokens.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/229.jpg" num="87">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Error</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blood for Bones</name>
+			<text>As an additional cost to cast this spell, sacrifice a creature.
+Return a creature card from your graveyard to the battlefield, then return another creature card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/230.jpg" num="83">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Liliana&apos;s Goon</name>
+			<text>This creature can&apos;t block.
+At the beginning of each end step, if you&apos;ve disturbed the peace this turn, you may return this card from your graveyard to your hand. (Casting a spell on an opponent&apos;s turn and one or more creatures dealing combat damage to an opponent disturb the peace.)</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/231.jpg" num="97">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Archaic Straggler</name>
+			<text>Menace
+Spellcharge 3 (At the beginning of combat on your turn, if you&apos;ve spent at least three mana to cast spells this turn, you may have this become an artifact creature until end of turn.)
+You may cast this card from your graveyard if you&apos;ve spent at least three mana to cast spells this turn.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/232.jpg" num="79">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Ruin</type>
+				<maintype>Artifact</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Fatal Flaw</name>
+			<text>Destroy target creature whose power, toughness, and mana value aren&apos;t all equal.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/233.jpg" num="89">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Impetuous Underling</name>
+			<text>When this creature enters, you may search your library for a card and put it into your graveyard, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/234.jpg" num="96">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Patron of Veda&apos;s Club</name>
+			<text>When this creature enters, each player sacrifices a creature. Each player who can&apos;t sacrifices an enchantment.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/235.jpg" num="105">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Azra Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aspect of the End</name>
+			<text>Deathtouch
+If an opponent would lose life, they lose that much life plus 1 instead.
+Spellcharge 3 (At the beginning of combat on your turn, if you&apos;ve spent at least three mana to cast spells this turn, you may have this become an artifact creature until end of turn.)</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/236.jpg" num="81">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Ruin</type>
+				<maintype>Artifact</maintype>
+				<manacost>BB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Privilege_Escalation</name>
+			<text>Menace
+When this creature enters, for each nonland permanent your opponents control, its controller sacrifices it unless they pay life equal to 2 plus its mana value.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/237.jpg" num="106">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Error</type>
+				<maintype>Creature</maintype>
+				<manacost>6BB</manacost>
+				<cmc>8</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>11/13</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Feast of Whispered Knives</name>
+			<text>Indulgence (You indulge at the beginning of your end step if you gained 3 or more life and/or drew two or more cards this turn.)
+Whenever you indulge, choose one —
+• Scry 2. Each opponent loses 2 life.
+• Create a tapped 2/1 black Rogue creature token with menace.
+• Target creature gets -2/-2 until end of turn.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/238.jpg" num="91">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mob Hangman</name>
+			<text>{1}{B}, Pay 2 life: This creature dares 4. (It becomes a legendary Rebel with base power and toughness 4/4 in addition to its other types until end of turn.)
+Whenever this creature attacks, if it&apos;s a Rebel, each opponent sacrifices a creature or planeswalker unless they discard a card.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/239.jpg" num="100">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Peasant Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Waystone Reaper</name>
+			<text>Defender, flying
+This creature can attack opponents with 6 or less life as though it didn&apos;t have defender.
+At the beginning of your upkeep, each opponent loses 2 life and discards a card.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/240.jpg" num="114">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Coax Soul</name>
+			<text>Mill five cards. When you do, you may return a creature card from your graveyard to the battlefield.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/241.jpg" num="85">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Thornlasher Mortis</name>
+			<text>When this creature enters, mill two cards.
+Whenever one or more cards leave your graveyard, create a 1/1 green Saproling creature token. This ability triggers only once each turn.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/242.jpg" num="113">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ravenous Slaughterlord</name>
+			<text>When this creature enters, create a Treasure token.
+Damned — At the beginning of your end step, this creature deals 1 damage to each opponent and you gain 1 life if you&apos;ve sacrificed a permanent this turn.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/243.jpg" num="108">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fresh Carrion</name>
+			<text>As an additional cost to cast this spell, you may sacrifice a creature.
+Create a 1/1 green Insect creature token. If you sacrificed a creature to cast this spell, create three of those tokens instead.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/244.jpg" num="92">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Descend into Darkness</name>
+			<text>Target creature gets -3/-3 until end of turn. You gain 3 life.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/245.jpg" num="86">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sundering the Fleet</name>
+			<text>As an additional cost to cast this spell, sacrifice an artifact or creature.
+Draw two cards.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/246.jpg" num="110">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Embraced by Dusk</name>
+			<text>Enchant creature
+Enchanted creature gets +2/+1 and has menace.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/247.jpg" num="88">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Burnout Champion</name>
+			<text>This spell costs {1} less to cast for each creature and/or enchantment card in your graveyard.
+Ward—Discard a card.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/248.jpg" num="84">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>5BB</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Night Squad</name>
+			<text>When this creature enters, teach target creature menace. If you put a +1/+1 counter on it this way, it can&apos;t be blocked this turn. (To teach menace, put a menace counter on it. If it already has menace, put a +1/+1 counter on it instead.)</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/249.jpg" num="101">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Assassin</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Omen of Slaughter</name>
+			<text>Flash
+When this enchantment enters, each opponent sacrifices a creature or planeswalker.
+{2}{B}, Sacrifice this enchantment: Scry 2.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/250.jpg" num="103">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Maven of Fear</name>
+			<text>When this creature enters, mill two cards.
+This creature gets +2/+1 and has menace as long as six or more cards are in your graveyard.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/251.jpg" num="99">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rapacious Demon</name>
+			<text>Sacrifice a creature: This creature gets +1/+1 and gains flying until end of turn. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/252.jpg" num="107">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Widowed Maiden</name>
+			<text>When this Ruin enters, return target creature card from your graveyard to your hand.
+Spellcharge 3 (At the beginning of combat on your turn, if you&apos;ve spent at least three mana to cast spells this turn, you may have this become an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/253.jpg" num="115">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Ruin</type>
+				<maintype>Artifact</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Prismatic Dismissal</name>
+			<text>Counter target spell unless its controller pays {X}.
+If you cast this spell using four or more colors of mana, instead counter that spell and draw a card.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/254.jpg" num="64">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XU</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Experimental Flight</name>
+			<text>Exile target artifact or creature you control, then return that card to the battlefield under its owner&apos;s control. If it enters as a creature, it enters with your choice of a +1/+1 counter or a flying counter on it.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/255.jpg" num="47">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Inconspicuous Sloop</name>
+			<text>Whenever this Vehicle deals damage to a player, draw a card.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/256.jpg" num="55">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Founding of the Twelve</name>
+			<text>Whenever you cast a noncreature spell, create a 1/1 white Human creature token, then target player mills two cards.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/257.jpg" num="50">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Frost Skater</name>
+			<text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+Whenever you cast a noncreature spell, if Frost Skater is tapped, crystallize. (Put a +1/+1 counter on a creature you control or create a Treasure token.)</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/258.jpg" num="51">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sludge-Gill Fox</name>
+			<text>This creature can&apos;t be blocked as long as it&apos;s attacking alone.
+Whenever this creature deals combat damage to a player, you may draw a card.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/259.jpg" num="70">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fox Fish</type>
+				<maintype>Creature</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Haubay&apos;s Familiar</name>
+			<text>Flying
+Whenever you draw your second card each turn, put a +1/+1 counter on this creature.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/260.jpg" num="52">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lunar Call</name>
+			<text>Return target creature to its owner&apos;s hand.
+Escape—{3}{U}, Exile five other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/261.jpg" num="57">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Spellbane Sentinel</name>
+			<text>Flying
+Sacrifice this creature: Counter target noncreature spell unless its controller pays {1}.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/262.jpg" num="71">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Gargoyle</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Enlightenment</name>
+			<text>When this enchantment enters, draw a card for each color of mana spent to cast it.
+You have no maximum hand size.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/263.jpg" num="45">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Yokinzan Pathfinder</name>
+			<text>Whenever you attack, up to one target creature you control can&apos;t be blocked this turn. Return that creature to its owner&apos;s hand at end of combat.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/264.jpg" num="77">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fox Ninja</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Patron of the Sciences</name>
+			<text>Indulgence (You indulge at the beginning of your end step if you gained 3 or more life and/or drew two or more cards this turn.)
+Whenever you indulge, create a Treasure token. (It&apos;s an artifact with &quot;, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/265.jpg" num="62">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Underflow_Error</name>
+			<text>At the beginning of each opponent&apos;s upkeep, tap target creature that player controls.
+{1}{U}, Discard this card: Tap target creature. Draw a card.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/266.jpg" num="73">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Error Skeleton</type>
+				<maintype>Creature</maintype>
+				<manacost>6UU</manacost>
+				<cmc>8</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>9/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hoarding Culebre</name>
+			<text>This spell can&apos;t be countered.
+Flying, ward {2}
+Whenever this creature enters or attacks, draw a card. Then if you have five or more cards in hand, create a Treasure token.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/267.jpg" num="53">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Snake Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Preemption Daemon</name>
+			<text>Flash
+Flying
+When this creature enters, exile up to one target spell or nonland permanent. For as long as that card remains exiled, its owner may cast it by paying {3} rather than its mana cost.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/268.jpg" num="63">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Escape the Plane</name>
+			<text>Exile any number of target creatures. For as long as those cards remain exiled, their owners may cast them without paying their mana costs. Exile Escape the Plane.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/269.jpg" num="46">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ice Shards</name>
+			<text>Choose one or more —
+• Counter target noncreature spell.
+• Target artifact or creature doesn&apos;t untap during its controller&apos;s next untap step.
+• Target creature can&apos;t be blocked this turn.
+• Target player may scry 2.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/270.jpg" num="54">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Wildkin Imposter</name>
+			<text>Flash
+Multitude {4}{U}{U} (You may cast this for {4}{U}{U}. When you do, copy it.)
+You may have this creature enter as a copy of any creature on the battlefield.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/271.jpg" num="76">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Silverarm Spellblade</name>
+			<text>Spells your opponents cast that target this creature cost {2} more to cast.
+Whenever this creature deals damage to a player, draw a card.
+Discard a card: This creature can&apos;t be blocked this turn.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/272.jpg" num="68">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Collector&apos;s Item</name>
+			<text>Enchant creature
+When this Aura enters, surveil 2.
+Enchanted creature loses all abilities and is a colorless Sculpture creature with base power and toughness 0/2.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/273.jpg" num="43">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Kaleidoscape</name>
+			<text>Enchant land you control
+When this Aura enters, draw a card, then choose a land type.
+Enchanted land is the chosen land type in addition to its other types.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/274.jpg" num="56">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sanctum of the Two Truths</name>
+			<text>Flash
+When this Ruin enters, draw two cards.
+Spellcharge 4 (At the beginning of combat on your turn, if you&apos;ve spent at least four mana to cast spells this turn, you may have this become an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/275.jpg" num="66">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Ruin</type>
+				<maintype>Artifact</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Cybersaurus</name>
+			<text>Ward {3} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)
+{2}{U}, Discard this card: Counter target spell with mana value 4 or less.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/276.jpg" num="44">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>5UU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>7/9</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wandering Hedge-Mage</name>
+			<text>When this creature enters, you may return target instant or sorcery card from your graveyard to your hand. If it had mana value 4 or greater, create a Treasure token.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/277.jpg" num="75">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Peasant Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Breaching Jaxl</name>
+			<text>Flying
+When this creature enters, untap target nonland permanent.
+Wander {2}{U} (You may cast this from the battlefield for its wander cost.)</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/278.jpg" num="40">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Serpent</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Flow Rider</name>
+			<text>Flying
+Whenever you amp it up, draw a card, then discard a card. (You amp it up by casting your second spell each turn and/or by attacking with three or more creatures.)</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/279.jpg" num="48">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stonework Infuser</name>
+			<text>When this creature enters, create a 1/1 blue Gargoyle artifact creature token with flying.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/280.jpg" num="72">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Reconsider</name>
+			<text>Choose one —
+• Counter target spell unless its controller pays {2}.
+• Draw a card.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/281.jpg" num="65">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Clandestine Snitch</name>
+			<text>When this creature enters, investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/282.jpg" num="42">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Detective</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Meeting of the Minds</name>
+			<text>Create two 1/1 blue Wizard creature tokens with prowess.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/283.jpg" num="60">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Forced Ejection</name>
+			<text>Return target nonland permanent to its owner&apos;s hand. If you&apos;ve cast another instant or sorcery spell this turn, draw a card.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/284.jpg" num="49">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dawnglade Cultivator</name>
+			<text>When this creature enters, you may put a land card from your hand onto the battlefield tapped.</text>
+			<set rarity="common" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/285.jpg" num="157">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unshackle the Deceiver</name>
+			<text>(Whenever you attack, put a strategy counter on one of this card&apos;s modes. Sacrifice it after all are marked.)
+Whenever you attack, you may draw a card.
+I, II — When you next cast an instant or sorcery spell this turn, copy it. You may choose new targets for the copy.
+III — Return up to one instant or sorcery card from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/286.jpg" num="74">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Campaign</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Defile the Silver Court</name>
+			<text>(Whenever you attack, put a strategy counter on one of this card&apos;s modes. Sacrifice it after all are marked.)
+Whenever you attack, untap up to one target creature. It must block this combat if able.
+I, II — Create a 5/5 black Horror creature token that&apos;s tapped and attacking.
+III — Draw a card for each attacking creature with power 4 or greater.</text>
+			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/287.jpg" num="160">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Campaign</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Defense of Silver Glade</name>
+			<text>(Whenever you attack, put a strategy counter on one of this card&apos;s modes. Sacrifice it after all are marked.)
+When this Campaign enters, create a 2/2 white Knight creature token with vigilance.
+I — Attacking creatures gain indestructible until end of turn.
+II — Create a token that&apos;s a copy of target token you control.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/288.jpg" num="204">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Campaign</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Embermane&apos;s Blitz</name>
+			<text>(Whenever you attack, put a strategy counter on one of this card&apos;s modes. Sacrifice it after all are marked.)
+When this Campaign enters, scry 1.
+I — You may discard a card. If you do, draw two cards.
+II — You may discard a card. When you do, this Campaign deals 3 damage to any target.</text>
+			<set rarity="uncommon" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/289.jpg" num="206">RM1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Campaign</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>
