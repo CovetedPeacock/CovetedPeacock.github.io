@@ -1123,7 +1123,7 @@
 		{
 			"name": "Moresso, Infuser of Light",
 			"rarity": "mythic",
-			"mana_cost": "{V}{V}{V}{V}",
+			"mana_cost": "{S}{S}{S}{S}",
 			"type": "Legendary Creature — Elemental",
 			"collector_number": "1",
 			"image_uris": {
