@@ -1803,7 +1803,7 @@
 		{
 			"name": "Splinter Seer",
 			"rarity": "common",
-			"mana_cost": "{G}",
+			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Monk",
 			"collector_number": "180",
 			"image_uris": {
@@ -2823,7 +2823,7 @@
 		{
 			"name": "Defile the Silver Court",
 			"rarity": "rare",
-			"mana_cost": "{1}{G}{G}",
+			"mana_cost": "{3}{G}{G}",
 			"type": "Enchantment — Campaign",
 			"collector_number": "160",
 			"image_uris": {

@@ -5,7 +5,7 @@
 			<name>RM1</name>
 			<longname>Revolution Masters</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-06</releasedate>
+			<releasedate>2026-08-07</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -1744,7 +1744,7 @@ Equip {0}</text>
 		</card>
 		<card>
 			<name>Buried Oathbreaker</name>
-			<text>All spells cost more to cast.
+			<text>All spells cost {1} more to cast.
 Spellcharge 6 (At the beginning of combat on your turn, if you&apos;ve spent at least six mana to cast spells this turn, you may have this become an artifact creature until end of turn.)</text>
 			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/106.jpg" num="243">RM1</set>
 			<prop>
@@ -1948,7 +1948,7 @@ Whenever you indulge, put a loyalty counter on Glauna.
 		<card>
 			<name>Moresso, Infuser of Light</name>
 			<text>(Spend a different color of mana on each {V}.)
-This creature is all colors.
+Moresso is all colors.
 Hexproof from monocolored
 Whenever you cast a spell with four or more mana symbols in its mana cost, add four mana of different colors. This ability triggers only once each turn.</text>
 			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/117.jpg" num="1">RM1</set>
@@ -2037,7 +2037,7 @@ Whenever this creature attacks or dies, reveal the top seven cards of your libra
 		<card>
 			<name>Ys, Trace Talker</name>
 			<text>Menace
-Whenever this creature attacks, exile up to one target creature card from your graveyard. This creature becomes a copy of that card, except it has this ability and menace.</text>
+Whenever Ys attacks, exile up to one target creature card from your graveyard. This creature becomes a copy of that card, except it has this ability and menace.</text>
 			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/122.jpg" num="232">RM1</set>
 			<prop>
 				<layout>normal</layout>
@@ -2090,7 +2090,7 @@ Whenever you cast a creature spell, copy it. (The copy resolves as a token.)</te
 		</card>
 		<card>
 			<name>Frankie &quot;the Spider&quot; Lorre</name>
-			<text>When this creature enters, create two 1/1 black Warrior creature tokens.
+			<text>When Frankie enters, create two 1/1 black Warrior creature tokens.
 Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life.</text>
 			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/125.jpg" num="208">RM1</set>
 			<prop>
@@ -2127,7 +2127,7 @@ Whenever you amp it up, draw a card. (You amp it up by casting your second spell
 			<name>Evelyn Snakewood, Dark Druid</name>
 			<text>Endgame (If you control eight or more tapped permanents, enter your endgame for the rest of the game.)
 {T}: Add {B} or {G}.
-{T}, Sacrifice this creature: Return target creature card from your graveyard to the battlefield tapped. Activate only if you&apos;re in your endgame.</text>
+{T}, Sacrifice Evelyn Snakewood: Return target creature card from your graveyard to the battlefield tapped. Activate only if you&apos;re in your endgame.</text>
 			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/127.jpg" num="207">RM1</set>
 			<prop>
 				<layout>normal</layout>
@@ -2251,8 +2251,8 @@ Whenever this creature attacks, each opponent sacrifices a nonland permanent.</t
 		</card>
 		<card>
 			<name>Skotha, Titan of Eternal Dark</name>
-			<text>Whenever this creature enters or attacks, each opponent discards a card. Then you may return a permanent card with mana value 3 or less from your graveyard to the battlefield.
-{B}{B}{G}{G}: Return this creature from your graveyard to the battlefield, then put it on the bottom of its owner&apos;s library. Activate only as a sorcery.</text>
+			<text>Whenever Skotha enters or attacks, each opponent discards a card. Then you may return a permanent card with mana value 3 or less from your graveyard to the battlefield.
+{B}{B}{G}{G}: Return Skotha from your graveyard to the battlefield, then put it on the bottom of its owner&apos;s library. Activate only as a sorcery.</text>
 			<set rarity="mythic" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/134.jpg" num="222">RM1</set>
 			<prop>
 				<layout>normal</layout>
@@ -3164,8 +3164,8 @@ When this creature enters, you gain 6 life.</text>
 				<side>front</side>
 				<type>Creature — Human Monk</type>
 				<maintype>Creature</maintype>
-				<manacost>G</manacost>
-				<cmc>1</cmc>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
 				<pt>1/1</pt>
@@ -4953,8 +4953,8 @@ III — Draw a card for each attacking creature with power 4 or greater.</text>
 				<side>front</side>
 				<type>Enchantment — Campaign</type>
 				<maintype>Enchantment</maintype>
-				<manacost>1GG</manacost>
-				<cmc>3</cmc>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
 			</prop>

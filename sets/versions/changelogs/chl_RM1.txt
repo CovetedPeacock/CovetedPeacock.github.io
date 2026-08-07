@@ -1,4 +1,60 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Ukina, Aethersong Basker
+rules_text: When Ukina enters, create a 1/1 blue Bird creature token with flying.
+[i]Flow[/i] — {5}{WU}: Look at the top two cards of your library. Put one into your hand and the other on the bottom of your library. [i](Each creature you tap while activating pays for {1}.)[/i] => When Ukina enters, create a 1/1 blue Bird creature token with flying.
+Flow — {5}{WU}: Look at the top two cards of your library. Put one into your hand and the other on the bottom of your library. [i](Each creature you tap while activating pays for {1}.)[/i]
+
+Buried Oathbreaker
+rules_text: All spells cost more to cast.
+Spellcharge 6 [i](At the beginning of combat on your turn, if you've spent at least six mana to cast spells this turn, you may have this become an artifact creature until end of turn.)[/i] => All spells cost {1} more to cast.
+Spellcharge 6 [i](At the beginning of combat on your turn, if you've spent at least six mana to cast spells this turn, you may have this become an artifact creature until end of turn.)[/i]
+
+Moresso, Infuser of Light
+rules_text: [i](Spend a different color of mana on each {V}.)[/i]
+This creature is all colors.
+Hexproof from monocolored
+Whenever you cast a spell with four or more mana symbols in its mana cost, add four mana of different colors. This ability triggers only once each turn. => [i](Spend a different color of mana on each {V}.)[/i]
+Moresso is all colors.
+Hexproof from monocolored
+Whenever you cast a spell with four or more mana symbols in its mana cost, add four mana of different colors. This ability triggers only once each turn.
+
+Ys, Trace Talker
+rules_text: Menace
+Whenever this creature attacks, exile up to one target creature card from your graveyard. This creature becomes a copy of that card, except it has this ability and menace. => Menace
+Whenever Ys attacks, exile up to one target creature card from your graveyard. This creature becomes a copy of that card, except it has this ability and menace.
+
+Frankie “the Spider” Lorre
+rules_text: When this creature enters, create two 1/1 black Warrior creature tokens.
+Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life. => When Frankie enters, create two 1/1 black Warrior creature tokens.
+Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life.
+
+Evelyn Snakewood, Dark Druid
+rules_text: Endgame [i](If you control eight or more tapped permanents, enter your endgame for the rest of the game.)[/i]
+{T}: Add {B} or {G}.
+{T}, Sacrifice this creature: Return target creature card from your graveyard to the battlefield tapped. Activate only if you're in your endgame. => Endgame [i](If you control eight or more tapped permanents, enter your endgame for the rest of the game.)[/i]
+{T}: Add {B} or {G}.
+{T}, Sacrifice Evelyn Snakewood: Return target creature card from your graveyard to the battlefield tapped. Activate only if you're in your endgame.
+
+Skotha, Titan of Eternal Dark
+rules_text: Whenever this creature enters or attacks, each opponent discards a card. Then you may return a permanent card with mana value 3 or less from your graveyard to the battlefield.
+{B}{B}{G}{G}: Return this creature from your graveyard to the battlefield, then put it on the bottom of its owner's library. Activate only as a sorcery. => Whenever Skotha enters or attacks, each opponent discards a card. Then you may return a permanent card with mana value 3 or less from your graveyard to the battlefield.
+{B}{B}{G}{G}: Return Skotha from your graveyard to the battlefield, then put it on the bottom of its owner's library. Activate only as a sorcery.
+
+Maiden of the Waters
+rules_text: [i]Flow[/i] — {3}{U}: Copy target triggered ability you control. You may choose new targets for the copy. [i](Each creature you tap while activating pays for {1}.)[/i] => Flow — {3}{U}: Copy target triggered ability you control. You may choose new targets for the copy. [i](Each creature you tap while activating pays for {1}.)[/i]
+
+Splinter Seer
+cost: {G} => {1}{G}
+
+Defile the Silver Court
+cost: {1}{G}{G} => {3}{G}{G}
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
