@@ -2843,7 +2843,7 @@
 		{
 			"name": "Embermane's Blitz",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{U}{R}",
+			"mana_cost": "{U}{R}",
 			"type": "Enchantment — Campaign",
 			"collector_number": "206",
 			"image_uris": {

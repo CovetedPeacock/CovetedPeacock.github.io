@@ -5,7 +5,7 @@
 			<name>RM1</name>
 			<longname>Revolution Masters</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-07</releasedate>
+			<releasedate>2026-08-08</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -1947,7 +1947,7 @@ Whenever you indulge, put a loyalty counter on Glauna.
 		</card>
 		<card>
 			<name>Moresso, Infuser of Light</name>
-			<text>(Spend a different color of mana on each {V}.)
+			<text>(Spend a different color of mana on each {S}.)
 Moresso is all colors.
 Hexproof from monocolored
 Whenever you cast a spell with four or more mana symbols in its mana cost, add four mana of different colors. This ability triggers only once each turn.</text>
@@ -1957,7 +1957,7 @@ Whenever you cast a spell with four or more mana symbols in its mana cost, add f
 				<side>front</side>
 				<type>Legendary Creature — Elemental</type>
 				<maintype>Creature</maintype>
-				<manacost>VVVV</manacost>
+				<manacost>SSSS</manacost>
 				<cmc>4</cmc>
 				<coloridentity>WUBRG</coloridentity>
 				<pt>4/4</pt>
@@ -2649,8 +2649,8 @@ Creatures you control attacking cause abilities of that creature to trigger as t
 			<name>The Fall of Trax</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I — Exile up to one target permanent with mana value 4 or greater.
-II — Create two 1/1 white Human creature tokens.
-III — Each player gains control of all permanents they own. If you gained control of no permanents this way, draw a card.</text>
+Create two 1/1 white Human creature tokens.
+II — Each player gains control of all permanents they own. If you gained control of no permanents this way, draw a card.</text>
 			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/156.jpg" num="14">RM1</set>
 			<prop>
 				<layout>saga</layout>
@@ -4944,8 +4944,8 @@ III — Return up to one instant or sorcery card from your graveyard to your han
 		<card>
 			<name>Defile the Silver Court</name>
 			<text>(Whenever you attack, put a strategy counter on one of this card&apos;s modes. Sacrifice it after all are marked.)
-Whenever you attack, untap up to one target creature. It must block this combat if able.
-I, II — Create a 5/5 black Horror creature token that&apos;s tapped and attacking.
+I — Whenever you attack, untap up to one target creature. It must block this combat if able.
+II — Create a 5/5 black Horror creature token that&apos;s tapped and attacking.
 III — Draw a card for each attacking creature with power 4 or greater.</text>
 			<set rarity="rare" picurl="https://CovetedPeacock.github.io/sets/RM1-files/img/287.jpg" num="160">RM1</set>
 			<prop>
@@ -4991,8 +4991,8 @@ II — You may discard a card. When you do, this Campaign deals 3 damage to any 
 				<side>front</side>
 				<type>Enchantment — Campaign</type>
 				<maintype>Enchantment</maintype>
-				<manacost>1UR</manacost>
-				<cmc>3</cmc>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
 				<colors>UR</colors>
 				<coloridentity>UR</coloridentity>
 			</prop>
